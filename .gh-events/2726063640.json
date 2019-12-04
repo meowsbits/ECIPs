@@ -26,14 +26,6 @@
     "commit_id": null,
     "commit_url": null,
     "created_at": "2019-10-18T19:55:42Z",
-    "project_card": {
-      "id": 27989978,
-      "url": "https://api.github.com/projects/columns/cards/27989978",
-      "project_id": 3384054,
-      "project_url": "https://api.github.com/projects/3384054",
-      "column_name": "ECIPs for Inclusion consideration",
-      "previous_column_name": "To do"
-    },
     "issue": {
       "url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/144",
       "repository_url": "https://api.github.com/repos/ethereumclassic/ECIPs",

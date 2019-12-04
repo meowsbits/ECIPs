@@ -26,13 +26,6 @@
     "commit_id": null,
     "commit_url": null,
     "created_at": "2019-11-29T19:52:42Z",
-    "project_card": {
-      "id": 29926224,
-      "url": "https://api.github.com/projects/columns/cards/29926224",
-      "project_id": 3594813,
-      "project_url": "https://api.github.com/projects/3594813",
-      "column_name": "In progress"
-    },
     "issue": {
       "url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/214",
       "repository_url": "https://api.github.com/repos/ethereumclassic/ECIPs",

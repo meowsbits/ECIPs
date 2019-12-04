@@ -26,13 +26,6 @@
     "commit_id": null,
     "commit_url": null,
     "created_at": "2019-11-27T20:33:05Z",
-    "project_card": {
-      "id": 29838390,
-      "url": "https://api.github.com/projects/columns/cards/29838390",
-      "project_id": 2070258,
-      "project_url": "https://api.github.com/projects/2070258",
-      "column_name": "LAST CALL"
-    },
     "issue": {
       "url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/198",
       "repository_url": "https://api.github.com/repos/ethereumclassic/ECIPs",

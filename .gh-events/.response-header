@@ -1,0 +1,26 @@
+HTTP/1.1 200 OK
+Server: GitHub.com
+Date: Wed, 04 Dec 2019 20:27:09 GMT
+Content-Type: application/json; charset=utf-8
+Content-Length: 189947
+Status: 200 OK
+X-RateLimit-Limit: 5000
+X-RateLimit-Remaining: 4968
+X-RateLimit-Reset: 1575494790
+Cache-Control: private, max-age=60, s-maxage=60
+Vary: Accept, Authorization, Cookie, X-GitHub-OTP
+ETag: "5a5ec5a85d2405605c9f7860f139af96"
+X-OAuth-Scopes: notifications, repo, workflow
+X-Accepted-OAuth-Scopes: repo
+X-GitHub-Media-Type: github.sailor-v-preview; param=symmetra-preview; format=json
+Link: <https://api.github.com/repositories/160950129/issues/events?page=19&per_page=100&sort=updated>; rel="prev", <https://api.github.com/repositories/160950129/issues/events?page=1&per_page=100&sort=updated>; rel="first"
+Access-Control-Expose-Headers: ETag, Link, Location, Retry-After, X-GitHub-OTP, X-RateLimit-Limit, X-RateLimit-Remaining, X-RateLimit-Reset, X-OAuth-Scopes, X-Accepted-OAuth-Scopes, X-Poll-Interval, X-GitHub-Media-Type
+Access-Control-Allow-Origin: *
+Strict-Transport-Security: max-age=31536000; includeSubdomains; preload
+X-Frame-Options: deny
+X-Content-Type-Options: nosniff
+X-XSS-Protection: 1; mode=block
+Referrer-Policy: origin-when-cross-origin, strict-origin-when-cross-origin
+Content-Security-Policy: default-src 'none'
+X-GitHub-Request-Id: C956:683E:1110665:29BAADF:5DE8169D
+

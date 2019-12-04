@@ -26,14 +26,6 @@
     "commit_id": null,
     "commit_url": null,
     "created_at": "2019-12-02T20:06:08Z",
-    "project_card": {
-      "id": 29887495,
-      "url": "https://api.github.com/projects/columns/cards/29887495",
-      "project_id": 3594813,
-      "project_url": "https://api.github.com/projects/3594813",
-      "column_name": "To do",
-      "previous_column_name": "Start Here"
-    },
     "issue": {
       "url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/210",
       "repository_url": "https://api.github.com/repos/ethereumclassic/ECIPs",
