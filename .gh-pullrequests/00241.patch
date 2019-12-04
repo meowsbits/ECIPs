@@ -1,0 +1,70 @@
+From 94fd8bd0edc3be8ed918ea014cca82189f8a32b8 Mon Sep 17 00:00:00 2001
+From: meowsbits <45600330+meowsbits@users.noreply.github.com>
+Date: Wed, 4 Dec 2019 07:59:24 -0500
+Subject: [PATCH 1/2] feat(README): add Discourse Archives list
+
+---
+ README.md | 11 ++++++++++-
+ 1 file changed, 10 insertions(+), 1 deletion(-)
+
+diff --git a/README.md b/README.md
+index 6c19b80..26d65df 100644
+--- a/README.md
++++ b/README.md
+@@ -41,7 +41,7 @@ When you believe your ECIP is mature and ready to progress past the draft phase,
+ 
+  - **For a Standards Track ECIP of type Core**, ask to have your issue added to the agenda of an upcoming core developer team meeting. There, it can be discussed for inclusion in a future hard fork. If developers agree to include it, the ECIP editors will update the state of your ECIP to 'Accepted'.
+  - **For all other ECIPs**, open a PR changing the state of your ECIP to 'Final'. An editor will review your draft and ask if anyone objects to its finalization. If the editor decides there is no rough consensus - for instance, because contributors point out significant issues with the ECIP - they may close the PR and request that you fix the issues in the draft before trying again.
+-
++ 
+ # ECIP Status Terms
+ * **Work in progress (WIP)** -- An ECIP where the author has asked the Ethereum Classic community whether an idea has any chance of support, he/she will write a draft ECIP as a pull request. However, if the idea is still in a very early stage, and will have a lot of commits and changes by the author, editors or contributors, it may be better to enter it as a WIP. Make sure to add [WIP] in the title (example: [WIP] ECIP-X) of the early stage ECIP so other members can mute it if they are not interested in participating at this stage. 
+ * **Draft** - An ECIP that is still undergoing iteration and changes, but is ready for general review. Make sure to remove [WIP] from the title so those who have muted the ECIP get the new status and can participate. 
+@@ -70,6 +70,15 @@ Every pull request will be reviewed and discussed by core and volunteer Ethereum
+ 
+ Having an ECIP within the folder of the repository does not make it a formally accepted standard until its status becomes "Final". For an ECIP to become Final it requires the common consent of the ecosystem. Those proposing changes should consider that, ultimately, consent may rest with the consensus of the Ethereum Classic implementers and users.
+ 
++## Disourse Archives
++
++The ECIP Process (and thus, ECIP content) is informed by discourse around it.
++
++Listed below are sovereign archives of discourse pertaining to this [ECIPs repository](https://github.com/ethereumclassic/ECIPs) repository. If you'd like to collect your own archives, a basic tool you can use for reference to collect your own can be found at [this gist](https://gist.github.com/meowsbits/b5a8f9d1304a77c72807c2b981091452). If you have or regularly collect archives of your own, please feel welcome to add to this list.
++
++- https://github.com/meowsbits/ECIPs/tree/gh
++
++
+ ## ECIPs Historical Background
+ 
+ ECIPs were born out of the [Ethereum](https://github.com/ethereum/EIPs) (or Ethereum Foundation) EIP repository after [TheDAO hard fork](https://en.wikipedia.org/wiki/The_DAO_(organization)). At that time no other differences between Ethereum Classic (the original mainnet) and Ethereum existed besides TheDAO hard-fork. Changes have since been added such as the early defusal of the difficulty bomb and a change of the monetary policy to a fixed supply.
+
+From b55ce3560fa242b11cc5003ef34116ec2bdc8708 Mon Sep 17 00:00:00 2001
+From: meowsbits <45600330+meowsbits@users.noreply.github.com>
+Date: Wed, 4 Dec 2019 08:04:12 -0500
+Subject: [PATCH 2/2] fix(README): typos
+
+---
+ README.md | 4 ++--
+ 1 file changed, 2 insertions(+), 2 deletions(-)
+
+diff --git a/README.md b/README.md
+index 26d65df..00f0f11 100644
+--- a/README.md
++++ b/README.md
+@@ -41,7 +41,7 @@ When you believe your ECIP is mature and ready to progress past the draft phase,
+ 
+  - **For a Standards Track ECIP of type Core**, ask to have your issue added to the agenda of an upcoming core developer team meeting. There, it can be discussed for inclusion in a future hard fork. If developers agree to include it, the ECIP editors will update the state of your ECIP to 'Accepted'.
+  - **For all other ECIPs**, open a PR changing the state of your ECIP to 'Final'. An editor will review your draft and ask if anyone objects to its finalization. If the editor decides there is no rough consensus - for instance, because contributors point out significant issues with the ECIP - they may close the PR and request that you fix the issues in the draft before trying again.
+- 
++
+ # ECIP Status Terms
+ * **Work in progress (WIP)** -- An ECIP where the author has asked the Ethereum Classic community whether an idea has any chance of support, he/she will write a draft ECIP as a pull request. However, if the idea is still in a very early stage, and will have a lot of commits and changes by the author, editors or contributors, it may be better to enter it as a WIP. Make sure to add [WIP] in the title (example: [WIP] ECIP-X) of the early stage ECIP so other members can mute it if they are not interested in participating at this stage. 
+ * **Draft** - An ECIP that is still undergoing iteration and changes, but is ready for general review. Make sure to remove [WIP] from the title so those who have muted the ECIP get the new status and can participate. 
+@@ -70,7 +70,7 @@ Every pull request will be reviewed and discussed by core and volunteer Ethereum
+ 
+ Having an ECIP within the folder of the repository does not make it a formally accepted standard until its status becomes "Final". For an ECIP to become Final it requires the common consent of the ecosystem. Those proposing changes should consider that, ultimately, consent may rest with the consensus of the Ethereum Classic implementers and users.
+ 
+-## Disourse Archives
++## Discourse Archives
+ 
+ The ECIP Process (and thus, ECIP content) is informed by discourse around it.
+ 
