@@ -1,0 +1,92 @@
+{
+    "id": 2445435145,
+    "node_id": "MDE5OkhlYWRSZWZEZWxldGVkRXZlbnQyNDQ1NDM1MTQ1",
+    "url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/events/2445435145",
+    "actor": {
+      "login": "sorpaas",
+      "id": 6277322,
+      "node_id": "MDQ6VXNlcjYyNzczMjI=",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/6277322?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/sorpaas",
+      "html_url": "https://github.com/sorpaas",
+      "followers_url": "https://api.github.com/users/sorpaas/followers",
+      "following_url": "https://api.github.com/users/sorpaas/following{/other_user}",
+      "gists_url": "https://api.github.com/users/sorpaas/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/sorpaas/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/sorpaas/subscriptions",
+      "organizations_url": "https://api.github.com/users/sorpaas/orgs",
+      "repos_url": "https://api.github.com/users/sorpaas/repos",
+      "events_url": "https://api.github.com/users/sorpaas/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/sorpaas/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "event": "head_ref_deleted",
+    "commit_id": null,
+    "commit_url": null,
+    "created_at": "2019-06-27T20:09:06Z",
+    "issue": {
+      "url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/88",
+      "repository_url": "https://api.github.com/repos/ethereumclassic/ECIPs",
+      "labels_url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/88/labels{/name}",
+      "comments_url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/88/comments",
+      "events_url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/88/events",
+      "html_url": "https://github.com/ethereumclassic/ECIPs/pull/88",
+      "id": 459671782,
+      "node_id": "MDExOlB1bGxSZXF1ZXN0MjkwOTU3Mzc4",
+      "number": 88,
+      "title": "Adjustment of the ECIP process text and docs",
+      "user": {
+        "login": "TokenHash",
+        "id": 29529586,
+        "node_id": "MDQ6VXNlcjI5NTI5NTg2",
+        "avatar_url": "https://avatars1.githubusercontent.com/u/29529586?v=4",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/TokenHash",
+        "html_url": "https://github.com/TokenHash",
+        "followers_url": "https://api.github.com/users/TokenHash/followers",
+        "following_url": "https://api.github.com/users/TokenHash/following{/other_user}",
+        "gists_url": "https://api.github.com/users/TokenHash/gists{/gist_id}",
+        "starred_url": "https://api.github.com/users/TokenHash/starred{/owner}{/repo}",
+        "subscriptions_url": "https://api.github.com/users/TokenHash/subscriptions",
+        "organizations_url": "https://api.github.com/users/TokenHash/orgs",
+        "repos_url": "https://api.github.com/users/TokenHash/repos",
+        "events_url": "https://api.github.com/users/TokenHash/events{/privacy}",
+        "received_events_url": "https://api.github.com/users/TokenHash/received_events",
+        "type": "User",
+        "site_admin": false
+      },
+      "labels": [
+        {
+          "id": 1154785129,
+          "node_id": "MDU6TGFiZWwxMTU0Nzg1MTI5",
+          "url": "https://api.github.com/repos/ethereumclassic/ECIPs/labels/type:%20meta",
+          "name": "type: meta",
+          "color": "cfd3d7",
+          "default": false,
+          "description": "Accepted best practices"
+        }
+      ],
+      "state": "closed",
+      "locked": false,
+      "assignee": null,
+      "assignees": [
+
+      ],
+      "milestone": null,
+      "comments": 0,
+      "created_at": "2019-06-24T03:36:57Z",
+      "updated_at": "2019-06-27T20:09:06Z",
+      "closed_at": "2019-06-27T20:09:02Z",
+      "author_association": "MEMBER",
+      "active_lock_reason": null,
+      "pull_request": {
+        "url": "https://api.github.com/repos/ethereumclassic/ECIPs/pulls/88",
+        "html_url": "https://github.com/ethereumclassic/ECIPs/pull/88",
+        "diff_url": "https://github.com/ethereumclassic/ECIPs/pull/88.diff",
+        "patch_url": "https://github.com/ethereumclassic/ECIPs/pull/88.patch"
+      },
+      "body": "For Ethereum Classic to have a more professional profile and to make the ECIP process easier to understand and use, the following changes to README.md are being proposed:\r\n\r\n• Structuring the documentation to include : ECIP Home (this summary), connections the formal ECIP process (ECIP-1000), the proper ECIP-Sample doc, and the proper ECIP-markdown-template when appropriate.\r\n• Added a 'Summary' section with links to the ECIP Process doc to better introduce ECIPs to newcomers.\r\n• Added a 'Types of Participants' section to clarify who, responsibilities, and how each type of participant contributes to the ECIP process. Also to make sure 'Authors\" understand their role.\r\n• Made spelling and grammatical corrections for clarity."
+    }
+  }
