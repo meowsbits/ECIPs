@@ -5,9 +5,9 @@
     "pull_request_review_id": 325460237,
     "diff_hunk": "@@ -73,10 +73,10 @@ A good reason to transfer ownership is because the original author no longer has\n The current ECIP editors are:\n \n * Wei Tang (@sorpaas)\n-* Isaac Ardis (@meowsbits)\n * Cody Burns (@realcodywburns)\n-* Afri Schoedon (@soc1c)\n * Yaz Khoury (@YazzyYaz)\n+* @soc1c (Talha Cross, Pseudonymous)\n+* @meowsbits (Mr. Meows D. Bits, Pseudonymous)",
     "path": "_specs/ecip-1000.md",
-    "position": 9,
+    "position": 10,
     "original_position": 9,
-    "commit_id": "0292842103d6581de7c0e176129dae75bdcb41c2",
+    "commit_id": "1fc7bf0570e706f9daaf303d792a581eabcbb35b",
     "user": {
       "login": "sorpaas",
       "id": 6277322,
@@ -30,10 +30,10 @@
     },
     "body": "This is ECIP process. I don't think it's the right place for mystery.",
     "created_at": "2019-12-02T19:01:35Z",
-    "updated_at": "2019-12-02T19:01:35Z",
+    "updated_at": "2019-12-04T18:38:50Z",
     "html_url": "https://github.com/ethereumclassic/ECIPs/pull/236#discussion_r352772220",
     "pull_request_url": "https://api.github.com/repos/ethereumclassic/ECIPs/pulls/236",
-    "author_association": "MEMBER",
+    "author_association": "CONTRIBUTOR",
     "_links": {
       "self": {
         "href": "https://api.github.com/repos/ethereumclassic/ECIPs/pulls/comments/352772220"

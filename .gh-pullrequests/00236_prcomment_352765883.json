@@ -7,7 +7,7 @@
     "path": "_specs/ecip-1000.md",
     "position": null,
     "original_position": 9,
-    "commit_id": "0292842103d6581de7c0e176129dae75bdcb41c2",
+    "commit_id": "1fc7bf0570e706f9daaf303d792a581eabcbb35b",
     "original_commit_id": "a534d7df9d2973bd4553738dbc0a6dfb4c2750c4",
     "user": {
       "login": "meowsbits",
@@ -31,7 +31,7 @@
     },
     "body": "Happy to break off into it's own scoped PR though. Not an immediate priority for me.",
     "created_at": "2019-12-02T18:47:49Z",
-    "updated_at": "2019-12-02T18:48:45Z",
+    "updated_at": "2019-12-04T18:38:50Z",
     "html_url": "https://github.com/ethereumclassic/ECIPs/pull/236#discussion_r352765883",
     "pull_request_url": "https://api.github.com/repos/ethereumclassic/ECIPs/pulls/236",
     "author_association": "CONTRIBUTOR",
