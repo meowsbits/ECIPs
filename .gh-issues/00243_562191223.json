@@ -1,0 +1,43 @@
+{
+    "url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/comments/562191223",
+    "html_url": "https://github.com/ethereumclassic/ECIPs/issues/243#issuecomment-562191223",
+    "issue_url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/243",
+    "id": 562191223,
+    "node_id": "MDEyOklzc3VlQ29tbWVudDU2MjE5MTIyMw==",
+    "user": {
+      "login": "YazzyYaz",
+      "id": 9094204,
+      "node_id": "MDQ6VXNlcjkwOTQyMDQ=",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/9094204?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/YazzyYaz",
+      "html_url": "https://github.com/YazzyYaz",
+      "followers_url": "https://api.github.com/users/YazzyYaz/followers",
+      "following_url": "https://api.github.com/users/YazzyYaz/following{/other_user}",
+      "gists_url": "https://api.github.com/users/YazzyYaz/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/YazzyYaz/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/YazzyYaz/subscriptions",
+      "organizations_url": "https://api.github.com/users/YazzyYaz/orgs",
+      "repos_url": "https://api.github.com/users/YazzyYaz/repos",
+      "events_url": "https://api.github.com/users/YazzyYaz/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/YazzyYaz/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "created_at": "2019-12-05T15:55:33Z",
+    "updated_at": "2019-12-05T15:55:33Z",
+    "author_association": "MEMBER",
+    "body": "@drd34d i blocked you on Github ages ago, I apologize if I forgot what blocking entailed back then when I created this new ECIP. As you can see, you're not very high on my list of considerations when I do my work, contrary to your belief.\r\n\r\nComparing me to Krykoder is hysterical. I'm only employed by the Cooperative. \r\n\r\nI frankly don't care to convince you about my intentions, it was simply an accident. Accept this explanation or not, I really don't care, since as I said before, you're not very important to me. However, I don't want to censor anyone accidentally on Github ECIP repo, which is why I unblocked you.\r\n\r\nGabish?",
+    "reactions": {
+      "url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/comments/562191223/reactions",
+      "total_count": 0,
+      "+1": 0,
+      "-1": 0,
+      "laugh": 0,
+      "hooray": 0,
+      "confused": 0,
+      "heart": 0,
+      "rocket": 0,
+      "eyes": 0
+    }
+  }

@@ -39,9 +39,9 @@
 
     ],
     "milestone": null,
-    "comments": 3,
+    "comments": 4,
     "created_at": "2019-12-04T23:28:26Z",
-    "updated_at": "2019-12-05T14:38:51Z",
+    "updated_at": "2019-12-05T15:55:33Z",
     "closed_at": "2019-12-05T14:38:51Z",
     "author_association": "NONE",
     "body": "**Issue:** \r\nThe creator of an issue or PR can, **unknowingly to other owners**, censor comments and other actions from any user he wishes by blocking the user from his personal account. This will block the user from participating in his PRs or issues.\r\n\r\n**Why:**\r\nThis is in direct violation of ECIP-1000:\r\n\r\n> Will ECIP comments be censored or limited to particular participants/\"experts\"?\r\n> \r\n> Participants should freely refrain from commenting outside of their area of knowledge or expertise. However, comments should not be censored, and participation should be open to the public.\r\n\r\n**Proof:**\r\nExample, this is how I see the \"Code of Conduct\" PR (how ironic..) where I'm unable to comment.\r\n\r\n![image](https://user-images.githubusercontent.com/30156189/70189390-1c87aa00-16eb-11ea-9978-a7144a71d5ca.png)\r\n\r\nAnd before someone comes up with a crazy story like \"deleted the repo owners by accident\", this is also not an accidental consequence of a personal feud or whatever one might call it. This is very clear and likely the only reason for such block, as per githubs description prior to blocking.\r\n\r\n![image](https://user-images.githubusercontent.com/30156189/70189783-1b0ab180-16ec-11ea-8dab-3475ed29efe5.png)\r\n\r\nAt this point I feel there's a 50/50 chance that I will get banned from this github organization as a whole for voicing abuses but I can assure you, once again, I will not be easily censored. All it takes is another github account.\r\n\r\n@bobsummerwill you weirdly messaged me the other day, saying you \"run the show\" in ETC\r\nCoop\r\n\r\nIs this how you show it? \r\nNote taken.\r\n",
