@@ -1,7 +1,7 @@
 From 94fd8bd0edc3be8ed918ea014cca82189f8a32b8 Mon Sep 17 00:00:00 2001
 From: meowsbits <45600330+meowsbits@users.noreply.github.com>
 Date: Wed, 4 Dec 2019 07:59:24 -0500
-Subject: [PATCH 1/3] feat(README): add Discourse Archives list
+Subject: [PATCH 1/4] feat(README): add Discourse Archives list
 
 ---
  README.md | 11 ++++++++++-
@@ -40,7 +40,7 @@ index 6c19b80..26d65df 100644
 From b55ce3560fa242b11cc5003ef34116ec2bdc8708 Mon Sep 17 00:00:00 2001
 From: meowsbits <45600330+meowsbits@users.noreply.github.com>
 Date: Wed, 4 Dec 2019 08:04:12 -0500
-Subject: [PATCH 2/3] fix(README): typos
+Subject: [PATCH 2/4] fix(README): typos
 
 ---
  README.md | 4 ++--
@@ -72,7 +72,7 @@ index 26d65df..00f0f11 100644
 From 10d4d29c9460f9af8b383a0d537c19d8ab4374dd Mon Sep 17 00:00:00 2001
 From: meowsbits <45600330+meowsbits@users.noreply.github.com>
 Date: Thu, 5 Dec 2019 09:52:24 -0500
-Subject: [PATCH 3/3] fix(README): fix typo
+Subject: [PATCH 3/4] fix(README): fix typo
 
 ---
  README.md | 2 +-
@@ -88,6 +88,29 @@ index 00f0f11..de3e3db 100644
  
 -Listed below are sovereign archives of discourse pertaining to this [ECIPs repository](https://github.com/ethereumclassic/ECIPs) repository. If you'd like to collect your own archives, a basic tool you can use for reference to collect your own can be found at [this gist](https://gist.github.com/meowsbits/b5a8f9d1304a77c72807c2b981091452). If you have or regularly collect archives of your own, please feel welcome to add to this list.
 +Listed below are sovereign archives of discourse pertaining to this [ECIPs repository](https://github.com/ethereumclassic/ECIPs). If you'd like to collect your own archives, a basic tool you can use for reference to collect your own can be found at [this gist](https://gist.github.com/meowsbits/b5a8f9d1304a77c72807c2b981091452). If you have or regularly collect archives of your own, please feel welcome to add to this list.
+ 
+ - https://github.com/meowsbits/ECIPs/tree/gh
+ 
+
+From a403b9e219708937fbcdaed44ac19a9c95583c3f Mon Sep 17 00:00:00 2001
+From: meowsbits <45600330+meowsbits@users.noreply.github.com>
+Date: Thu, 5 Dec 2019 09:54:41 -0500
+Subject: [PATCH 4/4] fix(README): remove redundant words
+
+---
+ README.md | 2 +-
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+
+diff --git a/README.md b/README.md
+index de3e3db..ddda2e8 100644
+--- a/README.md
++++ b/README.md
+@@ -74,7 +74,7 @@ Having an ECIP within the folder of the repository does not make it a formally a
+ 
+ The ECIP Process (and thus, ECIP content) is informed by discourse around it.
+ 
+-Listed below are sovereign archives of discourse pertaining to this [ECIPs repository](https://github.com/ethereumclassic/ECIPs). If you'd like to collect your own archives, a basic tool you can use for reference to collect your own can be found at [this gist](https://gist.github.com/meowsbits/b5a8f9d1304a77c72807c2b981091452). If you have or regularly collect archives of your own, please feel welcome to add to this list.
++Listed below are sovereign archives of discourse pertaining to this [ECIPs repository](https://github.com/ethereumclassic/ECIPs). If you'd like to collect your own archives, a basic tool you can use for reference to collect them can be found at [this gist](https://gist.github.com/meowsbits/b5a8f9d1304a77c72807c2b981091452). If you have or regularly collect archives, please feel welcome to add to this list.
  
  - https://github.com/meowsbits/ECIPs/tree/gh
  
