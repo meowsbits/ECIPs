@@ -1,14 +1,9 @@
 {
-    "url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/147",
-    "repository_url": "https://api.github.com/repos/ethereumclassic/ECIPs",
-    "labels_url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/147/labels{/name}",
-    "comments_url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/147/comments",
-    "events_url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/147/events",
-    "html_url": "https://github.com/ethereumclassic/ECIPs/issues/147",
-    "id": 509613196,
-    "node_id": "MDU6SXNzdWU1MDk2MTMxOTY=",
-    "number": 147,
-    "title": "invoke-signer",
+    "url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/comments/562264278",
+    "html_url": "https://github.com/ethereumclassic/ECIPs/issues/147#issuecomment-562264278",
+    "issue_url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/147",
+    "id": 562264278,
+    "node_id": "MDEyOklzc3VlQ29tbWVudDU2MjI2NDI3OA==",
     "user": {
       "login": "zmitton",
       "id": 6954889,
@@ -29,24 +24,12 @@
       "type": "User",
       "site_admin": false
     },
-    "labels": [
-
-    ],
-    "state": "closed",
-    "locked": false,
-    "assignee": null,
-    "assignees": [
-
-    ],
-    "milestone": null,
-    "comments": 4,
-    "created_at": "2019-10-20T15:50:01Z",
-    "updated_at": "2019-12-05T18:53:13Z",
-    "closed_at": "2019-12-05T18:53:12Z",
+    "created_at": "2019-12-05T18:53:12Z",
+    "updated_at": "2019-12-05T18:53:12Z",
     "author_association": "CONTRIBUTOR",
-    "body": "Discussion section for `invoke-signer` proposal\r\n\r\nMarkdown view of spec 👉: https://github.com/ethereumclassic/ECIPs/blob/9791c0b59582a2ed80d915afbf410bc104de20ea/_specs/invoke-signer.md",
+    "body": "Closed due to this issue:\r\n\r\n\r\nThis approach currently has a flaw that the name of the caller application is not sent to the invoked wallet, so handing control back to the caller app is very difficult. This can be worked around in an app-to-app setting (by passing it as part of the payload), but not in a browser-to-app setting (without complicated \"browser sniffing\" techniques).",
     "reactions": {
-      "url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/147/reactions",
+      "url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/comments/562264278/reactions",
       "total_count": 0,
       "+1": 0,
       "-1": 0,
