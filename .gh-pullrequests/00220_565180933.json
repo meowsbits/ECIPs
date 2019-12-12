@@ -1,0 +1,43 @@
+{
+    "url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/comments/565180933",
+    "html_url": "https://github.com/ethereumclassic/ECIPs/pull/220#issuecomment-565180933",
+    "issue_url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/220",
+    "id": 565180933,
+    "node_id": "MDEyOklzc3VlQ29tbWVudDU2NTE4MDkzMw==",
+    "user": {
+      "login": "bobsummerwill",
+      "id": 3788156,
+      "node_id": "MDQ6VXNlcjM3ODgxNTY=",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/3788156?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/bobsummerwill",
+      "html_url": "https://github.com/bobsummerwill",
+      "followers_url": "https://api.github.com/users/bobsummerwill/followers",
+      "following_url": "https://api.github.com/users/bobsummerwill/following{/other_user}",
+      "gists_url": "https://api.github.com/users/bobsummerwill/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/bobsummerwill/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/bobsummerwill/subscriptions",
+      "organizations_url": "https://api.github.com/users/bobsummerwill/orgs",
+      "repos_url": "https://api.github.com/users/bobsummerwill/repos",
+      "events_url": "https://api.github.com/users/bobsummerwill/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/bobsummerwill/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "created_at": "2019-12-12T20:50:22Z",
+    "updated_at": "2019-12-12T20:50:22Z",
+    "author_association": "MEMBER",
+    "body": "I did not confirm there was a breach of the process.\r\nI said there were misunderstandings (mostly on your behalf)\r\nPlease stop trying to use me as evidence in support of your crusade.\r\nI do not support it.   It is a huge waste of everybody's time.\r\n\r\nI support any proposal made to remove you as an ECIP editor.\r\nI love your technical work.\r\nI love you authoring EIPs.\r\nBut you are absolutely terrible at this collective decision making and interpersonal stuff.\r\n\r\nYou are making enemies and are destroying all the goodwill and good reputation which you have within the ETC ecosystem by repeatedly NOT LISTENING to what other people are saying.    We are all on the same side.   And in this specific instance we all wanted and still want the exact same scope.\r\n\r\nYou are bikeshedding to infinity.",
+    "reactions": {
+      "url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/comments/565180933/reactions",
+      "total_count": 0,
+      "+1": 0,
+      "-1": 0,
+      "laugh": 0,
+      "hooray": 0,
+      "confused": 0,
+      "heart": 0,
+      "rocket": 0,
+      "eyes": 0
+    }
+  }
