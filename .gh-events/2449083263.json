@@ -57,7 +57,8 @@
       "html_url": "https://github.com/orgs/ethereumclassic/teams/all-hands",
       "members_url": "https://api.github.com/teams/3034787/members{/member}",
       "repositories_url": "https://api.github.com/teams/3034787/repos",
-      "permission": "pull"
+      "permission": "pull",
+      "parent": null
     },
     "issue": {
       "url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/105",
