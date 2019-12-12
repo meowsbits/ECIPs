@@ -1,0 +1,43 @@
+{
+    "url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/comments/564989078",
+    "html_url": "https://github.com/ethereumclassic/ECIPs/issues/175#issuecomment-564989078",
+    "issue_url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/175",
+    "id": 564989078,
+    "node_id": "MDEyOklzc3VlQ29tbWVudDU2NDk4OTA3OA==",
+    "user": {
+      "login": "soc1c",
+      "id": 47772477,
+      "node_id": "MDQ6VXNlcjQ3NzcyNDc3",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/47772477?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/soc1c",
+      "html_url": "https://github.com/soc1c",
+      "followers_url": "https://api.github.com/users/soc1c/followers",
+      "following_url": "https://api.github.com/users/soc1c/following{/other_user}",
+      "gists_url": "https://api.github.com/users/soc1c/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/soc1c/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/soc1c/subscriptions",
+      "organizations_url": "https://api.github.com/users/soc1c/orgs",
+      "repos_url": "https://api.github.com/users/soc1c/repos",
+      "events_url": "https://api.github.com/users/soc1c/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/soc1c/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "created_at": "2019-12-12T12:35:29Z",
+    "updated_at": "2019-12-12T12:35:29Z",
+    "author_association": "CONTRIBUTOR",
+    "body": "### Mordor\r\n\r\n- 4 supported clients\r\n- Agharta hardford block `301_243` _passed_\r\n- all in sync block hash `45e503e6010c00b61608d5f9ecc0e4daa5dd710fd0c45ad1cc74578b67b2565d` (for `#477368`)\r\n\r\n```\r\nGeth Classic\r\nVersion: v6.1.1-beta\r\n\r\n2019-12-12 12:30:20 Import     #477365              a8028b8c          0/ 0 txs/mgas          7/25 peers\r\n2019-12-12 12:30:28 Import     #477366              dbf512c8          0/ 0 txs/mgas          7/25 peers\r\n2019-12-12 12:30:33 Import     #477367              e62bad09          0/ 0 txs/mgas          7/25 peers\r\n2019-12-12 12:30:39 Import     #477368              45e503e6          0/ 0 txs/mgas          7/25 peers\r\n\r\n────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────\r\nMultiGeth\r\nVersion: 1.9.5-unstable (master)\r\nGit Commit: 864e5788786f198ef4d64d151766d10bab13a82d\r\n\r\nINFO [12-12|12:30:20.507] Imported new chain segment               blocks=1  txs=0 mgas=0.000 elapsed=13.743ms  mgasps=0.000 number=477365 hash=a8028b…b8f5c0 dirty=58.71KiB\r\nINFO [12-12|12:30:28.979] Imported new chain segment               blocks=1  txs=0 mgas=0.000 elapsed=8.380ms   mgasps=0.000 number=477366 hash=dbf512…b948cc dirty=59.50KiB\r\nINFO [12-12|12:30:33.236] Imported new chain segment               blocks=1  txs=0 mgas=0.000 elapsed=12.419ms  mgasps=0.000 number=477367 hash=e62bad…d5175c dirty=60.29KiB\r\nINFO [12-12|12:30:39.381] Imported new chain segment               blocks=1  txs=0 mgas=0.000 elapsed=6.492ms   mgasps=0.000 number=477368 hash=45e503…b2565d dirty=61.08KiB\r\n\r\n────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────\r\nParity Ethereum Client.\r\nVersion: Parity-Ethereum/v2.6.6-beta-5162bc2-20191205/x86_64-linux-gnu/rustc1.39.0\r\n\r\n2019-12-12 12:30:20 UTC Imported #477365 0xa802…f5c0 (0 txs, 0.00 Mgas, 0 ms, 0.50 KiB)\r\n2019-12-12 12:30:28 UTC Imported #477366 0xdbf5…48cc (0 txs, 0.00 Mgas, 0 ms, 0.53 KiB)\r\n2019-12-12 12:30:33 UTC Imported #477367 0xe62b…175c (0 txs, 0.00 Mgas, 4 ms, 0.53 KiB)\r\n2019-12-12 12:30:39 UTC Imported #477368 0x45e5…565d (0 txs, 0.00 Mgas, 0 ms, 0.53 KiB)\r\n\r\n────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────\r\nHyperledger Besu\r\nVersion: besu/v1.3.7-dev-c9b9f031/linux-x86_64/openjdk-java-11\r\n\r\n2019-12-12 12:30:20.503+00:00 | EthScheduler-Workers-1 | INFO  | BlockPropagationManager | Imported #477,365 / 0 tx / 0 om / 0 (0.0%) gas / (0xa8028b8c9fee87776ca462e3b4a8d538cd7c0a4a20708451508b6e3981b8f5c0) in 0.002s.\r\n2019-12-12 12:30:28.977+00:00 | EthScheduler-Workers-3 | INFO  | BlockPropagationManager | Imported #477,366 / 0 tx / 0 om / 0 (0.0%) gas / (0xdbf512c8202f372abfd6fc38ae25bf13dcd243759a50d80a958a580271b948cc) in 0.003s.\r\n2019-12-12 12:30:33.221+00:00 | EthScheduler-Workers-0 | INFO  | BlockPropagationManager | Imported #477,367 / 0 tx / 0 om / 0 (0.0%) gas / (0xe62bad0956ac9907cbbd9bf65c291d46175d9ea980b417943da4635e47d5175c) in 0.010s.\r\n2019-12-12 12:30:39.369+00:00 | EthScheduler-Workers-2 | INFO  | BlockPropagationManager | Imported #477,368 / 0 tx / 0 om / 0 (0.0%) gas / (0x45e503e6010c00b61608d5f9ecc0e4daa5dd710fd0c45ad1cc74578b67b2565d) in 0.002s.\r\n```",
+    "reactions": {
+      "url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/comments/564989078/reactions",
+      "total_count": 0,
+      "+1": 0,
+      "-1": 0,
+      "laugh": 0,
+      "hooray": 0,
+      "confused": 0,
+      "heart": 0,
+      "rocket": 0,
+      "eyes": 0
+    }
+  }

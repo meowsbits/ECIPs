@@ -1,0 +1,49 @@
+{
+    "id": 356876315,
+    "node_id": "MDI0OlB1bGxSZXF1ZXN0UmV2aWV3Q29tbWVudDM1Njg3NjMxNQ==",
+    "url": "https://api.github.com/repos/ethereumclassic/ECIPs/pulls/comments/356876315",
+    "pull_request_review_id": 330894635,
+    "diff_hunk": "@@ -93,16 +93,8 @@ Most users will have a favorite mobile signer and enjoy a consistent experience\n #### Developer Experience\n It becomes much easier to add a single \"ethereum feature\" into any software application. The app dev does not need to worry about any of the details of building a wallet/signer. They just create a string to be signed, and invoke the user's signer with it. The user expectation is only that they have _a_ signer, as opposed to some specific signer.\n \n-<!-- Leaving the rpc call embedded, allows developers to continue to use existing tools for formating and decoding transactions and signatures. Using query string format for arbitrary variables will also allow experimentation with new features that can be ignored by non-supporting wallets. For instance, I'd like wallets to eventually be sent the `contractCode` and `compilerVerion` so they can verify the code and ABI. But I would not like to define any of that into the spec right now. Over time we can standardize certain variable names. -->\n-\n-<!-- Supporting Links:\n-\n-[ECIP 1037 -- Simple Non-Interactive URI Scheme](https://github.com/ethereumproject/ECIPs/pull/81)\n-\n-[EIP 67 -- Standard URI scheme with metadata value and byte code](https://github.com/ethereum/EIPs/issues/67)\n-\n-[EIP 681 -- Payment request URL specification](https://github.com/ethereum/EIPs/pull/681)\n+---\n \n-[EIP 831 -- Standard URL Format](https://github.com/ethereum/EIPs/pull/831)\n+### Rejection Notice:",
+    "path": "_specs/ecip-1067.md",
+    "position": 25,
+    "original_position": 25,
+    "commit_id": "642f29eb0866927a870ede0d6d863f65f04dc115",
+    "user": {
+      "login": "BelfordZ",
+      "id": 1787231,
+      "node_id": "MDQ6VXNlcjE3ODcyMzE=",
+      "avatar_url": "https://avatars0.githubusercontent.com/u/1787231?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/BelfordZ",
+      "html_url": "https://github.com/BelfordZ",
+      "followers_url": "https://api.github.com/users/BelfordZ/followers",
+      "following_url": "https://api.github.com/users/BelfordZ/following{/other_user}",
+      "gists_url": "https://api.github.com/users/BelfordZ/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/BelfordZ/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/BelfordZ/subscriptions",
+      "organizations_url": "https://api.github.com/users/BelfordZ/orgs",
+      "repos_url": "https://api.github.com/users/BelfordZ/repos",
+      "events_url": "https://api.github.com/users/BelfordZ/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/BelfordZ/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "body": "```suggestion\r\n### Withdrawal Notice:\r\n```",
+    "created_at": "2019-12-11T22:45:52Z",
+    "updated_at": "2019-12-11T22:45:53Z",
+    "html_url": "https://github.com/ethereumclassic/ECIPs/pull/244#discussion_r356876315",
+    "pull_request_url": "https://api.github.com/repos/ethereumclassic/ECIPs/pulls/244",
+    "author_association": "CONTRIBUTOR",
+    "_links": {
+      "self": {
+        "href": "https://api.github.com/repos/ethereumclassic/ECIPs/pulls/comments/356876315"
+      },
+      "html": {
+        "href": "https://github.com/ethereumclassic/ECIPs/pull/244#discussion_r356876315"
+      },
+      "pull_request": {
+        "href": "https://api.github.com/repos/ethereumclassic/ECIPs/pulls/244"
+      }
+    },
+    "original_commit_id": "642f29eb0866927a870ede0d6d863f65f04dc115"
+  }

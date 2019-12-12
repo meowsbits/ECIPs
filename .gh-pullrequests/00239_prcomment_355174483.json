@@ -1,0 +1,55 @@
+{
+    "url": "https://api.github.com/repos/ethereumclassic/ECIPs/pulls/comments/355174483",
+    "pull_request_review_id": 328598894,
+    "id": 355174483,
+    "node_id": "MDI0OlB1bGxSZXF1ZXN0UmV2aWV3Q29tbWVudDM1NTE3NDQ4Mw==",
+    "diff_hunk": "@@ -0,0 +1,86 @@\n+---\n+lang: en\n+ecip: 1001\n+title: ECIP Code of Conduct\n+status: Draft\n+type: Meta\n+discussions-to: https://github.com/ethereumclassic/ECIPs/issues/238\n+author: Yaz Khoury (@YazzyYaz)\n+created: 2019-12-03\n+license: CC-By-4.0 License\n+---\n+This Code of Conduct ECIP has been taken directly from [Contributor Covenant Open Source Code of Conduct](https://www.contributor-covenant.org/)\n+under the [CC-By-4.0 License](https://github.com/ContributorCovenant/contributor_covenant/blob/release/LICENSE.md)\n+\n+This Code of Conduct ECIP applies to all members wishing to participate in the ECIP process:\n+1) ECIP Editors\n+2) ECIP Coordinators\n+3) Hardfork Coordinators\n+4) ECIP Authors\n+5) Ethereum Classic Community Members Participating in the ECIP Process.\n+\n+\n+## Our Pledge\n+We as members, contributors, and leaders pledge to make participation in our community a harassment-free experience for everyone, regardless of age, body size, visible or invisible disability, ethnicity, sex characteristics, gender identity and expression, level of experience, education, socio-economic status, nationality, personal appearance, race, religion, or sexual identity and orientation.\n+\n+We pledge to act and interact in ways that contribute to an open, welcoming, diverse, inclusive, and healthy community.\n+\n+## Our Standards\n+Examples of behavior that contributes to a positive environment for our community include:\n+\n+* Demonstrating empathy and kindness toward other people\n+* Being respectful of differing opinions, viewpoints, and experiences\n+* Giving and gracefully accepting constructive feedback\n+* Accepting responsibility and apologizing to those affected by our mistakes, and learning from the experience\n+* Focusing on what is best not just for us as individuals, but for the overall community\n+\n+Examples of unacceptable behavior include:\n+\n+* The use of sexualized language or imagery, and sexual attention or advances of any kind\n+* Trolling, insulting or derogatory comments, and personal or political attacks\n+* Public or private harassment\n+* Publishing others’ private information, such as a physical or email address, or real names, without their explicit permission",
+    "path": "_specs/ecip-1001.md",
+    "position": 42,
+    "original_position": 42,
+    "commit_id": "f41aef7297fc02ae81414c6c738723ecc74b8890",
+    "original_commit_id": "f41aef7297fc02ae81414c6c738723ecc74b8890",
+    "user": {
+      "login": "BelfordZ",
+      "id": 1787231,
+      "node_id": "MDQ6VXNlcjE3ODcyMzE=",
+      "avatar_url": "https://avatars0.githubusercontent.com/u/1787231?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/BelfordZ",
+      "html_url": "https://github.com/BelfordZ",
+      "followers_url": "https://api.github.com/users/BelfordZ/followers",
+      "following_url": "https://api.github.com/users/BelfordZ/following{/other_user}",
+      "gists_url": "https://api.github.com/users/BelfordZ/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/BelfordZ/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/BelfordZ/subscriptions",
+      "organizations_url": "https://api.github.com/users/BelfordZ/orgs",
+      "repos_url": "https://api.github.com/users/BelfordZ/repos",
+      "events_url": "https://api.github.com/users/BelfordZ/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/BelfordZ/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "body": "IMO this should be the only thing on this list",
+    "created_at": "2019-12-08T10:06:31Z",
+    "updated_at": "2019-12-08T10:06:31Z",
+    "html_url": "https://github.com/ethereumclassic/ECIPs/pull/239#discussion_r355174483",
+    "pull_request_url": "https://api.github.com/repos/ethereumclassic/ECIPs/pulls/239",
+    "author_association": "CONTRIBUTOR",
+    "_links": {
+      "self": {
+        "href": "https://api.github.com/repos/ethereumclassic/ECIPs/pulls/comments/355174483"
+      },
+      "html": {
+        "href": "https://github.com/ethereumclassic/ECIPs/pull/239#discussion_r355174483"
+      },
+      "pull_request": {
+        "href": "https://api.github.com/repos/ethereumclassic/ECIPs/pulls/239"
+      }
+    },
+    "start_line": null,
+    "original_start_line": null,
+    "start_side": null,
+    "line": 42,
+    "original_line": 42,
+    "side": "RIGHT"
+  }

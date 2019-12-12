@@ -25,5 +25,12 @@
     "event": "added_to_project",
     "commit_id": null,
     "commit_url": null,
-    "created_at": "2019-11-28T06:27:36Z"
+    "created_at": "2019-11-28T06:27:36Z",
+    "project_card": {
+      "id": 29852720,
+      "url": "https://api.github.com/projects/columns/cards/29852720",
+      "project_id": 3594813,
+      "project_url": "https://api.github.com/projects/3594813",
+      "column_name": "In progress"
+    }
   }

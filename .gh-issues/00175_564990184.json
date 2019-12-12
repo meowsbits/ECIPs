@@ -1,0 +1,43 @@
+{
+    "url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/comments/564990184",
+    "html_url": "https://github.com/ethereumclassic/ECIPs/issues/175#issuecomment-564990184",
+    "issue_url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/175",
+    "id": 564990184,
+    "node_id": "MDEyOklzc3VlQ29tbWVudDU2NDk5MDE4NA==",
+    "user": {
+      "login": "soc1c",
+      "id": 47772477,
+      "node_id": "MDQ6VXNlcjQ3NzcyNDc3",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/47772477?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/soc1c",
+      "html_url": "https://github.com/soc1c",
+      "followers_url": "https://api.github.com/users/soc1c/followers",
+      "following_url": "https://api.github.com/users/soc1c/following{/other_user}",
+      "gists_url": "https://api.github.com/users/soc1c/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/soc1c/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/soc1c/subscriptions",
+      "organizations_url": "https://api.github.com/users/soc1c/orgs",
+      "repos_url": "https://api.github.com/users/soc1c/repos",
+      "events_url": "https://api.github.com/users/soc1c/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/soc1c/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "created_at": "2019-12-12T12:39:14Z",
+    "updated_at": "2019-12-12T12:39:14Z",
+    "author_association": "CONTRIBUTOR",
+    "body": "### Morden (deprecated)\r\n\r\n- 2 supported clients\r\n- Agharta hardford block `5_000_381` _passed_\r\n- all in sync block hash `c8975f87296373ae6d15b1e82a19bbcc0c100e90835d87f3bf0a6638aa9dd7dc` (for `#5394073`)\r\n\r\n```\r\nGeth Classic\r\nVersion: v6.1.1-beta\r\n\r\n2019-12-12 12:34:20 Import    #5394063              68272537          0/ 0 txs/mgas          9/25 peers\r\n2019-12-12 12:34:22 Import    #5394064              fd4705c6          0/ 0 txs/mgas          9/25 peers\r\n2019-12-12 12:34:24 Import    #5394065              3a22d5b5          0/ 0 txs/mgas          9/25 peers\r\n2019-12-12 12:35:13 Import    #5394067              ec308645          0/ 0 txs/mgas          8/25 peers\r\n2019-12-12 12:35:14 Import    #5394068              39c6d469          0/ 0 txs/mgas          8/25 peers\r\n2019-12-12 12:35:21 Import    #5394069              ca1b8554          0/ 0 txs/mgas          8/25 peers\r\n2019-12-12 12:35:29 Import    #5394070              91a4485a          0/ 0 txs/mgas          8/25 peers\r\n2019-12-12 12:35:42 Import    #5394071              3583b40d          0/ 0 txs/mgas          8/25 peers\r\n2019-12-12 12:35:51 Import    #5394072              e2ad05d0          0/ 0 txs/mgas          8/25 peers\r\n2019-12-12 12:35:56 Import    #5394073              c8975f87          0/ 0 txs/mgas          8/25 peers\r\n\r\n────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────\r\nParity Ethereum Client.\r\nVersion: Parity-Ethereum/v2.6.6-beta-5162bc2-20191205/x86_64-linux-gnu/rustc1.39.0\r\n\r\n2019-12-12 12:34:28 UTC Imported #5394066 0x09ef…7209 (0 txs, 0.00 Mgas, 3 ms, 0.50 KiB)\r\n2019-12-12 12:34:50 UTC    7/25 peers   88 KiB chain 29 MiB db 0 bytes queue 115 KiB sync  RPC:  0 conn,    0 req/s,    0 µs\r\n2019-12-12 12:35:13 UTC Imported #5394067 0xec30…37a2 (0 txs, 0.00 Mgas, 0 ms, 0.50 KiB)\r\n2019-12-12 12:35:21 UTC Imported #5394069 0xca1b…e7b3 (0 txs, 0.00 Mgas, 0 ms, 0.50 KiB) + another 1 block(s) containing 0 tx(s)\r\n2019-12-12 12:35:25 UTC    6/25 peers   88 KiB chain 29 MiB db 0 bytes queue 115 KiB sync  RPC:  0 conn,    0 req/s,    0 µs\r\n2019-12-12 12:35:29 UTC Imported #5394070 0x91a4…0e1f (0 txs, 0.00 Mgas, 0 ms, 0.50 KiB)\r\n2019-12-12 12:35:42 UTC Imported #5394071 0x3583…9a13 (0 txs, 0.00 Mgas, 0 ms, 0.50 KiB)\r\n2019-12-12 12:35:51 UTC Imported #5394072 0xe2ad…38ad (0 txs, 0.00 Mgas, 0 ms, 0.50 KiB)\r\n2019-12-12 12:35:55 UTC    6/25 peers   88 KiB chain 29 MiB db 0 bytes queue 115 KiB sync  RPC:  0 conn,    0 req/s,    0 µs\r\n2019-12-12 12:35:56 UTC Imported #5394073 0xc897…d7dc (0 txs, 0.00 Mgas, 0 ms, 0.50 KiB)\r\n```",
+    "reactions": {
+      "url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/comments/564990184/reactions",
+      "total_count": 0,
+      "+1": 0,
+      "-1": 0,
+      "laugh": 0,
+      "hooray": 0,
+      "confused": 0,
+      "heart": 0,
+      "rocket": 0,
+      "eyes": 0
+    }
+  }

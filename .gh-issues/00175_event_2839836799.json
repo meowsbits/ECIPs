@@ -25,5 +25,12 @@
     "event": "added_to_project",
     "commit_id": null,
     "commit_url": null,
-    "created_at": "2019-11-28T20:12:33Z"
+    "created_at": "2019-11-28T20:12:33Z",
+    "project_card": {
+      "id": 29886475,
+      "url": "https://api.github.com/projects/columns/cards/29886475",
+      "project_id": 3384054,
+      "project_url": "https://api.github.com/projects/3384054",
+      "column_name": "To do"
+    }
   }
