@@ -1,0 +1,43 @@
+{
+    "url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/comments/565304878",
+    "html_url": "https://github.com/ethereumclassic/ECIPs/pull/220#issuecomment-565304878",
+    "issue_url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/220",
+    "id": 565304878,
+    "node_id": "MDEyOklzc3VlQ29tbWVudDU2NTMwNDg3OA==",
+    "user": {
+      "login": "sorpaas",
+      "id": 6277322,
+      "node_id": "MDQ6VXNlcjYyNzczMjI=",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/6277322?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/sorpaas",
+      "html_url": "https://github.com/sorpaas",
+      "followers_url": "https://api.github.com/users/sorpaas/followers",
+      "following_url": "https://api.github.com/users/sorpaas/following{/other_user}",
+      "gists_url": "https://api.github.com/users/sorpaas/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/sorpaas/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/sorpaas/subscriptions",
+      "organizations_url": "https://api.github.com/users/sorpaas/orgs",
+      "repos_url": "https://api.github.com/users/sorpaas/repos",
+      "events_url": "https://api.github.com/users/sorpaas/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/sorpaas/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "created_at": "2019-12-13T05:22:38Z",
+    "updated_at": "2019-12-13T05:22:38Z",
+    "author_association": "CONTRIBUTOR",
+    "body": "@bobsummerwill We have lengthy discussions about why things written in this PR is objective (https://github.com/ethereumclassic/ECIPs/pull/220#issuecomment-560433342) and why framing this as \"someone's subjective\" opinion doesn't work. What happened is what happened.\r\n\r\nFor the past two weeks, I've only seen desperate attempts from you and Afri to hide wrongdoings of past actions, by repeatedly trying to close this PR, or by claiming that Afri should be pesedo-anonymous while making no attempts in merging https://github.com/ethereumclassic/ECIPs/pull/236.",
+    "reactions": {
+      "url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/comments/565304878/reactions",
+      "total_count": 0,
+      "+1": 0,
+      "-1": 0,
+      "laugh": 0,
+      "hooray": 0,
+      "confused": 0,
+      "heart": 0,
+      "rocket": 0,
+      "eyes": 0
+    }
+  }
