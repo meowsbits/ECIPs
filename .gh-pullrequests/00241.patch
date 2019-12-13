@@ -8,7 +8,7 @@ Subject: [PATCH 1/4] feat(README): add Discourse Archives list
  1 file changed, 10 insertions(+), 1 deletion(-)
 
 diff --git a/README.md b/README.md
-index 6c19b80..26d65df 100644
+index 6c19b806..26d65df3 100644
 --- a/README.md
 +++ b/README.md
 @@ -41,7 +41,7 @@ When you believe your ECIP is mature and ready to progress past the draft phase,
@@ -47,7 +47,7 @@ Subject: [PATCH 2/4] fix(README): typos
  1 file changed, 2 insertions(+), 2 deletions(-)
 
 diff --git a/README.md b/README.md
-index 26d65df..00f0f11 100644
+index 26d65df3..00f0f119 100644
 --- a/README.md
 +++ b/README.md
 @@ -41,7 +41,7 @@ When you believe your ECIP is mature and ready to progress past the draft phase,
@@ -79,7 +79,7 @@ Subject: [PATCH 3/4] fix(README): fix typo
  1 file changed, 1 insertion(+), 1 deletion(-)
 
 diff --git a/README.md b/README.md
-index 00f0f11..de3e3db 100644
+index 00f0f119..de3e3db2 100644
 --- a/README.md
 +++ b/README.md
 @@ -74,7 +74,7 @@ Having an ECIP within the folder of the repository does not make it a formally a
@@ -102,7 +102,7 @@ Subject: [PATCH 4/4] fix(README): remove redundant words
  1 file changed, 1 insertion(+), 1 deletion(-)
 
 diff --git a/README.md b/README.md
-index de3e3db..ddda2e8 100644
+index de3e3db2..ddda2e86 100644
 --- a/README.md
 +++ b/README.md
 @@ -74,7 +74,7 @@ Having an ECIP within the folder of the repository does not make it a formally a
