@@ -1,0 +1,29 @@
+{
+    "id": 2881174992,
+    "node_id": "MDExOk1lcmdlZEV2ZW50Mjg4MTE3NDk5Mg==",
+    "url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/events/2881174992",
+    "actor": {
+      "login": "YazzyYaz",
+      "id": 9094204,
+      "node_id": "MDQ6VXNlcjkwOTQyMDQ=",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/9094204?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/YazzyYaz",
+      "html_url": "https://github.com/YazzyYaz",
+      "followers_url": "https://api.github.com/users/YazzyYaz/followers",
+      "following_url": "https://api.github.com/users/YazzyYaz/following{/other_user}",
+      "gists_url": "https://api.github.com/users/YazzyYaz/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/YazzyYaz/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/YazzyYaz/subscriptions",
+      "organizations_url": "https://api.github.com/users/YazzyYaz/orgs",
+      "repos_url": "https://api.github.com/users/YazzyYaz/repos",
+      "events_url": "https://api.github.com/users/YazzyYaz/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/YazzyYaz/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "event": "merged",
+    "commit_id": "79142ea9134acac764b3cdfa95b0cd31d8f2a901",
+    "commit_url": "https://api.github.com/repos/ethereumclassic/ECIPs/commits/79142ea9134acac764b3cdfa95b0cd31d8f2a901",
+    "created_at": "2019-12-13T12:13:48Z"
+  }

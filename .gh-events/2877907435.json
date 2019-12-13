@@ -80,7 +80,7 @@
           "description": "Accepted best practices"
         }
       ],
-      "state": "open",
+      "state": "closed",
       "locked": false,
       "assignee": null,
       "assignees": [
@@ -115,18 +115,18 @@
           "type": "User",
           "site_admin": false
         },
-        "open_issues": 4,
-        "closed_issues": 3,
+        "open_issues": 2,
+        "closed_issues": 5,
         "state": "open",
         "created_at": "2019-10-23T14:38:36Z",
-        "updated_at": "2019-12-12T13:26:19Z",
+        "updated_at": "2019-12-13T12:13:49Z",
         "due_on": null,
         "closed_at": null
       },
       "comments": 0,
       "created_at": "2019-12-12T13:26:18Z",
-      "updated_at": "2019-12-13T12:13:25Z",
-      "closed_at": null,
+      "updated_at": "2019-12-13T12:13:53Z",
+      "closed_at": "2019-12-13T12:13:49Z",
       "author_association": "CONTRIBUTOR",
       "active_lock_reason": null,
       "pull_request": {
