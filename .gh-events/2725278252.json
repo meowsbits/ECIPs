@@ -245,11 +245,11 @@
           "type": "User",
           "site_admin": false
         },
-        "open_issues": 4,
-        "closed_issues": 3,
+        "open_issues": 2,
+        "closed_issues": 5,
         "state": "open",
         "created_at": "2019-10-23T14:38:36Z",
-        "updated_at": "2019-12-12T13:26:19Z",
+        "updated_at": "2019-12-13T12:13:49Z",
         "due_on": null,
         "closed_at": null
       },
