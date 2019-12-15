@@ -1,0 +1,43 @@
+{
+    "url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/comments/565774692",
+    "html_url": "https://github.com/ethereumclassic/ECIPs/issues/14#issuecomment-565774692",
+    "issue_url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/14",
+    "id": 565774692,
+    "node_id": "MDEyOklzc3VlQ29tbWVudDU2NTc3NDY5Mg==",
+    "user": {
+      "login": "hitchcott",
+      "id": 1696942,
+      "node_id": "MDQ6VXNlcjE2OTY5NDI=",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/1696942?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/hitchcott",
+      "html_url": "https://github.com/hitchcott",
+      "followers_url": "https://api.github.com/users/hitchcott/followers",
+      "following_url": "https://api.github.com/users/hitchcott/following{/other_user}",
+      "gists_url": "https://api.github.com/users/hitchcott/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/hitchcott/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/hitchcott/subscriptions",
+      "organizations_url": "https://api.github.com/users/hitchcott/orgs",
+      "repos_url": "https://api.github.com/users/hitchcott/repos",
+      "events_url": "https://api.github.com/users/hitchcott/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/hitchcott/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "created_at": "2019-12-15T03:43:59Z",
+    "updated_at": "2019-12-15T03:44:27Z",
+    "author_association": "MEMBER",
+    "body": "Can we change the title of this ECIP? 1 million is presumptuous.\r\n\r\nI don't think we shouldn't specify a target until we figure out what the target should be.\r\n\r\nPersonally I think 4 million is more reasonable due to contract deployments.",
+    "reactions": {
+      "url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/comments/565774692/reactions",
+      "total_count": 0,
+      "+1": 0,
+      "-1": 0,
+      "laugh": 0,
+      "hooray": 0,
+      "confused": 0,
+      "heart": 0,
+      "rocket": 0,
+      "eyes": 0
+    }
+  }
