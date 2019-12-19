@@ -1,14 +1,14 @@
 From 642f29eb0866927a870ede0d6d863f65f04dc115 Mon Sep 17 00:00:00 2001
 From: Zac Mitton <zacmitton22@gmail.com>
 Date: Thu, 5 Dec 2019 14:57:22 -0400
-Subject: [PATCH] REJECT 1067
+Subject: [PATCH 1/3] REJECT 1067
 
 ---
  _specs/ecip-1067.md | 16 ++++------------
  1 file changed, 4 insertions(+), 12 deletions(-)
 
 diff --git a/_specs/ecip-1067.md b/_specs/ecip-1067.md
-index f2012b6..4b56d39 100644
+index f2012b6c..4b56d39e 100644
 --- a/_specs/ecip-1067.md
 +++ b/_specs/ecip-1067.md
 @@ -2,7 +2,7 @@
@@ -40,3 +40,50 @@ index f2012b6..4b56d39 100644
  
 -[URI Schemes](https://www.iana.org/assignments/uri-schemes/uri-schemes.xhtml) -->
 +This approach currently has a flaw that the name of the caller application is not sent to the invoked wallet, so handing control back to the caller app is very difficult. This can be worked around in an app-to-app setting (by passing it as part of the payload), but not in a browser-to-app setting (without complicated "browser sniffing" techniques).  
+
+From 7fec14923d10e1a0e63592fd98febc88516bc0fb Mon Sep 17 00:00:00 2001
+From: Zac Mitton <zmitton@users.noreply.github.com>
+Date: Wed, 18 Dec 2019 13:00:08 -0400
+Subject: [PATCH 2/3] Update _specs/ecip-1067.md
+
+Co-Authored-By: Zachary Belford <belfordz66@gmail.com>
+---
+ _specs/ecip-1067.md | 2 +-
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+
+diff --git a/_specs/ecip-1067.md b/_specs/ecip-1067.md
+index 4b56d39e..2c33a1a8 100644
+--- a/_specs/ecip-1067.md
++++ b/_specs/ecip-1067.md
+@@ -95,6 +95,6 @@ It becomes much easier to add a single "ethereum feature" into any software appl
+ 
+ ---
+ 
+-### Rejection Notice:
++### Withdrawal Notice:
+ 
+ This approach currently has a flaw that the name of the caller application is not sent to the invoked wallet, so handing control back to the caller app is very difficult. This can be worked around in an app-to-app setting (by passing it as part of the payload), but not in a browser-to-app setting (without complicated "browser sniffing" techniques).  
+
+From d700b292d824120116bbd80d1444eca9ba321f93 Mon Sep 17 00:00:00 2001
+From: Zac Mitton <zmitton@users.noreply.github.com>
+Date: Wed, 18 Dec 2019 13:00:22 -0400
+Subject: [PATCH 3/3] Update _specs/ecip-1067.md
+
+Co-Authored-By: Talha Cross <47772477+soc1c@users.noreply.github.com>
+---
+ _specs/ecip-1067.md | 2 +-
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+
+diff --git a/_specs/ecip-1067.md b/_specs/ecip-1067.md
+index 2c33a1a8..9c449a25 100644
+--- a/_specs/ecip-1067.md
++++ b/_specs/ecip-1067.md
+@@ -2,7 +2,7 @@
+ lang: en
+ ecip: 1067
+ title: Standardize OS Level Management of Signature Handling ("invoke-signer")
+-status: REJECTED
++status: Withdrawn
+ type: Interface
+ discussions-to: https://github.com/ethereumclassic/ECIPs/issues/147
+ author: Zac Mitton (@zmitton)

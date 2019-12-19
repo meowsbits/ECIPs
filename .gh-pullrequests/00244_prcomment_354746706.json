@@ -5,9 +5,9 @@
     "node_id": "MDI0OlB1bGxSZXF1ZXN0UmV2aWV3Q29tbWVudDM1NDc0NjcwNg==",
     "diff_hunk": "@@ -2,7 +2,7 @@\n lang: en\n ecip: 1067\n title: Standardize OS Level Management of Signature Handling (\"invoke-signer\")\n-status: Draft\n+status: REJECTED",
     "path": "_specs/ecip-1067.md",
-    "position": 5,
+    "position": null,
     "original_position": 5,
-    "commit_id": "642f29eb0866927a870ede0d6d863f65f04dc115",
+    "commit_id": "d700b292d824120116bbd80d1444eca9ba321f93",
     "original_commit_id": "642f29eb0866927a870ede0d6d863f65f04dc115",
     "user": {
       "login": "soc1c",
@@ -31,7 +31,7 @@
     },
     "body": "```suggestion\r\nstatus: Withdrawn\r\n```",
     "created_at": "2019-12-06T09:53:25Z",
-    "updated_at": "2019-12-06T09:53:26Z",
+    "updated_at": "2019-12-18T17:00:23Z",
     "html_url": "https://github.com/ethereumclassic/ECIPs/pull/244#discussion_r354746706",
     "pull_request_url": "https://api.github.com/repos/ethereumclassic/ECIPs/pulls/244",
     "author_association": "CONTRIBUTOR",
@@ -49,7 +49,7 @@
     "start_line": null,
     "original_start_line": null,
     "start_side": null,
-    "line": 5,
+    "line": null,
     "original_line": 5,
     "side": "RIGHT"
   }
