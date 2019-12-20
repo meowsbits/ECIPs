@@ -1,0 +1,55 @@
+{
+    "url": "https://api.github.com/repos/ethereumclassic/ECIPs/pulls/comments/360552943",
+    "pull_request_review_id": 335494157,
+    "id": 360552943,
+    "node_id": "MDI0OlB1bGxSZXF1ZXN0UmV2aWV3Q29tbWVudDM2MDU1Mjk0Mw==",
+    "diff_hunk": "@@ -0,0 +1,37 @@\n+---\n+ecip: <ECIP number>\n+title: Remove Contract Size Limit\n+author: Zachary Belford <@BelfordZ>, Mudit Gupta <@maxsam4>\n+discussions-to: TBD",
+    "path": "_specs/ecip-draft_remove_170",
+    "position": null,
+    "original_position": 5,
+    "commit_id": "b8c17aa776a6060e4f6e8d9c4c2bb7fbf4cc51f4",
+    "original_commit_id": "8658fc9e4158077032551524b3a53d5f58544b48",
+    "user": {
+      "login": "BelfordZ",
+      "id": 1787231,
+      "node_id": "MDQ6VXNlcjE3ODcyMzE=",
+      "avatar_url": "https://avatars0.githubusercontent.com/u/1787231?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/BelfordZ",
+      "html_url": "https://github.com/BelfordZ",
+      "followers_url": "https://api.github.com/users/BelfordZ/followers",
+      "following_url": "https://api.github.com/users/BelfordZ/following{/other_user}",
+      "gists_url": "https://api.github.com/users/BelfordZ/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/BelfordZ/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/BelfordZ/subscriptions",
+      "organizations_url": "https://api.github.com/users/BelfordZ/orgs",
+      "repos_url": "https://api.github.com/users/BelfordZ/repos",
+      "events_url": "https://api.github.com/users/BelfordZ/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/BelfordZ/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "body": "```suggestion\r\ndiscussions-to: https://github.com/ethereum/EIPs/issues/1662\r\n```",
+    "created_at": "2019-12-20T20:04:14Z",
+    "updated_at": "2019-12-20T20:04:31Z",
+    "html_url": "https://github.com/ethereumclassic/ECIPs/pull/249#discussion_r360552943",
+    "pull_request_url": "https://api.github.com/repos/ethereumclassic/ECIPs/pulls/249",
+    "author_association": "CONTRIBUTOR",
+    "_links": {
+      "self": {
+        "href": "https://api.github.com/repos/ethereumclassic/ECIPs/pulls/comments/360552943"
+      },
+      "html": {
+        "href": "https://github.com/ethereumclassic/ECIPs/pull/249#discussion_r360552943"
+      },
+      "pull_request": {
+        "href": "https://api.github.com/repos/ethereumclassic/ECIPs/pulls/249"
+      }
+    },
+    "start_line": null,
+    "original_start_line": null,
+    "start_side": null,
+    "line": null,
+    "original_line": 5,
+    "side": "RIGHT"
+  }
