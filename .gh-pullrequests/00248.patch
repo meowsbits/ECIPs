@@ -8,7 +8,7 @@ Subject: [PATCH 1/2] feat: Update from Last Call to Accepted for Agharta
  1 file changed, 1 insertion(+), 2 deletions(-)
 
 diff --git a/_specs/ecip-1056.md b/_specs/ecip-1056.md
-index 99354c2d..939a60cc 100644
+index 99354c2..939a60c 100644
 --- a/_specs/ecip-1056.md
 +++ b/_specs/ecip-1056.md
 @@ -2,8 +2,7 @@
@@ -32,7 +32,7 @@ Subject: [PATCH 2/2] feat: Accepted and block number addition
  1 file changed, 3 insertions(+), 4 deletions(-)
 
 diff --git a/_specs/ecip-1061.md b/_specs/ecip-1061.md
-index 242c0d08..c4392b29 100644
+index 242c0d0..c4392b2 100644
 --- a/_specs/ecip-1061.md
 +++ b/_specs/ecip-1061.md
 @@ -2,8 +2,7 @@
