@@ -41,7 +41,7 @@
     "milestone": null,
     "comments": 0,
     "created_at": "2019-12-20T20:00:09Z",
-    "updated_at": "2019-12-20T20:01:44Z",
+    "updated_at": "2019-12-20T20:02:52Z",
     "closed_at": null,
     "author_association": "CONTRIBUTOR",
     "pull_request": {
@@ -50,7 +50,7 @@
       "diff_url": "https://github.com/ethereumclassic/ECIPs/pull/249.diff",
       "patch_url": "https://github.com/ethereumclassic/ECIPs/pull/249.patch"
     },
-    "body": "",
+    "body": "ref: https://github.com/ethereum/EIPs/issues/1662 https://github.com/ethereum/EIPs/issues/170",
     "reactions": {
       "url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/249/reactions",
       "total_count": 0,
