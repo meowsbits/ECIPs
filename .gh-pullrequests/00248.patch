@@ -1,0 +1,63 @@
+From 68ff8e5b5af39e0076c1497663aa14dfccc9e503 Mon Sep 17 00:00:00 2001
+From: Yaz Khoury <yaz.khoury@gmail.com>
+Date: Fri, 20 Dec 2019 09:55:44 -0500
+Subject: [PATCH 1/2] feat: Update from Last Call to Accepted for Agharta
+
+---
+ _specs/ecip-1056.md | 3 +--
+ 1 file changed, 1 insertion(+), 2 deletions(-)
+
+diff --git a/_specs/ecip-1056.md b/_specs/ecip-1056.md
+index 99354c2d..939a60cc 100644
+--- a/_specs/ecip-1056.md
++++ b/_specs/ecip-1056.md
+@@ -2,8 +2,7 @@
+ lang: en
+ ecip: 1056
+ title: Agharta EVM and Protocol Upgrades
+-status: Last Call
+-review-period-end: 2019-12-19
++status: Accepted
+ type: Meta
+ author: Isaac Ardis <isaac.a@etclabs.org>, Wei Tang <hi@that.world>
+ discussions-to: https://github.com/ethereumclassic/ECIPs/issues/131
+
+From 944f9ebf5900520115743b792fa92aad14800fed Mon Sep 17 00:00:00 2001
+From: Yaz Khoury <yaz.khoury@gmail.com>
+Date: Fri, 20 Dec 2019 10:15:45 -0500
+Subject: [PATCH 2/2] feat: Accepted and block number addition
+
+---
+ _specs/ecip-1061.md | 7 +++----
+ 1 file changed, 3 insertions(+), 4 deletions(-)
+
+diff --git a/_specs/ecip-1061.md b/_specs/ecip-1061.md
+index 242c0d08..c4392b29 100644
+--- a/_specs/ecip-1061.md
++++ b/_specs/ecip-1061.md
+@@ -2,8 +2,7 @@
+ lang: en
+ ecip: 1061
+ title: Aztlán EVM and Protocol Upgrades (Yingchun Edition)
+-status: Last Call
+-review-period-end: 2019-12-19
++status: Accepted
+ type: Meta
+ author: Talha Cross (@soc1c), Wei Tang (@sorpaas)
+ created: 2019-06-06
+@@ -34,7 +33,7 @@ This document proposes the following blocks at which to implement these changes
+ 
+ - `778_507` on Mordor Classic PoW-testnet (Feb 5th, 2020)
+ - `2_058_191` on Kotti Classic PoA-testnet (Feb 12th, 2020)
+-- `TBD` on Ethereum Classic PoW-mainnet (March 25th, 2020)
++- `10_500_839` on Ethereum Classic PoW-mainnet (March 25th, 2020)
+ 
+ For more information on the opcodes and their respective EIPs and implementations, please see the _Specification_
+ section of this document.
+@@ -86,4 +85,4 @@ Both, the Geth Classic client and the Morden testnet will no longer be supported
+ ## Copyright
+ 
+ This work is licensed under [Apache License, Version
+-2.0](http://www.apache.org/licenses/).
+\ No newline at end of file
++2.0](http://www.apache.org/licenses/).
