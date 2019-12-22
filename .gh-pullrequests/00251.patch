@@ -1,0 +1,27 @@
+From 3640e96acc4a5b5756c4f028b430ad5e16fd86ef Mon Sep 17 00:00:00 2001
+From: Bob Summerwill <bob@summerwill.net>
+Date: Sat, 21 Dec 2019 02:28:36 -0800
+Subject: [PATCH] Remove MulanPSL as a Recommended License. While this license
+ looks like it could be a great choice, it has not undergone legal due
+ diligence like the other options. Bob is chasing OSI to ensure that there is
+ legal consensus that this license is in compliance with the Open Source
+ Definition. See https://opensource.org/docs/osd and see
+ https://opensource.org/approval. If MulanPSL gets that approval then I would
+ have no objection. Adding it was premature.
+
+---
+ _specs/ecip-1000.md | 1 -
+ 1 file changed, 1 deletion(-)
+
+diff --git a/_specs/ecip-1000.md b/_specs/ecip-1000.md
+index 0043cfe..767563b 100644
+--- a/_specs/ecip-1000.md
++++ b/_specs/ecip-1000.md
+@@ -332,7 +332,6 @@ In this case, only the acceptable license(s) should be listed in the License and
+ * BSD-3-Clause: [OSI-approved BSD 3-clause license](https://opensource.org/licenses/BSD-3-Clause)
+ * CC0-1.0: [Creative Commons CC0 1.0 Universal](https://creativecommons.org/publicdomain/zero/1.0/)
+ * GNU-All-Permissive: [GNU All-Permissive License](http://www.gnu.org/prep/maintain/html_node/License-Notices-for-Other-Files.html)
+-* MulanPSL-1.0: [Mulan Permissive Software License, Version 1](https://license.coscl.org.cn/MulanPSL/)
+ 
+ In addition, it is recommended that literal code included in the ECIP be dual-licensed under the same license terms as the project it modifies. For example, literal code intended for Ethereum Classic Core would ideally be dual-licensed under the MIT license terms as well as one of the above with the rest of the ECIP text.
+ 
