@@ -1,0 +1,43 @@
+{
+    "url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/comments/568588554",
+    "html_url": "https://github.com/ethereumclassic/ECIPs/issues/13#issuecomment-568588554",
+    "issue_url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/13",
+    "id": 568588554,
+    "node_id": "MDEyOklzc3VlQ29tbWVudDU2ODU4ODU1NA==",
+    "user": {
+      "login": "snissn",
+      "id": 1981537,
+      "node_id": "MDQ6VXNlcjE5ODE1Mzc=",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/1981537?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/snissn",
+      "html_url": "https://github.com/snissn",
+      "followers_url": "https://api.github.com/users/snissn/followers",
+      "following_url": "https://api.github.com/users/snissn/following{/other_user}",
+      "gists_url": "https://api.github.com/users/snissn/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/snissn/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/snissn/subscriptions",
+      "organizations_url": "https://api.github.com/users/snissn/orgs",
+      "repos_url": "https://api.github.com/users/snissn/repos",
+      "events_url": "https://api.github.com/users/snissn/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/snissn/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "created_at": "2019-12-23T21:41:59Z",
+    "updated_at": "2019-12-23T21:41:59Z",
+    "author_association": "NONE",
+    "body": "@bobsummerwill I don't think double sha3 is necessary for PoW. My reasoning is that Bitcoin seems to use double sha2 to prevent against \"Length Extension Attacks\" \r\n\r\n> We don't know for sure, but the most popular theory is that a double hash was chosen to protect against length extension attacks. \r\nhttps://bitcoin.stackexchange.com/a/6042\r\n\r\n> A common rationale for hashing twice is to guard against the length-extension property of the hash (if it has that property, as many hashes before SHA-3 did)\r\nhttps://crypto.stackexchange.com/a/50020\r\n\r\nHowever sha3 was designed specifically to be secure against Length Extension Attacks.\r\n\r\nfrom https://en.wikipedia.org/wiki/Length_extension_attack\r\n\r\n> Algorithms like MD5, SHA-1, and SHA-2 that are based on the Merkle–Damgård construction are susceptible to this kind of attack.[1][2][3] The SHA-3 algorithm is not susceptible.\r\n\r\nFrom my experience with looking at these hashing functions and building miners, Sha3 takes the entire string to be hashed and it goes through multiple rounds of bit manipulations. Sha2 and other hashing functions that are susceptible to length extension hashing algorithms take each byte and \"add\" it to the hash. Potentially asic manufacturers could take advantage of length extension for mining by precomputing the first part of the hash, and then only adding the back parts in iterations, especially if the nonce is at the end of the data to be hashed. Sha3 is designed to be immune to this type of attack (because it operates on the entire data set being hashed at once, not just byte by byte moving left to right) and adding a second round won't accomplish anything except slowing down how many hashes per second a miner can go through (which would also make verifying the integrity network of hashed blocks slower for no obvious security gain).",
+    "reactions": {
+      "url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/comments/568588554/reactions",
+      "total_count": 0,
+      "+1": 0,
+      "-1": 0,
+      "laugh": 0,
+      "hooray": 0,
+      "confused": 0,
+      "heart": 0,
+      "rocket": 0,
+      "eyes": 0
+    }
+  }
