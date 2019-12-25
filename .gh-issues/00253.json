@@ -47,9 +47,9 @@
 
     ],
     "milestone": null,
-    "comments": 0,
+    "comments": 1,
     "created_at": "2019-12-25T17:37:48Z",
-    "updated_at": "2019-12-25T17:38:58Z",
+    "updated_at": "2019-12-25T17:48:49Z",
     "closed_at": null,
     "author_association": "MEMBER",
     "body": "A place to discuss possible countermeasures against rapidly growing ETC blockchain size. \r\nOne of the solutions was already proposed here #14 by Anthony back in january 2019.\r\n\r\n",
