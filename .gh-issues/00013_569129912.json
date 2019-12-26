@@ -1,0 +1,43 @@
+{
+    "url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/comments/569129912",
+    "html_url": "https://github.com/ethereumclassic/ECIPs/issues/13#issuecomment-569129912",
+    "issue_url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/13",
+    "id": 569129912,
+    "node_id": "MDEyOklzc3VlQ29tbWVudDU2OTEyOTkxMg==",
+    "user": {
+      "login": "prestwich",
+      "id": 10149425,
+      "node_id": "MDQ6VXNlcjEwMTQ5NDI1",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/10149425?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/prestwich",
+      "html_url": "https://github.com/prestwich",
+      "followers_url": "https://api.github.com/users/prestwich/followers",
+      "following_url": "https://api.github.com/users/prestwich/following{/other_user}",
+      "gists_url": "https://api.github.com/users/prestwich/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/prestwich/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/prestwich/subscriptions",
+      "organizations_url": "https://api.github.com/users/prestwich/orgs",
+      "repos_url": "https://api.github.com/users/prestwich/repos",
+      "events_url": "https://api.github.com/users/prestwich/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/prestwich/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "created_at": "2019-12-26T20:38:07Z",
+    "updated_at": "2019-12-26T20:38:07Z",
+    "author_association": "NONE",
+    "body": "> So going SHA3 and adding SHA3 recompile would let ETC do on chain verification of ETH headers but not visa versa.\r\n\r\nwell, ETH headers are currently ethash, which is keccak512-based. so adding SHA3 won't help there. ETH2 is currently specced to use SHA2, which ETC already supports, but additionally would require support for BLS12-381 signature verification\r\n\r\n> Much like BTC limitations hindering anything bidirectional between BTC and ETC?\r\n\r\nyeah, although usually unidirectional communication + bonding is sufficient. See the TBTC design\r\n\r\n> Feeling on likelihood of SHA3 precompile for ETH happening?\r\n\r\nSomeday :tm:. I wouldn't count on it any time soon",
+    "reactions": {
+      "url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/comments/569129912/reactions",
+      "total_count": 0,
+      "+1": 0,
+      "-1": 0,
+      "laugh": 0,
+      "hooray": 0,
+      "confused": 0,
+      "heart": 0,
+      "rocket": 0,
+      "eyes": 0
+    }
+  }
