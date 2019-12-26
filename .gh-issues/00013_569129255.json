@@ -1,0 +1,43 @@
+{
+    "url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/comments/569129255",
+    "html_url": "https://github.com/ethereumclassic/ECIPs/issues/13#issuecomment-569129255",
+    "issue_url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/13",
+    "id": 569129255,
+    "node_id": "MDEyOklzc3VlQ29tbWVudDU2OTEyOTI1NQ==",
+    "user": {
+      "login": "bobsummerwill",
+      "id": 3788156,
+      "node_id": "MDQ6VXNlcjM3ODgxNTY=",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/3788156?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/bobsummerwill",
+      "html_url": "https://github.com/bobsummerwill",
+      "followers_url": "https://api.github.com/users/bobsummerwill/followers",
+      "following_url": "https://api.github.com/users/bobsummerwill/following{/other_user}",
+      "gists_url": "https://api.github.com/users/bobsummerwill/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/bobsummerwill/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/bobsummerwill/subscriptions",
+      "organizations_url": "https://api.github.com/users/bobsummerwill/orgs",
+      "repos_url": "https://api.github.com/users/bobsummerwill/repos",
+      "events_url": "https://api.github.com/users/bobsummerwill/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/bobsummerwill/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "created_at": "2019-12-26T20:32:59Z",
+    "updated_at": "2019-12-26T20:32:59Z",
+    "author_association": "MEMBER",
+    "body": "Right, @prestwich.\r\n\r\nSo going SHA3 and adding SHA3 recompile would let ETC do on chain verification of ETH headers but not visa versa.\r\n\r\nMuch like BTC limitations hindering anything bidirectional between BTC and ETC?\r\n\r\nSo then the question is whether you constrain yourself to that lowest common dominator or whether you just move forward in the way which serves your own needs best?\r\n\r\nWe could go SHA3 and also push an EIP to add SHA3 precompile to ETH.   That would likely happen in the end (like the ZCash ones) but might take years.",
+    "reactions": {
+      "url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/comments/569129255/reactions",
+      "total_count": 0,
+      "+1": 0,
+      "-1": 0,
+      "laugh": 0,
+      "hooray": 0,
+      "confused": 0,
+      "heart": 0,
+      "rocket": 0,
+      "eyes": 0
+    }
+  }
