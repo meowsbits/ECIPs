@@ -1,0 +1,43 @@
+{
+    "url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/comments/569340722",
+    "html_url": "https://github.com/ethereumclassic/ECIPs/issues/253#issuecomment-569340722",
+    "issue_url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/253",
+    "id": 569340722,
+    "node_id": "MDEyOklzc3VlQ29tbWVudDU2OTM0MDcyMg==",
+    "user": {
+      "login": "iquidus",
+      "id": 1858594,
+      "node_id": "MDQ6VXNlcjE4NTg1OTQ=",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/1858594?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/iquidus",
+      "html_url": "https://github.com/iquidus",
+      "followers_url": "https://api.github.com/users/iquidus/followers",
+      "following_url": "https://api.github.com/users/iquidus/following{/other_user}",
+      "gists_url": "https://api.github.com/users/iquidus/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/iquidus/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/iquidus/subscriptions",
+      "organizations_url": "https://api.github.com/users/iquidus/orgs",
+      "repos_url": "https://api.github.com/users/iquidus/repos",
+      "events_url": "https://api.github.com/users/iquidus/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/iquidus/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "created_at": "2019-12-27T20:29:43Z",
+    "updated_at": "2019-12-27T20:29:43Z",
+    "author_association": "NONE",
+    "body": "Unfeasible blockchain growth is an unfortunate side-effect of properties inherited from upstream ETH. This was one of the things we considered when launching Ubiq with slower target times for blocks. Whiteblock did a great analysis of our parameters vs upstream ETH at various block gas limits here:\r\n\r\n* case study: https://www.whiteblock.io/wp-content/uploads/2019/07/ubiq-case-study.pdf \r\n* report: https://whiteblock.io/wp-content/uploads/2019/07/ubiq-report.pdf\r\n\r\nWell worth the read if considering making changes to layer 1. This approach doesn't sacrifice contract size/complexity while still achieving the goal of slowing down chain growth.\r\n\r\nSome knock-on affects to consider however: \r\n\r\n* ETHs difficulty algorithm performs poorly with slower blocktimes, we designed Flux to address this.\r\n* DAG size is based on epoch, epoch is defined in blocks (30k), longer blocks mean longer epoch (in terms of time). DAG grows slower. In our case still allowing support for 2GB cards.\r\n* Monetary policy is defined in blocks, this would need to be adjusted to maintain current schedule.\r\n* Less uncle blocks (and reduced inflation from uncle block rewards)\r\n* Uncles currently get rewarded up to a depth of 7 blocks old, this doesn't make sense with slower blocks (e.g at 90seconds 7 blocks > 10minutes). We reduced ours to a depth of 1 block old only (see here for more details: https://bitcointalk.org/index.php?topic=1631210.msg17154836#msg17154836)\r\n\r\nThis is all doable on ETC of course, but it is fairly intrusive and touches upon multiple areas of consensus (target time/diff algo, monetary policy), requiring a hard fork (or forks). \r\n",
+    "reactions": {
+      "url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/comments/569340722/reactions",
+      "total_count": 0,
+      "+1": 0,
+      "-1": 0,
+      "laugh": 0,
+      "hooray": 0,
+      "confused": 0,
+      "heart": 0,
+      "rocket": 0,
+      "eyes": 0
+    }
+  }
