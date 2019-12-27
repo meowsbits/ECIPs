@@ -1,0 +1,43 @@
+{
+    "url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/comments/569353376",
+    "html_url": "https://github.com/ethereumclassic/ECIPs/issues/252#issuecomment-569353376",
+    "issue_url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/252",
+    "id": 569353376,
+    "node_id": "MDEyOklzc3VlQ29tbWVudDU2OTM1MzM3Ng==",
+    "user": {
+      "login": "zmitton",
+      "id": 6954889,
+      "node_id": "MDQ6VXNlcjY5NTQ4ODk=",
+      "avatar_url": "https://avatars0.githubusercontent.com/u/6954889?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/zmitton",
+      "html_url": "https://github.com/zmitton",
+      "followers_url": "https://api.github.com/users/zmitton/followers",
+      "following_url": "https://api.github.com/users/zmitton/following{/other_user}",
+      "gists_url": "https://api.github.com/users/zmitton/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/zmitton/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/zmitton/subscriptions",
+      "organizations_url": "https://api.github.com/users/zmitton/orgs",
+      "repos_url": "https://api.github.com/users/zmitton/repos",
+      "events_url": "https://api.github.com/users/zmitton/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/zmitton/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "created_at": "2019-12-27T22:01:10Z",
+    "updated_at": "2019-12-27T22:01:10Z",
+    "author_association": "CONTRIBUTOR",
+    "body": "From @bobsummerwill \r\n1. Outreach ASAP for voluntary gaslimit reduction (to stop the bleeding)\r\n2. Counter-measures against gaslimit (buying tokens) to try to reverse the damage.\r\n3. Potential protocol changes\r\n\r\nAnd those protocol changes could include:\r\n\r\n1. Gas price changes\r\n2. Removing opcodes (remove refund opcode, remove selfdestruct)\r\n3. Hard cap gas and curve (my pending ECIP) to give multi-decade certainty.\r\n\r\nACTIONS ITEMS:\r\n- Blog post on https://ethereumclassic.org/ by @zacmitton explaining the situation and appealing to miners to voluntarily reduce gaslimit.  To 1M?  To 2M?  To 4M?\r\n- Outreach on the above (using existing contacts we have used for prior HFs)\r\n- Volunteers to generate pull-requests against Parity-Ethereum, Geth Classic, MultiGeth and Hyperledger Besu which change the defaults for ETC to the same.\r\n- Volunteers to consider countermeasures to reverse as much of the damage-to-date as we can by buying gastokens (using community fund if this is expensive) and then using them to debloat the chain.\r\n- Volunteers to consider protocol changes for the long-term.\r\n\r\nFrom @hitchcott \r\nright now [...] you can spam an entire full block for (7M gas * 1000 gasPrice) = 0.000000007 ETC or $0.0000000315 USD (if my math is correct)",
+    "reactions": {
+      "url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/comments/569353376/reactions",
+      "total_count": 0,
+      "+1": 0,
+      "-1": 0,
+      "laugh": 0,
+      "hooray": 0,
+      "confused": 0,
+      "heart": 0,
+      "rocket": 0,
+      "eyes": 0
+    }
+  }
