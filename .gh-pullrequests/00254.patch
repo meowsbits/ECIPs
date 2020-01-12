@@ -1,0 +1,22 @@
+From 7558f1ea4061f33bc21c8b93bbdd0c4796d61f17 Mon Sep 17 00:00:00 2001
+From: Talha Cross <47772477+soc1c@users.noreply.github.com>
+Date: Sun, 12 Jan 2020 08:09:20 +0100
+Subject: [PATCH] move agharta to final
+
+---
+ _specs/ecip-1056.md | 2 +-
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+
+diff --git a/_specs/ecip-1056.md b/_specs/ecip-1056.md
+index 939a60cc..1bf60c4e 100644
+--- a/_specs/ecip-1056.md
++++ b/_specs/ecip-1056.md
+@@ -2,7 +2,7 @@
+ lang: en
+ ecip: 1056
+ title: Agharta EVM and Protocol Upgrades
+-status: Accepted
++status: Final
+ type: Meta
+ author: Isaac Ardis <isaac.a@etclabs.org>, Wei Tang <hi@that.world>
+ discussions-to: https://github.com/ethereumclassic/ECIPs/issues/131
