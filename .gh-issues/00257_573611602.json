@@ -1,0 +1,43 @@
+{
+    "url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/comments/573611602",
+    "html_url": "https://github.com/ethereumclassic/ECIPs/issues/257#issuecomment-573611602",
+    "issue_url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/257",
+    "id": 573611602,
+    "node_id": "MDEyOklzc3VlQ29tbWVudDU3MzYxMTYwMg==",
+    "user": {
+      "login": "hitchcott",
+      "id": 1696942,
+      "node_id": "MDQ6VXNlcjE2OTY5NDI=",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/1696942?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/hitchcott",
+      "html_url": "https://github.com/hitchcott",
+      "followers_url": "https://api.github.com/users/hitchcott/followers",
+      "following_url": "https://api.github.com/users/hitchcott/following{/other_user}",
+      "gists_url": "https://api.github.com/users/hitchcott/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/hitchcott/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/hitchcott/subscriptions",
+      "organizations_url": "https://api.github.com/users/hitchcott/orgs",
+      "repos_url": "https://api.github.com/users/hitchcott/repos",
+      "events_url": "https://api.github.com/users/hitchcott/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/hitchcott/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "created_at": "2020-01-13T11:07:36Z",
+    "updated_at": "2020-01-13T11:07:36Z",
+    "author_association": "MEMBER",
+    "body": "Yep, it's easy to disable; i'll push an update now.",
+    "reactions": {
+      "url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/comments/573611602/reactions",
+      "total_count": 0,
+      "+1": 0,
+      "-1": 0,
+      "laugh": 0,
+      "hooray": 0,
+      "confused": 0,
+      "heart": 0,
+      "rocket": 0,
+      "eyes": 0
+    }
+  }
