@@ -1,0 +1,29 @@
+{
+    "id": 2947660308,
+    "node_id": "MDE1OlJlZmVyZW5jZWRFdmVudDI5NDc2NjAzMDg=",
+    "url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/events/2947660308",
+    "actor": {
+      "login": "bobsummerwill",
+      "id": 3788156,
+      "node_id": "MDQ6VXNlcjM3ODgxNTY=",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/3788156?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/bobsummerwill",
+      "html_url": "https://github.com/bobsummerwill",
+      "followers_url": "https://api.github.com/users/bobsummerwill/followers",
+      "following_url": "https://api.github.com/users/bobsummerwill/following{/other_user}",
+      "gists_url": "https://api.github.com/users/bobsummerwill/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/bobsummerwill/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/bobsummerwill/subscriptions",
+      "organizations_url": "https://api.github.com/users/bobsummerwill/orgs",
+      "repos_url": "https://api.github.com/users/bobsummerwill/repos",
+      "events_url": "https://api.github.com/users/bobsummerwill/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/bobsummerwill/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "event": "referenced",
+    "commit_id": "850c2c2e781fc4c54ee9c567e8e54dabcc4c3c4e",
+    "commit_url": "https://api.github.com/repos/ethereumclassic/ECIPs/commits/850c2c2e781fc4c54ee9c567e8e54dabcc4c3c4e",
+    "created_at": "2020-01-14T16:04:28Z"
+  }
