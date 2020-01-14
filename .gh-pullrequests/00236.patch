@@ -8,7 +8,7 @@ Subject: [PATCH 1/4] Update ecip-1000.md
  1 file changed, 5 insertions(+), 2 deletions(-)
 
 diff --git a/_specs/ecip-1000.md b/_specs/ecip-1000.md
-index b5b50dd..c04d6f4 100644
+index b5b50dd3..c04d6f48 100644
 --- a/_specs/ecip-1000.md
 +++ b/_specs/ecip-1000.md
 @@ -73,11 +73,14 @@ A good reason to transfer ownership is because the original author no longer has
@@ -39,7 +39,7 @@ Subject: [PATCH 2/4] Update ecip-1000.md
  1 file changed, 2 insertions(+), 5 deletions(-)
 
 diff --git a/_specs/ecip-1000.md b/_specs/ecip-1000.md
-index c04d6f4..eb93b46 100644
+index c04d6f48..eb93b460 100644
 --- a/_specs/ecip-1000.md
 +++ b/_specs/ecip-1000.md
 @@ -75,11 +75,8 @@ The current ECIP editors are:
@@ -67,7 +67,7 @@ Subject: [PATCH 3/4] Update ecip-1000.md
  1 file changed, 2 insertions(+), 2 deletions(-)
 
 diff --git a/_specs/ecip-1000.md b/_specs/ecip-1000.md
-index eb93b46..f3d40c7 100644
+index eb93b460..f3d40c77 100644
 --- a/_specs/ecip-1000.md
 +++ b/_specs/ecip-1000.md
 @@ -75,8 +75,8 @@ The current ECIP editors are:
@@ -92,7 +92,7 @@ Subject: [PATCH 4/4] Update ecip-1000.md
  1 file changed, 2 insertions(+), 2 deletions(-)
 
 diff --git a/_specs/ecip-1000.md b/_specs/ecip-1000.md
-index f3d40c7..5d4fa30 100644
+index f3d40c77..5d4fa307 100644
 --- a/_specs/ecip-1000.md
 +++ b/_specs/ecip-1000.md
 @@ -75,8 +75,8 @@ The current ECIP editors are:

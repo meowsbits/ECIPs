@@ -1,0 +1,43 @@
+{
+    "url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/comments/574242091",
+    "html_url": "https://github.com/ethereumclassic/ECIPs/pull/236#issuecomment-574242091",
+    "issue_url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/236",
+    "id": 574242091,
+    "node_id": "MDEyOklzc3VlQ29tbWVudDU3NDI0MjA5MQ==",
+    "user": {
+      "login": "TokenHash",
+      "id": 29529586,
+      "node_id": "MDQ6VXNlcjI5NTI5NTg2",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/29529586?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/TokenHash",
+      "html_url": "https://github.com/TokenHash",
+      "followers_url": "https://api.github.com/users/TokenHash/followers",
+      "following_url": "https://api.github.com/users/TokenHash/following{/other_user}",
+      "gists_url": "https://api.github.com/users/TokenHash/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/TokenHash/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/TokenHash/subscriptions",
+      "organizations_url": "https://api.github.com/users/TokenHash/orgs",
+      "repos_url": "https://api.github.com/users/TokenHash/repos",
+      "events_url": "https://api.github.com/users/TokenHash/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/TokenHash/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "created_at": "2020-01-14T15:54:28Z",
+    "updated_at": "2020-01-14T15:54:28Z",
+    "author_association": "MEMBER",
+    "body": "> It's important to document this because pesedo-anonymous is not common in process like this. If you look into EIP and BIP editors, none of them are anonymous.\r\n\r\nThat \"is not common\" is a subjective opinion, and whether in the EIP and BIP processes there are no pseudonymous participants is not relevant. What is relevant is that in the ECIP process it is absolutely acceptable to work pseudonymously. It is a long tradition of decades in the cypherpunk philosophy (the source and likely creators or Bitcoin) and Bitcoin, the first implementation of a PoW blockchain was, in fact created by a pseudonymous individual or team.\r\n\r\nAs it is imperative in the crypto industries (both cryptography and blockchain) to let people work in the level of privacy they prefer, it is irrelevant for the ECIP process what names contributors choose to use, therefore it is not appropriate, \"important\", nor advisable to mark participants by their levels of privacy.\r\n\r\nConclusion: this PR should be not accepted and closed.",
+    "reactions": {
+      "url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/comments/574242091/reactions",
+      "total_count": 0,
+      "+1": 0,
+      "-1": 0,
+      "laugh": 0,
+      "hooray": 0,
+      "confused": 0,
+      "heart": 0,
+      "rocket": 0,
+      "eyes": 0
+    }
+  }
