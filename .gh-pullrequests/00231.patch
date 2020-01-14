@@ -16,7 +16,7 @@ Perhaps this is raised in an ETC Core Developers call, and formally rejected?
  1 file changed, 1 insertion(+), 1 deletion(-)
 
 diff --git a/_specs/ecip-1052.md b/_specs/ecip-1052.md
-index 6bc89bc..b279c53 100644
+index 6bc89bcf..b279c53e 100644
 --- a/_specs/ecip-1052.md
 +++ b/_specs/ecip-1052.md
 @@ -2,7 +2,7 @@
