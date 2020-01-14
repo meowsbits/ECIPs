@@ -14,7 +14,7 @@ Subject: [PATCH] Remove MulanPSL as a Recommended License. While this license
  1 file changed, 1 deletion(-)
 
 diff --git a/_specs/ecip-1000.md b/_specs/ecip-1000.md
-index 0043cfe..767563b 100644
+index 0043cfe4..767563b6 100644
 --- a/_specs/ecip-1000.md
 +++ b/_specs/ecip-1000.md
 @@ -332,7 +332,6 @@ In this case, only the acceptable license(s) should be listed in the License and
