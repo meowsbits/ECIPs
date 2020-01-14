@@ -14,7 +14,7 @@ And then Reject it.
  1 file changed, 1 insertion(+), 1 deletion(-)
 
 diff --git a/_specs/ecip-1051.md b/_specs/ecip-1051.md
-index 1a64aaf..d14889b 100644
+index 1a64aafd..d14889ba 100644
 --- a/_specs/ecip-1051.md
 +++ b/_specs/ecip-1051.md
 @@ -2,7 +2,7 @@

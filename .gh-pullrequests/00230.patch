@@ -16,7 +16,7 @@ Best, I think, to reject.    A new ECBP could be written which generalized the p
  1 file changed, 1 insertion(+), 1 deletion(-)
 
 diff --git a/_specs/ecip-1057.md b/_specs/ecip-1057.md
-index 51b5b9f..a05e0c9 100644
+index 51b5b9f2..a05e0c96 100644
 --- a/_specs/ecip-1057.md
 +++ b/_specs/ecip-1057.md
 @@ -4,7 +4,7 @@ ecip: 1057

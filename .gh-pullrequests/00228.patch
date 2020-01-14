@@ -8,7 +8,7 @@ Subject: [PATCH 1/2] Fix Dexaran email in ECIP-1052 so web view is clean.
  1 file changed, 1 insertion(+), 1 deletion(-)
 
 diff --git a/_specs/ecip-1052.md b/_specs/ecip-1052.md
-index 6bc89bc..7d942c7 100644
+index 6bc89bcf..7d942c71 100644
 --- a/_specs/ecip-1052.md
 +++ b/_specs/ecip-1052.md
 @@ -4,7 +4,7 @@ ecip: 1052
@@ -32,7 +32,7 @@ Subject: [PATCH 2/2] Just remove the author field entirely, because the email
  1 file changed, 1 deletion(-)
 
 diff --git a/_specs/ecip-1052.md b/_specs/ecip-1052.md
-index 7d942c7..249053d 100644
+index 7d942c71..249053d1 100644
 --- a/_specs/ecip-1052.md
 +++ b/_specs/ecip-1052.md
 @@ -4,7 +4,6 @@ ecip: 1052
