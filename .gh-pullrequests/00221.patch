@@ -8,7 +8,7 @@ Subject: [PATCH 1/4] feat: propose only one meta ecip per hard fork
  1 file changed, 1 insertion(+), 1 deletion(-)
 
 diff --git a/_specs/ecip-1000.md b/_specs/ecip-1000.md
-index b5b50dd..75e5ee5 100644
+index b5b50dd3..75e5ee58 100644
 --- a/_specs/ecip-1000.md
 +++ b/_specs/ecip-1000.md
 @@ -171,7 +171,7 @@ There are three types of ECIP:
@@ -31,7 +31,7 @@ Subject: [PATCH 2/4] fix: add note about checking for existing
  1 file changed, 2 insertions(+), 1 deletion(-)
 
 diff --git a/_specs/ecip-1000.md b/_specs/ecip-1000.md
-index 75e5ee5..c587c81 100644
+index 75e5ee58..c587c81e 100644
 --- a/_specs/ecip-1000.md
 +++ b/_specs/ecip-1000.md
 @@ -19,6 +19,7 @@ We intend ECIPs to be the primary mechanism for proposing new features, for coll
@@ -62,7 +62,7 @@ Subject: [PATCH 3/4] Update _specs/ecip-1000.md
  1 file changed, 1 insertion(+), 1 deletion(-)
 
 diff --git a/_specs/ecip-1000.md b/_specs/ecip-1000.md
-index c587c81..7535c71 100644
+index c587c81e..7535c719 100644
 --- a/_specs/ecip-1000.md
 +++ b/_specs/ecip-1000.md
 @@ -49,7 +49,7 @@ It also helps to make sure the idea is applicable to the entire community and no
@@ -85,7 +85,7 @@ Subject: [PATCH 4/4] Update _specs/ecip-1000.md
  1 file changed, 1 deletion(-)
 
 diff --git a/_specs/ecip-1000.md b/_specs/ecip-1000.md
-index 7535c71..2287b2a 100644
+index 7535c719..2287b2a8 100644
 --- a/_specs/ecip-1000.md
 +++ b/_specs/ecip-1000.md
 @@ -19,7 +19,6 @@ We intend ECIPs to be the primary mechanism for proposing new features, for coll
