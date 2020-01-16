@@ -1,0 +1,49 @@
+{
+    "id": 367142136,
+    "node_id": "MDI0OlB1bGxSZXF1ZXN0UmV2aWV3Q29tbWVudDM2NzE0MjEzNg==",
+    "url": "https://api.github.com/repos/ethereumclassic/ECIPs/pulls/comments/367142136",
+    "pull_request_review_id": 343566351,
+    "diff_hunk": "@@ -353,6 +355,19 @@ In addition, it is recommended that literal code included in the ECIP be dual-li\n * Some ECIPs, especially consensus layer, may include literal code in the ECIP itself which may not be available under the exact license terms of the ECIP.\n * Despite this, not all software licenses would be acceptable for content included in ECIPs.\n \n+# ECIP Process Code of Conduct\n+\n+## ECIP Participants Will Adhere to the Following\n+\n+1. Anyone can participate in the ECIP process as a competent developer, miner, validator, node operator, user, or any other prescribed participant or stakeholder.\n+2. Within the ECIP documents and discussion pages, participants will conduct themselves professionally, focusing on ECIP issues, making sure their arguments are well founded, minimizing trolling, insulting or derogatory comments, and personal or political attacks.",
+    "path": "_specs/ecip-1000.md",
+    "position": 18,
+    "original_position": 18,
+    "commit_id": "7e0b362fae7f06ac46bfbdc9630856d2662d294f",
+    "user": {
+      "login": "YazzyYaz",
+      "id": 9094204,
+      "node_id": "MDQ6VXNlcjkwOTQyMDQ=",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/9094204?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/YazzyYaz",
+      "html_url": "https://github.com/YazzyYaz",
+      "followers_url": "https://api.github.com/users/YazzyYaz/followers",
+      "following_url": "https://api.github.com/users/YazzyYaz/following{/other_user}",
+      "gists_url": "https://api.github.com/users/YazzyYaz/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/YazzyYaz/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/YazzyYaz/subscriptions",
+      "organizations_url": "https://api.github.com/users/YazzyYaz/orgs",
+      "repos_url": "https://api.github.com/users/YazzyYaz/repos",
+      "events_url": "https://api.github.com/users/YazzyYaz/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/YazzyYaz/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "body": "I like the word choice of saying \"minimizing\" since that's the most realistic thing to expect in an open-system that maintains permissionlessness while not commiting the permissionless fallacy.",
+    "created_at": "2020-01-15T22:31:02Z",
+    "updated_at": "2020-01-15T22:53:24Z",
+    "html_url": "https://github.com/ethereumclassic/ECIPs/pull/258#discussion_r367142136",
+    "pull_request_url": "https://api.github.com/repos/ethereumclassic/ECIPs/pulls/258",
+    "author_association": "MEMBER",
+    "_links": {
+      "self": {
+        "href": "https://api.github.com/repos/ethereumclassic/ECIPs/pulls/comments/367142136"
+      },
+      "html": {
+        "href": "https://github.com/ethereumclassic/ECIPs/pull/258#discussion_r367142136"
+      },
+      "pull_request": {
+        "href": "https://api.github.com/repos/ethereumclassic/ECIPs/pulls/258"
+      }
+    },
+    "original_commit_id": "7e0b362fae7f06ac46bfbdc9630856d2662d294f"
+  }
