@@ -53,10 +53,10 @@
       "slug": "all-hands",
       "description": "everybody",
       "privacy": "closed",
-      "url": "https://api.github.com/teams/3034787",
+      "url": "https://api.github.com/organizations/20468622/team/3034787",
       "html_url": "https://github.com/orgs/ethereumclassic/teams/all-hands",
-      "members_url": "https://api.github.com/teams/3034787/members{/member}",
-      "repositories_url": "https://api.github.com/teams/3034787/repos",
+      "members_url": "https://api.github.com/organizations/20468622/team/3034787/members{/member}",
+      "repositories_url": "https://api.github.com/organizations/20468622/team/3034787/repos",
       "permission": "pull",
       "parent": null
     },
