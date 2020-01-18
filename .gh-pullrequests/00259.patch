@@ -1,10 +1,10 @@
 From 397a1260a5e541c76e4e5bb03b3a463dc7363d01 Mon Sep 17 00:00:00 2001
 From: Bob Summerwill <bob@summerwill.net>
 Date: Fri, 17 Jan 2020 16:06:05 -0800
-Subject: [PATCH] A proposal to place a hard cap on the gaslimit for the ETC
- mainnet as an in-protocol consensus rule. From the block that this ECIP was
- activated, gaslimit would follow a curve defined in this proposal rather than
- being subject to miner voting.
+Subject: [PATCH 1/2] A proposal to place a hard cap on the gaslimit for the
+ ETC mainnet as an in-protocol consensus rule. From the block that this ECIP
+ was activated, gaslimit would follow a curve defined in this proposal rather
+ than being subject to miner voting.
 
 ---
  _specs/ecip-hard-cap-gaslimit-in-protocol.md | 139 +++++++++++++++++++
@@ -156,3 +156,27 @@ index 00000000..d95ce5c1
 +This work is licensed under the [Apache License, Version 2.0](https://www.apache.org/licenses/LICENSE-2.0).  The author, Bob Summerwill, attests to his sole authorship of this work, and that he is able to contribute this work to the ECIP process under the Apache 2.0 licence.
 +
 +He further attests that he neither holds nor is aware of any patents, trademarks, copyright issues or other IP hinderances associated with this work.
+
+From d25d981e0dd0f4303eec553ef718104d0562c816 Mon Sep 17 00:00:00 2001
+From: Bob Summerwill <bob@summerwill.net>
+Date: Fri, 17 Jan 2020 16:12:06 -0800
+Subject: [PATCH 2/2] Added a Github issue for discussion and redirecting to it
+ here.
+
+---
+ _specs/ecip-hard-cap-gaslimit-in-protocol.md | 2 +-
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+
+diff --git a/_specs/ecip-hard-cap-gaslimit-in-protocol.md b/_specs/ecip-hard-cap-gaslimit-in-protocol.md
+index d95ce5c1..b55736be 100644
+--- a/_specs/ecip-hard-cap-gaslimit-in-protocol.md
++++ b/_specs/ecip-hard-cap-gaslimit-in-protocol.md
+@@ -8,7 +8,7 @@ type: Standards Track
+ category: Core
+ created: 2020-01-17
+ license: Apache-2.0
+-discussions-to: https://github.com/ethereumclassic/ECIPs/issues/174
++discussions-to: https://github.com/ethereumclassic/ECIPs/issues/260
+ ---
+ 
+ ## Abstract
