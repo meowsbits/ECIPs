@@ -1,7 +1,7 @@
 From facb3fc6a28adeb7c945a2bb774895eea34068bd Mon Sep 17 00:00:00 2001
 From: Bob Summerwill <bob@summerwill.net>
 Date: Sun, 19 Jan 2020 13:21:57 -0800
-Subject: [PATCH 1/2] This ECIP describes a Phoenix hard-fork which would
+Subject: [PATCH 1/3] This ECIP describes a Phoenix hard-fork which would
  replace Azltan.
 
 ---
@@ -125,7 +125,7 @@ index 00000000..fe9b53e5
 From 2444b7a1e706ac7a1650b1686c50b21de212074b Mon Sep 17 00:00:00 2001
 From: Bob Summerwill <bob@summerwill.net>
 Date: Sun, 19 Jan 2020 14:31:59 -0800
-Subject: [PATCH 2/2] Pointing to new SELFBALANCE opcode ECIP and updated
+Subject: [PATCH 2/3] Pointing to new SELFBALANCE opcode ECIP and updated
  Rationale.
 
 ---
@@ -176,3 +176,49 @@ index fe9b53e5..039766f6 100644
  
  
  ### Implementation
+
+From 4bd057feac7f9b83bcdc3b4fb5dc39b36b33d467 Mon Sep 17 00:00:00 2001
+From: Bob Summerwill <bob@summerwill.net>
+Date: Sun, 19 Jan 2020 15:01:58 -0800
+Subject: [PATCH 3/3] Sorpaas assigned ECIP-1079 to this ECIP and ECIP-1080 to
+ self-balance. Update links appropriately.
+
+---
+ _specs/{ecip-aztlan-redo.md => ecip-1079.md} | 7 +++----
+ 1 file changed, 3 insertions(+), 4 deletions(-)
+ rename _specs/{ecip-aztlan-redo.md => ecip-1079.md} (95%)
+
+diff --git a/_specs/ecip-aztlan-redo.md b/_specs/ecip-1079.md
+similarity index 95%
+rename from _specs/ecip-aztlan-redo.md
+rename to _specs/ecip-1079.md
+index 039766f6..4d5f114b 100644
+--- a/_specs/ecip-aztlan-redo.md
++++ b/_specs/ecip-1079.md
+@@ -1,6 +1,6 @@
+ ---
+ lang: en
+-ecip: Unassigned
++ecip: 1079
+ title: Phoenix EVM and Protocol Upgrades
+ author: Bob Summerwill (@bobsummerwill)
+ status: Draft
+@@ -68,7 +68,7 @@ After HARD_FORK_BLOCK, apply the following changes.
+ - Enable [EIP-1344](https://eips.ethereum.org/EIPS/eip-1344)
+ - Enable [EIP-2028](https://eips.ethereum.org/EIPS/eip-2028)
+ - Enable [EIP-1283](https://eips.ethereum.org/EIPS/eip-1283) with [EIP-1706](https://eips.ethereum.org/EIPS/eip-1706).
+-- Enable [SELFBALANCE opcode](https://github.com/ethereumclassic/ECIPs/issues/266)
++- Enable [ECIP-1080](https://github.com/ethereumclassic/ECIPs/issues/266)
+ 
+ 
+ ### Rationale
+@@ -112,8 +112,7 @@ The following clients with Ethereum Classic support implement the _Istanbul_ fea
+ The author is unaware if any of these clients have implemented [EIP-1706](https://eips.ethereum.org/EIPS/eip-1706), but it is a very simple change, analogous to [EIP-2200](https://eips.ethereum.org/EIPS/eip-2200), which all the
+ codebases have already implemented.
+ 
+-Similarly [50-SELFBALANCE](https://specs.corepaper.org/50-selfbalance) has not been implemented in any of these
+-codebases, but is just a "remix" of code which they have already implemented.
++Similarly [ECIP-1080](https://github.com/ethereumclassic/ECIPs/issues/266) has not been implemented in any of these codebases, but is just a "remix" of code which they have already implemented.
+ 
+ 
+ ## Copyright

@@ -5,9 +5,9 @@
     "node_id": "MDI0OlB1bGxSZXF1ZXN0UmV2aWV3Q29tbWVudDM2ODMyNzA3OA==",
     "diff_hunk": "@@ -0,0 +1,106 @@\n+---\n+lang: en\n+ecip: Unassigned",
     "path": "_specs/ecip-aztlan-redo.md",
-    "position": 3,
+    "position": null,
     "original_position": 3,
-    "commit_id": "2444b7a1e706ac7a1650b1686c50b21de212074b",
+    "commit_id": "4bd057feac7f9b83bcdc3b4fb5dc39b36b33d467",
     "original_commit_id": "facb3fc6a28adeb7c945a2bb774895eea34068bd",
     "user": {
       "login": "sorpaas",
@@ -31,7 +31,7 @@
     },
     "body": "Assign number ECIP-1079.",
     "created_at": "2020-01-19T22:11:54Z",
-    "updated_at": "2020-01-19T22:32:03Z",
+    "updated_at": "2020-01-19T23:02:03Z",
     "html_url": "https://github.com/ethereumclassic/ECIPs/pull/263#discussion_r368327078",
     "pull_request_url": "https://api.github.com/repos/ethereumclassic/ECIPs/pulls/263",
     "author_association": "CONTRIBUTOR",
@@ -49,7 +49,7 @@
     "start_line": null,
     "original_start_line": null,
     "start_side": null,
-    "line": 3,
+    "line": null,
     "original_line": 3,
     "side": "RIGHT"
   }

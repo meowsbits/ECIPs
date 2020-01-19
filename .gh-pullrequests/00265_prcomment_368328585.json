@@ -5,9 +5,9 @@
     "node_id": "MDI0OlB1bGxSZXF1ZXN0UmV2aWV3Q29tbWVudDM2ODMyODU4NQ==",
     "diff_hunk": "@@ -0,0 +1,72 @@\n+---\n+lang: en\n+ecip: Unassigned",
     "path": "_specs/ecip-standalone-self-balance.md",
-    "position": 3,
+    "position": null,
     "original_position": 3,
-    "commit_id": "ce8f51184f0535588121aee23524395068a10914",
+    "commit_id": "0b55b2557fa1791247fe0fadb2fe5b210347274e",
     "original_commit_id": "ce8f51184f0535588121aee23524395068a10914",
     "user": {
       "login": "sorpaas",
@@ -31,7 +31,7 @@
     },
     "body": "Assign number ECIP-1080.",
     "created_at": "2020-01-19T22:35:39Z",
-    "updated_at": "2020-01-19T22:35:39Z",
+    "updated_at": "2020-01-19T23:06:01Z",
     "html_url": "https://github.com/ethereumclassic/ECIPs/pull/265#discussion_r368328585",
     "pull_request_url": "https://api.github.com/repos/ethereumclassic/ECIPs/pulls/265",
     "author_association": "CONTRIBUTOR",
@@ -49,7 +49,7 @@
     "start_line": null,
     "original_start_line": null,
     "start_side": null,
-    "line": 3,
+    "line": null,
     "original_line": 3,
     "side": "RIGHT"
   }
