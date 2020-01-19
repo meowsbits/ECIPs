@@ -1,8 +1,8 @@
 From 575e717f321f3aeb83cafdecb4ccee9a0c3ecf9e Mon Sep 17 00:00:00 2001
 From: Bob Summerwill <bob@summerwill.net>
 Date: Sun, 19 Jan 2020 13:04:15 -0800
-Subject: [PATCH] Phoenix Hard-fork to occur at the same block as Aztlan - to
- "fix it".
+Subject: [PATCH 1/2] Phoenix Hard-fork to occur at the same block as Aztlan -
+ to "fix it".
 
 ---
  _specs/ecip-aztlan-fix.md | 84 +++++++++++++++++++++++++++++++++++++++
@@ -99,3 +99,26 @@ index 00000000..2c27dbad
 +This work is licensed under the [Apache License, Version 2.0](https://www.apache.org/licenses/LICENSE-2.0).  The author, Bob Summerwill, attests to his sole authorship of this work, and that he is able to contribute this work to the ECIP process under the Apache 2.0 licence.
 +
 +He further attests that he neither holds nor is aware of any patents, trademarks, copyright issues or other IP hinderances associated with this work.
+
+From 63ea6eadd8381d0ccdb1a57d71d2db3d6bac874e Mon Sep 17 00:00:00 2001
+From: Bob Summerwill <bob@summerwill.net>
+Date: Sun, 19 Jan 2020 13:06:17 -0800
+Subject: [PATCH 2/2] Added discussion link.
+
+---
+ _specs/ecip-aztlan-fix.md | 2 +-
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+
+diff --git a/_specs/ecip-aztlan-fix.md b/_specs/ecip-aztlan-fix.md
+index 2c27dbad..0a22ddee 100644
+--- a/_specs/ecip-aztlan-fix.md
++++ b/_specs/ecip-aztlan-fix.md
+@@ -7,7 +7,7 @@ status: Draft
+ type: Meta
+ created: 2020-01-19
+ license: Apache-2.0
+-discussions-to: TBD
++discussions-to: https://github.com/ethereumclassic/ECIPs/issues/262
+ ---
+ 
+ ### Simple Summary
