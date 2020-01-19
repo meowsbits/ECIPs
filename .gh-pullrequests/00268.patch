@@ -1,0 +1,22 @@
+From 5221af34ec71de511365575d4a78e46bf602b5d7 Mon Sep 17 00:00:00 2001
+From: Bob Summerwill <bob@summerwill.net>
+Date: Sun, 19 Jan 2020 15:24:56 -0800
+Subject: [PATCH] Fix malformed metadata for ECIP-1052.
+
+---
+ _specs/ecip-1052.md | 2 +-
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+
+diff --git a/_specs/ecip-1052.md b/_specs/ecip-1052.md
+index 6bc89bcf..ab335e3b 100644
+--- a/_specs/ecip-1052.md
++++ b/_specs/ecip-1052.md
+@@ -4,7 +4,7 @@ ecip: 1052
+ title: Smart-contract Security Auditing core
+ status: Draft
+ type: Meta
+-author: Dexaran, dexaran@ethereumclassic.org
++author: Dexaran <dexaran@ethereumclassic.org>
+ created: 2018-12-31
+ ---
+ 

@@ -8,7 +8,7 @@
     "id": 533533643,
     "node_id": "MDExOlB1bGxSZXF1ZXN0MzQ5NTkwOTgw",
     "number": 244,
-    "title": "REJECT 1067",
+    "title": "Withdraw ECIP-1067 - Standardize OS Level Management of Signature Handling (\"invoke-signer\")",
     "user": {
       "login": "zmitton",
       "id": 6954889,
@@ -41,7 +41,7 @@
     "milestone": null,
     "comments": 0,
     "created_at": "2019-12-05T18:58:11Z",
-    "updated_at": "2020-01-16T01:08:37Z",
+    "updated_at": "2020-01-19T23:27:45Z",
     "closed_at": null,
     "author_association": "CONTRIBUTOR",
     "pull_request": {
