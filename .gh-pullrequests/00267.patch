@@ -1,0 +1,26 @@
+From ed02a73a70d4910fe6efa904bbd5c4402cbac7d5 Mon Sep 17 00:00:00 2001
+From: Bob Summerwill <bob@summerwill.net>
+Date: Sun, 19 Jan 2020 15:19:26 -0800
+Subject: [PATCH] Remove doxing of ECIP Editors. Both soc1c and meowbits have
+ made crystal clear that they do not want their real names in ECIP-1000.
+
+---
+ _specs/ecip-1000.md | 4 ++--
+ 1 file changed, 2 insertions(+), 2 deletions(-)
+
+diff --git a/_specs/ecip-1000.md b/_specs/ecip-1000.md
+index 767563b6..f2a4d889 100644
+--- a/_specs/ecip-1000.md
++++ b/_specs/ecip-1000.md
+@@ -73,9 +73,9 @@ A good reason to transfer ownership is because the original author no longer has
+ The current ECIP editors are:
+ 
+ * Wei Tang (@sorpaas)
+-* Isaac Ardis (@meowsbits)
++* Mr. Meows D. Bits (@meowsbits)
+ * Cody Burns (@realcodywburns)
+-* Afri Schoedon (@soc1c)
++* Talha Cross (@soc1c)
+ * Yaz Khoury (@YazzyYaz)
+ * Zachary Belford (@BelfordZ)
+ 
