@@ -1,7 +1,7 @@
 From 575e717f321f3aeb83cafdecb4ccee9a0c3ecf9e Mon Sep 17 00:00:00 2001
 From: Bob Summerwill <bob@summerwill.net>
 Date: Sun, 19 Jan 2020 13:04:15 -0800
-Subject: [PATCH 1/3] Phoenix Hard-fork to occur at the same block as Aztlan -
+Subject: [PATCH 1/4] Phoenix Hard-fork to occur at the same block as Aztlan -
  to "fix it".
 
 ---
@@ -103,7 +103,7 @@ index 00000000..2c27dbad
 From 63ea6eadd8381d0ccdb1a57d71d2db3d6bac874e Mon Sep 17 00:00:00 2001
 From: Bob Summerwill <bob@summerwill.net>
 Date: Sun, 19 Jan 2020 13:06:17 -0800
-Subject: [PATCH 2/3] Added discussion link.
+Subject: [PATCH 2/4] Added discussion link.
 
 ---
  _specs/ecip-aztlan-fix.md | 2 +-
@@ -126,7 +126,7 @@ index 2c27dbad..0a22ddee 100644
 From 502bbd7575286970578379133b4d4fc1a3486945 Mon Sep 17 00:00:00 2001
 From: Bob Summerwill <bob@summerwill.net>
 Date: Sun, 19 Jan 2020 13:25:23 -0800
-Subject: [PATCH 3/3] Added details for the ETC Core Developer call where the
+Subject: [PATCH 3/4] Added details for the ETC Core Developer call where the
  scope of Aztlan was set, and link to Wei's recommendations on "Atzlan fix".
 
 ---
@@ -159,3 +159,58 @@ index 0a22ddee..d0cc9b59 100644
  
  Both hard-forks would be activated at the same block and the combination of both sets of changes
  would result in protocol changes which met the original intent.
+
+From 4822251081805bc459bb59d97aec64c4e814b111 Mon Sep 17 00:00:00 2001
+From: Bob Summerwill <bob@summerwill.net>
+Date: Sun, 19 Jan 2020 14:30:23 -0800
+Subject: [PATCH 4/4] Pointing to new SELFBALANCE opcode ECIP and updated
+ Rationale.
+
+---
+ _specs/ecip-aztlan-fix.md | 25 +++++++++++++++++++++----
+ 1 file changed, 21 insertions(+), 4 deletions(-)
+
+diff --git a/_specs/ecip-aztlan-fix.md b/_specs/ecip-aztlan-fix.md
+index d0cc9b59..33df7c1a 100644
+--- a/_specs/ecip-aztlan-fix.md
++++ b/_specs/ecip-aztlan-fix.md
+@@ -47,7 +47,7 @@ After HARD_FORK_BLOCK, apply the following changes:
+ - Disable [EIP-2200](https://eips.ethereum.org/EIPS/eip-2200)
+ - Enable [EIP-1283](https://eips.ethereum.org/EIPS/eip-1283) with [EIP-1706](https://eips.ethereum.org/EIPS/eip-1706) instead.
+ - Enable [https://specs.corepaper.org/50-selfbalance50-SELFBALANCE
+-- Enable [50-SELFBALANCE](https://specs.corepaper.org/50-selfbalance) - TODO - create an ECIP for this.
++- Enable [SELFBALANCE opcode](https://github.com/ethereumclassic/ECIPs/issues/266)
+ 
+ 
+ ### Rationale
+@@ -55,10 +55,27 @@ After HARD_FORK_BLOCK, apply the following changes:
+ [ECIP 1061: Aztlán EVM and Protocol Upgrades (Yingchun Edition)](https://ecips.ethereumclassic.org/ECIPs/ecip-1061) as defined is "broken" and it would be inadvisable to activate on the ETC mainnet in
+ its current state.
+ 
+-Two better options are:
++See [EIP 1884: Repricing for trie-size-dependent opcodes](https://eips.ethereum.org/EIPS/eip-1884) for
++the original rationale for the gas-repricings for ETH.
+ 
+-1. "fix it" and proceed on the existing timeline, if there is enough time to do that.
+-2. Withdraw it and build consensus for a new HF on a more conservative timeline.
++These changes are sensible, but they [broke 680 deployed Aragon smart contracts](https://www.coindesk.com/ethereums-istanbul-upgrade-will-break-680-smart-contracts-on-aragon) along with various other deployed
++smart contacts by applying the repricings retroactively and unconditionally.
++
++The new SELFBALANCE opcode does not break backwards compatibility.  For compatibility with ETH it is both
++necessary and desirable.
++
++Short of imminent and catatrophic danger to the ETC network, making retroactive changes which break
++backwards compatibility is counter to ETC values and philosophy.
++
++Gas-repricings to balance EVM gas prices with real world resource usage is entirely rational and is
++happening on the ETC protocol too, but will be done in a backwards-compatible ways wherever possible.
++Unconditional retroactive ("emergency") repricings would only happen when the network has been halted
++or has been rendered unusable.
++
++An example of such a situation occurred following the Shanghai attacks on ETH and ETC networks:
++
++[ECIP 1015: Long-term gas cost changes for IO-heavy operations to mitigate transaction spam attacks](https://ecips.ethereumclassic.org/ECIPs/ecip-1015), which has ETC's equivalent to [ETH Tangerine Whistle](https://eips.ethereum.org/EIPS/eip-608),
++with both chains implementing [EIP 150: Gas cost changes for IO-heavy operations](https://eips.ethereum.org/EIPS/eip-150).
+ 
+ 
+ ### Implementation

@@ -1,14 +1,13 @@
 {
-    "url": "https://api.github.com/repos/ethereumclassic/ECIPs/pulls/comments/368327037",
-    "pull_request_review_id": 345030020,
-    "id": 368327037,
-    "node_id": "MDI0OlB1bGxSZXF1ZXN0UmV2aWV3Q29tbWVudDM2ODMyNzAzNw==",
-    "diff_hunk": "@@ -0,0 +1,85 @@\n+---\n+lang: en\n+ecip: Unassigned",
-    "path": "_specs/ecip-aztlan-fix.md",
+    "id": 368328585,
+    "node_id": "MDI0OlB1bGxSZXF1ZXN0UmV2aWV3Q29tbWVudDM2ODMyODU4NQ==",
+    "url": "https://api.github.com/repos/ethereumclassic/ECIPs/pulls/comments/368328585",
+    "pull_request_review_id": 345031438,
+    "diff_hunk": "@@ -0,0 +1,72 @@\n+---\n+lang: en\n+ecip: Unassigned",
+    "path": "_specs/ecip-standalone-self-balance.md",
     "position": 3,
     "original_position": 3,
-    "commit_id": "4822251081805bc459bb59d97aec64c4e814b111",
-    "original_commit_id": "502bbd7575286970578379133b4d4fc1a3486945",
+    "commit_id": "ce8f51184f0535588121aee23524395068a10914",
     "user": {
       "login": "sorpaas",
       "id": 6277322,
@@ -29,27 +28,22 @@
       "type": "User",
       "site_admin": false
     },
-    "body": "Assign number ECIP-1078.",
-    "created_at": "2020-01-19T22:11:30Z",
-    "updated_at": "2020-01-19T22:30:27Z",
-    "html_url": "https://github.com/ethereumclassic/ECIPs/pull/261#discussion_r368327037",
-    "pull_request_url": "https://api.github.com/repos/ethereumclassic/ECIPs/pulls/261",
+    "body": "Assign number ECIP-1080.",
+    "created_at": "2020-01-19T22:35:39Z",
+    "updated_at": "2020-01-19T22:35:39Z",
+    "html_url": "https://github.com/ethereumclassic/ECIPs/pull/265#discussion_r368328585",
+    "pull_request_url": "https://api.github.com/repos/ethereumclassic/ECIPs/pulls/265",
     "author_association": "CONTRIBUTOR",
     "_links": {
       "self": {
-        "href": "https://api.github.com/repos/ethereumclassic/ECIPs/pulls/comments/368327037"
+        "href": "https://api.github.com/repos/ethereumclassic/ECIPs/pulls/comments/368328585"
       },
       "html": {
-        "href": "https://github.com/ethereumclassic/ECIPs/pull/261#discussion_r368327037"
+        "href": "https://github.com/ethereumclassic/ECIPs/pull/265#discussion_r368328585"
       },
       "pull_request": {
-        "href": "https://api.github.com/repos/ethereumclassic/ECIPs/pulls/261"
+        "href": "https://api.github.com/repos/ethereumclassic/ECIPs/pulls/265"
       }
     },
-    "start_line": null,
-    "original_start_line": null,
-    "start_side": null,
-    "line": 3,
-    "original_line": 3,
-    "side": "RIGHT"
+    "original_commit_id": "ce8f51184f0535588121aee23524395068a10914"
   }

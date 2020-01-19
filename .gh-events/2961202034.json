@@ -1,7 +1,7 @@
 {
-    "id": 2961164342,
-    "node_id": "MDEzOkFzc2lnbmVkRXZlbnQyOTYxMTY0MzQy",
-    "url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/events/2961164342",
+    "id": 2961202034,
+    "node_id": "MDEzOkFzc2lnbmVkRXZlbnQyOTYxMjAyMDM0",
+    "url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/events/2961202034",
     "actor": {
       "login": "bobsummerwill",
       "id": 3788156,
@@ -25,7 +25,7 @@
     "event": "assigned",
     "commit_id": null,
     "commit_url": null,
-    "created_at": "2020-01-19T21:22:41Z",
+    "created_at": "2020-01-19T22:27:56Z",
     "assignee": {
       "login": "bobsummerwill",
       "id": 3788156,
@@ -67,16 +67,16 @@
       "site_admin": false
     },
     "issue": {
-      "url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/263",
+      "url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/266",
       "repository_url": "https://api.github.com/repos/ethereumclassic/ECIPs",
-      "labels_url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/263/labels{/name}",
-      "comments_url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/263/comments",
-      "events_url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/263/events",
-      "html_url": "https://github.com/ethereumclassic/ECIPs/pull/263",
-      "id": 551987952,
-      "node_id": "MDExOlB1bGxSZXF1ZXN0MzY0NTgxNTg5",
-      "number": 263,
-      "title": "This ECIP describes a Phoenix hard-fork which would replace Azltan",
+      "labels_url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/266/labels{/name}",
+      "comments_url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/266/comments",
+      "events_url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/266/events",
+      "html_url": "https://github.com/ethereumclassic/ECIPs/issues/266",
+      "id": 551996006,
+      "node_id": "MDU6SXNzdWU1NTE5OTYwMDY=",
+      "number": 266,
+      "title": "Standalone SELFBALANCE opcode",
       "user": {
         "login": "bobsummerwill",
         "id": 3788156,
@@ -146,17 +146,11 @@
       ],
       "milestone": null,
       "comments": 0,
-      "created_at": "2020-01-19T21:22:41Z",
-      "updated_at": "2020-01-19T22:32:03Z",
+      "created_at": "2020-01-19T22:27:56Z",
+      "updated_at": "2020-01-19T22:27:56Z",
       "closed_at": null,
       "author_association": "MEMBER",
       "active_lock_reason": null,
-      "pull_request": {
-        "url": "https://api.github.com/repos/ethereumclassic/ECIPs/pulls/263",
-        "html_url": "https://github.com/ethereumclassic/ECIPs/pull/263",
-        "diff_url": "https://github.com/ethereumclassic/ECIPs/pull/263.diff",
-        "patch_url": "https://github.com/ethereumclassic/ECIPs/pull/263.patch"
-      },
-      "body": ""
+      "body": "Discussion for #265 "
     }
   }
