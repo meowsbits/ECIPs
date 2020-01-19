@@ -1,0 +1,25 @@
+From f42c6e1c22dd548bc7a5b6eec66009d05bbdbcbe Mon Sep 17 00:00:00 2001
+From: Bob Summerwill <bob@summerwill.net>
+Date: Sun, 19 Jan 2020 15:32:47 -0800
+Subject: [PATCH] Progress ECIP-1048 (Clique) to Final Call. It was implemented
+ a long time ago, but the ECIP was never updated. We have to move it to Final
+ Call first and then after is has been in that status, we can move it to
+ Accepted, and then on to Final. This is just house-keeping.
+
+---
+ _specs/ecip-1048.md | 2 +-
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+
+diff --git a/_specs/ecip-1048.md b/_specs/ecip-1048.md
+index 121a65f3..640b6529 100644
+--- a/_specs/ecip-1048.md
++++ b/_specs/ecip-1048.md
+@@ -4,7 +4,7 @@ ecip: 1048
+ title: Clique proof-of-authority consensus protocol
+ author: Péter Szilágyi <peterke@gmail.com>
+ discussions-to: https://github.com/ethereum/EIPs/issues/225
+-status: Draft
++status: Last Call
+ type: Standards Track
+ category: Core
+ created: 2017-03-06
