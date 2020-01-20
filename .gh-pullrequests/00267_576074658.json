@@ -25,9 +25,9 @@
       "site_admin": false
     },
     "created_at": "2020-01-20T01:42:19Z",
-    "updated_at": "2020-01-20T01:42:19Z",
+    "updated_at": "2020-01-20T01:53:04Z",
     "author_association": "CONTRIBUTOR",
-    "body": "> That is a convention which I actually suggested (and which has not been implemented). You have not followed that convention yourself, and again you have just conjured this requirement out of thin air.\r\n\r\nIronically yes, this convention was what **you** suggested (or rather, demanded me to follow). It was a response weeks after the MulanPSL was merged as an acceptable license for ECIP. I followed your request and then subsequently removed MulanPSL from ECIP-1000. I do think you're damaging ETC Cooperative's and your own reputation here by making up the fact that I have \"not followed that convention\" myself. People will start to question, whether the promises made by ETC Cooperative is actually trust-able.",
+    "body": "> That is a convention which I actually suggested (and which has not been implemented). You have not followed that convention yourself, and again you have just conjured this requirement out of thin air.\r\n\r\nIronically yes, this convention was what **you** suggested (or rather, demanded me to follow). It was used as an argument to revert the changes weeks after the MulanPSL was merged as an acceptable license for ECIP. I followed your request and then subsequently removed MulanPSL from ECIP-1000. I do think you're damaging ETC Cooperative's and your own reputation here by making up the fact that I have \"not followed that convention\" myself. People will start to question, whether the promises made by ETC Cooperative is actually trust-able.",
     "reactions": {
       "url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/comments/576074658/reactions",
       "total_count": 0,
