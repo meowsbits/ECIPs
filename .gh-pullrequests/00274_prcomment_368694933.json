@@ -7,7 +7,7 @@
     "path": "_specs/ECIP-TBD.md",
     "position": 16,
     "original_position": 16,
-    "commit_id": "27c30a592552777a3e0c9bce51c108b77abf38ca",
+    "commit_id": "e8bbd728be0cb187fe1256e147cd3294dba27e86",
     "original_commit_id": "971064478b1bd63d38e302cd37c6ca5a5d6fee6e",
     "user": {
       "login": "husainfazel",
@@ -31,7 +31,7 @@
     },
     "body": "This section requires examples / links to screenshots otherwise it's impossible to review these claims against @sorpaas. ",
     "created_at": "2020-01-20T19:16:39Z",
-    "updated_at": "2020-01-20T19:17:36Z",
+    "updated_at": "2020-01-20T19:39:56Z",
     "html_url": "https://github.com/ethereumclassic/ECIPs/pull/274#discussion_r368694933",
     "pull_request_url": "https://api.github.com/repos/ethereumclassic/ECIPs/pulls/274",
     "author_association": "NONE",
