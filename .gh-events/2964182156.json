@@ -1,7 +1,7 @@
 {
-    "id": 2963982903,
-    "node_id": "MDE0Ok1lbnRpb25lZEV2ZW50Mjk2Mzk4MjkwMw==",
-    "url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/events/2963982903",
+    "id": 2964182156,
+    "node_id": "MDE1OlN1YnNjcmliZWRFdmVudDI5NjQxODIxNTY=",
+    "url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/events/2964182156",
     "actor": {
       "login": "sorpaas",
       "id": 6277322,
@@ -22,10 +22,10 @@
       "type": "User",
       "site_admin": false
     },
-    "event": "mentioned",
+    "event": "subscribed",
     "commit_id": null,
     "commit_url": null,
-    "created_at": "2020-01-20T19:26:39Z",
+    "created_at": "2020-01-20T21:03:10Z",
     "issue": {
       "url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/273",
       "repository_url": "https://api.github.com/repos/ethereumclassic/ECIPs",

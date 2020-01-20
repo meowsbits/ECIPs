@@ -39,9 +39,9 @@
 
     ],
     "milestone": null,
-    "comments": 4,
+    "comments": 5,
     "created_at": "2020-01-20T19:03:41Z",
-    "updated_at": "2020-01-20T19:26:39Z",
+    "updated_at": "2020-01-20T21:03:10Z",
     "closed_at": null,
     "author_association": "MEMBER",
     "body": "This is the discussion page for the proposal to remove Wei Tang from internal functions in this ETC repo.",
