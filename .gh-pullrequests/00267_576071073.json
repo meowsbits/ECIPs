@@ -1,0 +1,43 @@
+{
+    "url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/comments/576071073",
+    "html_url": "https://github.com/ethereumclassic/ECIPs/pull/267#issuecomment-576071073",
+    "issue_url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/267",
+    "id": 576071073,
+    "node_id": "MDEyOklzc3VlQ29tbWVudDU3NjA3MTA3Mw==",
+    "user": {
+      "login": "bobsummerwill",
+      "id": 3788156,
+      "node_id": "MDQ6VXNlcjM3ODgxNTY=",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/3788156?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/bobsummerwill",
+      "html_url": "https://github.com/bobsummerwill",
+      "followers_url": "https://api.github.com/users/bobsummerwill/followers",
+      "following_url": "https://api.github.com/users/bobsummerwill/following{/other_user}",
+      "gists_url": "https://api.github.com/users/bobsummerwill/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/bobsummerwill/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/bobsummerwill/subscriptions",
+      "organizations_url": "https://api.github.com/users/bobsummerwill/orgs",
+      "repos_url": "https://api.github.com/users/bobsummerwill/repos",
+      "events_url": "https://api.github.com/users/bobsummerwill/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/bobsummerwill/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "created_at": "2020-01-20T01:16:27Z",
+    "updated_at": "2020-01-20T01:16:27Z",
+    "author_association": "MEMBER",
+    "body": "They have explicitly requested that their pseudonyms be used.   I don't see any room for interpretation whatsoever.  Your continued refusal to acknowledge that right of theirs *is* doxing.\r\n\r\n\"If editors are all anonymous, we will have no idea of the responsibilities and it will have serious consequences of credibility for ECIP as a whole. This, of course, does not mean that anonymous figures cannot participate in ECIP process -- they can, just not as public facing ECIP editors.\"\r\n\r\nYou have made this up.  The ECIP process states no such thing.\r\n\r\n\"As a convention, ECIP-1000 should be updated by supplying amendment ECIPs. When those amendment ECIPs moved to final, the changes can be applied to ECIP-1000. This PR failed to follow the convention.\"\r\n\r\nThat is a convention which I actually suggested (and which has not been implemented).   You have not followed that convention yourself, and again you have just conjured this requirement out of thin air.\r\n",
+    "reactions": {
+      "url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/comments/576071073/reactions",
+      "total_count": 0,
+      "+1": 0,
+      "-1": 0,
+      "laugh": 0,
+      "hooray": 0,
+      "confused": 0,
+      "heart": 0,
+      "rocket": 0,
+      "eyes": 0
+    }
+  }
