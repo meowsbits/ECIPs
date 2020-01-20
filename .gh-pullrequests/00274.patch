@@ -1,7 +1,7 @@
 From 04c7cb3804ca7fe454e9f951abe83820d70a8b86 Mon Sep 17 00:00:00 2001
 From: Donald McIntyre <donald@etherplan.com>
 Date: Mon, 20 Jan 2020 12:04:16 -0700
-Subject: [PATCH] Proposal for owner, member, editor, & author removal
+Subject: [PATCH 1/2] Proposal for owner, member, editor, & author removal
 
 Proposal to remove Wei Tang (@sorpaas) from internal function in the Ethereum Classic repository.
 ---
@@ -51,3 +51,18 @@ index 00000000..87f1c490
 +### Copyright/Licensing
 +
 +Apache -2
+
+From 971064478b1bd63d38e302cd37c6ca5a5d6fee6e Mon Sep 17 00:00:00 2001
+From: Donald McIntyre <donald@etherplan.com>
+Date: Mon, 20 Jan 2020 12:09:14 -0700
+Subject: [PATCH 2/2] Rename ECIP-TBD to ECIP-TBD.md
+
+---
+ _specs/{ECIP-TBD => ECIP-TBD.md} | 0
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+ rename _specs/{ECIP-TBD => ECIP-TBD.md} (100%)
+
+diff --git a/_specs/ECIP-TBD b/_specs/ECIP-TBD.md
+similarity index 100%
+rename from _specs/ECIP-TBD
+rename to _specs/ECIP-TBD.md
