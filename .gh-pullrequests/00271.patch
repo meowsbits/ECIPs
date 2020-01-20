@@ -1,0 +1,33 @@
+From 9d52157e0bb1b5dd70e14452973224f2d90ae821 Mon Sep 17 00:00:00 2001
+From: Bob Summerwill <bob@summerwill.net>
+Date: Sun, 19 Jan 2020 17:25:23 -0800
+Subject: [PATCH] Updated ECIP-1045 to note that it was Replaced by ECIP-1054
+ and ECIP-1056.
+
+---
+ _specs/ecip-1045.md | 7 ++++++-
+ 1 file changed, 6 insertions(+), 1 deletion(-)
+
+diff --git a/_specs/ecip-1045.md b/_specs/ecip-1045.md
+index a77553b3..e166f7cb 100644
+--- a/_specs/ecip-1045.md
++++ b/_specs/ecip-1045.md
+@@ -2,12 +2,17 @@
+ lang: en
+ ecip: 1045
+ title: Support for ETH Byzantium & Constantinople EVM and Protocol Upgrades
+-status: Draft
++status: Replaced
+ type: Meta
+ author: Isaac Ardis <isaac@etcdevteam.com>
+ created: 2018-06-18
+ ---
+ 
++###  NOTE
++
++The ECIP was replaced by [ECIP-1054 - Atlantis](https://ecips.ethereumclassic.org/ECIPs/ecip-1054) and
++[ECIP-1056 - Agharta](https://ecips.ethereumclassic.org/ECIPs/ecip-1056).  This ECIP was never activated.
++
+ ### Abstract
+ 
+ Add support for a subset of protocol-impacting changes introduced in the Ethereum Foundation (ETH) network via the _Byzantium_ hardfork. The proposed changes include:
