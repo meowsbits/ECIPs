@@ -1,0 +1,43 @@
+{
+    "url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/comments/576400325",
+    "html_url": "https://github.com/ethereumclassic/ECIPs/issues/273#issuecomment-576400325",
+    "issue_url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/273",
+    "id": 576400325,
+    "node_id": "MDEyOklzc3VlQ29tbWVudDU3NjQwMDMyNQ==",
+    "user": {
+      "login": "sorpaas",
+      "id": 6277322,
+      "node_id": "MDQ6VXNlcjYyNzczMjI=",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/6277322?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/sorpaas",
+      "html_url": "https://github.com/sorpaas",
+      "followers_url": "https://api.github.com/users/sorpaas/followers",
+      "following_url": "https://api.github.com/users/sorpaas/following{/other_user}",
+      "gists_url": "https://api.github.com/users/sorpaas/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/sorpaas/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/sorpaas/subscriptions",
+      "organizations_url": "https://api.github.com/users/sorpaas/orgs",
+      "repos_url": "https://api.github.com/users/sorpaas/repos",
+      "events_url": "https://api.github.com/users/sorpaas/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/sorpaas/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "created_at": "2020-01-20T19:15:39Z",
+    "updated_at": "2020-01-20T19:15:39Z",
+    "author_association": "CONTRIBUTOR",
+    "body": "I agree with this. As maintainer of one of the three major clients for ETC, multi-geth, author of the current ECIP-1000 process, and many specifications currently active on the ETC network, if what I'm doing is not appreciated, I'll be happy to leave the ETC community.\r\n\r\nI guess this issue is related to ECIP-1061. Back in the beginning of the discussion, I have been objecting ECIP-1061 because it has not followed the process (#220). I specifically said, in the [discussion thread](https://github.com/ethereumclassic/ECIPs/pull/220#issuecomment-561401805), that this may result in security flaws:\r\n\r\n> I don't know what you want to accomplish here by arguing a thing that's not even related to this PR -- we're talking about violation of ECIP-1061, and it's not even related to the discussion of ECIP-1061 vs ECIP-1072. I can only take this as you're so confident in the ECIP you're proposing that you think there's absolutely no issue in the specification or whatsoever.\r\n\r\nETC Cooperative and Afri, however, tried really hard to silence that objection, and continued to push forward ECIP-1061, which I think it's totally inappropriate. Later, we indeed discovered design, and possibly security issues within the specification (https://corepaper.org/ethereum/fork/istanbul/#_ethereum_classic). ETC Cooperative, however, continue to try to use the argument of \"doxxing\" and \"personal attacks\" (https://github.com/ethereumclassic/ECIPs/pull/267) to try to cover up their wrongdoings on ECIP-1061, and goes as far as trying to remove me from the ETC community.\r\n\r\nI work on Polkadot and Substrate and really don't have any financial gains in ETC. If this continues, I think I can only say farewell. So long and thanks for all the fish!",
+    "reactions": {
+      "url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/comments/576400325/reactions",
+      "total_count": 0,
+      "+1": 0,
+      "-1": 0,
+      "laugh": 0,
+      "hooray": 0,
+      "confused": 0,
+      "heart": 0,
+      "rocket": 0,
+      "eyes": 0
+    }
+  }
