@@ -1,14 +1,9 @@
 {
-    "url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/273",
-    "repository_url": "https://api.github.com/repos/ethereumclassic/ECIPs",
-    "labels_url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/273/labels{/name}",
-    "comments_url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/273/comments",
-    "events_url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/273/events",
-    "html_url": "https://github.com/ethereumclassic/ECIPs/issues/273",
-    "id": 552464455,
-    "node_id": "MDU6SXNzdWU1NTI0NjQ0NTU=",
-    "number": 273,
-    "title": "Proposal for owner, member, editor, & author removal",
+    "url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/comments/576403241",
+    "html_url": "https://github.com/ethereumclassic/ECIPs/issues/273#issuecomment-576403241",
+    "issue_url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/273",
+    "id": 576403241,
+    "node_id": "MDEyOklzc3VlQ29tbWVudDU3NjQwMzI0MQ==",
     "user": {
       "login": "TokenHash",
       "id": 29529586,
@@ -29,24 +24,12 @@
       "type": "User",
       "site_admin": false
     },
-    "labels": [
-
-    ],
-    "state": "open",
-    "locked": false,
-    "assignee": null,
-    "assignees": [
-
-    ],
-    "milestone": null,
-    "comments": 4,
-    "created_at": "2020-01-20T19:03:41Z",
+    "created_at": "2020-01-20T19:26:39Z",
     "updated_at": "2020-01-20T19:26:39Z",
-    "closed_at": null,
     "author_association": "MEMBER",
-    "body": "This is the discussion page for the proposal to remove Wei Tang from internal functions in this ETC repo.",
+    "body": "As the person being in the process of proposed removal agrees with his removal as can be seen above: https://github.com/ethereumclassic/ECIPs/issues/273#issuecomment-576400325\r\n\r\nWhich is the same effect as presenting his resignation, I propose other editors and repo managers to proceed to remove @sorpaas ASAP.",
     "reactions": {
-      "url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/273/reactions",
+      "url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/comments/576403241/reactions",
       "total_count": 0,
       "+1": 0,
       "-1": 0,
