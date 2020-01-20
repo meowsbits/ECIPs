@@ -1,8 +1,8 @@
 From ed02a73a70d4910fe6efa904bbd5c4402cbac7d5 Mon Sep 17 00:00:00 2001
 From: Bob Summerwill <bob@summerwill.net>
 Date: Sun, 19 Jan 2020 15:19:26 -0800
-Subject: [PATCH] Remove doxing of ECIP Editors. Both soc1c and meowbits have
- made crystal clear that they do not want their real names in ECIP-1000.
+Subject: [PATCH 1/2] Remove doxing of ECIP Editors. Both soc1c and meowbits
+ have made crystal clear that they do not want their real names in ECIP-1000.
 
 ---
  _specs/ecip-1000.md | 4 ++--
@@ -24,3 +24,64 @@ index 767563b6..f2a4d889 100644
  * Yaz Khoury (@YazzyYaz)
  * Zachary Belford (@BelfordZ)
  
+
+From 86620c6006e2b5e3bcad026fe53b3f7b295066cd Mon Sep 17 00:00:00 2001
+From: Bob Summerwill <bob@summerwill.net>
+Date: Sun, 19 Jan 2020 18:22:37 -0800
+Subject: [PATCH 2/2] Added an ECIP to accompany my proposed change to
+ ECIP-1000 "Do Not Dox ECIP Editors"
+
+---
+ _specs/ecip-do_not_dox.md | 43 +++++++++++++++++++++++++++++++++++++++
+ 1 file changed, 43 insertions(+)
+ create mode 100644 _specs/ecip-do_not_dox.md
+
+diff --git a/_specs/ecip-do_not_dox.md b/_specs/ecip-do_not_dox.md
+new file mode 100644
+index 00000000..78c68e6e
+--- /dev/null
++++ b/_specs/ecip-do_not_dox.md
+@@ -0,0 +1,43 @@
++---
++lang: en
++ecip: Unassigned
++title: Do Not Dox ECIP Editors
++author: Bob Summerwill (@bobsummerwill)
++status: Draft
++type: Meta
++created: 2020-01-19
++license: Apache-2.0
++discussions-to: https://github.com/ethereumclassic/ECIPs/issues/272
++---
++
++### Abstract
++
++Both [soc1c](https://github.com/soc1c) and [meowbits](https://github.com/meowbits) have
++made it crystal clear in multiple posts across Github and the ETC Discord server
++that they do not want their real names to be used in ECIP-1000 anymore, but instead
++will be using "Talha Cross" and "Mr. Meows D. Bits" respectively as their pseudonyms.
++
++Their contact details remain the same and they are readily contactable.
++
++
++### Motivation
++
++Donald expressed this [very well](https://github.com/ethereumclassic/ECIPs/pull/236#issuecomment-574242091)
++in a recent Github comment:
++
++"... it is absolutely acceptable to work pseudonymously. It is a long tradition of
++decades in the cypherpunk philosophy (the source and likely creators or Bitcoin) and
++Bitcoin, the first implementation of a PoW blockchain, was, in fact, created by a
++pseudonymous individual or team.
++
++As it is imperative in the crypto industries (both cryptography and blockchain) to let
++people work in the level of privacy they prefer, it is irrelevant for the ECIP process
++what names contributors choose to use, therefore it is not appropriate, "important",
++nor advisable to mark participants by their levels of privacy."
++
++
++## Copyright
++
++This work is licensed under the [Apache License, Version 2.0](https://www.apache.org/licenses/LICENSE-2.0).  The author, Bob Summerwill, attests to his sole authorship of this work, and that he is able to contribute this work to the ECIP process under the Apache 2.0 licence.
++
++He further attests that he neither holds nor is aware of any patents, trademarks, copyright issues or other IP hinderances associated with this work.
