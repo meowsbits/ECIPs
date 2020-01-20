@@ -77,9 +77,9 @@
       }
     ],
     "milestone": null,
-    "comments": 2,
+    "comments": 3,
     "created_at": "2020-01-19T23:21:59Z",
-    "updated_at": "2020-01-20T01:30:28Z",
+    "updated_at": "2020-01-20T01:34:24Z",
     "closed_at": null,
     "author_association": "MEMBER",
     "pull_request": {
