@@ -1,7 +1,7 @@
 From 04c7cb3804ca7fe454e9f951abe83820d70a8b86 Mon Sep 17 00:00:00 2001
 From: Donald McIntyre <donald@etherplan.com>
 Date: Mon, 20 Jan 2020 12:04:16 -0700
-Subject: [PATCH 1/2] Proposal for owner, member, editor, & author removal
+Subject: [PATCH 1/3] Proposal for owner, member, editor, & author removal
 
 Proposal to remove Wei Tang (@sorpaas) from internal function in the Ethereum Classic repository.
 ---
@@ -55,7 +55,7 @@ index 00000000..87f1c490
 From 971064478b1bd63d38e302cd37c6ca5a5d6fee6e Mon Sep 17 00:00:00 2001
 From: Donald McIntyre <donald@etherplan.com>
 Date: Mon, 20 Jan 2020 12:09:14 -0700
-Subject: [PATCH 2/2] Rename ECIP-TBD to ECIP-TBD.md
+Subject: [PATCH 2/3] Rename ECIP-TBD to ECIP-TBD.md
 
 ---
  _specs/{ECIP-TBD => ECIP-TBD.md} | 0
@@ -66,3 +66,34 @@ diff --git a/_specs/ECIP-TBD b/_specs/ECIP-TBD.md
 similarity index 100%
 rename from _specs/ECIP-TBD
 rename to _specs/ECIP-TBD.md
+
+From 27c30a592552777a3e0c9bce51c108b77abf38ca Mon Sep 17 00:00:00 2001
+From: Donald McIntyre <donald@etherplan.com>
+Date: Mon, 20 Jan 2020 12:17:35 -0700
+Subject: [PATCH 3/3] Update ECIP-TBD.md
+
+---
+ _specs/ECIP-TBD.md | 10 +++++-----
+ 1 file changed, 5 insertions(+), 5 deletions(-)
+
+diff --git a/_specs/ECIP-TBD.md b/_specs/ECIP-TBD.md
+index 87f1c490..95c3a385 100644
+--- a/_specs/ECIP-TBD.md
++++ b/_specs/ECIP-TBD.md
+@@ -15,11 +15,11 @@ I propose Wei Tang (@sorpaas) be expelled from the Ethereum Classic organization
+ 
+ ### Rationale
+ 
+-He doxxed two editors in ECIP-1000 and fails to correct that doxxing even after being called out for it.
+-Abuses his position as ECIP 'editor' and ECIP-1000 'author' to impose false process rules and procedures that only advance his ideas and agenda.
+-He constantly lies about how the ECIP process 'should' be according to imaginary rules he makes up, just to stop others from opining and introducing their ideas.
+-He is persistently abusive and bully to other developers and contributors by threatening and telling them they 'want bugs' on ETC and that they promote a new 'theDAO'.
+-He falsely creates an equivalency between the operating blockchain and the ECIP process as if the ECIP process were as sacred as the blockchain, and property and agreements within it.
++1. He doxxed two editors in ECIP-1000 and fails to correct that doxxing even after being called out for it.
++2. Abuses his position as ECIP 'editor' and ECIP-1000 'author' to impose false process rules and procedures that only advance his ideas and agenda.
++3. He constantly lies about how the ECIP process 'should' be according to imaginary rules he makes up, just to stop others from opining and introducing their ideas.
++4. He is persistently abusive and bully to other developers and contributors by threatening and telling them they 'want bugs' on ETC and that they promote a new 'theDAO'.
++5. He falsely creates an equivalency between the operating blockchain and the ECIP process as if the ECIP process were as sacred as the blockchain, and property and agreements within it.
+ 
+ ### Motivation
+ 
