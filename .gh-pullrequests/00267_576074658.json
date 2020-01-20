@@ -1,9 +1,9 @@
 {
-    "url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/comments/576073427",
-    "html_url": "https://github.com/ethereumclassic/ECIPs/pull/267#issuecomment-576073427",
+    "url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/comments/576074658",
+    "html_url": "https://github.com/ethereumclassic/ECIPs/pull/267#issuecomment-576074658",
     "issue_url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/267",
-    "id": 576073427,
-    "node_id": "MDEyOklzc3VlQ29tbWVudDU3NjA3MzQyNw==",
+    "id": 576074658,
+    "node_id": "MDEyOklzc3VlQ29tbWVudDU3NjA3NDY1OA==",
     "user": {
       "login": "sorpaas",
       "id": 6277322,
@@ -24,12 +24,12 @@
       "type": "User",
       "site_admin": false
     },
-    "created_at": "2020-01-20T01:33:20Z",
-    "updated_at": "2020-01-20T01:35:22Z",
+    "created_at": "2020-01-20T01:42:19Z",
+    "updated_at": "2020-01-20T01:42:19Z",
     "author_association": "CONTRIBUTOR",
-    "body": "By the way, the original nomination by the community was to add ECIP editors of Afri Schoedon and Isaac Ardis as their real identities, because of their contributions to Ethereum Classic. We did not agree on adding two random handles who we cannot even identify.",
+    "body": "> That is a convention which I actually suggested (and which has not been implemented). You have not followed that convention yourself, and again you have just conjured this requirement out of thin air.\r\n\r\nIronically yes, this convention was what **you** suggested (or rather, demanded me to follow). It was a response weeks after the MulanPSL was merged as an acceptable license for ECIP. I followed your request and then subsequently removed MulanPSL from ECIP-1000. I do think you're damaging ETC Cooperative's and your own reputation here by making up the fact that I have \"not followed that convention\" myself. People will start to question, whether the promises made by ETC Cooperative is actually trust-able.",
     "reactions": {
-      "url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/comments/576073427/reactions",
+      "url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/comments/576074658/reactions",
       "total_count": 0,
       "+1": 0,
       "-1": 0,
