@@ -64,17 +64,17 @@
       "labels": [
 
       ],
-      "state": "open",
+      "state": "closed",
       "locked": false,
       "assignee": null,
       "assignees": [
 
       ],
       "milestone": null,
-      "comments": 10,
+      "comments": 11,
       "created_at": "2019-12-22T17:53:52Z",
-      "updated_at": "2020-01-12T15:43:59Z",
-      "closed_at": null,
+      "updated_at": "2020-01-20T02:05:03Z",
+      "closed_at": "2020-01-20T02:05:03Z",
       "author_association": "CONTRIBUTOR",
       "active_lock_reason": null,
       "body": "## ETC Devs / Miners / Community Organizers Call: \r\n### Lower target-gas-limit \r\n\r\n## EDIT: Recording of the call\r\n[HERE] \r\nhttps://bobsummerwill.files.wordpress.com/2019/12/192712-etc_gas-limit-configuration-call_discord.mp3\r\n---\r\n\r\n### When\r\nFriday, December 27, 2019, 13:00 UTC, 30 minutes.\r\n\r\n### Where\r\nEthereum Classic Discord https://discord.gg/dwxb6nf #ecips channel. Will use/create a voice channel ad hoc.\r\n\r\n### Meeting Coordinator\r\nZac Mitton\r\n\r\n### Agenda\r\n\r\nDiscussion to inform /request miners to change their settings/configuration of target `block-gas-limit`.\r\n\r\nAs predicted, blocks are beginning to fill up at similar rates to Ethereum (1gb per day or more). Most of this traffic is coming from GasToken, a smart contract who's goal is to fill every block up as much as it can. The amount they can fill it, is determined by miners, who \"target\" this limit in their node's settings.\r\n\r\nGoal of this call is to organize outreach to miners and mining pools of the problem, so they can make informed decisions."
