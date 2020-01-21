@@ -1,7 +1,7 @@
 From 79ee20e696432a45cbe573433882e3dc0b7aeaa1 Mon Sep 17 00:00:00 2001
 From: Bob Summerwill <bob@summerwill.net>
 Date: Sun, 19 Jan 2020 14:25:05 -0800
-Subject: [PATCH 1/3] Standalone SELFBALANCE opcode.
+Subject: [PATCH 1/4] Standalone SELFBALANCE opcode.
 
 ---
  _specs/ecip-standalone-self-balance.md | 72 ++++++++++++++++++++++++++
@@ -90,7 +90,7 @@ index 00000000..26bcc71c
 From ce8f51184f0535588121aee23524395068a10914 Mon Sep 17 00:00:00 2001
 From: Bob Summerwill <bob@summerwill.net>
 Date: Sun, 19 Jan 2020 14:33:26 -0800
-Subject: [PATCH 2/3] Corrected link to Github Issue for SELFBALANCE opcode
+Subject: [PATCH 2/4] Corrected link to Github Issue for SELFBALANCE opcode
  standalone ECIP.
 
 ---
@@ -114,7 +114,7 @@ index 26bcc71c..10f4a002 100644
 From 0b55b2557fa1791247fe0fadb2fe5b210347274e Mon Sep 17 00:00:00 2001
 From: Bob Summerwill <bob@summerwill.net>
 Date: Sun, 19 Jan 2020 15:05:57 -0800
-Subject: [PATCH 3/3] Use the assigned ECIP-1080 number.
+Subject: [PATCH 3/4] Use the assigned ECIP-1080 number.
 
 ---
  _specs/{ecip-standalone-self-balance.md => ecip-1080.md} | 2 +-
@@ -136,3 +136,28 @@ index 10f4a002..2a869802 100644
  title: SELFBALANCE opcode
  author: Bob Summerwill (@bobsummerwill)
  status: Draft
+
+From c97e649628957233a4c6c95922726b8e0a925cdc Mon Sep 17 00:00:00 2001
+From: Bob Summerwill <bob@summerwill.net>
+Date: Mon, 20 Jan 2020 19:16:23 -0800
+Subject: [PATCH 4/4] Added Core Paper copyright notice and sourcing to the
+ Copyright section in addition to the acknowledgement and thanks higher up.
+
+---
+ _specs/ecip-1080.md | 6 ++++++
+ 1 file changed, 6 insertions(+)
+
+diff --git a/_specs/ecip-1080.md b/_specs/ecip-1080.md
+index 2a869802..9f71240c 100644
+--- a/_specs/ecip-1080.md
++++ b/_specs/ecip-1080.md
+@@ -70,3 +70,9 @@ not in this standalone form yet.  The work to support standalone would be minima
+ This work is licensed under the [Apache License, Version 2.0](https://www.apache.org/licenses/LICENSE-2.0).  The author, Bob Summerwill, attests to his sole authorship of this work, and that he is able to contribute this work to the ECIP process under the Apache 2.0 licence.
+ 
+ He further attests that he neither holds nor is aware of any patents, trademarks, copyright issues or other IP hinderances associated with this work.
++
++Core Paper
++Copyright 2019-2020 Wei Tang
++
++This product includes specifications developed at
++The Core Paper project (https://corepaper.org/).

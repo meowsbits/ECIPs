@@ -7,7 +7,7 @@
     "path": "_specs/ecip-aztlan-redo.md",
     "position": null,
     "original_position": 3,
-    "commit_id": "4bd057feac7f9b83bcdc3b4fb5dc39b36b33d467",
+    "commit_id": "65ee3b6b45a1f9e75c33d718a09dd698f3830c8c",
     "original_commit_id": "facb3fc6a28adeb7c945a2bb774895eea34068bd",
     "user": {
       "login": "sorpaas",
@@ -31,7 +31,7 @@
     },
     "body": "Assign number ECIP-1079.",
     "created_at": "2020-01-19T22:11:54Z",
-    "updated_at": "2020-01-19T23:02:03Z",
+    "updated_at": "2020-01-21T03:20:33Z",
     "html_url": "https://github.com/ethereumclassic/ECIPs/pull/263#discussion_r368327078",
     "pull_request_url": "https://api.github.com/repos/ethereumclassic/ECIPs/pulls/263",
     "author_association": "CONTRIBUTOR",
