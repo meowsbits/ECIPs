@@ -1,0 +1,49 @@
+{
+    "id": 368792899,
+    "node_id": "MDI0OlB1bGxSZXF1ZXN0UmV2aWV3Q29tbWVudDM2ODc5Mjg5OQ==",
+    "url": "https://api.github.com/repos/ethereumclassic/ECIPs/pulls/comments/368792899",
+    "pull_request_review_id": 345612851,
+    "diff_hunk": "@@ -0,0 +1,72 @@\n+---\n+lang: en\n+ecip: 1080\n+title: SELFBALANCE opcode\n+author: Bob Summerwill (@bobsummerwill)\n+status: Draft\n+type: Meta\n+created: 2020-01-19\n+license: Apache-2.0\n+discussions-to: https://github.com/ethereumclassic/ECIPs/issues/266\n+---\n+\n+### Simple Summary\n+\n+This is a standalone ECIP for the addition of the SELFBALANCE opcode.  This opcode\n+was added to the ETH protocol as part of the broader [EIP 1884: Repricing for trie-size-dependent opcodes](https://eips.ethereum.org/EIPS/eip-1884) which was activated in the [Instanbul hardfork](https://eips.ethereum.org/EIPS/eip-1679).  The 1884 EIP was rejected during the\n+[ETC Core Developers call](https://github.com/ethereumclassic/ECIPs/issues/177) on 27th November 2019 because\n+it broke backwards compatbility, but in this case the baby was accidentally thrown out with the bathwater.\n+\n+\n+### Abstract\n+\n+This ECIP is a standalone SELFBALANCE specification, which would be implemented\n+as part of the \"Phoenix\" hardfork which would either [\"fix\" Aztlán](https://github.com/ethereumclassic/ECIPs/issues/262)\n+or would [replace Aztlán](https://github.com/ethereumclassic/ECIPs/issues/264).\n+\n+The network participants who took part in the\n+[ETC Core Developers call](https://github.com/ethereumclassic/ECIPs/issues/177) on 27th November 2019\n+were under the impression at the time that the scope we agreed (\"Instanbul without the\n+backward-compatibility breaking parts of EIP-1884\") - ECIP-1061 / ECIP-1072 - would move the ETC\n+protocol to a place where it was 100% compatible with the ETH mainnet.\n+\n+\n+### Specification\n+\n+Thanks to [Wei Tang](https://github.com/sorpaas) for\n+[identifying the mis-specification](https://ethereum.corepaper.org/fork/istanbul/#ethereum-classic) and\n+for providing his recommendation on how to [rectify it](https://specs.corepaper.org/50-selfbalance).\n+\n+- A new opcode, `SELFBALANCE` is introduced at `0x47`. \n+  - `SELFBALANCE` pops `0` arguments off the stack, \n+  - `SELFBALANCE` pushes the `balance` of the current address to the stack,\n+  - `SELFBALANCE` is priced as `GasFastStep`, at `5` gas. \n+\n+\n+### Rationale\n+\n+See [EIP 1884: Repricing for trie-size-dependent opcodes](https://eips.ethereum.org/EIPS/eip-1884) for\n+the original rationale for the gas-repricings for ETH.\n+\n+These changes are sensible, but they [broke 680 deployed Aragon smart contracts](https://www.coindesk.com/ethereums-istanbul-upgrade-will-break-680-smart-contracts-on-aragon) along with various other deployed\n+smart contacts by applying the repricings retroactively and unconditionally.\n+\n+This new opcode does not break backwards compatibility.  For compatibility with ETH it is both\n+necessary and desirable.\n+\n+\n+### Implementation\n+\n+The following clients with Ethereum Classic support already implement the SELFBALANCE opcode, but\n+not in this standalone form yet.  The work to support standalone would be minimal.\n+\n+- Parity Ethereum\n+- Multi-Geth\n+- Hyperledger Besu\n+\n+\n+## Copyright",
+    "path": "_specs/ecip-1080.md",
+    "position": 68,
+    "original_position": 68,
+    "commit_id": "0b55b2557fa1791247fe0fadb2fe5b210347274e",
+    "user": {
+      "login": "sorpaas",
+      "id": 6277322,
+      "node_id": "MDQ6VXNlcjYyNzczMjI=",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/6277322?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/sorpaas",
+      "html_url": "https://github.com/sorpaas",
+      "followers_url": "https://api.github.com/users/sorpaas/followers",
+      "following_url": "https://api.github.com/users/sorpaas/following{/other_user}",
+      "gists_url": "https://api.github.com/users/sorpaas/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/sorpaas/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/sorpaas/subscriptions",
+      "organizations_url": "https://api.github.com/users/sorpaas/orgs",
+      "repos_url": "https://api.github.com/users/sorpaas/repos",
+      "events_url": "https://api.github.com/users/sorpaas/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/sorpaas/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "body": "To comply with the Apache-2.0 license, please include the content of the NOTICE file here: https://corepaper.org/NOTICE",
+    "created_at": "2020-01-21T03:02:26Z",
+    "updated_at": "2020-01-21T03:02:30Z",
+    "html_url": "https://github.com/ethereumclassic/ECIPs/pull/265#discussion_r368792899",
+    "pull_request_url": "https://api.github.com/repos/ethereumclassic/ECIPs/pulls/265",
+    "author_association": "CONTRIBUTOR",
+    "_links": {
+      "self": {
+        "href": "https://api.github.com/repos/ethereumclassic/ECIPs/pulls/comments/368792899"
+      },
+      "html": {
+        "href": "https://github.com/ethereumclassic/ECIPs/pull/265#discussion_r368792899"
+      },
+      "pull_request": {
+        "href": "https://api.github.com/repos/ethereumclassic/ECIPs/pulls/265"
+      }
+    },
+    "original_commit_id": "0b55b2557fa1791247fe0fadb2fe5b210347274e"
+  }
