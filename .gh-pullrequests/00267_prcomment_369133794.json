@@ -1,0 +1,56 @@
+{
+    "url": "https://api.github.com/repos/ethereumclassic/ECIPs/pulls/comments/369133794",
+    "pull_request_review_id": 346050409,
+    "id": 369133794,
+    "node_id": "MDI0OlB1bGxSZXF1ZXN0UmV2aWV3Q29tbWVudDM2OTEzMzc5NA==",
+    "diff_hunk": "@@ -73,9 +73,9 @@ A good reason to transfer ownership is because the original author no longer has\n The current ECIP editors are:\n \n * Wei Tang (@sorpaas)\n-* Isaac Ardis (@meowsbits)\n+* Mr. Meows D. Bits (@meowsbits)",
+    "path": "_specs/ecip-1000.md",
+    "position": 5,
+    "original_position": 5,
+    "commit_id": "86620c6006e2b5e3bcad026fe53b3f7b295066cd",
+    "original_commit_id": "86620c6006e2b5e3bcad026fe53b3f7b295066cd",
+    "user": {
+      "login": "drd34d",
+      "id": 30156189,
+      "node_id": "MDQ6VXNlcjMwMTU2MTg5",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/30156189?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/drd34d",
+      "html_url": "https://github.com/drd34d",
+      "followers_url": "https://api.github.com/users/drd34d/followers",
+      "following_url": "https://api.github.com/users/drd34d/following{/other_user}",
+      "gists_url": "https://api.github.com/users/drd34d/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/drd34d/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/drd34d/subscriptions",
+      "organizations_url": "https://api.github.com/users/drd34d/orgs",
+      "repos_url": "https://api.github.com/users/drd34d/repos",
+      "events_url": "https://api.github.com/users/drd34d/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/drd34d/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "body": "@sorpaas I 100% agree with you, _and i'm sure we are not the only 2_, on how *simply* editing a  final ECIP is against the 'protocol' and even comparable to an \"irregular state change\"  ( *puff* another unicorn dies* ) or the DAO. It's reverting/editing something that shouldn't be edited without going through the consensus protocol that is currently in place. \r\n\r\nYour second objection to this irregular state change (*puff* ... ) is that it has an hidden goal of trying to cover up for past actions of Afri. Seeing who his doing all this shenanigans, I tend to agree with you but one can never really tell what's in their head.\r\n\r\nTo that, and to all the **crazy people** here screaming 'doxxing' and tried to remove you from Owner with a shameless 'operation' the past 48h.. \r\n\r\n**The internet does not forget.**\r\n**The internet does not forget.**\r\n**The internet does not forget.**\r\n\r\nIf Afri and Isaac **REALLY** wish to be pseudo or anonymous, they need to atleast clean up their tracks otherwise it's just silly. They 'doxxed' themselves long time ago. You can't 'undoxx' someone. I'm surprised this is the best excuse you could find to try to kick @sorpaas out of the repo and community. \r\n\r\n**BUT** \r\n\r\nThe proposed irregullar state change (*puff*) has zero relevance or impact for ETC..\r\n\r\nand most importantly, the ETC values speak higher. \r\n\r\nIf an individual asks for a simple thing like this, with zero impact on specifications or anything else, for the sake of **his/hers safety** (even if it does nothing for it or sounds like bullshit) we shouldn't be butting heads too long.\r\n\r\nLet's either *kill another unicorn* or push an ammending ECIP as soon as possible, with ONLY this simple or removign their real names from it, instead of wasting more time on this.\r\n\r\nBut ya'll are crazy for thinking that this will save anyone from harm and this 'doxxing'-gate is plain bullshit coming from **'Team Krykoder'** ... yeah @TokenHash, that's who you are rolling with apparently, you sock puppet. Your lack of focus on the issue and wolfcrying for Team Krykoder will not be forgotten. You accused @sorpaas of personal attacks and other shit when you have ZERO moral ground. Look yourself in the mirror.\r\n\r\nFin.\r\n\r\nPS: The Internet Does Not Forget.",
+    "created_at": "2020-01-21T17:16:13Z",
+    "updated_at": "2020-01-21T17:16:14Z",
+    "html_url": "https://github.com/ethereumclassic/ECIPs/pull/267#discussion_r369133794",
+    "pull_request_url": "https://api.github.com/repos/ethereumclassic/ECIPs/pulls/267",
+    "author_association": "NONE",
+    "_links": {
+      "self": {
+        "href": "https://api.github.com/repos/ethereumclassic/ECIPs/pulls/comments/369133794"
+      },
+      "html": {
+        "href": "https://github.com/ethereumclassic/ECIPs/pull/267#discussion_r369133794"
+      },
+      "pull_request": {
+        "href": "https://api.github.com/repos/ethereumclassic/ECIPs/pulls/267"
+      }
+    },
+    "start_line": null,
+    "original_start_line": null,
+    "start_side": null,
+    "line": 76,
+    "original_line": 76,
+    "side": "RIGHT",
+    "in_reply_to_id": 368348989
+  }
