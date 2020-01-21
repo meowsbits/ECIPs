@@ -7,7 +7,7 @@
     "path": "_specs/ecip-aztlan-fix.md",
     "position": null,
     "original_position": 3,
-    "commit_id": "128a31ceaa7b68fbb0a689781de1ab3c27c5f38a",
+    "commit_id": "c186f4f6dd16790d5b12af8ef04e2905c5ee00f7",
     "user": {
       "login": "sorpaas",
       "id": 6277322,
@@ -30,7 +30,7 @@
     },
     "body": "Assign number ECIP-1078.",
     "created_at": "2020-01-19T22:11:30Z",
-    "updated_at": "2020-01-19T23:03:38Z",
+    "updated_at": "2020-01-21T05:51:13Z",
     "html_url": "https://github.com/ethereumclassic/ECIPs/pull/261#discussion_r368327037",
     "pull_request_url": "https://api.github.com/repos/ethereumclassic/ECIPs/pulls/261",
     "author_association": "CONTRIBUTOR",

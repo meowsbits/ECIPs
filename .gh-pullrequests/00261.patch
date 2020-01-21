@@ -1,7 +1,7 @@
 From 575e717f321f3aeb83cafdecb4ccee9a0c3ecf9e Mon Sep 17 00:00:00 2001
 From: Bob Summerwill <bob@summerwill.net>
 Date: Sun, 19 Jan 2020 13:04:15 -0800
-Subject: [PATCH 1/6] Phoenix Hard-fork to occur at the same block as Aztlan -
+Subject: [PATCH 1/8] Phoenix Hard-fork to occur at the same block as Aztlan -
  to "fix it".
 
 ---
@@ -103,7 +103,7 @@ index 00000000..2c27dbad
 From 63ea6eadd8381d0ccdb1a57d71d2db3d6bac874e Mon Sep 17 00:00:00 2001
 From: Bob Summerwill <bob@summerwill.net>
 Date: Sun, 19 Jan 2020 13:06:17 -0800
-Subject: [PATCH 2/6] Added discussion link.
+Subject: [PATCH 2/8] Added discussion link.
 
 ---
  _specs/ecip-aztlan-fix.md | 2 +-
@@ -126,7 +126,7 @@ index 2c27dbad..0a22ddee 100644
 From 502bbd7575286970578379133b4d4fc1a3486945 Mon Sep 17 00:00:00 2001
 From: Bob Summerwill <bob@summerwill.net>
 Date: Sun, 19 Jan 2020 13:25:23 -0800
-Subject: [PATCH 3/6] Added details for the ETC Core Developer call where the
+Subject: [PATCH 3/8] Added details for the ETC Core Developer call where the
  scope of Aztlan was set, and link to Wei's recommendations on "Atzlan fix".
 
 ---
@@ -163,7 +163,7 @@ index 0a22ddee..d0cc9b59 100644
 From 4822251081805bc459bb59d97aec64c4e814b111 Mon Sep 17 00:00:00 2001
 From: Bob Summerwill <bob@summerwill.net>
 Date: Sun, 19 Jan 2020 14:30:23 -0800
-Subject: [PATCH 4/6] Pointing to new SELFBALANCE opcode ECIP and updated
+Subject: [PATCH 4/8] Pointing to new SELFBALANCE opcode ECIP and updated
  Rationale.
 
 ---
@@ -218,7 +218,7 @@ index d0cc9b59..33df7c1a 100644
 From 9d0f3753f878702beb9b1a3eb91af9bebdf4580a Mon Sep 17 00:00:00 2001
 From: Bob Summerwill <bob@summerwill.net>
 Date: Sun, 19 Jan 2020 14:59:10 -0800
-Subject: [PATCH 5/6] Sorpaas assigned ECIP-1078 number to this proposal.
+Subject: [PATCH 5/8] Sorpaas assigned ECIP-1078 number to this proposal.
 
 ---
  _specs/{ecip-aztlan-fix.md => ecip-1078.md} | 2 +-
@@ -244,7 +244,7 @@ index 33df7c1a..8fb5a118 100644
 From 128a31ceaa7b68fbb0a689781de1ab3c27c5f38a Mon Sep 17 00:00:00 2001
 From: Bob Summerwill <bob@summerwill.net>
 Date: Sun, 19 Jan 2020 15:03:34 -0800
-Subject: [PATCH 6/6] Updated SELFBALANCE links to use assigned ECIP-1080
+Subject: [PATCH 6/8] Updated SELFBALANCE links to use assigned ECIP-1080
  number.
 
 ---
@@ -274,3 +274,50 @@ index 8fb5a118..c5e07b43 100644
  
  
  ## Copyright
+
+From da459af7889431f1ec8ac3dc4165c04a58bcc1ec Mon Sep 17 00:00:00 2001
+From: Bob Summerwill <bob@summerwill.net>
+Date: Mon, 20 Jan 2020 19:33:32 -0800
+Subject: [PATCH 7/8] Added Core Paper copyright and sourcing to Copyright
+ section, in addition to the reference and thanks higher up.
+
+---
+ _specs/ecip-1078.md | 6 ++++++
+ 1 file changed, 6 insertions(+)
+
+diff --git a/_specs/ecip-1078.md b/_specs/ecip-1078.md
+index c5e07b43..74e82380 100644
+--- a/_specs/ecip-1078.md
++++ b/_specs/ecip-1078.md
+@@ -99,3 +99,9 @@ Similarly [ECIP-1080](https://github.com/ethereumclassic/ECIPs/issues/266) has n
+ This work is licensed under the [Apache License, Version 2.0](https://www.apache.org/licenses/LICENSE-2.0).  The author, Bob Summerwill, attests to his sole authorship of this work, and that he is able to contribute this work to the ECIP process under the Apache 2.0 licence.
+ 
+ He further attests that he neither holds nor is aware of any patents, trademarks, copyright issues or other IP hinderances associated with this work.
++
++Core Paper
++Copyright 2019-2020 Wei Tang
++
++This product includes specifications developed at
++The Core Paper project (https://corepaper.org/).
+
+From c186f4f6dd16790d5b12af8ef04e2905c5ee00f7 Mon Sep 17 00:00:00 2001
+From: Bob Summerwill <bob@summerwill.net>
+Date: Mon, 20 Jan 2020 21:51:08 -0800
+Subject: [PATCH 8/8] Fixed a typo.
+
+---
+ _specs/ecip-1078.md | 1 -
+ 1 file changed, 1 deletion(-)
+
+diff --git a/_specs/ecip-1078.md b/_specs/ecip-1078.md
+index 74e82380..45f975c7 100644
+--- a/_specs/ecip-1078.md
++++ b/_specs/ecip-1078.md
+@@ -46,7 +46,6 @@ After HARD_FORK_BLOCK, apply the following changes:
+ 
+ - Disable [EIP-2200](https://eips.ethereum.org/EIPS/eip-2200)
+ - Enable [EIP-1283](https://eips.ethereum.org/EIPS/eip-1283) with [EIP-1706](https://eips.ethereum.org/EIPS/eip-1706) instead.
+-- Enable [https://specs.corepaper.org/50-selfbalance50-SELFBALANCE
+ - Enable [ECIP-1080](https://github.com/ethereumclassic/ECIPs/issues/266)
+ 
+ 
