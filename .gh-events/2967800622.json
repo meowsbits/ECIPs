@@ -1,7 +1,7 @@
 {
-    "id": 2941398419,
-    "node_id": "MDI2Ok1vdmVkQ29sdW1uc0luUHJvamVjdEV2ZW50Mjk0MTM5ODQxOQ==",
-    "url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/events/2941398419",
+    "id": 2967800622,
+    "node_id": "MDExOkNsb3NlZEV2ZW50Mjk2NzgwMDYyMg==",
+    "url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/events/2967800622",
     "actor": {
       "login": "TheEnthusiasticAs",
       "id": 48069525,
@@ -22,10 +22,10 @@
       "type": "User",
       "site_admin": false
     },
-    "event": "moved_columns_in_project",
+    "event": "closed",
     "commit_id": null,
     "commit_url": null,
-    "created_at": "2020-01-12T17:57:04Z",
+    "created_at": "2020-01-21T21:16:11Z",
     "issue": {
       "url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/143",
       "repository_url": "https://api.github.com/repos/ethereumclassic/ECIPs",
