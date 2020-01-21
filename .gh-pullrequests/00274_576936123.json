@@ -1,0 +1,43 @@
+{
+    "url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/comments/576936123",
+    "html_url": "https://github.com/ethereumclassic/ECIPs/pull/274#issuecomment-576936123",
+    "issue_url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/274",
+    "id": 576936123,
+    "node_id": "MDEyOklzc3VlQ29tbWVudDU3NjkzNjEyMw==",
+    "user": {
+      "login": "drd34d",
+      "id": 30156189,
+      "node_id": "MDQ6VXNlcjMwMTU2MTg5",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/30156189?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/drd34d",
+      "html_url": "https://github.com/drd34d",
+      "followers_url": "https://api.github.com/users/drd34d/followers",
+      "following_url": "https://api.github.com/users/drd34d/following{/other_user}",
+      "gists_url": "https://api.github.com/users/drd34d/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/drd34d/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/drd34d/subscriptions",
+      "organizations_url": "https://api.github.com/users/drd34d/orgs",
+      "repos_url": "https://api.github.com/users/drd34d/repos",
+      "events_url": "https://api.github.com/users/drd34d/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/drd34d/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "created_at": "2020-01-21T23:30:54Z",
+    "updated_at": "2020-01-21T23:31:15Z",
+    "author_association": "NONE",
+    "body": "> @sorpaas\r\n> \r\n> > I removed everything I wrote which I'm listed as the primary author.\r\n> \r\n> Please remove the removals of your ECIPs you wrote from this ECIP as those are not the scope of this ECIP candidate.\r\n> \r\n> This is just a show of your constant blocking and interference in the ECIP process and in the work of others in ETC development.\r\n> \r\n> You only confirm your malicious behavior with this action.\r\n> \r\n> Again, pls remove your removals from this ECIP as it blocks its processing.\r\n\r\n _A significant difference between the use of a pseudonym[4] and the creation of a sockpuppet is that the sockpuppet poses as an independent third-party unaffiliated with the main account operator. Sockpuppets are unwelcome in many online communities and forums._\r\n\r\nsource: https://en.wikipedia.org/wiki/Sockpuppet_(Internet)",
+    "reactions": {
+      "url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/comments/576936123/reactions",
+      "total_count": 0,
+      "+1": 0,
+      "-1": 0,
+      "laugh": 0,
+      "hooray": 0,
+      "confused": 0,
+      "heart": 0,
+      "rocket": 0,
+      "eyes": 0
+    }
+  }
