@@ -1,7 +1,7 @@
 From 04c7cb3804ca7fe454e9f951abe83820d70a8b86 Mon Sep 17 00:00:00 2001
 From: Donald McIntyre <donald@etherplan.com>
 Date: Mon, 20 Jan 2020 12:04:16 -0700
-Subject: [PATCH 1/5] Proposal for owner, member, editor, & author removal
+Subject: [PATCH 1/7] Proposal for owner, member, editor, & author removal
 
 Proposal to remove Wei Tang (@sorpaas) from internal function in the Ethereum Classic repository.
 ---
@@ -55,7 +55,7 @@ index 00000000..87f1c490
 From 971064478b1bd63d38e302cd37c6ca5a5d6fee6e Mon Sep 17 00:00:00 2001
 From: Donald McIntyre <donald@etherplan.com>
 Date: Mon, 20 Jan 2020 12:09:14 -0700
-Subject: [PATCH 2/5] Rename ECIP-TBD to ECIP-TBD.md
+Subject: [PATCH 2/7] Rename ECIP-TBD to ECIP-TBD.md
 
 ---
  _specs/{ECIP-TBD => ECIP-TBD.md} | 0
@@ -70,7 +70,7 @@ rename to _specs/ECIP-TBD.md
 From 27c30a592552777a3e0c9bce51c108b77abf38ca Mon Sep 17 00:00:00 2001
 From: Donald McIntyre <donald@etherplan.com>
 Date: Mon, 20 Jan 2020 12:17:35 -0700
-Subject: [PATCH 3/5] Update ECIP-TBD.md
+Subject: [PATCH 3/7] Update ECIP-TBD.md
 
 ---
  _specs/ECIP-TBD.md | 10 +++++-----
@@ -101,7 +101,7 @@ index 87f1c490..95c3a385 100644
 From e8bbd728be0cb187fe1256e147cd3294dba27e86 Mon Sep 17 00:00:00 2001
 From: Wei Tang <hi@that.world>
 Date: Mon, 20 Jan 2020 20:39:38 +0100
-Subject: [PATCH 4/5] Completely expell @sorpaas
+Subject: [PATCH 4/7] Completely expell @sorpaas
 
 ---
  _specs/ecip-1000.md | 358 --------------------------------------------
@@ -2105,7 +2105,7 @@ index 02289609..00000000
 From f9de1b64e198dfdb516e70ff8d7d54945da0b222 Mon Sep 17 00:00:00 2001
 From: Donald McIntyre <donald@etherplan.com>
 Date: Mon, 20 Jan 2020 19:25:38 -0700
-Subject: [PATCH 5/5] Reducing scope of this PR to only remove Editor.
+Subject: [PATCH 5/7] Reducing scope of this PR to only remove Editor.
 
 As there is no rough consensus to remove @sorpaas from other oles, I am scaling back the scope of my proposal to only remove him as an editor of ECIP-1000.
 ---
@@ -2185,3 +2185,49 @@ index 95c3a385..6383bb35 100644
  ### Copyright/Licensing
  
  Apache -2
+
+From d845ef8cb0508633773db180590f7447e11ed3e3 Mon Sep 17 00:00:00 2001
+From: Donald McIntyre <donald@etherplan.com>
+Date: Tue, 21 Jan 2020 08:50:12 -0700
+Subject: [PATCH 6/7] Update ECIP-TBD.md
+
+---
+ _specs/ECIP-TBD.md | 2 +-
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+
+diff --git a/_specs/ECIP-TBD.md b/_specs/ECIP-TBD.md
+index 6383bb35..93d06d1f 100644
+--- a/_specs/ECIP-TBD.md
++++ b/_specs/ECIP-TBD.md
+@@ -35,7 +35,7 @@ When this ECIP is accepted by rough consensus, the modifications proposed could
+ 
+ A. Sorpaas doxxing of two editors in ECIP-1000:
+ 
+-![Screen Shot 2020-01-19 at 11 01 05 AM](https://user-images.githubusercontent.com/29529586/72753069-1fe2d200-3b81-11ea-8a77-b69f1296639d.png)
++![You can see the ECIP-1000 document where two editors are doxxed (this will not be visible once it is corrected.).](https://ecips.ethereumclassic.org/ECIPs/ecip-1000)
+ 
+ B. Example of lying claiming that an 'accepted' ECIP cannot be changed:
+ 
+
+From f710bfe2b422af3bbacf628b323e345a0a6fc145 Mon Sep 17 00:00:00 2001
+From: Donald McIntyre <donald@etherplan.com>
+Date: Tue, 21 Jan 2020 08:51:39 -0700
+Subject: [PATCH 7/7] Update ECIP-TBD.md
+
+---
+ _specs/ECIP-TBD.md | 2 +-
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+
+diff --git a/_specs/ECIP-TBD.md b/_specs/ECIP-TBD.md
+index 93d06d1f..b2ea3f00 100644
+--- a/_specs/ECIP-TBD.md
++++ b/_specs/ECIP-TBD.md
+@@ -35,7 +35,7 @@ When this ECIP is accepted by rough consensus, the modifications proposed could
+ 
+ A. Sorpaas doxxing of two editors in ECIP-1000:
+ 
+-![You can see the ECIP-1000 document where two editors are doxxed (this will not be visible once it is corrected.).](https://ecips.ethereumclassic.org/ECIPs/ecip-1000)
++[You can see the ECIP-1000 document where two editors are doxxed (this will not be visible once it is corrected).](https://ecips.ethereumclassic.org/ECIPs/ecip-1000)
+ 
+ B. Example of lying claiming that an 'accepted' ECIP cannot be changed:
+ 

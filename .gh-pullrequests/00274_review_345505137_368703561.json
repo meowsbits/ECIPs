@@ -7,7 +7,7 @@
     "path": "_specs/ECIP-TBD.md",
     "position": 16,
     "original_position": 16,
-    "commit_id": "f9de1b64e198dfdb516e70ff8d7d54945da0b222",
+    "commit_id": "f710bfe2b422af3bbacf628b323e345a0a6fc145",
     "user": {
       "login": "TokenHash",
       "id": 29529586,
@@ -30,7 +30,7 @@
     },
     "body": "Example of intimidation of other contributors accusing them of proposing things that will provoke vulnerabilities:\r\n\r\n![C](https://user-images.githubusercontent.com/29529586/72753604-946a4080-3b82-11ea-95af-f37eaadf1a4f.png)\r\n",
     "created_at": "2020-01-20T19:44:28Z",
-    "updated_at": "2020-01-21T02:25:39Z",
+    "updated_at": "2020-01-21T15:51:40Z",
     "html_url": "https://github.com/ethereumclassic/ECIPs/pull/274#discussion_r368703561",
     "pull_request_url": "https://api.github.com/repos/ethereumclassic/ECIPs/pulls/274",
     "author_association": "MEMBER",

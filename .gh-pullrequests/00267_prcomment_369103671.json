@@ -1,0 +1,56 @@
+{
+    "url": "https://api.github.com/repos/ethereumclassic/ECIPs/pulls/comments/369103671",
+    "pull_request_review_id": 346011512,
+    "id": 369103671,
+    "node_id": "MDI0OlB1bGxSZXF1ZXN0UmV2aWV3Q29tbWVudDM2OTEwMzY3MQ==",
+    "diff_hunk": "@@ -73,9 +73,9 @@ A good reason to transfer ownership is because the original author no longer has\n The current ECIP editors are:\n \n * Wei Tang (@sorpaas)\n-* Isaac Ardis (@meowsbits)\n+* Mr. Meows D. Bits (@meowsbits)",
+    "path": "_specs/ecip-1000.md",
+    "position": 5,
+    "original_position": 5,
+    "commit_id": "86620c6006e2b5e3bcad026fe53b3f7b295066cd",
+    "original_commit_id": "86620c6006e2b5e3bcad026fe53b3f7b295066cd",
+    "user": {
+      "login": "TokenHash",
+      "id": 29529586,
+      "node_id": "MDQ6VXNlcjI5NTI5NTg2",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/29529586?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/TokenHash",
+      "html_url": "https://github.com/TokenHash",
+      "followers_url": "https://api.github.com/users/TokenHash/followers",
+      "following_url": "https://api.github.com/users/TokenHash/following{/other_user}",
+      "gists_url": "https://api.github.com/users/TokenHash/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/TokenHash/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/TokenHash/subscriptions",
+      "organizations_url": "https://api.github.com/users/TokenHash/orgs",
+      "repos_url": "https://api.github.com/users/TokenHash/repos",
+      "events_url": "https://api.github.com/users/TokenHash/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/TokenHash/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "body": "@sorpaas stop maliciously inventing rules that don't exist. This correction has to be done as soon as possible because it is about revealing real names of two participants in the ECIP process, which is a severe violation of pseudonymity, which is, in turn, a severe violation of cryptography and blockchain industry ethics.",
+    "created_at": "2020-01-21T16:24:20Z",
+    "updated_at": "2020-01-21T16:24:20Z",
+    "html_url": "https://github.com/ethereumclassic/ECIPs/pull/267#discussion_r369103671",
+    "pull_request_url": "https://api.github.com/repos/ethereumclassic/ECIPs/pulls/267",
+    "author_association": "MEMBER",
+    "_links": {
+      "self": {
+        "href": "https://api.github.com/repos/ethereumclassic/ECIPs/pulls/comments/369103671"
+      },
+      "html": {
+        "href": "https://github.com/ethereumclassic/ECIPs/pull/267#discussion_r369103671"
+      },
+      "pull_request": {
+        "href": "https://api.github.com/repos/ethereumclassic/ECIPs/pulls/267"
+      }
+    },
+    "start_line": null,
+    "original_start_line": null,
+    "start_side": null,
+    "line": 76,
+    "original_line": 76,
+    "side": "RIGHT",
+    "in_reply_to_id": 368348989
+  }
