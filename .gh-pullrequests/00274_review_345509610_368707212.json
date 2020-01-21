@@ -7,7 +7,7 @@
     "path": "_specs/ECIP-TBD.md",
     "position": 16,
     "original_position": 16,
-    "commit_id": "f710bfe2b422af3bbacf628b323e345a0a6fc145",
+    "commit_id": "bd1868ff173ec6670093fa715c2ab99b00edef4c",
     "user": {
       "login": "TokenHash",
       "id": 29529586,
@@ -30,7 +30,7 @@
     },
     "body": "Example of making the false equivalence between the ECIP process and the operating blockchain, and intimidating other contributors by re-phrasing their comments, falsely claiming they mean something they don't and subsequently asking the contributor to shut up if he doesn't want his comments to be re-interpreted with false assumptions:\r\n\r\n![F](https://user-images.githubusercontent.com/29529586/72754188-5a01a300-3b84-11ea-9576-d6fcd44ececc.png)\r\n  ",
     "created_at": "2020-01-20T19:57:06Z",
-    "updated_at": "2020-01-21T15:51:40Z",
+    "updated_at": "2020-01-21T22:24:46Z",
     "html_url": "https://github.com/ethereumclassic/ECIPs/pull/274#discussion_r368707212",
     "pull_request_url": "https://api.github.com/repos/ethereumclassic/ECIPs/pulls/274",
     "author_association": "MEMBER",
