@@ -7,7 +7,7 @@
     "path": "_specs/ecip-1000.md",
     "position": 8,
     "original_position": 8,
-    "commit_id": "bf7aa5cc40f8207b777f68f0a1adf9eaba74a073",
+    "commit_id": "317921f31e3c6677ba74110d0c9e9da963371e9a",
     "original_commit_id": "bf7aa5cc40f8207b777f68f0a1adf9eaba74a073",
     "user": {
       "login": "meowsbits",
@@ -31,10 +31,10 @@
     },
     "body": "See content at https://github.com/ethereumclassic/ECIPs/pull/220#issuecomment-560417451",
     "created_at": "2019-12-02T14:11:58Z",
-    "updated_at": "2019-12-02T14:33:36Z",
+    "updated_at": "2020-01-22T07:25:23Z",
     "html_url": "https://github.com/ethereumclassic/ECIPs/pull/220#discussion_r352615121",
     "pull_request_url": "https://api.github.com/repos/ethereumclassic/ECIPs/pulls/220",
-    "author_association": "CONTRIBUTOR",
+    "author_association": "MEMBER",
     "_links": {
       "self": {
         "href": "https://api.github.com/repos/ethereumclassic/ECIPs/pulls/comments/352615121"

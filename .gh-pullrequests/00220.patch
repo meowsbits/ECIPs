@@ -1,7 +1,7 @@
 From bf7aa5cc40f8207b777f68f0a1adf9eaba74a073 Mon Sep 17 00:00:00 2001
 From: Wei Tang <hi@that.world>
 Date: Sat, 30 Nov 2019 18:22:05 +0100
-Subject: [PATCH] Update ecip-1000.md
+Subject: [PATCH 1/2] Update ecip-1000.md
 
 ---
  _specs/ecip-1000.md | 6 ++++++
@@ -24,3 +24,25 @@ index b5b50dd3..25447532 100644
  # See Also
  
  * [RFC 7282: On Consensus and Humming in the IETF](https://tools.ietf.org/html/rfc7282)
+
+From 317921f31e3c6677ba74110d0c9e9da963371e9a Mon Sep 17 00:00:00 2001
+From: Wei Tang <hi@that.world>
+Date: Wed, 22 Jan 2020 08:25:21 +0100
+Subject: [PATCH 2/2] Document new irregular process transitions
+
+---
+ _specs/ecip-1000.md | 1 +
+ 1 file changed, 1 insertion(+)
+
+diff --git a/_specs/ecip-1000.md b/_specs/ecip-1000.md
+index 25447532..0507b9ac 100644
+--- a/_specs/ecip-1000.md
++++ b/_specs/ecip-1000.md
+@@ -358,6 +358,7 @@ In addition, it is recommended that literal code included in the ECIP be dual-li
+ As a decentralized community, it is important that for all governance actions, especially in ECIP, the established process is followed. In this section, we document irregular process transitions, and give special permissions to them, to state that they followed the process. Note that this is essentially similar to theDAO hard fork in Ethereum, and should only be added in extreme cases.
+ 
+ * In [PR#199](https://github.com/ethereumclassic/ECIPs/pull/199), Afri Schoedon merged a PR moving ECIP-1061 to "Last Call" status. At the time, Afri dismissed a review of clear objections from ECIP editor Wei Tang, without waiting for consultations of the community, or resolutions with the review submitter. We here declare that this particular action from Afri followed the ECIP process. 
++* In [PR#267](https://github.com/ethereumclassic/ECIPs/pull/267), @soc1c merged a PR **removing** *Afri Schoedon* and *Isaac Ardis* as ECIP editors, ignoring clear objections from other community members. We here declare that the removal of Afri Schoedon and Isaac Ardis followed the ECIP process.
+ 
+ # See Also
+ 
