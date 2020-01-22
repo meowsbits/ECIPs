@@ -7,7 +7,7 @@
     "path": "_specs/ECIP-TBD.md",
     "position": 16,
     "original_position": 16,
-    "commit_id": "bd1868ff173ec6670093fa715c2ab99b00edef4c",
+    "commit_id": "1cf00b6ed523daf850e3cba0a4cafc7c0ede484c",
     "user": {
       "login": "TokenHash",
       "id": 29529586,
@@ -30,7 +30,7 @@
     },
     "body": "Repeatedly falsely claiming other contributors don't want to follow or want to bypass the ECIP process as way to intimidate, change the conversation, and stop other changes making up reasons. \r\n\r\nClaiming that an \"irregular\" path is created, making the false analogy to theDAO hard fork \"irregular state\" transition:\r\n\r\n![I](https://user-images.githubusercontent.com/29529586/72754762-fb3d2900-3b85-11ea-92ba-297956990eb6.png)\r\n ",
     "created_at": "2020-01-20T20:08:47Z",
-    "updated_at": "2020-01-21T22:24:46Z",
+    "updated_at": "2020-01-22T19:10:11Z",
     "html_url": "https://github.com/ethereumclassic/ECIPs/pull/274#discussion_r368710241",
     "pull_request_url": "https://api.github.com/repos/ethereumclassic/ECIPs/pulls/274",
     "author_association": "MEMBER",

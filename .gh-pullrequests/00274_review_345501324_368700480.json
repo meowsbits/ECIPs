@@ -7,7 +7,7 @@
     "path": "_specs/ECIP-TBD.md",
     "position": 16,
     "original_position": 16,
-    "commit_id": "bd1868ff173ec6670093fa715c2ab99b00edef4c",
+    "commit_id": "1cf00b6ed523daf850e3cba0a4cafc7c0ede484c",
     "user": {
       "login": "TokenHash",
       "id": 29529586,
@@ -30,7 +30,7 @@
     },
     "body": "Doxxing:\r\n\r\n[See original ECIP-1000 document, it will not be visible once it is corrected.](https://ecips.ethereumclassic.org/ECIPs/ecip-1000)\r\n",
     "created_at": "2020-01-20T19:34:01Z",
-    "updated_at": "2020-01-21T22:24:46Z",
+    "updated_at": "2020-01-22T19:10:11Z",
     "html_url": "https://github.com/ethereumclassic/ECIPs/pull/274#discussion_r368700480",
     "pull_request_url": "https://api.github.com/repos/ethereumclassic/ECIPs/pulls/274",
     "author_association": "MEMBER",
