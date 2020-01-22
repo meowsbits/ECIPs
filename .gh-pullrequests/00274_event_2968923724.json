@@ -1,7 +1,8 @@
 {
-    "id": 345056545,
-    "node_id": "MDE3OlB1bGxSZXF1ZXN0UmV2aWV3MzQ1MDU2NTQ1",
-    "user": {
+    "id": 2968923724,
+    "node_id": "MDE0Ok1lbnRpb25lZEV2ZW50Mjk2ODkyMzcyNA==",
+    "url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/events/2968923724",
+    "actor": {
       "login": "sorpaas",
       "id": 6277322,
       "node_id": "MDQ6VXNlcjYyNzczMjI=",
@@ -21,19 +22,8 @@
       "type": "User",
       "site_admin": false
     },
-    "body": "I don't think this is ready to go for reasons described above. Please fix them first.",
-    "state": "DISMISSED",
-    "html_url": "https://github.com/ethereumclassic/ECIPs/pull/267#pullrequestreview-345056545",
-    "pull_request_url": "https://api.github.com/repos/ethereumclassic/ECIPs/pulls/267",
-    "author_association": "MEMBER",
-    "_links": {
-      "html": {
-        "href": "https://github.com/ethereumclassic/ECIPs/pull/267#pullrequestreview-345056545"
-      },
-      "pull_request": {
-        "href": "https://api.github.com/repos/ethereumclassic/ECIPs/pulls/267"
-      }
-    },
-    "submitted_at": "2020-01-20T02:38:38Z",
-    "commit_id": "86620c6006e2b5e3bcad026fe53b3f7b295066cd"
+    "event": "mentioned",
+    "commit_id": null,
+    "commit_url": null,
+    "created_at": "2020-01-22T07:13:12Z"
   }
