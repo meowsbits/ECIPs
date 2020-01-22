@@ -1,0 +1,43 @@
+{
+    "url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/comments/576989493",
+    "html_url": "https://github.com/ethereumclassic/ECIPs/pull/274#issuecomment-576989493",
+    "issue_url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/274",
+    "id": 576989493,
+    "node_id": "MDEyOklzc3VlQ29tbWVudDU3Njk4OTQ5Mw==",
+    "user": {
+      "login": "TokenHash",
+      "id": 29529586,
+      "node_id": "MDQ6VXNlcjI5NTI5NTg2",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/29529586?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/TokenHash",
+      "html_url": "https://github.com/TokenHash",
+      "followers_url": "https://api.github.com/users/TokenHash/followers",
+      "following_url": "https://api.github.com/users/TokenHash/following{/other_user}",
+      "gists_url": "https://api.github.com/users/TokenHash/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/TokenHash/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/TokenHash/subscriptions",
+      "organizations_url": "https://api.github.com/users/TokenHash/orgs",
+      "repos_url": "https://api.github.com/users/TokenHash/repos",
+      "events_url": "https://api.github.com/users/TokenHash/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/TokenHash/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "created_at": "2020-01-22T03:20:07Z",
+    "updated_at": "2020-01-22T03:20:07Z",
+    "author_association": "MEMBER",
+    "body": "@sorpaas \r\n\r\n1. The initial version of this ECIP was to expel you from the repo, remove you as editor, and replace ECIP-1000 with a new author, not to expel you from ETC as that is not possible by anyone\r\n2. That scope was changed to only remove you from the editor function\r\n3. The ECIPs that you authored were and are not part of the scope\r\n\r\nPlease remove your removals as this ECIP candidate may not be processed with them, so they are effectively blocking the ECIP process that you say you want to defend.",
+    "reactions": {
+      "url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/comments/576989493/reactions",
+      "total_count": 0,
+      "+1": 0,
+      "-1": 0,
+      "laugh": 0,
+      "hooray": 0,
+      "confused": 0,
+      "heart": 0,
+      "rocket": 0,
+      "eyes": 0
+    }
+  }
