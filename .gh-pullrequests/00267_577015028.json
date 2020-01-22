@@ -25,9 +25,9 @@
       "site_admin": false
     },
     "created_at": "2020-01-22T05:31:17Z",
-    "updated_at": "2020-01-22T05:31:17Z",
+    "updated_at": "2020-01-22T05:54:04Z",
     "author_association": "MEMBER",
-    "body": "Just a note and since this has been asked -- `soc1c` have been publicly using his real name \"Afri\" a lot of times. For example, in this meeting note of a call related to mining upgrades (https://github.com/ethereumclassic/ECIPs/issues/174#issuecomment-557106181). No one disclosed Afri's real name before he disclosed it himself. There's no basis why anything will ever be doxxing, unless you think Afri is doxxing himself.\r\n\r\nThat's why I'm opposing this. If you think about it, the whole thing is rather specious -- the doxxing argument comes right after security flaws are discovered in ECIP-1061, which Afri [played a major role](https://github.com/ethereumclassic/ECIPs/pull/220) in bypassing to process to push it forward. This makes people wonder whether this is an abuse of pseudonymity to escape responsibilities and to cover up wrongdoings. ",
+    "body": "Just a note and since this has been asked -- `soc1c` has been publicly using his real name \"Afri\" a lot of times. For example, in this meeting note of a call related to mining upgrades (https://github.com/ethereumclassic/ECIPs/issues/174#issuecomment-557106181) ([Wayback link](https://web.archive.org/web/20200122053621/https://github.com/ethereumclassic/ECIPs/issues/174)). No one disclosed Afri's real name before he disclosed it himself. There's no basis why anything will ever be doxxing, unless you think Afri is doxxing himself.\r\n\r\nThat's why I'm opposing this. If you think about it, the whole thing is rather specious -- the doxxing argument comes right after security flaws are discovered in ECIP-1061, which Afri [played a major role](https://github.com/ethereumclassic/ECIPs/pull/220) in bypassing the process to push it forward. This makes people wonder whether this is an abuse of pseudonymity to escape responsibilities and to cover up wrongdoings. ",
     "reactions": {
       "url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/comments/577015028/reactions",
       "total_count": 0,
