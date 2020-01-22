@@ -8,7 +8,7 @@ Subject: [PATCH] Update ecip-1000.md
  1 file changed, 6 insertions(+)
 
 diff --git a/_specs/ecip-1000.md b/_specs/ecip-1000.md
-index b5b50dd..2544753 100644
+index b5b50dd3..25447532 100644
 --- a/_specs/ecip-1000.md
 +++ b/_specs/ecip-1000.md
 @@ -353,6 +353,12 @@ In addition, it is recommended that literal code included in the ECIP be dual-li
