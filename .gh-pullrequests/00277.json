@@ -1,0 +1,66 @@
+{
+    "url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/277",
+    "repository_url": "https://api.github.com/repos/ethereumclassic/ECIPs",
+    "labels_url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/277/labels{/name}",
+    "comments_url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/277/comments",
+    "events_url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/277/events",
+    "html_url": "https://github.com/ethereumclassic/ECIPs/pull/277",
+    "id": 554951328,
+    "node_id": "MDExOlB1bGxSZXF1ZXN0MzY3MDEzNzYx",
+    "number": 277,
+    "title": "ECIP Process ECIP-0001, Replacement of ECIP-1000",
+    "user": {
+      "login": "TokenHash",
+      "id": 29529586,
+      "node_id": "MDQ6VXNlcjI5NTI5NTg2",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/29529586?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/TokenHash",
+      "html_url": "https://github.com/TokenHash",
+      "followers_url": "https://api.github.com/users/TokenHash/followers",
+      "following_url": "https://api.github.com/users/TokenHash/following{/other_user}",
+      "gists_url": "https://api.github.com/users/TokenHash/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/TokenHash/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/TokenHash/subscriptions",
+      "organizations_url": "https://api.github.com/users/TokenHash/orgs",
+      "repos_url": "https://api.github.com/users/TokenHash/repos",
+      "events_url": "https://api.github.com/users/TokenHash/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/TokenHash/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "labels": [
+
+    ],
+    "state": "open",
+    "locked": false,
+    "assignee": null,
+    "assignees": [
+
+    ],
+    "milestone": null,
+    "comments": 0,
+    "created_at": "2020-01-24T20:59:32Z",
+    "updated_at": "2020-01-24T20:59:32Z",
+    "closed_at": null,
+    "author_association": "CONTRIBUTOR",
+    "pull_request": {
+      "url": "https://api.github.com/repos/ethereumclassic/ECIPs/pulls/277",
+      "html_url": "https://github.com/ethereumclassic/ECIPs/pull/277",
+      "diff_url": "https://github.com/ethereumclassic/ECIPs/pull/277.diff",
+      "patch_url": "https://github.com/ethereumclassic/ECIPs/pull/277.patch"
+    },
+    "body": "This ECIP seeks to replace ECIP-1000. \r\n\r\n**Changes:**\r\n\r\n1. Clarifies the ECIP process is not a governance system nor constitution.\r\n2. Removes @sorpaas as an editor.\r\n3. Establishes with more clarity the precedents of the BIP and EIP for the ECIP process.\r\n4. Adds language in the \"ECIP Status Field\" section to make expressly clear that when an ECIP advances in the status chain, it can be reverted, rejected, or withdrawn if flaws are found after the fact.\r\n5. Adds a minimal Code of Conduct for this ECIP process specifically, not for the entire ETC ecosystem.",
+    "reactions": {
+      "url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/277/reactions",
+      "total_count": 0,
+      "+1": 0,
+      "-1": 0,
+      "laugh": 0,
+      "hooray": 0,
+      "confused": 0,
+      "heart": 0,
+      "rocket": 0,
+      "eyes": 0
+    }
+  }
