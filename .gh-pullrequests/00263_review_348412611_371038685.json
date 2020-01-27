@@ -1,0 +1,49 @@
+{
+    "id": 371038685,
+    "node_id": "MDI0OlB1bGxSZXF1ZXN0UmV2aWV3Q29tbWVudDM3MTAzODY4NQ==",
+    "url": "https://api.github.com/repos/ethereumclassic/ECIPs/pulls/comments/371038685",
+    "pull_request_review_id": 348412611,
+    "diff_hunk": "@@ -0,0 +1,128 @@\n+---\n+lang: en\n+ecip: 1079\n+title: Phoenix EVM and Protocol Upgrades\n+author: Bob Summerwill (@bobsummerwill)\n+status: Draft\n+type: Meta\n+created: 2020-01-19\n+license: Apache-2.0\n+discussions-to: https://github.com/ethereumclassic/ECIPs/issues/263\n+---\n+\n+### Simple Summary\n+\n+This ECIP describes a hard-fork which would replace\n+[ECIP 1061: Aztlán EVM and Protocol Upgrades (Yingchun Edition)](https://ecips.ethereumclassic.org/ECIPs/ecip-1061) to \"fix\" two issues with ECIP-1061 where the written specification\n+did not match the original intent.\n+\n+Enable the outstanding Ethereum Foundation _Istanbul_ network protocol upgrades on the Ethereum\n+Classic network without any gas-cost assumptions in a hard-fork code-named _Phoenix_ to enable \n+maximum compatibility across these networks.\n+\n+\n+### Abstract\n+\n+Add support for a subset of protocol-impacting changes introduced in the Ethereum Foundation (ETH) network via the\n+_Istanbul_ hardforks. The proposed changes for Ethereum Classic's _Phoenix_ upgrade include:\n+\n+- Add Blake2 compression function `F` precompile\n+- Reduce alt_bn128 precompile gas costs\n+- Add ChainID opcode\n+- Calldata gas cost reduction\n+- Net gas metering for SSTORE without dirty maps\n+- Addition of SELFBALANCE opcode\n+\n+The network participants who took part in the\n+[ETC Core Developers call](https://github.com/ethereumclassic/ECIPs/issues/177) on 27th November 2019\n+were under the impression at the time that the scope we agreed (\"Instanbul without the\n+backward-compatibility breaking parts of EIP-1884\") - ECIP-1061 / ECIP-1072 - would move the ETC\n+protocol to a place where it was 100% compatible with the ETH mainnet.\n+\n+[Wei Tang](https://github.com/sorpaas)'s implementation of ECIP-1061 shortly afterwards revealed\n+two flaws in the specification, together with recommendations on how to address those shortcomings.\n+\n+This ECIP codifies [those recommendations](https://specs.corepaper.org/51-aztlanredo) in the form\n+of a replacement hard-fork which would happen instead of\n+[ECIP 1061: Aztlán EVM and Protocol Upgrades (Yingchun Edition)](https://ecips.ethereumclassic.org/ECIPs/ecip-1061) on a timeline still TDB.\n+\n+\n+### Motivation\n+\n+To enhance the Ethereum Virtual Machine's (EVM) capabilities, various opcodes shall be added to the Ethereum Classic\n+networks, all of which have been in use on the Ethereum Foundation networks since end of 2019.\n+\n+\n+### Specification\n+\n+This document proposes the following blocks at which to implement these changes in the Classic networks:\n+\n+- TBD on Mordor Classic PoW-testnet\n+- TBD Kotti Classic PoA-testnet\n+- TBD on Ethereum Classic PoW-mainnet\n+\n+After HARD_FORK_BLOCK, apply the following changes.\n+\n+- Enable [EIP-152](https://eips.ethereum.org/EIPS/eip-152)\n+- Enable [EIP-1108](https://eips.ethereum.org/EIPS/eip-1108)\n+- Enable [EIP-1344](https://eips.ethereum.org/EIPS/eip-1344)\n+- Enable [EIP-2028](https://eips.ethereum.org/EIPS/eip-2028)\n+- Enable [EIP-1283](https://eips.ethereum.org/EIPS/eip-1283) with [EIP-1706](https://eips.ethereum.org/EIPS/eip-1706).\n+- Enable [ECIP-1080](https://github.com/ethereumclassic/ECIPs/issues/266)\n+\n+\n+### Rationale\n+\n+[ECIP 1061: Aztlán EVM and Protocol Upgrades (Yingchun Edition)](https://ecips.ethereumclassic.org/ECIPs/ecip-1061) as defined is \"broken\" and it would be inadvisable to activate on the ETC mainnet in\n+its current state.\n+\n+See [EIP 1884: Repricing for trie-size-dependent opcodes](https://eips.ethereum.org/EIPS/eip-1884) for\n+the original rationale for the gas-repricings for ETH.\n+\n+These changes are sensible, but they [broke 680 deployed Aragon smart contracts](https://www.coindesk.com/ethereums-istanbul-upgrade-will-break-680-smart-contracts-on-aragon) along with various other deployed\n+smart contacts by applying the repricings retroactively and unconditionally.\n+\n+The new SELFBALANCE opcode does not break backwards compatibility.  For compatibility with ETH it is both\n+necessary and desirable.\n+\n+Short of imminent and catatrophic danger to the ETC network, making retroactive changes which break\n+backwards compatibility is counter to ETC values and philosophy.\n+\n+Gas-repricings to balance EVM gas prices with real world resource usage is entirely rational and is\n+happening on the ETC protocol too, but will be done in a backwards-compatible ways wherever possible.\n+Unconditional retroactive (\"emergency\") repricings would only happen when the network has been halted\n+or has been rendered unusable.\n+\n+An example of such a situation occurred following the Shanghai attacks on ETH and ETC networks:\n+\n+[ECIP 1015: Long-term gas cost changes for IO-heavy operations to mitigate transaction spam attacks](https://ecips.ethereumclassic.org/ECIPs/ecip-1015), which has ETC's equivalent to [ETH Tangerine Whistle](https://eips.ethereum.org/EIPS/eip-608),\n+with both chains implementing [EIP 150: Gas cost changes for IO-heavy operations](https://eips.ethereum.org/EIPS/eip-150).\n+\n+\n+### Implementation\n+\n+Adoption of the content of this ECIP requires a hard fork as it introduces changes that are not backward compatible.\n+\n+The following clients with Ethereum Classic support implement the _Istanbul_ features currently:\n+\n+- Parity Ethereum\n+- Multi-Geth\n+- Hyperledger Besu\n+\n+The author is unaware if any of these clients have implemented [EIP-1706](https://eips.ethereum.org/EIPS/eip-1706), but it is a very simple change, analogous to [EIP-2200](https://eips.ethereum.org/EIPS/eip-2200), which all the\n+codebases have already implemented.\n+\n+Similarly [ECIP-1080](https://github.com/ethereumclassic/ECIPs/issues/266) has not been implemented in any of these codebases, but is just a \"remix\" of code which they have already implemented.\n+\n+\n+## Copyright\n+\n+This work is licensed under the [Apache License, Version 2.0](https://www.apache.org/licenses/LICENSE-2.0).  The author, Bob Summerwill, attests to his sole authorship of this work, and that he is able to contribute this work to the ECIP process under the Apache 2.0 licence.",
+    "path": "_specs/ecip-1079.md",
+    "position": 120,
+    "original_position": 120,
+    "commit_id": "65ee3b6b45a1f9e75c33d718a09dd698f3830c8c",
+    "user": {
+      "login": "sorpaas",
+      "id": 6277322,
+      "node_id": "MDQ6VXNlcjYyNzczMjI=",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/6277322?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/sorpaas",
+      "html_url": "https://github.com/sorpaas",
+      "followers_url": "https://api.github.com/users/sorpaas/followers",
+      "following_url": "https://api.github.com/users/sorpaas/following{/other_user}",
+      "gists_url": "https://api.github.com/users/sorpaas/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/sorpaas/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/sorpaas/subscriptions",
+      "organizations_url": "https://api.github.com/users/sorpaas/orgs",
+      "repos_url": "https://api.github.com/users/sorpaas/repos",
+      "events_url": "https://api.github.com/users/sorpaas/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/sorpaas/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "body": "> The author, Bob Summerwill, attests to his sole authorship of this work, and that he is able to contribute this work to the ECIP process under the Apache 2.0 licence.\r\n\r\nI think you need to remove this line. I don't think this sentence is true.",
+    "created_at": "2020-01-27T00:02:03Z",
+    "updated_at": "2020-01-27T00:02:11Z",
+    "html_url": "https://github.com/ethereumclassic/ECIPs/pull/263#discussion_r371038685",
+    "pull_request_url": "https://api.github.com/repos/ethereumclassic/ECIPs/pulls/263",
+    "author_association": "MEMBER",
+    "_links": {
+      "self": {
+        "href": "https://api.github.com/repos/ethereumclassic/ECIPs/pulls/comments/371038685"
+      },
+      "html": {
+        "href": "https://github.com/ethereumclassic/ECIPs/pull/263#discussion_r371038685"
+      },
+      "pull_request": {
+        "href": "https://api.github.com/repos/ethereumclassic/ECIPs/pulls/263"
+      }
+    },
+    "original_commit_id": "65ee3b6b45a1f9e75c33d718a09dd698f3830c8c"
+  }
