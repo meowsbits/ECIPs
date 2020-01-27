@@ -1,7 +1,7 @@
 From 575e717f321f3aeb83cafdecb4ccee9a0c3ecf9e Mon Sep 17 00:00:00 2001
 From: Bob Summerwill <bob@summerwill.net>
 Date: Sun, 19 Jan 2020 13:04:15 -0800
-Subject: [PATCH 1/8] Phoenix Hard-fork to occur at the same block as Aztlan -
+Subject: [PATCH 1/9] Phoenix Hard-fork to occur at the same block as Aztlan -
  to "fix it".
 
 ---
@@ -103,7 +103,7 @@ index 00000000..2c27dbad
 From 63ea6eadd8381d0ccdb1a57d71d2db3d6bac874e Mon Sep 17 00:00:00 2001
 From: Bob Summerwill <bob@summerwill.net>
 Date: Sun, 19 Jan 2020 13:06:17 -0800
-Subject: [PATCH 2/8] Added discussion link.
+Subject: [PATCH 2/9] Added discussion link.
 
 ---
  _specs/ecip-aztlan-fix.md | 2 +-
@@ -126,7 +126,7 @@ index 2c27dbad..0a22ddee 100644
 From 502bbd7575286970578379133b4d4fc1a3486945 Mon Sep 17 00:00:00 2001
 From: Bob Summerwill <bob@summerwill.net>
 Date: Sun, 19 Jan 2020 13:25:23 -0800
-Subject: [PATCH 3/8] Added details for the ETC Core Developer call where the
+Subject: [PATCH 3/9] Added details for the ETC Core Developer call where the
  scope of Aztlan was set, and link to Wei's recommendations on "Atzlan fix".
 
 ---
@@ -163,7 +163,7 @@ index 0a22ddee..d0cc9b59 100644
 From 4822251081805bc459bb59d97aec64c4e814b111 Mon Sep 17 00:00:00 2001
 From: Bob Summerwill <bob@summerwill.net>
 Date: Sun, 19 Jan 2020 14:30:23 -0800
-Subject: [PATCH 4/8] Pointing to new SELFBALANCE opcode ECIP and updated
+Subject: [PATCH 4/9] Pointing to new SELFBALANCE opcode ECIP and updated
  Rationale.
 
 ---
@@ -218,7 +218,7 @@ index d0cc9b59..33df7c1a 100644
 From 9d0f3753f878702beb9b1a3eb91af9bebdf4580a Mon Sep 17 00:00:00 2001
 From: Bob Summerwill <bob@summerwill.net>
 Date: Sun, 19 Jan 2020 14:59:10 -0800
-Subject: [PATCH 5/8] Sorpaas assigned ECIP-1078 number to this proposal.
+Subject: [PATCH 5/9] Sorpaas assigned ECIP-1078 number to this proposal.
 
 ---
  _specs/{ecip-aztlan-fix.md => ecip-1078.md} | 2 +-
@@ -244,7 +244,7 @@ index 33df7c1a..8fb5a118 100644
 From 128a31ceaa7b68fbb0a689781de1ab3c27c5f38a Mon Sep 17 00:00:00 2001
 From: Bob Summerwill <bob@summerwill.net>
 Date: Sun, 19 Jan 2020 15:03:34 -0800
-Subject: [PATCH 6/8] Updated SELFBALANCE links to use assigned ECIP-1080
+Subject: [PATCH 6/9] Updated SELFBALANCE links to use assigned ECIP-1080
  number.
 
 ---
@@ -278,7 +278,7 @@ index 8fb5a118..c5e07b43 100644
 From da459af7889431f1ec8ac3dc4165c04a58bcc1ec Mon Sep 17 00:00:00 2001
 From: Bob Summerwill <bob@summerwill.net>
 Date: Mon, 20 Jan 2020 19:33:32 -0800
-Subject: [PATCH 7/8] Added Core Paper copyright and sourcing to Copyright
+Subject: [PATCH 7/9] Added Core Paper copyright and sourcing to Copyright
  section, in addition to the reference and thanks higher up.
 
 ---
@@ -303,7 +303,7 @@ index c5e07b43..74e82380 100644
 From c186f4f6dd16790d5b12af8ef04e2905c5ee00f7 Mon Sep 17 00:00:00 2001
 From: Bob Summerwill <bob@summerwill.net>
 Date: Mon, 20 Jan 2020 21:51:08 -0800
-Subject: [PATCH 8/8] Fixed a typo.
+Subject: [PATCH 8/9] Fixed a typo.
 
 ---
  _specs/ecip-1078.md | 1 -
@@ -321,3 +321,39 @@ index 74e82380..45f975c7 100644
  - Enable [ECIP-1080](https://github.com/ethereumclassic/ECIPs/issues/266)
  
  
+
+From 9fd436935266974e8cd1d16840aedd5c4bf22459 Mon Sep 17 00:00:00 2001
+From: Bob Summerwill <bob@summerwill.net>
+Date: Sun, 26 Jan 2020 17:28:28 -0800
+Subject: [PATCH 9/9] Corrected boilerplate copyright language which was
+ cut-and-pasted from earlier ECIP. The language was inappropriate in this
+ example.
+
+---
+ _specs/ecip-1078.md | 13 +++++++------
+ 1 file changed, 7 insertions(+), 6 deletions(-)
+
+diff --git a/_specs/ecip-1078.md b/_specs/ecip-1078.md
+index 45f975c7..6a9d743a 100644
+--- a/_specs/ecip-1078.md
++++ b/_specs/ecip-1078.md
+@@ -95,12 +95,13 @@ Similarly [ECIP-1080](https://github.com/ethereumclassic/ECIPs/issues/266) has n
+ 
+ ## Copyright
+ 
+-This work is licensed under the [Apache License, Version 2.0](https://www.apache.org/licenses/LICENSE-2.0).  The author, Bob Summerwill, attests to his sole authorship of this work, and that he is able to contribute this work to the ECIP process under the Apache 2.0 licence.
++This proposal is licensed under the [Apache License, Version 2.0](https://www.apache.org/licenses/LICENSE-2.0),
++based on specifications developed by Wei Tang within the Core Paper project (https://corepaper.org/).
+ 
+-He further attests that he neither holds nor is aware of any patents, trademarks, copyright issues or other IP hinderances associated with this work.
++Core Paper Copyright 2019-2020 Wei Tang.
+ 
+-Core Paper
+-Copyright 2019-2020 Wei Tang
++Bob Summerwill, the author of this proposal attests that his is the sole author of this specific document
++based on Wei Tang's work and that he is able to contribute this work to the ECIP process under the
++Apache 2.0 licence.  He further attests that he neither holds nor is aware of any patents, trademarks,
++copyright issues or other IP hinderances associated with this work.
+ 
+-This product includes specifications developed at
+-The Core Paper project (https://corepaper.org/).

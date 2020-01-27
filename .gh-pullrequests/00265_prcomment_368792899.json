@@ -7,7 +7,7 @@
     "path": "_specs/ecip-1080.md",
     "position": 68,
     "original_position": 68,
-    "commit_id": "c97e649628957233a4c6c95922726b8e0a925cdc",
+    "commit_id": "3c201a213639d795abcce665329d7a888e8387b0",
     "original_commit_id": "0b55b2557fa1791247fe0fadb2fe5b210347274e",
     "user": {
       "login": "sorpaas",
@@ -31,10 +31,10 @@
     },
     "body": "To comply with the Apache-2.0 license, please include the content of the NOTICE file here: https://corepaper.org/NOTICE",
     "created_at": "2020-01-21T03:02:26Z",
-    "updated_at": "2020-01-21T03:16:26Z",
+    "updated_at": "2020-01-27T01:29:41Z",
     "html_url": "https://github.com/ethereumclassic/ECIPs/pull/265#discussion_r368792899",
     "pull_request_url": "https://api.github.com/repos/ethereumclassic/ECIPs/pulls/265",
-    "author_association": "CONTRIBUTOR",
+    "author_association": "MEMBER",
     "_links": {
       "self": {
         "href": "https://api.github.com/repos/ethereumclassic/ECIPs/pulls/comments/368792899"
