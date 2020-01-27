@@ -1,0 +1,146 @@
+From 6771654349abf8fff7a37f728e3616604f8489f3 Mon Sep 17 00:00:00 2001
+From: Cody Burns <cody.w.burns@gmail.com>
+Date: Mon, 27 Jan 2020 13:18:45 -0800
+Subject: [PATCH 1/6] Create jekyll.yml
+
+---
+ .github/workflows/jekyll.yml | 16 ++++++++++++++++
+ 1 file changed, 16 insertions(+)
+ create mode 100644 .github/workflows/jekyll.yml
+
+diff --git a/.github/workflows/jekyll.yml b/.github/workflows/jekyll.yml
+new file mode 100644
+index 00000000..57c97e9c
+--- /dev/null
++++ b/.github/workflows/jekyll.yml
+@@ -0,0 +1,16 @@
++name: Ethereum Classic Improvement Proposals CI
++
++on: [push]
++
++jobs:
++  build:
++
++    runs-on: ubuntu-latest
++
++    steps:
++    - uses: actions/checkout@v1
++    - name: Build the site in the jekyll/builder container
++      run: |
++        docker run \
++        -v ${{ github.workspace }}:/srv/jekyll -v ${{ github.workspace }}/_site:/srv/jekyll/_site \
++        jekyll/builder:latest /bin/bash -c "chmod 777 /srv/jekyll && jekyll build --future"
+
+From c455245bb8f0ef1d639863ce403d2df3fe6ececb Mon Sep 17 00:00:00 2001
+From: Cody Burns <cody.w.burns@gmail.com>
+Date: Mon, 27 Jan 2020 13:23:32 -0800
+Subject: [PATCH 2/6] Update _config.yml
+
+---
+ _config.yml | 1 +
+ 1 file changed, 1 insertion(+)
+
+diff --git a/_config.yml b/_config.yml
+index 588c4fa9..93b34006 100644
+--- a/_config.yml
++++ b/_config.yml
+@@ -4,6 +4,7 @@ description: >-
+   platform, including core protocol specifications, client APIs, and contract
+   standards.
+ url: "http://ecips.ethereumclassic.org"
++repository: ethereumclassic/ECIPS
+ 
+ markdown: kramdown
+ theme: minima
+
+From be3e6c8a712548e7b8168a7f7d188bb2684bb63d Mon Sep 17 00:00:00 2001
+From: Cody Burns <cody.w.burns@gmail.com>
+Date: Mon, 27 Jan 2020 13:34:50 -0800
+Subject: [PATCH 3/6] testing
+
+---
+ _includes/eiptable.html | 2 +-
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+
+diff --git a/_includes/eiptable.html b/_includes/eiptable.html
+index 5bffc7ce..9698cb75 100644
+--- a/_includes/eiptable.html
++++ b/_includes/eiptable.html
+@@ -8,7 +8,7 @@
+   }
+ </style>
+ {% for status in site.data.statuses %}
+-  {% assign eips = include.eips|where:"status",status|sort:"ecip" %}
++  {% assign eips = include.eips|sort:"ecip" %}
+   {% assign count = eips|size %}
+   {% if count > 0 %}
+     <h2>{{status}}</h2>
+
+From d3099e866cbb70d35b3ddbfe3cd7633f174b2729 Mon Sep 17 00:00:00 2001
+From: Cody Burns <cody.w.burns@gmail.com>
+Date: Mon, 27 Jan 2020 13:42:04 -0800
+Subject: [PATCH 4/6] Update eiptable.html
+
+---
+ _includes/eiptable.html | 2 +-
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+
+diff --git a/_includes/eiptable.html b/_includes/eiptable.html
+index 9698cb75..13dc6fdd 100644
+--- a/_includes/eiptable.html
++++ b/_includes/eiptable.html
+@@ -8,7 +8,7 @@
+   }
+ </style>
+ {% for status in site.data.statuses %}
+-  {% assign eips = include.eips|sort:"ecip" %}
++  {% assign eips = include.eips|where:"status",status|sort:"ecip-" %}
+   {% assign count = eips|size %}
+   {% if count > 0 %}
+     <h2>{{status}}</h2>
+
+From 0210a3d0f6804a3a205ea33542f340987ade5d25 Mon Sep 17 00:00:00 2001
+From: Cody Burns <cody.w.burns@gmail.com>
+Date: Mon, 27 Jan 2020 13:44:39 -0800
+Subject: [PATCH 5/6] Update ecip-1048.md
+
+cleaning up build
+---
+ _specs/ecip-1048.md | 1 -
+ 1 file changed, 1 deletion(-)
+
+diff --git a/_specs/ecip-1048.md b/_specs/ecip-1048.md
+index 640b6529..ea185a2c 100644
+--- a/_specs/ecip-1048.md
++++ b/_specs/ecip-1048.md
+@@ -199,7 +199,6 @@ type block struct {
+   auth       bool     // Whether the vote was to authorize (or deauthorize)
+   checkpoint []string // List of authorized signers if this is an epoch block
+ }
+-
+ // Define the various voting scenarios to test
+ tests := []struct {
+   epoch   uint64   // Number of blocks in an epoch (unset = 30000)
+
+From f842967f2b749c8f71c7e77e9c247d572f37915d Mon Sep 17 00:00:00 2001
+From: Cody Burns <cody.w.burns@gmail.com>
+Date: Mon, 27 Jan 2020 13:45:26 -0800
+Subject: [PATCH 6/6] Update ecip-1060.md
+
+clean up for build
+---
+ _specs/ecip-1060.md | 1 -
+ 1 file changed, 1 deletion(-)
+
+diff --git a/_specs/ecip-1060.md b/_specs/ecip-1060.md
+index 537adacb..62f6e04c 100644
+--- a/_specs/ecip-1060.md
++++ b/_specs/ecip-1060.md
+@@ -137,7 +137,6 @@ type block struct {
+   auth       bool     // Whether the vote was to authorize (or deauthorize)
+   checkpoint []string // List of authorized signers if this is an epoch block
+ }
+-
+ // Define the various voting scenarios to test
+ tests := []struct {
+   epoch   uint64   // Number of blocks in an epoch (unset = 30000)
