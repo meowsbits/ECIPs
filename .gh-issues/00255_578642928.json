@@ -25,9 +25,9 @@
       "site_admin": false
     },
     "created_at": "2020-01-27T08:34:19Z",
-    "updated_at": "2020-01-27T08:34:19Z",
+    "updated_at": "2020-01-27T08:35:29Z",
     "author_association": "NONE",
-    "body": "Suggestions: host this on the ethereumclassic.org/countdown url. So we can host a centralized place for many countdowns:\r\n- 5m20 reduction and future emission schedule\r\n- Aztlan upgrade\r\n- Accepted ECIPs\r\n\r\nThen we can set up some redirects for domains specific to each countdown to hype that event. Example:\r\n- ECIP1017.org\r\n- 5M20.org\r\n\r\n- ETCcountdown.org\r\n- ETCclock.com\r\n- ETCevent.com\r\n\r\n- EtherEmission.com\r\n- EmissionSchedule.com",
+    "body": "Suggestions: host this on the ethereumclassic.org/countdown url. So we can host a centralized place for many countdowns:\r\n- 5m20 reduction and future emission schedule\r\n- Aztlan upgrade\r\n- Accepted ECIPs\r\n\r\nThen we can set up some redirects for domains specific to each countdown to hype that event. Example:\r\n- ECIP1017.org\r\n- 5M20.org\r\n\r\n- ETCcountdown.org\r\n- ETCclock.com\r\n- ETCevent.com\r\n\r\n- EtherEmission.com\r\n- EmissionSchedule.com\r\n\r\nThis will also be a helpful place for us to aggregate marketing material like a video explained of the 5M20 emission schedule and other stuff people haven't heard of thats in the pipeline.",
     "reactions": {
       "url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/comments/578642928/reactions",
       "total_count": 0,
