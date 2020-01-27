@@ -1,7 +1,7 @@
 {
-    "id": 2983552432,
-    "node_id": "MDIwOlJldmlld1JlcXVlc3RlZEV2ZW50Mjk4MzU1MjQzMg==",
-    "url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/events/2983552432",
+    "id": 2983557060,
+    "node_id": "MDIwOlJldmlld1JlcXVlc3RlZEV2ZW50Mjk4MzU1NzA2MA==",
+    "url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/events/2983557060",
     "actor": {
       "login": "realcodywburns",
       "id": 13103499,
@@ -25,7 +25,7 @@
     "event": "review_requested",
     "commit_id": null,
     "commit_url": null,
-    "created_at": "2020-01-27T21:56:29Z",
+    "created_at": "2020-01-27T21:58:09Z",
     "review_requester": {
       "login": "realcodywburns",
       "id": 13103499,
@@ -46,25 +46,19 @@
       "type": "User",
       "site_admin": false
     },
-    "requested_reviewer": {
-      "login": "bobsummerwill",
-      "id": 3788156,
-      "node_id": "MDQ6VXNlcjM3ODgxNTY=",
-      "avatar_url": "https://avatars1.githubusercontent.com/u/3788156?v=4",
-      "gravatar_id": "",
-      "url": "https://api.github.com/users/bobsummerwill",
-      "html_url": "https://github.com/bobsummerwill",
-      "followers_url": "https://api.github.com/users/bobsummerwill/followers",
-      "following_url": "https://api.github.com/users/bobsummerwill/following{/other_user}",
-      "gists_url": "https://api.github.com/users/bobsummerwill/gists{/gist_id}",
-      "starred_url": "https://api.github.com/users/bobsummerwill/starred{/owner}{/repo}",
-      "subscriptions_url": "https://api.github.com/users/bobsummerwill/subscriptions",
-      "organizations_url": "https://api.github.com/users/bobsummerwill/orgs",
-      "repos_url": "https://api.github.com/users/bobsummerwill/repos",
-      "events_url": "https://api.github.com/users/bobsummerwill/events{/privacy}",
-      "received_events_url": "https://api.github.com/users/bobsummerwill/received_events",
-      "type": "User",
-      "site_admin": false
+    "requested_team": {
+      "name": "All hands",
+      "id": 3034787,
+      "node_id": "MDQ6VGVhbTMwMzQ3ODc=",
+      "slug": "all-hands",
+      "description": "everybody",
+      "privacy": "closed",
+      "url": "https://api.github.com/organizations/20468622/team/3034787",
+      "html_url": "https://github.com/orgs/ethereumclassic/teams/all-hands",
+      "members_url": "https://api.github.com/organizations/20468622/team/3034787/members{/member}",
+      "repositories_url": "https://api.github.com/organizations/20468622/team/3034787/repos",
+      "permission": "pull",
+      "parent": null
     },
     "issue": {
       "url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/279",
