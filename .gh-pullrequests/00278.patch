@@ -1,0 +1,44 @@
+From 5559de39593cfefe393f2506bf518a2448e5aa64 Mon Sep 17 00:00:00 2001
+From: Donald McIntyre <29529586+TokenHash@users.noreply.github.com>
+Date: Sun, 26 Jan 2020 19:24:58 -0700
+Subject: [PATCH 1/2] Alert: No number in this ECIP
+
+Seems this ECIP was merged without a number. The actual underlying correction proposed was done, so this ECIP may either get a number so it agrees with the ECIP process format, or it may be deleted.
+---
+ _specs/ecip-do_not_dox.md | 2 +-
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+
+diff --git a/_specs/ecip-do_not_dox.md b/_specs/ecip-do_not_dox.md
+index 78c68e6e..ec7630ae 100644
+--- a/_specs/ecip-do_not_dox.md
++++ b/_specs/ecip-do_not_dox.md
+@@ -1,6 +1,6 @@
+ ---
+ lang: en
+-ecip: Unassigned
++ecip: **Please assign a number here <-**
+ title: Do Not Dox ECIP Editors
+ author: Bob Summerwill (@bobsummerwill)
+ status: Draft
+
+From f030494d6d35521d2cffe2d2c2d9837c456c886e Mon Sep 17 00:00:00 2001
+From: Donald McIntyre <29529586+TokenHash@users.noreply.github.com>
+Date: Sun, 26 Jan 2020 19:25:48 -0700
+Subject: [PATCH 2/2] Update ecip-do_not_dox.md
+
+---
+ _specs/ecip-do_not_dox.md | 2 +-
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+
+diff --git a/_specs/ecip-do_not_dox.md b/_specs/ecip-do_not_dox.md
+index ec7630ae..379802f1 100644
+--- a/_specs/ecip-do_not_dox.md
++++ b/_specs/ecip-do_not_dox.md
+@@ -1,6 +1,6 @@
+ ---
+ lang: en
+-ecip: **Please assign a number here <-**
++ecip: **Please assign a number here and on the ECIP URL <-**
+ title: Do Not Dox ECIP Editors
+ author: Bob Summerwill (@bobsummerwill)
+ status: Draft
