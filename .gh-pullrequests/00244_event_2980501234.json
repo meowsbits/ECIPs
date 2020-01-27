@@ -1,7 +1,8 @@
 {
-    "id": 335477237,
-    "node_id": "MDE3OlB1bGxSZXF1ZXN0UmV2aWV3MzM1NDc3MjM3",
-    "user": {
+    "id": 2980501234,
+    "node_id": "MDE1OlN1YnNjcmliZWRFdmVudDI5ODA1MDEyMzQ=",
+    "url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/events/2980501234",
+    "actor": {
       "login": "BelfordZ",
       "id": 1787231,
       "node_id": "MDQ6VXNlcjE3ODcyMzE=",
@@ -21,19 +22,8 @@
       "type": "User",
       "site_admin": false
     },
-    "body": "",
-    "state": "APPROVED",
-    "html_url": "https://github.com/ethereumclassic/ECIPs/pull/244#pullrequestreview-335477237",
-    "pull_request_url": "https://api.github.com/repos/ethereumclassic/ECIPs/pulls/244",
-    "author_association": "MEMBER",
-    "_links": {
-      "html": {
-        "href": "https://github.com/ethereumclassic/ECIPs/pull/244#pullrequestreview-335477237"
-      },
-      "pull_request": {
-        "href": "https://api.github.com/repos/ethereumclassic/ECIPs/pulls/244"
-      }
-    },
-    "submitted_at": "2019-12-20T19:34:53Z",
-    "commit_id": "d700b292d824120116bbd80d1444eca9ba321f93"
+    "event": "subscribed",
+    "commit_id": null,
+    "commit_url": null,
+    "created_at": "2020-01-27T04:51:11Z"
   }
