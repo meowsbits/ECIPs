@@ -1,7 +1,7 @@
 From facb3fc6a28adeb7c945a2bb774895eea34068bd Mon Sep 17 00:00:00 2001
 From: Bob Summerwill <bob@summerwill.net>
 Date: Sun, 19 Jan 2020 13:21:57 -0800
-Subject: [PATCH 1/4] This ECIP describes a Phoenix hard-fork which would
+Subject: [PATCH 1/5] This ECIP describes a Phoenix hard-fork which would
  replace Azltan.
 
 ---
@@ -125,7 +125,7 @@ index 00000000..fe9b53e5
 From 2444b7a1e706ac7a1650b1686c50b21de212074b Mon Sep 17 00:00:00 2001
 From: Bob Summerwill <bob@summerwill.net>
 Date: Sun, 19 Jan 2020 14:31:59 -0800
-Subject: [PATCH 2/4] Pointing to new SELFBALANCE opcode ECIP and updated
+Subject: [PATCH 2/5] Pointing to new SELFBALANCE opcode ECIP and updated
  Rationale.
 
 ---
@@ -180,7 +180,7 @@ index fe9b53e5..039766f6 100644
 From 4bd057feac7f9b83bcdc3b4fb5dc39b36b33d467 Mon Sep 17 00:00:00 2001
 From: Bob Summerwill <bob@summerwill.net>
 Date: Sun, 19 Jan 2020 15:01:58 -0800
-Subject: [PATCH 3/4] Sorpaas assigned ECIP-1079 to this ECIP and ECIP-1080 to
+Subject: [PATCH 3/5] Sorpaas assigned ECIP-1079 to this ECIP and ECIP-1080 to
  self-balance. Update links appropriately.
 
 ---
@@ -226,7 +226,7 @@ index 039766f6..4d5f114b 100644
 From 65ee3b6b45a1f9e75c33d718a09dd698f3830c8c Mon Sep 17 00:00:00 2001
 From: Bob Summerwill <bob@summerwill.net>
 Date: Mon, 20 Jan 2020 19:20:29 -0800
-Subject: [PATCH 4/4] Added copyright and sourcing for Core Paper to Copyright
+Subject: [PATCH 4/5] Added copyright and sourcing for Core Paper to Copyright
  section in addition to attestation and thanks higher up.
 
 ---
@@ -247,3 +247,38 @@ index 4d5f114b..12e65519 100644
 +
 +This product includes specifications developed at
 +The Core Paper project (https://corepaper.org/).
+
+From 2752eed379194e89bc92c7bdfb617e9f9d5f356d Mon Sep 17 00:00:00 2001
+From: Bob Summerwill <bob@summerwill.net>
+Date: Sun, 26 Jan 2020 17:26:24 -0800
+Subject: [PATCH 5/5] Corrected boilerplate copyright notice which had been
+ cut-and-pasted from earlier ECIP. It was inappropriate in this example.
+
+---
+ _specs/ecip-1079.md | 14 +++++++-------
+ 1 file changed, 7 insertions(+), 7 deletions(-)
+
+diff --git a/_specs/ecip-1079.md b/_specs/ecip-1079.md
+index 12e65519..d9576778 100644
+--- a/_specs/ecip-1079.md
++++ b/_specs/ecip-1079.md
+@@ -117,12 +117,12 @@ Similarly [ECIP-1080](https://github.com/ethereumclassic/ECIPs/issues/266) has n
+ 
+ ## Copyright
+ 
+-This work is licensed under the [Apache License, Version 2.0](https://www.apache.org/licenses/LICENSE-2.0).  The author, Bob Summerwill, attests to his sole authorship of this work, and that he is able to contribute this work to the ECIP process under the Apache 2.0 licence.
++This proposal is licensed under the [Apache License, Version 2.0](https://www.apache.org/licenses/LICENSE-2.0),
++based on specifications developed by Wei Tang within the Core Paper project (https://corepaper.org/).
+ 
+-He further attests that he neither holds nor is aware of any patents, trademarks, copyright issues or other IP hinderances associated with this work.
++Core Paper Copyright 2019-2020 Wei Tang.
+ 
+-Core Paper
+-Copyright 2019-2020 Wei Tang
+-
+-This product includes specifications developed at
+-The Core Paper project (https://corepaper.org/).
++Bob Summerwill, the author of this proposal attests that his is the sole author of this specific document
++based on Wei Tang's work and that he is able to contribute this work to the ECIP process under the
++Apache 2.0 licence.  He further attests that he neither holds nor is aware of any patents, trademarks,
++copyright issues or other IP hinderances associated with this work.
