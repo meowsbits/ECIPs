@@ -1,0 +1,39 @@
+{
+    "id": 348413423,
+    "node_id": "MDE3OlB1bGxSZXF1ZXN0UmV2aWV3MzQ4NDEzNDIz",
+    "user": {
+      "login": "sorpaas",
+      "id": 6277322,
+      "node_id": "MDQ6VXNlcjYyNzczMjI=",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/6277322?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/sorpaas",
+      "html_url": "https://github.com/sorpaas",
+      "followers_url": "https://api.github.com/users/sorpaas/followers",
+      "following_url": "https://api.github.com/users/sorpaas/following{/other_user}",
+      "gists_url": "https://api.github.com/users/sorpaas/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/sorpaas/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/sorpaas/subscriptions",
+      "organizations_url": "https://api.github.com/users/sorpaas/orgs",
+      "repos_url": "https://api.github.com/users/sorpaas/repos",
+      "events_url": "https://api.github.com/users/sorpaas/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/sorpaas/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "body": "Potential copyright violation. It's inappropriate to claim \"sole authorship\" when the specification clearly has texts directly copied from Core Paper project.",
+    "state": "CHANGES_REQUESTED",
+    "html_url": "https://github.com/ethereumclassic/ECIPs/pull/263#pullrequestreview-348413423",
+    "pull_request_url": "https://api.github.com/repos/ethereumclassic/ECIPs/pulls/263",
+    "author_association": "MEMBER",
+    "_links": {
+      "html": {
+        "href": "https://github.com/ethereumclassic/ECIPs/pull/263#pullrequestreview-348413423"
+      },
+      "pull_request": {
+        "href": "https://api.github.com/repos/ethereumclassic/ECIPs/pulls/263"
+      }
+    },
+    "submitted_at": "2020-01-27T00:18:39Z",
+    "commit_id": "65ee3b6b45a1f9e75c33d718a09dd698f3830c8c"
+  }
