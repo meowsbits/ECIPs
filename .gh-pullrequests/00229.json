@@ -8,7 +8,7 @@
     "id": 530769967,
     "node_id": "MDExOlB1bGxSZXF1ZXN0MzQ3MzU0MzE5",
     "number": 229,
-    "title": "Reject ECIP-1051 \"Ethereum Classic Treasury system\"",
+    "title": "ECIP-1051: Reject \"Ethereum Classic Treasury system\"",
     "user": {
       "login": "bobsummerwill",
       "id": 3788156,
@@ -41,7 +41,7 @@
     "milestone": null,
     "comments": 3,
     "created_at": "2019-12-01T18:06:24Z",
-    "updated_at": "2020-01-14T16:00:31Z",
+    "updated_at": "2020-01-28T10:08:42Z",
     "closed_at": null,
     "author_association": "MEMBER",
     "pull_request": {
