@@ -12,7 +12,7 @@ But we should reject this and clear out cognitive load.
  1 file changed, 1 insertion(+), 1 deletion(-)
 
 diff --git a/_specs/ecip-1063.md b/_specs/ecip-1063.md
-index 46fb8e8..2994bd9 100644
+index 46fb8e8e..2994bd99 100644
 --- a/_specs/ecip-1063.md
 +++ b/_specs/ecip-1063.md
 @@ -4,7 +4,7 @@ ecip: 1063

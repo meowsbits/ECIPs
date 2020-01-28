@@ -36,7 +36,7 @@
       "id": 529476225,
       "node_id": "MDExOlB1bGxSZXF1ZXN0MzQ2MzQ2NzQ5",
       "number": 203,
-      "title": "Reject ECIP-1063 - Integrated decentralized oracles and smart contracts",
+      "title": "ECIP-1063: Reject \"Integrated decentralized oracles and smart contracts\"",
       "user": {
         "login": "bobsummerwill",
         "id": 3788156,
@@ -69,7 +69,7 @@
       "milestone": null,
       "comments": 6,
       "created_at": "2019-11-27T17:09:35Z",
-      "updated_at": "2019-12-01T18:21:53Z",
+      "updated_at": "2020-01-28T10:10:24Z",
       "closed_at": null,
       "author_association": "MEMBER",
       "active_lock_reason": null,
