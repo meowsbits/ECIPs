@@ -1,0 +1,43 @@
+{
+    "url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/comments/579416446",
+    "html_url": "https://github.com/ethereumclassic/ECIPs/pull/280#issuecomment-579416446",
+    "issue_url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/280",
+    "id": 579416446,
+    "node_id": "MDEyOklzc3VlQ29tbWVudDU3OTQxNjQ0Ng==",
+    "user": {
+      "login": "bobsummerwill",
+      "id": 3788156,
+      "node_id": "MDQ6VXNlcjM3ODgxNTY=",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/3788156?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/bobsummerwill",
+      "html_url": "https://github.com/bobsummerwill",
+      "followers_url": "https://api.github.com/users/bobsummerwill/followers",
+      "following_url": "https://api.github.com/users/bobsummerwill/following{/other_user}",
+      "gists_url": "https://api.github.com/users/bobsummerwill/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/bobsummerwill/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/bobsummerwill/subscriptions",
+      "organizations_url": "https://api.github.com/users/bobsummerwill/orgs",
+      "repos_url": "https://api.github.com/users/bobsummerwill/repos",
+      "events_url": "https://api.github.com/users/bobsummerwill/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/bobsummerwill/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "created_at": "2020-01-28T19:32:56Z",
+    "updated_at": "2020-01-28T19:32:56Z",
+    "author_association": "MEMBER",
+    "body": "Also, not to be an arsehole here, but you yourself said that we could not take an Accepted ECIP backwards.   While that is perhaps a dubious assertion on @sorpaas’s account, I think that he has poisoned the possibility of revising 1061 (intentionally) by publishing https://github.com/multi-geth/multi-geth/releases/tag/v1.9.7 and with the corresponding Parity-Ethereum support for 1061 as it was on Dec 20th.\r\n\r\nWhile we can argue whether or not “moving backwards” is acceptable I think it would be much better to work “well within the lines” of ECIP-1000 as written in this instance and so NOT to revise this ECIP.    Instead, a “HF which is 1061 with 1884 readded would be either an overlay HF (analogous to the Phoenix “fix”) or a new proposal (analogous to Phoenix “redo”).",
+    "reactions": {
+      "url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/comments/579416446/reactions",
+      "total_count": 0,
+      "+1": 0,
+      "-1": 0,
+      "laugh": 0,
+      "hooray": 0,
+      "confused": 0,
+      "heart": 0,
+      "rocket": 0,
+      "eyes": 0
+    }
+  }
