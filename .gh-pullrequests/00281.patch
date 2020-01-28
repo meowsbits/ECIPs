@@ -1,0 +1,27 @@
+From 8ed19a1fb0656cbc9b6e8e63b823dac5d74e7c84 Mon Sep 17 00:00:00 2001
+From: meowsbits <45600330+meowsbits@users.noreply.github.com>
+Date: Tue, 28 Jan 2020 08:39:26 -0600
+Subject: [PATCH] fix(specification): feature timing convention block number
+
+Feature-enable specifications conventionally use block numbers as inclusive
+starting points, as opposed to last-without variables.
+
+This commit edits the specification section assuming that that was what was
+intended.
+---
+ _specs/ecip-1078.md | 2 +-
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+
+diff --git a/_specs/ecip-1078.md b/_specs/ecip-1078.md
+index 6a9d743a..1fc59712 100644
+--- a/_specs/ecip-1078.md
++++ b/_specs/ecip-1078.md
+@@ -42,7 +42,7 @@ This document proposes the following blocks at which to implement these changes
+ - `2_058_191` on Kotti Classic PoA-testnet (Feb 12th, 2020)
+ - `10_500_839` on Ethereum Classic PoW-mainnet (March 25th, 2020)
+ 
+-After HARD_FORK_BLOCK, apply the following changes:
++At HARD_FORK_BLOCK, apply the following changes:
+ 
+ - Disable [EIP-2200](https://eips.ethereum.org/EIPS/eip-2200)
+ - Enable [EIP-1283](https://eips.ethereum.org/EIPS/eip-1283) with [EIP-1706](https://eips.ethereum.org/EIPS/eip-1706) instead.
