@@ -1,7 +1,7 @@
 From ec20c03bbf6515e5374b6c6fed23103301f6092b Mon Sep 17 00:00:00 2001
 From: meows <b5c6@protonmail.com>
 Date: Wed, 18 Dec 2019 19:03:09 -0600
-Subject: [PATCH] Initial draft of ForkID fork(s) parameter spec
+Subject: [PATCH 1/2] Initial draft of ForkID fork(s) parameter spec
 
 Signed-off-by: meows <b5c6@protonmail.com>
 ---
@@ -156,3 +156,28 @@ index 00000000..62e1389e
 +Respective reference implementations for `forkid` generation are documented in EIP-2124 and EIP-2364.
 +
 +
+
+From 22ec1c414a366c99110d1ca30480f8335c194eda Mon Sep 17 00:00:00 2001
+From: Talha Cross <47772477+soc1c@users.noreply.github.com>
+Date: Tue, 28 Jan 2020 11:01:19 +0100
+Subject: [PATCH 2/2] Update and rename ecip-_.md to ecip-1082.md
+
+---
+ _specs/{ecip-_.md => ecip-1082.md} | 2 +-
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+ rename _specs/{ecip-_.md => ecip-1082.md} (99%)
+
+diff --git a/_specs/ecip-_.md b/_specs/ecip-1082.md
+similarity index 99%
+rename from _specs/ecip-_.md
+rename to _specs/ecip-1082.md
+index 62e1389e..3e79031b 100644
+--- a/_specs/ecip-_.md
++++ b/_specs/ecip-1082.md
+@@ -1,5 +1,5 @@
+ ---
+-ecip: TBD
++ecip: 1082
+ title: Fork identifier (`forkid`) protocol fork list specification
+ author: @meowsbits
+ discussions-to: TBD

@@ -1,7 +1,7 @@
 From 397a1260a5e541c76e4e5bb03b3a463dc7363d01 Mon Sep 17 00:00:00 2001
 From: Bob Summerwill <bob@summerwill.net>
 Date: Fri, 17 Jan 2020 16:06:05 -0800
-Subject: [PATCH 1/2] A proposal to place a hard cap on the gaslimit for the
+Subject: [PATCH 1/3] A proposal to place a hard cap on the gaslimit for the
  ETC mainnet as an in-protocol consensus rule. From the block that this ECIP
  was activated, gaslimit would follow a curve defined in this proposal rather
  than being subject to miner voting.
@@ -160,7 +160,7 @@ index 00000000..d95ce5c1
 From d25d981e0dd0f4303eec553ef718104d0562c816 Mon Sep 17 00:00:00 2001
 From: Bob Summerwill <bob@summerwill.net>
 Date: Fri, 17 Jan 2020 16:12:06 -0800
-Subject: [PATCH 2/2] Added a Github issue for discussion and redirecting to it
+Subject: [PATCH 2/3] Added a Github issue for discussion and redirecting to it
  here.
 
 ---
@@ -180,3 +180,30 @@ index d95ce5c1..b55736be 100644
  ---
  
  ## Abstract
+
+From 5073cec5f35cf893dc7e4f60f3b56e5c4d2342ae Mon Sep 17 00:00:00 2001
+From: Talha Cross <47772477+soc1c@users.noreply.github.com>
+Date: Tue, 28 Jan 2020 11:06:11 +0100
+Subject: [PATCH 3/3] Update and rename ecip-hard-cap-gaslimit-in-protocol.md
+ to ecip-1084.md
+
+---
+ _specs/{ecip-hard-cap-gaslimit-in-protocol.md => ecip-1084.md} | 2 +-
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+ rename _specs/{ecip-hard-cap-gaslimit-in-protocol.md => ecip-1084.md} (99%)
+
+diff --git a/_specs/ecip-hard-cap-gaslimit-in-protocol.md b/_specs/ecip-1084.md
+similarity index 99%
+rename from _specs/ecip-hard-cap-gaslimit-in-protocol.md
+rename to _specs/ecip-1084.md
+index b55736be..10132c09 100644
+--- a/_specs/ecip-hard-cap-gaslimit-in-protocol.md
++++ b/_specs/ecip-1084.md
+@@ -1,6 +1,6 @@
+ ---
+ lang: en
+-ecip: Unassigned
++ecip: 1084
+ title: Hard-cap gas-limit in protocol
+ author: Bob Summerwill (@bobsummerwill)
+ status: Draft

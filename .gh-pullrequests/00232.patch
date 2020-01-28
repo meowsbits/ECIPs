@@ -9,7 +9,7 @@ Subject: [PATCH] Move ERC-223 token standard to Last Call, on its path to
  1 file changed, 2 insertions(+), 2 deletions(-)
 
 diff --git a/_specs/ecip-1021.md b/_specs/ecip-1021.md
-index 3c94514..0a2a734 100644
+index 3c94514a..0a2a7348 100644
 --- a/_specs/ecip-1021.md
 +++ b/_specs/ecip-1021.md
 @@ -1,9 +1,9 @@

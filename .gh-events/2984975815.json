@@ -1,0 +1,88 @@
+{
+    "id": 2984975815,
+    "node_id": "MDE3OlJlbmFtZWRUaXRsZUV2ZW50Mjk4NDk3NTgxNQ==",
+    "url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/events/2984975815",
+    "actor": {
+      "login": "soc1c",
+      "id": 47772477,
+      "node_id": "MDQ6VXNlcjQ3NzcyNDc3",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/47772477?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/soc1c",
+      "html_url": "https://github.com/soc1c",
+      "followers_url": "https://api.github.com/users/soc1c/followers",
+      "following_url": "https://api.github.com/users/soc1c/following{/other_user}",
+      "gists_url": "https://api.github.com/users/soc1c/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/soc1c/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/soc1c/subscriptions",
+      "organizations_url": "https://api.github.com/users/soc1c/orgs",
+      "repos_url": "https://api.github.com/users/soc1c/repos",
+      "events_url": "https://api.github.com/users/soc1c/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/soc1c/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "event": "renamed",
+    "commit_id": null,
+    "commit_url": null,
+    "created_at": "2020-01-28T10:01:32Z",
+    "rename": {
+      "from": "Fork identifier (`forkid`) fork list specification",
+      "to": "ECIP-1082: Fork identifier (`forkid`) fork list specification"
+    },
+    "issue": {
+      "url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/247",
+      "repository_url": "https://api.github.com/repos/ethereumclassic/ECIPs",
+      "labels_url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/247/labels{/name}",
+      "comments_url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/247/comments",
+      "events_url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/247/events",
+      "html_url": "https://github.com/ethereumclassic/ECIPs/pull/247",
+      "id": 540014767,
+      "node_id": "MDExOlB1bGxSZXF1ZXN0MzU0ODk0NzE5",
+      "number": 247,
+      "title": "ECIP-1082: Fork identifier (`forkid`) fork list specification",
+      "user": {
+        "login": "meowsbits",
+        "id": 45600330,
+        "node_id": "MDQ6VXNlcjQ1NjAwMzMw",
+        "avatar_url": "https://avatars1.githubusercontent.com/u/45600330?v=4",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/meowsbits",
+        "html_url": "https://github.com/meowsbits",
+        "followers_url": "https://api.github.com/users/meowsbits/followers",
+        "following_url": "https://api.github.com/users/meowsbits/following{/other_user}",
+        "gists_url": "https://api.github.com/users/meowsbits/gists{/gist_id}",
+        "starred_url": "https://api.github.com/users/meowsbits/starred{/owner}{/repo}",
+        "subscriptions_url": "https://api.github.com/users/meowsbits/subscriptions",
+        "organizations_url": "https://api.github.com/users/meowsbits/orgs",
+        "repos_url": "https://api.github.com/users/meowsbits/repos",
+        "events_url": "https://api.github.com/users/meowsbits/events{/privacy}",
+        "received_events_url": "https://api.github.com/users/meowsbits/received_events",
+        "type": "User",
+        "site_admin": false
+      },
+      "labels": [
+
+      ],
+      "state": "open",
+      "locked": false,
+      "assignee": null,
+      "assignees": [
+
+      ],
+      "milestone": null,
+      "comments": 0,
+      "created_at": "2019-12-19T01:14:04Z",
+      "updated_at": "2020-01-28T10:02:03Z",
+      "closed_at": null,
+      "author_association": "MEMBER",
+      "active_lock_reason": null,
+      "pull_request": {
+        "url": "https://api.github.com/repos/ethereumclassic/ECIPs/pulls/247",
+        "html_url": "https://github.com/ethereumclassic/ECIPs/pull/247",
+        "diff_url": "https://github.com/ethereumclassic/ECIPs/pull/247.diff",
+        "patch_url": "https://github.com/ethereumclassic/ECIPs/pull/247.patch"
+      },
+      "body": "EIP-2124 (`forkid`) and EIP-2364 (`eth/64`) propose discovery protocol modifications which depend on lists of fork values. In case these changes are adopted and implemented on Ethereum Classic networks, this ECIP defines canonical lists of forks numbers for inclusion in the generation and validation steps of these \"ForkID\" schemes.\r\n\r\n- https://eips.ethereum.org/EIPS/eip-2124\r\n- https://eips.ethereum.org/EIPS/eip-2364\r\n\r\nThis specification describes a set of forks which exclude TheDAO fork event block(s) from `forkid` calculations, as well as excluding all forthcoming `blockNumber % 5000000 == 0` blocks that, according to the algorithmdescribed in ECIP-1017 and enabled on ETC Mainnet and some testnets, will see reduced block reward values.\r\n\r\n"
+    }
+  }

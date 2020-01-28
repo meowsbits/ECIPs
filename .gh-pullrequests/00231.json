@@ -8,7 +8,7 @@
     "id": 530771739,
     "node_id": "MDExOlB1bGxSZXF1ZXN0MzQ3MzU1NTMx",
     "number": 231,
-    "title": "Reject ECIP-1052 \"Smart-contract Security Auditing core\"",
+    "title": "ECIP-1052: Reject \"Smart-contract Security Auditing core\"",
     "user": {
       "login": "bobsummerwill",
       "id": 3788156,
@@ -41,7 +41,7 @@
     "milestone": null,
     "comments": 4,
     "created_at": "2019-12-01T18:18:52Z",
-    "updated_at": "2020-01-14T19:46:20Z",
+    "updated_at": "2020-01-28T10:08:16Z",
     "closed_at": null,
     "author_association": "MEMBER",
     "pull_request": {

@@ -10,7 +10,7 @@ Subject: [PATCH 1/2] feat: Create ECIP-1001: ECIP Code of Conduct
 
 diff --git a/_specs/ecip-1001.md b/_specs/ecip-1001.md
 new file mode 100644
-index 0000000..efe5c80
+index 00000000..efe5c802
 --- /dev/null
 +++ b/_specs/ecip-1001.md
 @@ -0,0 +1,86 @@
@@ -111,7 +111,7 @@ Subject: [PATCH 2/2] feat: Add real name close permissions to the draft
  1 file changed, 1 insertion(+), 1 deletion(-)
 
 diff --git a/_specs/ecip-1001.md b/_specs/ecip-1001.md
-index efe5c80..5555979 100644
+index efe5c802..5555979a 100644
 --- a/_specs/ecip-1001.md
 +++ b/_specs/ecip-1001.md
 @@ -39,7 +39,7 @@ Examples of unacceptable behavior include:

@@ -8,7 +8,7 @@
     "id": 540014767,
     "node_id": "MDExOlB1bGxSZXF1ZXN0MzU0ODk0NzE5",
     "number": 247,
-    "title": "Fork identifier (`forkid`) fork list specification",
+    "title": "ECIP-1082: Fork identifier (`forkid`) fork list specification",
     "user": {
       "login": "meowsbits",
       "id": 45600330,
@@ -41,9 +41,9 @@
     "milestone": null,
     "comments": 0,
     "created_at": "2019-12-19T01:14:04Z",
-    "updated_at": "2020-01-16T15:07:17Z",
+    "updated_at": "2020-01-28T10:02:03Z",
     "closed_at": null,
-    "author_association": "CONTRIBUTOR",
+    "author_association": "MEMBER",
     "pull_request": {
       "url": "https://api.github.com/repos/ethereumclassic/ECIPs/pulls/247",
       "html_url": "https://github.com/ethereumclassic/ECIPs/pull/247",
