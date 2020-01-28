@@ -1,0 +1,43 @@
+{
+    "url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/comments/579377787",
+    "html_url": "https://github.com/ethereumclassic/ECIPs/pull/280#issuecomment-579377787",
+    "issue_url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/280",
+    "id": 579377787,
+    "node_id": "MDEyOklzc3VlQ29tbWVudDU3OTM3Nzc4Nw==",
+    "user": {
+      "login": "bobsummerwill",
+      "id": 3788156,
+      "node_id": "MDQ6VXNlcjM3ODgxNTY=",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/3788156?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/bobsummerwill",
+      "html_url": "https://github.com/bobsummerwill",
+      "followers_url": "https://api.github.com/users/bobsummerwill/followers",
+      "following_url": "https://api.github.com/users/bobsummerwill/following{/other_user}",
+      "gists_url": "https://api.github.com/users/bobsummerwill/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/bobsummerwill/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/bobsummerwill/subscriptions",
+      "organizations_url": "https://api.github.com/users/bobsummerwill/orgs",
+      "repos_url": "https://api.github.com/users/bobsummerwill/repos",
+      "events_url": "https://api.github.com/users/bobsummerwill/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/bobsummerwill/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "created_at": "2020-01-28T18:00:45Z",
+    "updated_at": "2020-01-28T18:00:45Z",
+    "author_association": "MEMBER",
+    "body": "From ETC Discord:\r\n\r\nThat is a real terrible idea, @soc1c and @GregTheGreek.\r\n\r\nThe gas repricings in EIP-1884 break shipped smart contracts.  That lack of care about backwards compatibility is against the whole philosophy of ETC.   The removal of those changes from ETC was a very conscious and intentional decision.\r\n\r\nWe absolutely should not do that just to make an arbitrary date on the calendar.\r\n\r\nWe need to assess whether we can:\r\n\r\n1. Make existing Aztlan + Phoenix timeline work.\r\n2. Switch to Phoenix “redo” HF still hitting March 25th but with later activation dates for testnets\r\n3. Switch to Phoenix “redo” but with later dates for all stages.\r\nYes, we are doing something different to ETH and that requires analysis (thank you Wei) and testing time.\r\n\r\nWe know that it can break contracts so we would not do it unless absolutely forced to by imminent threat.\r\nIt is just a line that we do not want to cross.\r\n\r\nEthereum compatibility is extremely desirable, but never the primary goal of ETC.\r\n\r\nAlso, the repricings (whether present or absent) do not make ETC more or less compatible.  But including them is known to break shipped smart contracts.\r\n\r\nWe need to be better.\r\nIf that means we need to delay then we must delay.\r\nThe scope was decided in that meeting and was very intentional.\r\nI expect that ETC will diverge from ETH on gas pricing in the future, and that will be fine after Kunming is implemented.\r\nETC will likely lead the way on versioning.\r\nAnd that will lead to (very slight) incompatibility again, but should be possible as “modes” within upstream tooling.\r\nSo impact to users is very minimal or unnoticeable.\r\n\r\nDelaying would mean defining some new dates for the Phoenix HF ECIP:\r\n\r\nhttp://ecips.ethereumclassic.org/ECIPs/ecip-1079\r\n\r\nAnd coming to consensus on that as our new approach (and we would need a call to confirm that consensus).   Then ECIP-1061 and ECIP-1078 would be withdrawn while ECIP-1079 would move to Last Call.\r\n\r\nAnd we should find a China-friendly platform (not Discord) for that call.  Also one which is easily recordable so we do not have the usual dicking around trying to get a recording to work on Discord.",
+    "reactions": {
+      "url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/comments/579377787/reactions",
+      "total_count": 0,
+      "+1": 0,
+      "-1": 0,
+      "laugh": 0,
+      "hooray": 0,
+      "confused": 0,
+      "heart": 0,
+      "rocket": 0,
+      "eyes": 0
+    }
+  }

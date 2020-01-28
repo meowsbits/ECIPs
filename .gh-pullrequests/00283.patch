@@ -1,0 +1,35 @@
+From 6cea81b9ec795916065aa4b42e350e6b379b3f94 Mon Sep 17 00:00:00 2001
+From: Bob Summerwill <bob@summerwill.net>
+Date: Tue, 28 Jan 2020 09:57:47 -0800
+Subject: [PATCH] Withdraw ECIP-1081 Do Not Dox ECIP Editors. It was replaced
+ by ECIP-0001 ECIP process.
+
+---
+ _specs/ecip-1081.md | 8 +++++++-
+ 1 file changed, 7 insertions(+), 1 deletion(-)
+
+diff --git a/_specs/ecip-1081.md b/_specs/ecip-1081.md
+index 78ec61cc..6e32f1a0 100644
+--- a/_specs/ecip-1081.md
++++ b/_specs/ecip-1081.md
+@@ -3,13 +3,19 @@ lang: en
+ ecip: 1081
+ title: Do Not Dox ECIP Editors
+ author: Bob Summerwill (@bobsummerwill)
+-status: Draft
++status: Withdrawn
+ type: Meta
+ created: 2020-01-19
+ license: Apache-2.0
+ discussions-to: https://github.com/ethereumclassic/ECIPs/issues/272
+ ---
+ 
++###  NOTE
++
++The ECIP was replaced by [ECIP-0001 - ECIP process](https://github.com/ethereumclassic/ECIPs/pull/277/files)
++and was never activated.
++
++
+ ### Abstract
+ 
+ Both [soc1c](https://github.com/soc1c) and [meowbits](https://github.com/meowbits) have
