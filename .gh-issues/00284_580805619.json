@@ -1,0 +1,43 @@
+{
+    "url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/comments/580805619",
+    "html_url": "https://github.com/ethereumclassic/ECIPs/issues/284#issuecomment-580805619",
+    "issue_url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/284",
+    "id": 580805619,
+    "node_id": "MDEyOklzc3VlQ29tbWVudDU4MDgwNTYxOQ==",
+    "user": {
+      "login": "TokenHash",
+      "id": 29529586,
+      "node_id": "MDQ6VXNlcjI5NTI5NTg2",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/29529586?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/TokenHash",
+      "html_url": "https://github.com/TokenHash",
+      "followers_url": "https://api.github.com/users/TokenHash/followers",
+      "following_url": "https://api.github.com/users/TokenHash/following{/other_user}",
+      "gists_url": "https://api.github.com/users/TokenHash/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/TokenHash/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/TokenHash/subscriptions",
+      "organizations_url": "https://api.github.com/users/TokenHash/orgs",
+      "repos_url": "https://api.github.com/users/TokenHash/repos",
+      "events_url": "https://api.github.com/users/TokenHash/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/TokenHash/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "created_at": "2020-01-31T16:29:00Z",
+    "updated_at": "2020-01-31T16:29:55Z",
+    "author_association": "CONTRIBUTOR",
+    "body": "Stating in advance my opinion to activate both Aztlán and Phoenix on block 10_500_839 on Ethereum Classic PoW-mainnet (estimated on March 25th, 2020).\r\n\r\nIf it is concluded that there is no time to do both on the same block above, then I propose moving Aztlán back to `draft` to establish a new later block so both Aztlán and Phoenix can be done on the same block.\r\n\r\n**Rationale**\r\n\r\nIt doesn't make sense to push to mainnet a fork with a flaw just because devs already integrated it into clients or because the ECIP suddenly gains more importance than the mainnet.\r\n\r\nIt doesn't make sense to force a new hard fork just to fix a flaw that was pushed to mainnet as stated above. This is because hard forks are in themselves, security hazards as they expand the technical and social layer risk surfaces. It also goes against a tradition in ETC to go slow and don't break things and minimizing hard forks.",
+    "reactions": {
+      "url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/comments/580805619/reactions",
+      "total_count": 0,
+      "+1": 0,
+      "-1": 0,
+      "laugh": 0,
+      "hooray": 0,
+      "confused": 0,
+      "heart": 0,
+      "rocket": 0,
+      "eyes": 0
+    }
+  }
