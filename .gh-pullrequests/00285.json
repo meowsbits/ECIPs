@@ -41,7 +41,7 @@
     "milestone": null,
     "comments": 0,
     "created_at": "2020-01-31T21:16:25Z",
-    "updated_at": "2020-01-31T21:16:54Z",
+    "updated_at": "2020-01-31T21:17:48Z",
     "closed_at": null,
     "author_association": "MEMBER",
     "pull_request": {
@@ -50,7 +50,7 @@
       "diff_url": "https://github.com/ethereumclassic/ECIPs/pull/285.diff",
       "patch_url": "https://github.com/ethereumclassic/ECIPs/pull/285.patch"
     },
-    "body": "Move ECIP-1078 (\"fix\") to Last Call.\r\nMove ECIP-1079 (\"redo\") to Withdrawn.Aztlán has activated on the Mordor testnet, so can no longer be withdrawn.\r\nProceeding with \"fix\" appears to be our best option.",
+    "body": "Move ECIP-1078 (\"fix\") to Last Call.\r\nMove ECIP-1079 (\"redo\") to Withdrawn.\r\nAztlán has activated on the Mordor testnet, so can no longer be withdrawn.\r\nProceeding with \"fix\" appears to be our best option.",
     "reactions": {
       "url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/285/reactions",
       "total_count": 0,
