@@ -25,9 +25,9 @@
       "site_admin": false
     },
     "created_at": "2020-01-31T21:46:03Z",
-    "updated_at": "2020-01-31T21:46:16Z",
+    "updated_at": "2020-01-31T21:48:14Z",
     "author_association": "MEMBER",
-    "body": "The easiest path by far is [ECIP 1078: Phoenix (Aztlan \"fix\")](https://ecips.ethereumclassic.org/ECIPs/ecip-1078) so that everything is cleaned up and as per the original intention of 1061 which we came to consensus on in November (Instanbul - 1884 repricings).",
+    "body": "The easiest path by far is [ECIP 1078: Phoenix (Aztlan \"fix\")](https://ecips.ethereumclassic.org/ECIPs/ecip-1078) so that everything is cleaned up and as per the original intention of 1061 which we came to consensus on in November (Instanbul - 1884 repricings), though the path we have followed is a little confusing on the outside.\r\n\r\n1061 + 1078 (which includes 1080)\r\n\r\n\"Aztlan + Phoenix\" colloquially.",
     "reactions": {
       "url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/comments/580924543/reactions",
       "total_count": 0,
