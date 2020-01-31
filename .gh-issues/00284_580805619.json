@@ -25,9 +25,9 @@
       "site_admin": false
     },
     "created_at": "2020-01-31T16:29:00Z",
-    "updated_at": "2020-01-31T16:29:55Z",
+    "updated_at": "2020-01-31T16:30:45Z",
     "author_association": "CONTRIBUTOR",
-    "body": "Stating in advance my opinion to activate both Aztlán and Phoenix on block 10_500_839 on Ethereum Classic PoW-mainnet (estimated on March 25th, 2020).\r\n\r\nIf it is concluded that there is no time to do both on the same block above, then I propose moving Aztlán back to `draft` to establish a new later block so both Aztlán and Phoenix can be done on the same block.\r\n\r\n**Rationale**\r\n\r\nIt doesn't make sense to push to mainnet a fork with a flaw just because devs already integrated it into clients or because the ECIP suddenly gains more importance than the mainnet.\r\n\r\nIt doesn't make sense to force a new hard fork just to fix a flaw that was pushed to mainnet as stated above. This is because hard forks are in themselves, security hazards as they expand the technical and social layer risk surfaces. It also goes against a tradition in ETC to go slow and don't break things and minimizing hard forks.",
+    "body": "Stating in advance my opinion to activate both Aztlán and Phoenix on block 10_500_839 on Ethereum Classic PoW-mainnet (estimated on March 25th, 2020).\r\n\r\nIf it is concluded that there is no time to do both on the same block above, then I propose moving Aztlán back to `draft` to establish a new later block so both Aztlán and Phoenix can be done on the same block.\r\n\r\n**Rationale**\r\n\r\n1. It doesn't make sense to push to mainnet a fork with a flaw just because devs already integrated it into clients or because the ECIP process suddenly gains more importance than the mainnet.\r\n\r\n2. It doesn't make sense to force a new hard fork just to fix a flaw that was pushed to mainnet as stated above. This is because hard forks are in themselves, security hazards as they expand the technical and social layer risk surfaces. It also goes against a tradition in ETC to go slow and don't break things and minimizing hard forks.",
     "reactions": {
       "url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/comments/580805619/reactions",
       "total_count": 0,
