@@ -1,0 +1,43 @@
+{
+    "url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/comments/580922628",
+    "html_url": "https://github.com/ethereumclassic/ECIPs/issues/284#issuecomment-580922628",
+    "issue_url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/284",
+    "id": 580922628,
+    "node_id": "MDEyOklzc3VlQ29tbWVudDU4MDkyMjYyOA==",
+    "user": {
+      "login": "bobsummerwill",
+      "id": 3788156,
+      "node_id": "MDQ6VXNlcjM3ODgxNTY=",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/3788156?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/bobsummerwill",
+      "html_url": "https://github.com/bobsummerwill",
+      "followers_url": "https://api.github.com/users/bobsummerwill/followers",
+      "following_url": "https://api.github.com/users/bobsummerwill/following{/other_user}",
+      "gists_url": "https://api.github.com/users/bobsummerwill/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/bobsummerwill/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/bobsummerwill/subscriptions",
+      "organizations_url": "https://api.github.com/users/bobsummerwill/orgs",
+      "repos_url": "https://api.github.com/users/bobsummerwill/repos",
+      "events_url": "https://api.github.com/users/bobsummerwill/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/bobsummerwill/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "created_at": "2020-01-31T21:40:16Z",
+    "updated_at": "2020-01-31T21:41:15Z",
+    "author_association": "MEMBER",
+    "body": "@TokenHash If the core developers DO NOT feel that it is feasible to still hit the original ETC mainnet activation block then I don't think [ECIP 1061: Aztlán EVM and Protocol Upgrades (Yingchun Edition)](https://ecips.ethereumclassic.org/ECIPs/ecip-1061) can go back to draft.   It has already activated in Mordor.  Releases have already been made.\r\n\r\nIf the mis-specification had been discovered well ahead of the activation I think it would have been fine to take 1061 back to Draft, make the changes there, and then back to Last Call and then Accepted again.   WIP on the clients would have been re-vectored to the new specification and everything would have been fine.\r\n\r\nInstead we would need to move it to Withdrawn and make a new ECIP (effectively a new version of [ECIP 1079: Phoenix (Azltan \"redo\")](https://ecips.ethereumclassic.org/ECIPs/ecip-1079).\r\n\r\nWe cannot do anything with ECIP 1061 anymore other than leave it as-is or Withdrawn it.   That ship has sailed.",
+    "reactions": {
+      "url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/comments/580922628/reactions",
+      "total_count": 0,
+      "+1": 0,
+      "-1": 0,
+      "laugh": 0,
+      "hooray": 0,
+      "confused": 0,
+      "heart": 0,
+      "rocket": 0,
+      "eyes": 0
+    }
+  }
