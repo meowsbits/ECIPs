@@ -1,14 +1,9 @@
 {
-    "url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/109",
-    "repository_url": "https://api.github.com/repos/ethereumclassic/ECIPs",
-    "labels_url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/109/labels{/name}",
-    "comments_url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/109/comments",
-    "events_url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/109/events",
-    "html_url": "https://github.com/ethereumclassic/ECIPs/issues/109",
-    "id": 464813687,
-    "node_id": "MDU6SXNzdWU0NjQ4MTM2ODc=",
-    "number": 109,
-    "title": "Correct URL to ECIPs website on ./ethereumclassic/ECIPs",
+    "url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/comments/580923749",
+    "html_url": "https://github.com/ethereumclassic/ECIPs/issues/109#issuecomment-580923749",
+    "issue_url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/109",
+    "id": 580923749,
+    "node_id": "MDEyOklzc3VlQ29tbWVudDU4MDkyMzc0OQ==",
     "user": {
       "login": "TokenHash",
       "id": 29529586,
@@ -29,24 +24,12 @@
       "type": "User",
       "site_admin": false
     },
-    "labels": [
-
-    ],
-    "state": "closed",
-    "locked": false,
-    "assignee": null,
-    "assignees": [
-
-    ],
-    "milestone": null,
-    "comments": 4,
-    "created_at": "2019-07-06T03:44:36Z",
+    "created_at": "2020-01-31T21:43:30Z",
     "updated_at": "2020-01-31T21:43:50Z",
-    "closed_at": "2020-01-31T21:43:30Z",
     "author_association": "CONTRIBUTOR",
-    "body": "I think the link and text to the ECIPs site on ./ethereumclassic/ECIPs should be:\r\n\r\n`The Ethereum Classic Improvement Proposal repository is at https://ecips.ethereumclassic.org/`\r\n\r\nCurrently it's:\r\n\r\n`https://ethereumclassic.org/`\r\n\r\n...which takes you the home, but that is not the ECIPs site.",
+    "body": "Oh....it was fixed long ago, but I forgot to close it. Sorry!\r\n\r\n![Screen Shot 2020-01-31 at 2 42 15 PM](https://user-images.githubusercontent.com/29529586/73576622-16d2ea00-4438-11ea-9428-b7641d2ee99a.png)\r\n",
     "reactions": {
-      "url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/109/reactions",
+      "url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/comments/580923749/reactions",
       "total_count": 0,
       "+1": 0,
       "-1": 0,

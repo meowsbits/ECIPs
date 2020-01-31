@@ -1,0 +1,43 @@
+{
+    "url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/comments/580923999",
+    "html_url": "https://github.com/ethereumclassic/ECIPs/issues/284#issuecomment-580923999",
+    "issue_url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/284",
+    "id": 580923999,
+    "node_id": "MDEyOklzc3VlQ29tbWVudDU4MDkyMzk5OQ==",
+    "user": {
+      "login": "bobsummerwill",
+      "id": 3788156,
+      "node_id": "MDQ6VXNlcjM3ODgxNTY=",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/3788156?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/bobsummerwill",
+      "html_url": "https://github.com/bobsummerwill",
+      "followers_url": "https://api.github.com/users/bobsummerwill/followers",
+      "following_url": "https://api.github.com/users/bobsummerwill/following{/other_user}",
+      "gists_url": "https://api.github.com/users/bobsummerwill/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/bobsummerwill/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/bobsummerwill/subscriptions",
+      "organizations_url": "https://api.github.com/users/bobsummerwill/orgs",
+      "repos_url": "https://api.github.com/users/bobsummerwill/repos",
+      "events_url": "https://api.github.com/users/bobsummerwill/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/bobsummerwill/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "created_at": "2020-01-31T21:44:14Z",
+    "updated_at": "2020-01-31T21:44:14Z",
+    "author_association": "MEMBER",
+    "body": "If we can still hit block 10_500_839 then we just leave Aztlan alone and active Phoenix on top of it.\r\n\r\nIf we cannot hit block 10_500_839 then we need to Withdraw Aztlan (which means deactivating it from ETC mainnet activation in the client releases, so it activated on the testnets but never on mainnet) and we need to make a new ECIP for the redo.\r\n\r\nThat new ECIP would be much the same as [ECIP 1079: Phoenix (Azltan \"redo\")](https://ecips.ethereumclassic.org/ECIPs/ecip-1079) but would also need to account for the testnet transitions being messier than mainnet transition - because the testnets have Aztlan activated already, so just need \"fix\", where mainnet never got Aztlan, so needs \"redo\".",
+    "reactions": {
+      "url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/comments/580923999/reactions",
+      "total_count": 0,
+      "+1": 0,
+      "-1": 0,
+      "laugh": 0,
+      "hooray": 0,
+      "confused": 0,
+      "heart": 0,
+      "rocket": 0,
+      "eyes": 0
+    }
+  }
