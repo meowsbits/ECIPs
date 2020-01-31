@@ -1,0 +1,43 @@
+{
+    "url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/comments/580920252",
+    "html_url": "https://github.com/ethereumclassic/ECIPs/issues/284#issuecomment-580920252",
+    "issue_url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/284",
+    "id": 580920252,
+    "node_id": "MDEyOklzc3VlQ29tbWVudDU4MDkyMDI1Mg==",
+    "user": {
+      "login": "bobsummerwill",
+      "id": 3788156,
+      "node_id": "MDQ6VXNlcjM3ODgxNTY=",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/3788156?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/bobsummerwill",
+      "html_url": "https://github.com/bobsummerwill",
+      "followers_url": "https://api.github.com/users/bobsummerwill/followers",
+      "following_url": "https://api.github.com/users/bobsummerwill/following{/other_user}",
+      "gists_url": "https://api.github.com/users/bobsummerwill/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/bobsummerwill/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/bobsummerwill/subscriptions",
+      "organizations_url": "https://api.github.com/users/bobsummerwill/orgs",
+      "repos_url": "https://api.github.com/users/bobsummerwill/repos",
+      "events_url": "https://api.github.com/users/bobsummerwill/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/bobsummerwill/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "created_at": "2020-01-31T21:33:08Z",
+    "updated_at": "2020-01-31T21:33:08Z",
+    "author_association": "MEMBER",
+    "body": "@soc1c Please could I suggest the following updates to \"options\":\r\n\r\n1. Note that [ECIP-1061 \"phoenix\": aztlan as vanilla istanbul](https://github.com/ethereumclassic/ECIPs/pull/280) is not just \"very unlikely\" but is actually Withdrawn and off the table.   So is not something we would have as an option to discuss.\r\n\r\n2. Note that [ECIP-1079: Phoenix \"redo\"](https://ecips.ethereumclassic.org/ECIPs/ecip-1079) is not just \"unlikely\" but is also Withdrawn and off the table.  PR is pending.\r\n\r\n3. Note that [ECIP-1078: Phoenix \"fix\"](https://ecips.ethereumclassic.org/ECIPs/ecip-1078) is \"likely\" and is in Last Call status.  PR is pending.   I was under the delusion that ECIPs needed to be in Last Call for two weeks, but as per ECIP-1000 that is not the case at all.    IMHO we should propose activation dates BEFORE the call, so we have a timeline to say YES/NO to.   A sensible timeline should be agreed by rough consensus of the client developers here on Github, not \"on the fly\" in the meeting and then get \"blessed\" on the call.",
+    "reactions": {
+      "url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/comments/580920252/reactions",
+      "total_count": 0,
+      "+1": 0,
+      "-1": 0,
+      "laugh": 0,
+      "hooray": 0,
+      "confused": 0,
+      "heart": 0,
+      "rocket": 0,
+      "eyes": 0
+    }
+  }
