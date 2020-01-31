@@ -8,7 +8,7 @@
     "id": 556253583,
     "node_id": "MDExOlB1bGxSZXF1ZXN0MzY4MDUwNDA5",
     "number": 281,
-    "title": "fix(specification): feature timing convention block number",
+    "title": "ECIP-1078: feature timing convention block number",
     "user": {
       "login": "meowsbits",
       "id": 45600330,
@@ -32,7 +32,7 @@
     "labels": [
 
     ],
-    "state": "open",
+    "state": "closed",
     "locked": false,
     "assignee": null,
     "assignees": [
@@ -41,8 +41,8 @@
     "milestone": null,
     "comments": 0,
     "created_at": "2020-01-28T14:39:43Z",
-    "updated_at": "2020-01-28T15:46:43Z",
-    "closed_at": null,
+    "updated_at": "2020-01-31T16:15:04Z",
+    "closed_at": "2020-01-31T16:14:59Z",
     "author_association": "MEMBER",
     "pull_request": {
       "url": "https://api.github.com/repos/ethereumclassic/ECIPs/pulls/281",
