@@ -25,9 +25,9 @@
       "site_admin": false
     },
     "created_at": "2020-01-30T19:16:36Z",
-    "updated_at": "2020-01-30T19:16:36Z",
+    "updated_at": "2020-01-30T19:56:54Z",
     "author_association": "CONTRIBUTOR",
-    "body": "Yes, it was fixed on ECIP-1000 by PR https://github.com/ethereumclassic/ECIPs/pull/267, so 1081 needs to moved to `withdrawn`.",
+    "body": "Yes, it was fixed on ECIP-1000 by PR https://github.com/ethereumclassic/ECIPs/pull/267, so 1081 needs to be moved to `withdrawn`.",
     "reactions": {
       "url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/comments/580410395/reactions",
       "total_count": 0,

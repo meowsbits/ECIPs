@@ -25,9 +25,9 @@
       "site_admin": false
     },
     "created_at": "2020-01-29T19:21:37Z",
-    "updated_at": "2020-01-29T19:21:37Z",
+    "updated_at": "2020-01-30T20:07:18Z",
     "author_association": "MEMBER",
-    "body": "Just a note that EIP1283 + EIP1706 =~ [EIP2200](https://github.com/ethereum/EIPs/pull/2200/files).",
+    "body": "Just a note that EIP1283 ( + EIP1884) + EIP1706  =~ [EIP2200](https://github.com/ethereum/EIPs/pull/2200/files). Aztlan does not enable 1884.",
     "reactions": {
       "url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/comments/579917041/reactions",
       "total_count": 0,

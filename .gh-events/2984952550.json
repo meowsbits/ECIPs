@@ -63,7 +63,7 @@
       "labels": [
 
       ],
-      "state": "open",
+      "state": "closed",
       "locked": false,
       "assignee": null,
       "assignees": [
@@ -98,18 +98,18 @@
           "type": "User",
           "site_admin": false
         },
-        "open_issues": 2,
-        "closed_issues": 10,
+        "open_issues": 1,
+        "closed_issues": 11,
         "state": "open",
         "created_at": "2019-11-27T20:32:02Z",
-        "updated_at": "2020-01-28T09:54:39Z",
+        "updated_at": "2020-01-31T15:43:09Z",
         "due_on": null,
         "closed_at": null
       },
-      "comments": 4,
+      "comments": 5,
       "created_at": "2020-01-28T09:54:39Z",
-      "updated_at": "2020-01-28T19:36:59Z",
-      "closed_at": null,
+      "updated_at": "2020-01-31T15:43:10Z",
+      "closed_at": "2020-01-31T15:43:09Z",
       "author_association": "CONTRIBUTOR",
       "active_lock_reason": null,
       "pull_request": {
