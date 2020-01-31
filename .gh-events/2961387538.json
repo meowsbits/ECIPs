@@ -100,7 +100,7 @@
       "labels": [
 
       ],
-      "state": "open",
+      "state": "closed",
       "locked": false,
       "assignee": {
         "login": "bobsummerwill",
@@ -145,10 +145,10 @@
         }
       ],
       "milestone": null,
-      "comments": 2,
+      "comments": 3,
       "created_at": "2020-01-20T02:21:41Z",
-      "updated_at": "2020-01-20T02:27:33Z",
-      "closed_at": null,
+      "updated_at": "2020-01-31T21:19:42Z",
+      "closed_at": "2020-01-31T21:19:42Z",
       "author_association": "MEMBER",
       "active_lock_reason": null,
       "body": "For discussion of #267."
