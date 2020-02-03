@@ -1,0 +1,43 @@
+{
+    "url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/comments/581458592",
+    "html_url": "https://github.com/ethereumclassic/ECIPs/issues/84#issuecomment-581458592",
+    "issue_url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/84",
+    "id": 581458592,
+    "node_id": "MDEyOklzc3VlQ29tbWVudDU4MTQ1ODU5Mg==",
+    "user": {
+      "login": "bobsummerwill",
+      "id": 3788156,
+      "node_id": "MDQ6VXNlcjM3ODgxNTY=",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/3788156?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/bobsummerwill",
+      "html_url": "https://github.com/bobsummerwill",
+      "followers_url": "https://api.github.com/users/bobsummerwill/followers",
+      "following_url": "https://api.github.com/users/bobsummerwill/following{/other_user}",
+      "gists_url": "https://api.github.com/users/bobsummerwill/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/bobsummerwill/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/bobsummerwill/subscriptions",
+      "organizations_url": "https://api.github.com/users/bobsummerwill/orgs",
+      "repos_url": "https://api.github.com/users/bobsummerwill/repos",
+      "events_url": "https://api.github.com/users/bobsummerwill/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/bobsummerwill/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "created_at": "2020-02-03T15:07:23Z",
+    "updated_at": "2020-02-03T15:07:23Z",
+    "author_association": "MEMBER",
+    "body": "@meowsbits Also bear in mind that we now have Whiteblock Genesis at our disposal for exactly this kind of cross-client ETC testing need.   It would be great if we could make use of that capability for ETC Aztlan/Phoenix testing:\r\n\r\nhttps://genesis.whiteblock.io/\r\n\r\n@YazzyYaz has been giving it a whirl.   We are also proposing Yaz as a Vice-Chair for the EEA Testing WG with @atoulme and @zscole at the helm.\r\n\r\nETC Cooperative can also take on running instances of ethereum/tests, HIVE, ChainSafe amenome, whatever.   I want us to have the same degree of coverage as there is for ETH.   Union of \"all the things\", including ethstats and forkmon instances.\r\n\r\nCC @GregTheGreek, @edwardmack.",
+    "reactions": {
+      "url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/comments/581458592/reactions",
+      "total_count": 0,
+      "+1": 0,
+      "-1": 0,
+      "laugh": 0,
+      "hooray": 0,
+      "confused": 0,
+      "heart": 0,
+      "rocket": 0,
+      "eyes": 0
+    }
+  }
