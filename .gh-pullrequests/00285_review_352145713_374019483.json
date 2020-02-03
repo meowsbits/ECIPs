@@ -1,0 +1,49 @@
+{
+    "id": 374019483,
+    "node_id": "MDI0OlB1bGxSZXF1ZXN0UmV2aWV3Q29tbWVudDM3NDAxOTQ4Mw==",
+    "url": "https://api.github.com/repos/ethereumclassic/ECIPs/pulls/comments/374019483",
+    "pull_request_review_id": 352145713,
+    "diff_hunk": "@@ -38,8 +38,8 @@ would result in protocol changes which met the original intent.\n \n This document proposes the following blocks at which to implement these changes in the Classic networks:\n \n-- `778_507` on Mordor Classic PoW-testnet (Feb 5th, 2020)\n-- `2_058_191` on Kotti Classic PoA-testnet (Feb 12th, 2020)\n+- TBD on Mordor Classic PoW-testnet (TBD)",
+    "path": "_specs/ecip-1078.md",
+    "position": 27,
+    "original_position": 27,
+    "commit_id": "d967305e709d960034f29b88b06b3fb1cfc4a335",
+    "user": {
+      "login": "soc1c",
+      "id": 47772477,
+      "node_id": "MDQ6VXNlcjQ3NzcyNDc3",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/47772477?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/soc1c",
+      "html_url": "https://github.com/soc1c",
+      "followers_url": "https://api.github.com/users/soc1c/followers",
+      "following_url": "https://api.github.com/users/soc1c/following{/other_user}",
+      "gists_url": "https://api.github.com/users/soc1c/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/soc1c/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/soc1c/subscriptions",
+      "organizations_url": "https://api.github.com/users/soc1c/orgs",
+      "repos_url": "https://api.github.com/users/soc1c/repos",
+      "events_url": "https://api.github.com/users/soc1c/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/soc1c/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "body": "```suggestion\r\n- `976_231` on Mordor Classic PoW-testnet (March 4th, 2020)\r\n```",
+    "created_at": "2020-02-03T10:16:05Z",
+    "updated_at": "2020-02-03T10:16:05Z",
+    "html_url": "https://github.com/ethereumclassic/ECIPs/pull/285#discussion_r374019483",
+    "pull_request_url": "https://api.github.com/repos/ethereumclassic/ECIPs/pulls/285",
+    "author_association": "MEMBER",
+    "_links": {
+      "self": {
+        "href": "https://api.github.com/repos/ethereumclassic/ECIPs/pulls/comments/374019483"
+      },
+      "html": {
+        "href": "https://github.com/ethereumclassic/ECIPs/pull/285#discussion_r374019483"
+      },
+      "pull_request": {
+        "href": "https://api.github.com/repos/ethereumclassic/ECIPs/pulls/285"
+      }
+    },
+    "original_commit_id": "d967305e709d960034f29b88b06b3fb1cfc4a335"
+  }
