@@ -8,7 +8,7 @@ Subject: [PATCH 1/6] Introduce alternative approach; use PRs
  1 file changed, 22 insertions(+), 12 deletions(-)
 
 diff --git a/_specs/ecip-_.md b/_specs/ecip-_.md
-index c0466fa..a456429 100644
+index c0466fa6..a4564290 100644
 --- a/_specs/ecip-_.md
 +++ b/_specs/ecip-_.md
 @@ -11,11 +11,23 @@ resolution: TBD
@@ -90,7 +90,7 @@ Subject: [PATCH 2/6] Fix typo
  1 file changed, 1 insertion(+), 1 deletion(-)
 
 diff --git a/_specs/ecip-_.md b/_specs/ecip-_.md
-index a456429..fa978bb 100644
+index a4564290..fa978bb5 100644
 --- a/_specs/ecip-_.md
 +++ b/_specs/ecip-_.md
 @@ -72,7 +72,7 @@ The sole purpose of a Forking Meta ECIP is to join a block number with a set of
@@ -113,7 +113,7 @@ Subject: [PATCH 3/6] Use assigned ECIP number 1077
  1 file changed, 1 insertion(+), 1 deletion(-)
 
 diff --git a/_specs/ecip-_.md b/_specs/ecip-_.md
-index fa978bb..1d092a9 100644
+index fa978bb5..1d092a93 100644
 --- a/_specs/ecip-_.md
 +++ b/_specs/ecip-_.md
 @@ -1,5 +1,5 @@
@@ -167,7 +167,7 @@ This reverts commit 184551556a4721bad1bcd95aa4ee6f25d90c3847.
  1 file changed, 1 insertion(+), 1 deletion(-)
 
 diff --git a/_specs/ecip-_.md b/_specs/ecip-_.md
-index 1d092a9..fa978bb 100644
+index 1d092a93..fa978bb5 100644
 --- a/_specs/ecip-_.md
 +++ b/_specs/ecip-_.md
 @@ -1,5 +1,5 @@

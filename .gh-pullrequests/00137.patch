@@ -8,7 +8,7 @@ Subject: [PATCH] Update ecip-1056.md
  1 file changed, 4 insertions(+), 4 deletions(-)
 
 diff --git a/_specs/ecip-1056.md b/_specs/ecip-1056.md
-index b349a3e..3aa9e26 100644
+index b349a3ec..3aa9e264 100644
 --- a/_specs/ecip-1056.md
 +++ b/_specs/ecip-1056.md
 @@ -11,13 +11,13 @@ created: 2019-03-25

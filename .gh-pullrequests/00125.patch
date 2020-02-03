@@ -11,7 +11,7 @@ It was a file missing to complete ECIP types.
 
 diff --git a/networking.html b/networking.html
 new file mode 100644
-index 0000000..0aad2d4
+index 00000000..0aad2d42
 --- /dev/null
 +++ b/networking.html
 @@ -0,0 +1,7 @@

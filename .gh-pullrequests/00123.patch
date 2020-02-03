@@ -9,7 +9,7 @@ From ERC to ECBP.
  1 file changed, 1 insertion(+), 1 deletion(-)
 
 diff --git a/_specs/ecip-1021.md b/_specs/ecip-1021.md
-index 6dfe0bb..f1a5c02 100644
+index 6dfe0bb9..f1a5c024 100644
 --- a/_specs/ecip-1021.md
 +++ b/_specs/ecip-1021.md
 @@ -5,7 +5,7 @@ title: Token standard

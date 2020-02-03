@@ -9,7 +9,7 @@ Changing status to final according to ECIP-1000.
  1 file changed, 1 insertion(+), 1 deletion(-)
 
 diff --git a/_specs/ecip-1054.md b/_specs/ecip-1054.md
-index 310e165..d4c96f0 100644
+index 310e165d..d4c96f01 100644
 --- a/_specs/ecip-1054.md
 +++ b/_specs/ecip-1054.md
 @@ -2,7 +2,7 @@

@@ -19,7 +19,7 @@ ecbp.html
  1 file changed, 2 insertions(+), 1 deletion(-)
 
 diff --git a/_config.yml b/_config.yml
-index 41b5879..588c4fa 100644
+index 41b58794..588c4fa9 100644
 --- a/_config.yml
 +++ b/_config.yml
 @@ -13,8 +13,9 @@ include: [".well-known"]

@@ -22,7 +22,7 @@ This is the new string I added (2 lines):
  1 file changed, 4 insertions(+), 1 deletion(-)
 
 diff --git a/index.html b/index.html
-index ef3d8bc..e35857e 100644
+index ef3d8bce..e35857e3 100644
 --- a/index.html
 +++ b/index.html
 @@ -19,10 +19,13 @@ <h3>Standard Track ({{site.specs|where:"lang","en"|where:"type","Standards Track

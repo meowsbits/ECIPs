@@ -9,7 +9,7 @@ From ERC to ECBP.
  1 file changed, 1 insertion(+), 1 deletion(-)
 
 diff --git a/_specs/ecip-1044.md b/_specs/ecip-1044.md
-index 4824653..a1cf7aa 100644
+index 48246538..a1cf7aaa 100644
 --- a/_specs/ecip-1044.md
 +++ b/_specs/ecip-1044.md
 @@ -5,7 +5,7 @@ title: Formalize IPFS hash into ECNS (Ethereum Classic Name Service) resolver

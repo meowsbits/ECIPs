@@ -11,7 +11,7 @@ I am also proposing myself as a subeditor as I have been helping editors and ECI
  1 file changed, 8 insertions(+), 2 deletions(-)
 
 diff --git a/_specs/ecip-1000.md b/_specs/ecip-1000.md
-index b5b50dd..07841bd 100644
+index b5b50dd3..07841bdd 100644
 --- a/_specs/ecip-1000.md
 +++ b/_specs/ecip-1000.md
 @@ -68,7 +68,7 @@ A good reason to transfer ownership is because the original author no longer has
@@ -56,7 +56,7 @@ Subject: [PATCH 2/3] Update ecip-1000.md
  1 file changed, 4 insertions(+), 4 deletions(-)
 
 diff --git a/_specs/ecip-1000.md b/_specs/ecip-1000.md
-index 07841bd..7839023 100644
+index 07841bdd..78390230 100644
 --- a/_specs/ecip-1000.md
 +++ b/_specs/ecip-1000.md
 @@ -68,7 +68,7 @@ A good reason to transfer ownership is because the original author no longer has
@@ -103,7 +103,7 @@ Dropping my name as a candidate, recommend to put 2 persons in that position if 
  1 file changed, 1 insertion(+), 1 deletion(-)
 
 diff --git a/_specs/ecip-1000.md b/_specs/ecip-1000.md
-index 7839023..65b7821 100644
+index 78390230..65b78216 100644
 --- a/_specs/ecip-1000.md
 +++ b/_specs/ecip-1000.md
 @@ -80,7 +80,7 @@ The current ECIP editors are:

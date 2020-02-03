@@ -1,0 +1,29 @@
+{
+    "id": 2055509679,
+    "node_id": "MDE0Ok1lbnRpb25lZEV2ZW50MjA1NTUwOTY3OQ==",
+    "url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/events/2055509679",
+    "actor": {
+      "login": "Dexaran",
+      "id": 26142412,
+      "node_id": "MDQ6VXNlcjI2MTQyNDEy",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/26142412?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/Dexaran",
+      "html_url": "https://github.com/Dexaran",
+      "followers_url": "https://api.github.com/users/Dexaran/followers",
+      "following_url": "https://api.github.com/users/Dexaran/following{/other_user}",
+      "gists_url": "https://api.github.com/users/Dexaran/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/Dexaran/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/Dexaran/subscriptions",
+      "organizations_url": "https://api.github.com/users/Dexaran/orgs",
+      "repos_url": "https://api.github.com/users/Dexaran/repos",
+      "events_url": "https://api.github.com/users/Dexaran/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/Dexaran/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "event": "mentioned",
+    "commit_id": null,
+    "commit_url": null,
+    "created_at": "2019-01-04T22:38:26Z"
+  }

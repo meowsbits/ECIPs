@@ -10,7 +10,7 @@ Subject: [PATCH 1/4] fix: add apache 2 license
 
 diff --git a/LICENSE b/LICENSE
 new file mode 100644
-index 0000000..51fca54
+index 00000000..51fca54c
 --- /dev/null
 +++ b/LICENSE
 @@ -0,0 +1,11 @@
@@ -36,7 +36,7 @@ Subject: [PATCH 2/4] fix: no custom license crap
  1 file changed, 1 insertion(+), 58 deletions(-)
 
 diff --git a/_specs/ecip-1000.md b/_specs/ecip-1000.md
-index 1debd53..40eba95 100644
+index 1debd53f..40eba95c 100644
 --- a/_specs/ecip-1000.md
 +++ b/_specs/ecip-1000.md
 @@ -293,64 +293,7 @@ To avoid doubt: comments and status are unrelated metrics to judge an ECIP, and
@@ -116,7 +116,7 @@ Subject: [PATCH 3/4] fix: more license trash
  1 file changed, 1 insertion(+), 10 deletions(-)
 
 diff --git a/_specs/ecip-1000.md b/_specs/ecip-1000.md
-index 40eba95..74152cd 100644
+index 40eba95c..74152cd1 100644
 --- a/_specs/ecip-1000.md
 +++ b/_specs/ecip-1000.md
 @@ -18,10 +18,6 @@ We intend ECIPs to be the primary mechanism for proposing new features, for coll
@@ -169,7 +169,7 @@ Subject: [PATCH 4/4] fix: add link to license
  1 file changed, 1 insertion(+), 1 deletion(-)
 
 diff --git a/_specs/ecip-1000.md b/_specs/ecip-1000.md
-index 74152cd..c3d29c1 100644
+index 74152cd1..c3d29c1f 100644
 --- a/_specs/ecip-1000.md
 +++ b/_specs/ecip-1000.md
 @@ -284,7 +284,7 @@ To avoid doubt: comments and status are unrelated metrics to judge an ECIP, and

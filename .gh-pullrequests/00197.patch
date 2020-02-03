@@ -9,7 +9,7 @@ Subject: [PATCH] Enable 44-VERTXN to make ecosystem tooling backward
  1 file changed, 18 insertions(+), 18 deletions(-)
 
 diff --git a/_specs/ecip-1065.md b/_specs/ecip-1065.md
-index 1ac3526..ec46be9 100644
+index 1ac3526b..ec46be95 100644
 --- a/_specs/ecip-1065.md
 +++ b/_specs/ecip-1065.md
 @@ -23,7 +23,9 @@ changes specified in "Specification" section.
