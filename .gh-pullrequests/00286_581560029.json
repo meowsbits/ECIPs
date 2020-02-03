@@ -1,14 +1,9 @@
 {
-    "url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/286",
-    "repository_url": "https://api.github.com/repos/ethereumclassic/ECIPs",
-    "labels_url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/286/labels{/name}",
-    "comments_url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/286/comments",
-    "events_url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/286/events",
-    "html_url": "https://github.com/ethereumclassic/ECIPs/pull/286",
-    "id": 558673908,
-    "node_id": "MDExOlB1bGxSZXF1ZXN0MzY5OTk0Mzg4",
-    "number": 286,
-    "title": "ECIP-1085: Simple Subroutines for the EVM proposal.",
+    "url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/comments/581560029",
+    "html_url": "https://github.com/ethereumclassic/ECIPs/pull/286#issuecomment-581560029",
+    "issue_url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/286",
+    "id": 581560029,
+    "node_id": "MDEyOklzc3VlQ29tbWVudDU4MTU2MDAyOQ==",
     "user": {
       "login": "bobsummerwill",
       "id": 3788156,
@@ -29,30 +24,12 @@
       "type": "User",
       "site_admin": false
     },
-    "labels": [
-
-    ],
-    "state": "open",
-    "locked": false,
-    "assignee": null,
-    "assignees": [
-
-    ],
-    "milestone": null,
-    "comments": 1,
-    "created_at": "2020-02-02T10:11:06Z",
+    "created_at": "2020-02-03T18:49:26Z",
     "updated_at": "2020-02-03T18:49:26Z",
-    "closed_at": null,
     "author_association": "MEMBER",
-    "pull_request": {
-      "url": "https://api.github.com/repos/ethereumclassic/ECIPs/pulls/286",
-      "html_url": "https://github.com/ethereumclassic/ECIPs/pull/286",
-      "diff_url": "https://github.com/ethereumclassic/ECIPs/pull/286.diff",
-      "patch_url": "https://github.com/ethereumclassic/ECIPs/pull/286.patch"
-    },
-    "body": "",
+    "body": "Thanks for the 1085 assignment, @soc1c ",
     "reactions": {
-      "url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/286/reactions",
+      "url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/comments/581560029/reactions",
       "total_count": 0,
       "+1": 0,
       "-1": 0,
