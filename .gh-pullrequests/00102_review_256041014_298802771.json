@@ -1,0 +1,49 @@
+{
+    "id": 298802771,
+    "node_id": "MDI0OlB1bGxSZXF1ZXN0UmV2aWV3Q29tbWVudDI5ODgwMjc3MQ==",
+    "url": "https://api.github.com/repos/ethereumclassic/ECIPs/pulls/comments/298802771",
+    "pull_request_review_id": 256041014,
+    "diff_hunk": "@@ -13,20 +13,20 @@ <h2>ECIP Types</h2>\n \n <p>ECIPs are separated into a number of types, and each has its own list of ECIPs.</p>\n \n-<h3>Standard Track ({{site.specs|where:\"type\",\"Standards Track\"|size}})</h3>\n+<h3>Standard Track ({{site.specs|where:\"lang\",\"en\"|where:\"type\",\"Standards Track\"|size}})</h3>",
+    "path": "index.html",
+    "position": 5,
+    "original_position": 5,
+    "commit_id": "ab10b18013be824604c8bf0c2fa0581a1541dfd8",
+    "user": {
+      "login": "YazzyYaz",
+      "id": 9094204,
+      "node_id": "MDQ6VXNlcjkwOTQyMDQ=",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/9094204?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/YazzyYaz",
+      "html_url": "https://github.com/YazzyYaz",
+      "followers_url": "https://api.github.com/users/YazzyYaz/followers",
+      "following_url": "https://api.github.com/users/YazzyYaz/following{/other_user}",
+      "gists_url": "https://api.github.com/users/YazzyYaz/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/YazzyYaz/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/YazzyYaz/subscriptions",
+      "organizations_url": "https://api.github.com/users/YazzyYaz/orgs",
+      "repos_url": "https://api.github.com/users/YazzyYaz/repos",
+      "events_url": "https://api.github.com/users/YazzyYaz/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/YazzyYaz/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "body": "Cool stuff. This will make it easier to add more languages in the future for all of them and explore each ECIP.",
+    "created_at": "2019-06-29T15:30:09Z",
+    "updated_at": "2019-06-29T15:34:01Z",
+    "html_url": "https://github.com/ethereumclassic/ECIPs/pull/102#discussion_r298802771",
+    "pull_request_url": "https://api.github.com/repos/ethereumclassic/ECIPs/pulls/102",
+    "author_association": "MEMBER",
+    "_links": {
+      "self": {
+        "href": "https://api.github.com/repos/ethereumclassic/ECIPs/pulls/comments/298802771"
+      },
+      "html": {
+        "href": "https://github.com/ethereumclassic/ECIPs/pull/102#discussion_r298802771"
+      },
+      "pull_request": {
+        "href": "https://api.github.com/repos/ethereumclassic/ECIPs/pulls/102"
+      }
+    },
+    "original_commit_id": "ab10b18013be824604c8bf0c2fa0581a1541dfd8"
+  }

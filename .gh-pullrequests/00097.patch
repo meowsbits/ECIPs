@@ -1,0 +1,17 @@
+From cf294dd0310aae45d0dbd8157adb5078c3f1fd3f Mon Sep 17 00:00:00 2001
+From: Wei Tang <hi@that.world>
+Date: Fri, 28 Jun 2019 17:56:31 +0200
+Subject: [PATCH] Add domain setting for this repository
+
+---
+ CNAME | 1 +
+ 1 file changed, 1 insertion(+)
+ create mode 100644 CNAME
+
+diff --git a/CNAME b/CNAME
+new file mode 100644
+index 00000000..dc43d425
+--- /dev/null
++++ b/CNAME
+@@ -0,0 +1 @@
++ecips.ethereumclassic.org

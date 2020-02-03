@@ -9,7 +9,7 @@ From ERC to ECBP.
  1 file changed, 1 insertion(+), 1 deletion(-)
 
 diff --git a/_specs/ecip-1013.md b/_specs/ecip-1013.md
-index 1adda79..7c4813d 100644
+index 1adda796..7c4813d0 100644
 --- a/_specs/ecip-1013.md
 +++ b/_specs/ecip-1013.md
 @@ -4,7 +4,7 @@ ecip: 1013

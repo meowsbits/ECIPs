@@ -1,0 +1,50 @@
+{
+    "id": 298809389,
+    "node_id": "MDI0OlB1bGxSZXF1ZXN0UmV2aWV3Q29tbWVudDI5ODgwOTM4OQ==",
+    "url": "https://api.github.com/repos/ethereumclassic/ECIPs/pulls/comments/298809389",
+    "pull_request_review_id": 256048551,
+    "diff_hunk": "@@ -0,0 +1,21 @@\n+---\n+layout: null\n+---\n+\n+[\n+    {% for page in site.specs %}\n+    {\n+        \"uri\": \"ecips.ethereumclassic.org/{{ page.slug }}\",\n+        \"documentUrl\": \"https://ecips.ethereumclassic.org{{ page.id }}\",",
+    "path": ".well-known/ecips/specs.json",
+    "position": 9,
+    "original_position": 9,
+    "commit_id": "5cda49de184911d18bad24fb816de3561da562de",
+    "user": {
+      "login": "sorpaas",
+      "id": 6277322,
+      "node_id": "MDQ6VXNlcjYyNzczMjI=",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/6277322?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/sorpaas",
+      "html_url": "https://github.com/sorpaas",
+      "followers_url": "https://api.github.com/users/sorpaas/followers",
+      "following_url": "https://api.github.com/users/sorpaas/following{/other_user}",
+      "gists_url": "https://api.github.com/users/sorpaas/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/sorpaas/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/sorpaas/subscriptions",
+      "organizations_url": "https://api.github.com/users/sorpaas/orgs",
+      "repos_url": "https://api.github.com/users/sorpaas/repos",
+      "events_url": "https://api.github.com/users/sorpaas/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/sorpaas/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "body": "No. The above is correct. `page.id` contains a leading `/`.",
+    "created_at": "2019-06-29T19:41:59Z",
+    "updated_at": "2019-06-29T19:41:59Z",
+    "html_url": "https://github.com/ethereumclassic/ECIPs/pull/105#discussion_r298809389",
+    "pull_request_url": "https://api.github.com/repos/ethereumclassic/ECIPs/pulls/105",
+    "author_association": "MEMBER",
+    "_links": {
+      "self": {
+        "href": "https://api.github.com/repos/ethereumclassic/ECIPs/pulls/comments/298809389"
+      },
+      "html": {
+        "href": "https://github.com/ethereumclassic/ECIPs/pull/105#discussion_r298809389"
+      },
+      "pull_request": {
+        "href": "https://api.github.com/repos/ethereumclassic/ECIPs/pulls/105"
+      }
+    },
+    "original_commit_id": "5cda49de184911d18bad24fb816de3561da562de",
+    "in_reply_to_id": 298809297
+  }

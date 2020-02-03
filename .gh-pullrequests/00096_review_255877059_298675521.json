@@ -1,0 +1,50 @@
+{
+    "id": 298675521,
+    "node_id": "MDI0OlB1bGxSZXF1ZXN0UmV2aWV3Q29tbWVudDI5ODY3NTUyMQ==",
+    "url": "https://api.github.com/repos/ethereumclassic/ECIPs/pulls/comments/298675521",
+    "pull_request_review_id": 255877059,
+    "diff_hunk": "@@ -0,0 +1,343 @@\n+\tECIP: 1000\n+\tTitle: ECIP process\n+\tAuthor: Wei Tang <hi@that.world>\n+\tComments-Summary: No comments yet.\n+\tComments-URI: https://github.com/ethereumclassic/ECIPs/issues/58\n+\tStatus: Draft\n+\tType: Process\n+\tCreated: 2017-06-29\n+\tLicense: Apache-2\n+\n+# Abstract\n+\n+An Ethereum Classic Improvement Proposal (ECIP) is a design document providing information to the Ethereum Classic community, or describing a new feature for Ethereum Classic or its processes or environment. The ECIP should provide a concise technical specification of the feature and a rationale for the feature.\n+\n+We intend ECIPs to be the primary mechanism for proposing new features, for collecting community input on an issue, and for documenting the design decisions that have gone into Ethereum Classic. The **ECIP author** is responsible for building consensus within the community and documenting dissenting opinions.\n+\n+Because the ECIPs are maintained as text files in a versioned repository, their revision history is the historical record of the feature proposal.\n+\n+# Copyright\n+\n+This ECIP is licensed Apache-2, originally by [Luke Dashjr](https://github.com/luke-jr) under BSD 2-clause license.",
+    "path": "ECIPs/ECIP-1000.md",
+    "position": 21,
+    "original_position": 21,
+    "commit_id": "239e77e079ffde628c12819d66a79dcd93320c39",
+    "user": {
+      "login": "YazzyYaz",
+      "id": 9094204,
+      "node_id": "MDQ6VXNlcjkwOTQyMDQ=",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/9094204?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/YazzyYaz",
+      "html_url": "https://github.com/YazzyYaz",
+      "followers_url": "https://api.github.com/users/YazzyYaz/followers",
+      "following_url": "https://api.github.com/users/YazzyYaz/following{/other_user}",
+      "gists_url": "https://api.github.com/users/YazzyYaz/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/YazzyYaz/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/YazzyYaz/subscriptions",
+      "organizations_url": "https://api.github.com/users/YazzyYaz/orgs",
+      "repos_url": "https://api.github.com/users/YazzyYaz/repos",
+      "events_url": "https://api.github.com/users/YazzyYaz/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/YazzyYaz/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "body": "To confirm, is this line part of the ECIP by @TokenHash?\r\n\r\nAs far as I can tell, he just switched file formats to Markdown and then some basic boldening and title fixes. We can create a new issue for this specific point.",
+    "created_at": "2019-06-28T17:03:19Z",
+    "updated_at": "2019-06-28T17:03:19Z",
+    "html_url": "https://github.com/ethereumclassic/ECIPs/pull/96#discussion_r298675521",
+    "pull_request_url": "https://api.github.com/repos/ethereumclassic/ECIPs/pulls/96",
+    "author_association": "MEMBER",
+    "_links": {
+      "self": {
+        "href": "https://api.github.com/repos/ethereumclassic/ECIPs/pulls/comments/298675521"
+      },
+      "html": {
+        "href": "https://github.com/ethereumclassic/ECIPs/pull/96#discussion_r298675521"
+      },
+      "pull_request": {
+        "href": "https://api.github.com/repos/ethereumclassic/ECIPs/pulls/96"
+      }
+    },
+    "original_commit_id": "239e77e079ffde628c12819d66a79dcd93320c39",
+    "in_reply_to_id": 298665950
+  }

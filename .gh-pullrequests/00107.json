@@ -1,0 +1,66 @@
+{
+    "url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/107",
+    "repository_url": "https://api.github.com/repos/ethereumclassic/ECIPs",
+    "labels_url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/107/labels{/name}",
+    "comments_url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/107/comments",
+    "events_url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/107/events",
+    "html_url": "https://github.com/ethereumclassic/ECIPs/pull/107",
+    "id": 463375159,
+    "node_id": "MDExOlB1bGxSZXF1ZXN0MjkzODY2NzAx",
+    "number": 107,
+    "title": "Changed the preamble box and corrected ECIP-1000 status",
+    "user": {
+      "login": "TokenHash",
+      "id": 29529586,
+      "node_id": "MDQ6VXNlcjI5NTI5NTg2",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/29529586?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/TokenHash",
+      "html_url": "https://github.com/TokenHash",
+      "followers_url": "https://api.github.com/users/TokenHash/followers",
+      "following_url": "https://api.github.com/users/TokenHash/following{/other_user}",
+      "gists_url": "https://api.github.com/users/TokenHash/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/TokenHash/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/TokenHash/subscriptions",
+      "organizations_url": "https://api.github.com/users/TokenHash/orgs",
+      "repos_url": "https://api.github.com/users/TokenHash/repos",
+      "events_url": "https://api.github.com/users/TokenHash/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/TokenHash/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "labels": [
+
+    ],
+    "state": "closed",
+    "locked": false,
+    "assignee": null,
+    "assignees": [
+
+    ],
+    "milestone": null,
+    "comments": 0,
+    "created_at": "2019-07-02T18:31:35Z",
+    "updated_at": "2020-02-03T10:34:51Z",
+    "closed_at": "2019-07-04T22:26:30Z",
+    "author_association": "CONTRIBUTOR",
+    "pull_request": {
+      "url": "https://api.github.com/repos/ethereumclassic/ECIPs/pulls/107",
+      "html_url": "https://github.com/ethereumclassic/ECIPs/pull/107",
+      "diff_url": "https://github.com/ethereumclassic/ECIPs/pull/107.diff",
+      "patch_url": "https://github.com/ethereumclassic/ECIPs/pull/107.patch"
+    },
+    "body": "Changed preamble box to a shaded box (in markdown) because it was too wide when seen on Github and included a partial set of lines on ecips.ethereumclassic.org instead of all the lines of the preamble (pls check if it breaks or would be ok on the org site).\r\n\r\nChanged status to `Final` from `Active` as the latter is not a formal status in the ecip process.",
+    "reactions": {
+      "url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/107/reactions",
+      "total_count": 0,
+      "+1": 0,
+      "-1": 0,
+      "laugh": 0,
+      "hooray": 0,
+      "confused": 0,
+      "heart": 0,
+      "rocket": 0,
+      "eyes": 0
+    }
+  }

@@ -1,0 +1,735 @@
+From 61f6098f13fafff8110495e96cb98956bd472553 Mon Sep 17 00:00:00 2001
+From: Wei Tang <hi@that.world>
+Date: Fri, 28 Jun 2019 23:50:18 +0200
+Subject: [PATCH 1/3] Restore links directly to Github master
+
+---
+ {_specs => ECIPs}/ECIP-1000.md                |  1 +
+ {_specs => ECIPs}/ECIP-1010.md                |  1 +
+ {_specs => ECIPs}/ECIP-1013.md                |  1 +
+ {_specs => ECIPs}/ECIP-1015.md                |  1 +
+ {_specs => ECIPs}/ECIP-1016.md                |  1 +
+ {_specs => ECIPs}/ECIP-1017.md                |  1 +
+ {_specs => ECIPs}/ECIP-1018.md                |  1 +
+ {_specs => ECIPs}/ECIP-1019.md                |  1 +
+ {_specs => ECIPs}/ECIP-1021.md                |  1 +
+ {_specs => ECIPs}/ECIP-1025.md                |  1 +
+ {_specs => ECIPs}/ECIP-1026.md                |  1 +
+ {_specs => ECIPs}/ECIP-1027.md                |  1 +
+ {_specs => ECIPs}/ECIP-1028.md                |  1 +
+ {_specs => ECIPs}/ECIP-1035.md                |  1 +
+ {_specs => ECIPs}/ECIP-1036.md                |  1 +
+ {_specs => ECIPs}/ECIP-1037.md                |  1 +
+ {_specs => ECIPs}/ECIP-1039.md                |  1 +
+ {_specs => ECIPs}/ECIP-1041.md                |  1 +
+ {_specs => ECIPs}/ECIP-1042.md                |  1 +
+ {_specs => ECIPs}/ECIP-1043.md                |  1 +
+ {_specs => ECIPs}/ECIP-1044.md                |  1 +
+ {_specs => ECIPs}/ECIP-1045.md                |  1 +
+ {_specs => ECIPs}/ECIP-1046.md                |  1 +
+ {_specs => ECIPs}/ECIP-1047.md                |  1 +
+ {_specs => ECIPs}/ECIP-1048.md                |  1 +
+ {_specs => ECIPs}/ECIP-1049.md                |  1 +
+ {_specs => ECIPs}/ECIP-1050.md                |  1 +
+ {_specs => ECIPs}/ECIP-1051.md                |  1 +
+ {_specs => ECIPs}/ECIP-1052.md                |  1 +
+ {_specs => ECIPs}/ECIP-1053.md                |  1 +
+ {_specs => ECIPs}/ECIP-1054.md                |  4 ++--
+ {_specs => ECIPs}/ECIP-1056.md                |  4 ++--
+ {_specs => ECIPs}/ECIP-1057.md                |  1 +
+ {_specs => ECIPs}/ECIP-1060.md                |  1 +
+ .../ECIP-1017_cn.md => ECIPs/cn/ECIP-1017.md  | 21 +++++++++----------
+ all.html                                      |  2 +-
+ assets/.keep                                  |  1 -
+ core.html                                     |  2 +-
+ erc.html                                      |  2 +-
+ index.html                                    | 12 +++++------
+ informational.html                            |  2 +-
+ interface.html                                |  2 +-
+ meta.html                                     |  2 +-
+ 43 files changed, 58 insertions(+), 28 deletions(-)
+ rename {_specs => ECIPs}/ECIP-1000.md (99%)
+ rename {_specs => ECIPs}/ECIP-1010.md (99%)
+ rename {_specs => ECIPs}/ECIP-1013.md (99%)
+ rename {_specs => ECIPs}/ECIP-1015.md (99%)
+ rename {_specs => ECIPs}/ECIP-1016.md (99%)
+ rename {_specs => ECIPs}/ECIP-1017.md (99%)
+ rename {_specs => ECIPs}/ECIP-1018.md (99%)
+ rename {_specs => ECIPs}/ECIP-1019.md (99%)
+ rename {_specs => ECIPs}/ECIP-1021.md (97%)
+ rename {_specs => ECIPs}/ECIP-1025.md (99%)
+ rename {_specs => ECIPs}/ECIP-1026.md (99%)
+ rename {_specs => ECIPs}/ECIP-1027.md (99%)
+ rename {_specs => ECIPs}/ECIP-1028.md (99%)
+ rename {_specs => ECIPs}/ECIP-1035.md (99%)
+ rename {_specs => ECIPs}/ECIP-1036.md (99%)
+ rename {_specs => ECIPs}/ECIP-1037.md (99%)
+ rename {_specs => ECIPs}/ECIP-1039.md (99%)
+ rename {_specs => ECIPs}/ECIP-1041.md (99%)
+ rename {_specs => ECIPs}/ECIP-1042.md (99%)
+ rename {_specs => ECIPs}/ECIP-1043.md (99%)
+ rename {_specs => ECIPs}/ECIP-1044.md (99%)
+ rename {_specs => ECIPs}/ECIP-1045.md (99%)
+ rename {_specs => ECIPs}/ECIP-1046.md (99%)
+ rename {_specs => ECIPs}/ECIP-1047.md (99%)
+ rename {_specs => ECIPs}/ECIP-1048.md (99%)
+ rename {_specs => ECIPs}/ECIP-1049.md (99%)
+ rename {_specs => ECIPs}/ECIP-1050.md (99%)
+ rename {_specs => ECIPs}/ECIP-1051.md (99%)
+ rename {_specs => ECIPs}/ECIP-1052.md (99%)
+ rename {_specs => ECIPs}/ECIP-1053.md (99%)
+ rename {_specs => ECIPs}/ECIP-1054.md (99%)
+ rename {_specs => ECIPs}/ECIP-1056.md (98%)
+ rename {_specs => ECIPs}/ECIP-1057.md (99%)
+ rename {_specs => ECIPs}/ECIP-1060.md (99%)
+ rename _zh-specs/ECIP-1017_cn.md => ECIPs/cn/ECIP-1017.md (96%)
+ delete mode 100644 assets/.keep
+
+diff --git a/_specs/ECIP-1000.md b/ECIPs/ECIP-1000.md
+similarity index 99%
+rename from _specs/ECIP-1000.md
+rename to ECIPs/ECIP-1000.md
+index cb2a6eef..dee274f8 100644
+--- a/_specs/ECIP-1000.md
++++ b/ECIPs/ECIP-1000.md
+@@ -1,4 +1,5 @@
+ ---
++lang: en
+ ecip: 1000
+ title: ECIP Process
+ status: Active
+diff --git a/_specs/ECIP-1010.md b/ECIPs/ECIP-1010.md
+similarity index 99%
+rename from _specs/ECIP-1010.md
+rename to ECIPs/ECIP-1010.md
+index 6898d9a2..04538032 100644
+--- a/_specs/ECIP-1010.md
++++ b/ECIPs/ECIP-1010.md
+@@ -1,4 +1,5 @@
+ ---
++lang: en
+ ecip: 1010
+ title: Delay Difficulty Bomb Explosion
+ author: Igor Artamonov <splix@ethereumclassic.org>
+diff --git a/_specs/ECIP-1013.md b/ECIPs/ECIP-1013.md
+similarity index 99%
+rename from _specs/ECIP-1013.md
+rename to ECIPs/ECIP-1013.md
+index ac45780d..1adda796 100644
+--- a/_specs/ECIP-1013.md
++++ b/ECIPs/ECIP-1013.md
+@@ -1,4 +1,5 @@
+ ---
++lang: en
+ ecip: 1013
+ title: ETC On-Chain Cryptographic Signing and Authentication Protocol
+ status: Draft
+diff --git a/_specs/ECIP-1015.md b/ECIPs/ECIP-1015.md
+similarity index 99%
+rename from _specs/ECIP-1015.md
+rename to ECIPs/ECIP-1015.md
+index 5216cc98..5d5be522 100644
+--- a/_specs/ECIP-1015.md
++++ b/ECIPs/ECIP-1015.md
+@@ -1,4 +1,5 @@
+ ---
++lang: en
+ ecip: 1015
+ title: Long-term gas cost changes for IO-heavy operations to mitigate transaction spam attacks
+ author: Unknown
+diff --git a/_specs/ECIP-1016.md b/ECIPs/ECIP-1016.md
+similarity index 99%
+rename from _specs/ECIP-1016.md
+rename to ECIPs/ECIP-1016.md
+index d691534f..d44e5ef9 100644
+--- a/_specs/ECIP-1016.md
++++ b/ECIPs/ECIP-1016.md
+@@ -1,4 +1,5 @@
+ ---
++lang: en
+ ecip: 1016
+ title: ETC Improvement Proposal Management
+ status: Draft
+diff --git a/_specs/ECIP-1017.md b/ECIPs/ECIP-1017.md
+similarity index 99%
+rename from _specs/ECIP-1017.md
+rename to ECIPs/ECIP-1017.md
+index 6ee96e38..9898a1f7 100644
+--- a/_specs/ECIP-1017.md
++++ b/ECIPs/ECIP-1017.md
+@@ -1,4 +1,5 @@
+ ---
++lang: en
+ ecip: 1017
+ title: Monetary Policy and Final Modification to the Ethereum Classic Emission Schedule
+ author: Matthew Mazur <5n4pr011@gmail.com>
+diff --git a/_specs/ECIP-1018.md b/ECIPs/ECIP-1018.md
+similarity index 99%
+rename from _specs/ECIP-1018.md
+rename to ECIPs/ECIP-1018.md
+index dd84c864..cf60009b 100644
+--- a/_specs/ECIP-1018.md
++++ b/ECIPs/ECIP-1018.md
+@@ -1,4 +1,5 @@
+ ---
++lang: en
+ ecip: 1018
+ title: (Epoch Decay) Monetary Policy and Final Modification to the Ethereum Classic Emission Schedule
+ author: Mike Boremi <ecip-1018@mikes.email>
+diff --git a/_specs/ECIP-1019.md b/ECIPs/ECIP-1019.md
+similarity index 99%
+rename from _specs/ECIP-1019.md
+rename to ECIPs/ECIP-1019.md
+index b79ffe7b..ca345bd0 100644
+--- a/_specs/ECIP-1019.md
++++ b/ECIPs/ECIP-1019.md
+@@ -1,4 +1,5 @@
+ ---
++lang: en
+ ecip: 1019
+ title: (Epoch Decay 10) Monetary Policy and Final Modification to the Ethereum Classic Emission Schedule
+ author: Mike Boremi <ecip-1019@mikes.email>
+diff --git a/_specs/ECIP-1021.md b/ECIPs/ECIP-1021.md
+similarity index 97%
+rename from _specs/ECIP-1021.md
+rename to ECIPs/ECIP-1021.md
+index 2ce26d44..6dfe0bb9 100644
+--- a/_specs/ECIP-1021.md
++++ b/ECIPs/ECIP-1021.md
+@@ -1,4 +1,5 @@
+ ---
++lang: en
+ ecip: 1021
+ title: Token standard
+ author: Dexaran, <dexaran820@gmail.com>
+diff --git a/_specs/ECIP-1025.md b/ECIPs/ECIP-1025.md
+similarity index 99%
+rename from _specs/ECIP-1025.md
+rename to ECIPs/ECIP-1025.md
+index 38b70db0..9145cfce 100644
+--- a/_specs/ECIP-1025.md
++++ b/ECIPs/ECIP-1025.md
+@@ -1,4 +1,5 @@
+ ---
++lang: en
+ ecip: 1025
+ title: Precompiled Contracts for zkSNARK Verification
+ author: Wei Tang <hi@that.world>
+diff --git a/_specs/ECIP-1026.md b/ECIPs/ECIP-1026.md
+similarity index 99%
+rename from _specs/ECIP-1026.md
+rename to ECIPs/ECIP-1026.md
+index 1b01facd..47077d32 100644
+--- a/_specs/ECIP-1026.md
++++ b/ECIPs/ECIP-1026.md
+@@ -1,4 +1,5 @@
+ ---
++lang: en
+ ecip: 1026
+ title: Modexp Precompiled Contract
+ author: Wei Tang <hi@that.world>
+diff --git a/_specs/ECIP-1027.md b/ECIPs/ECIP-1027.md
+similarity index 99%
+rename from _specs/ECIP-1027.md
+rename to ECIPs/ECIP-1027.md
+index d9e2d5a5..ac306799 100644
+--- a/_specs/ECIP-1027.md
++++ b/ECIPs/ECIP-1027.md
+@@ -1,4 +1,5 @@
+ ---
++lang: en
+ ecip: 1027
+ title: Scaling ETC with Sidechains
+ author: Igor Artamonov <splix@etcdevteam.com>
+diff --git a/_specs/ECIP-1028.md b/ECIPs/ECIP-1028.md
+similarity index 99%
+rename from _specs/ECIP-1028.md
+rename to ECIPs/ECIP-1028.md
+index 81837169..b37661c3 100644
+--- a/_specs/ECIP-1028.md
++++ b/ECIPs/ECIP-1028.md
+@@ -1,4 +1,5 @@
+ ---
++lang: en
+ ecip: 1028
+ title: Private Sidechain checkpoints
+ author: Igor Artamonov <splix@etcdevteam.com>
+diff --git a/_specs/ECIP-1035.md b/ECIPs/ECIP-1035.md
+similarity index 99%
+rename from _specs/ECIP-1035.md
+rename to ECIPs/ECIP-1035.md
+index 82cd0cfc..9d76d196 100644
+--- a/_specs/ECIP-1035.md
++++ b/ECIPs/ECIP-1035.md
+@@ -1,4 +1,5 @@
+ ---
++lang: en
+ ecip: 1035
+ title: Ethereum Classic Privacy Enhanced Stealth Address Schema
+ author: Cody Burns <DontPanic@codywburns.com>
+diff --git a/_specs/ECIP-1036.md b/ECIPs/ECIP-1036.md
+similarity index 99%
+rename from _specs/ECIP-1036.md
+rename to ECIPs/ECIP-1036.md
+index 01446c55..44396c9e 100644
+--- a/_specs/ECIP-1036.md
++++ b/ECIPs/ECIP-1036.md
+@@ -1,4 +1,5 @@
+ ---
++lang: en
+ ecip: 1036
+ title: Fallback Complete Difficulty Bomb Diffusion
+ author: Wei Tang <hi@that.world>
+diff --git a/_specs/ECIP-1037.md b/ECIPs/ECIP-1037.md
+similarity index 99%
+rename from _specs/ECIP-1037.md
+rename to ECIPs/ECIP-1037.md
+index bc9d1a93..90e8167d 100644
+--- a/_specs/ECIP-1037.md
++++ b/ECIPs/ECIP-1037.md
+@@ -1,4 +1,5 @@
+ ---
++lang: en
+ ecip: 1037
+ title: Simple Interactive URI Scheme
+ author: Cody Burns <dontpanic@codywburns.com>
+diff --git a/_specs/ECIP-1039.md b/ECIPs/ECIP-1039.md
+similarity index 99%
+rename from _specs/ECIP-1039.md
+rename to ECIPs/ECIP-1039.md
+index c1e6d644..acf5b4dd 100644
+--- a/_specs/ECIP-1039.md
++++ b/ECIPs/ECIP-1039.md
+@@ -1,4 +1,5 @@
+ ---
++lang: en
+ ecip: 1039
+ title: Monetary policy rounding specification
+ author: Isaac Ardis <isaac@etcdevteam.com>
+diff --git a/_specs/ECIP-1041.md b/ECIPs/ECIP-1041.md
+similarity index 99%
+rename from _specs/ECIP-1041.md
+rename to ECIPs/ECIP-1041.md
+index 265fad23..b531b3d2 100644
+--- a/_specs/ECIP-1041.md
++++ b/ECIPs/ECIP-1041.md
+@@ -1,4 +1,5 @@
+ ---
++lang: en
+ ecip: 1041
+ title: Remove Difficulty Bomb
+ author: Igor Artamonov <splix@etcdevteam.com>
+diff --git a/_specs/ECIP-1042.md b/ECIPs/ECIP-1042.md
+similarity index 99%
+rename from _specs/ECIP-1042.md
+rename to ECIPs/ECIP-1042.md
+index f4adc737..c51fe9e1 100644
+--- a/_specs/ECIP-1042.md
++++ b/ECIPs/ECIP-1042.md
+@@ -1,4 +1,5 @@
+ ---
++lang: en
+ ecip: 1042
+ title: GASPAY opcode
+ author: Igor Artamonov <splix@etcdevteam.com>
+diff --git a/_specs/ECIP-1043.md b/ECIPs/ECIP-1043.md
+similarity index 99%
+rename from _specs/ECIP-1043.md
+rename to ECIPs/ECIP-1043.md
+index c903c011..87b01f1a 100644
+--- a/_specs/ECIP-1043.md
++++ b/ECIPs/ECIP-1043.md
+@@ -1,4 +1,5 @@
+ ---
++lang: en
+ ecip: 1043
+ title: Fixed DAG limit restriction 
+ author: Cody Burns <cody.w.burns@gmail.com>
+diff --git a/_specs/ECIP-1044.md b/ECIPs/ECIP-1044.md
+similarity index 99%
+rename from _specs/ECIP-1044.md
+rename to ECIPs/ECIP-1044.md
+index ae9ff6f5..48246538 100644
+--- a/_specs/ECIP-1044.md
++++ b/ECIPs/ECIP-1044.md
+@@ -1,4 +1,5 @@
+ ---
++lang: en
+ ecip: 1044
+ title: Formalize IPFS hash into ECNS (Ethereum Classic Name Service) resolver
+ author: Phyrex Tsai <phyrex@portal.network>, Portal Network Team
+diff --git a/_specs/ECIP-1045.md b/ECIPs/ECIP-1045.md
+similarity index 99%
+rename from _specs/ECIP-1045.md
+rename to ECIPs/ECIP-1045.md
+index b165dd54..e03624a6 100644
+--- a/_specs/ECIP-1045.md
++++ b/ECIPs/ECIP-1045.md
+@@ -1,4 +1,5 @@
+ ---
++lang: en
+ ecip: 1045
+ title: Support for ETH Byzantium & Constantinople EVM and Protocol Upgrades
+ status: Draft
+diff --git a/_specs/ECIP-1046.md b/ECIPs/ECIP-1046.md
+similarity index 99%
+rename from _specs/ECIP-1046.md
+rename to ECIPs/ECIP-1046.md
+index ab3238aa..50b03774 100644
+--- a/_specs/ECIP-1046.md
++++ b/ECIPs/ECIP-1046.md
+@@ -1,4 +1,5 @@
+ ---
++lang: en
+ ecip: 1046
+ title: Precompiled contract for verification of Merkle Inclusion Proofs
+ author: Kostis Karantias <kkarantias@gmail.com>, Dionysis Zindros <dionyziz@gmail.com>
+diff --git a/_specs/ECIP-1047.md b/ECIPs/ECIP-1047.md
+similarity index 99%
+rename from _specs/ECIP-1047.md
+rename to ECIPs/ECIP-1047.md
+index 0d0e197f..aa3ce7a7 100644
+--- a/_specs/ECIP-1047.md
++++ b/ECIPs/ECIP-1047.md
+@@ -1,4 +1,5 @@
+ ---
++lang: en
+ ecip: 1047
+ title: Reduce Gas Limit to 1 Million
+ author: Anthony Lusardi (ethereumclassicanthony@gmail.com)
+diff --git a/_specs/ECIP-1048.md b/ECIPs/ECIP-1048.md
+similarity index 99%
+rename from _specs/ECIP-1048.md
+rename to ECIPs/ECIP-1048.md
+index 455e21f8..121a65f3 100644
+--- a/_specs/ECIP-1048.md
++++ b/ECIPs/ECIP-1048.md
+@@ -1,4 +1,5 @@
+ ---
++lang: en
+ ecip: 1048
+ title: Clique proof-of-authority consensus protocol
+ author: Péter Szilágyi <peterke@gmail.com>
+diff --git a/_specs/ECIP-1049.md b/ECIPs/ECIP-1049.md
+similarity index 99%
+rename from _specs/ECIP-1049.md
+rename to ECIPs/ECIP-1049.md
+index 203464ab..72f56049 100644
+--- a/_specs/ECIP-1049.md
++++ b/ECIPs/ECIP-1049.md
+@@ -1,4 +1,5 @@
+ ---
++lang: en
+ ecip: 1049
+ title: Change the ETC Proof of Work Algorithm to Keccak256
+ status: Draft
+diff --git a/_specs/ECIP-1050.md b/ECIPs/ECIP-1050.md
+similarity index 99%
+rename from _specs/ECIP-1050.md
+rename to ECIPs/ECIP-1050.md
+index a757ad51..50b759c9 100644
+--- a/_specs/ECIP-1050.md
++++ b/ECIPs/ECIP-1050.md
+@@ -1,4 +1,5 @@
+ ---
++lang: en
+ ecip: 1050
+ title: Status Codes
+ author: Brooklyn Zelenka [@expede](https://github.com/expede), [Boris Mann](https://github.com/bmann)
+diff --git a/_specs/ECIP-1051.md b/ECIPs/ECIP-1051.md
+similarity index 99%
+rename from _specs/ECIP-1051.md
+rename to ECIPs/ECIP-1051.md
+index 7226c3c8..73a0678b 100644
+--- a/_specs/ECIP-1051.md
++++ b/ECIPs/ECIP-1051.md
+@@ -1,4 +1,5 @@
+ ---
++lang: en
+ ecip: 1051
+ title: Ethereum Classic Treasury system
+ status: Draft
+diff --git a/_specs/ECIP-1052.md b/ECIPs/ECIP-1052.md
+similarity index 99%
+rename from _specs/ECIP-1052.md
+rename to ECIPs/ECIP-1052.md
+index 9901d230..6bc89bcf 100644
+--- a/_specs/ECIP-1052.md
++++ b/ECIPs/ECIP-1052.md
+@@ -1,4 +1,5 @@
+ ---
++lang: en
+ ecip: 1052
+ title: Smart-contract Security Auditing core
+ status: Draft
+diff --git a/_specs/ECIP-1053.md b/ECIPs/ECIP-1053.md
+similarity index 99%
+rename from _specs/ECIP-1053.md
+rename to ECIPs/ECIP-1053.md
+index 449082da..eb764a2b 100644
+--- a/_specs/ECIP-1053.md
++++ b/ECIPs/ECIP-1053.md
+@@ -1,4 +1,5 @@
+ ---
++lang: en
+ ecip: 1053
+ title: Add OpenRPC Service Discovery To JSON-RPC Services
+ author: Shane Jonas, Zachary Belford
+diff --git a/_specs/ECIP-1054.md b/ECIPs/ECIP-1054.md
+similarity index 99%
+rename from _specs/ECIP-1054.md
+rename to ECIPs/ECIP-1054.md
+index a1d85587..310e165d 100644
+--- a/_specs/ECIP-1054.md
++++ b/ECIPs/ECIP-1054.md
+@@ -1,9 +1,9 @@
+ ---
++lang: en
+ ecip: 1054
+ title: Atlantis EVM and Protocol Upgrades
+ status: Accepted
+-type: Standards Track
+-category: Meta
++type: Meta
+ author: Isaac Ardis <isaac.a@etclabs.org>
+ created: 2019-02-11
+ discussions-To: https://github.com/ethereumclassic/ECIPs/issues/67
+diff --git a/_specs/ECIP-1056.md b/ECIPs/ECIP-1056.md
+similarity index 98%
+rename from _specs/ECIP-1056.md
+rename to ECIPs/ECIP-1056.md
+index 731f4097..05b9af4e 100644
+--- a/_specs/ECIP-1056.md
++++ b/ECIPs/ECIP-1056.md
+@@ -1,9 +1,9 @@
+ ---
++lang: en
+ ecip: 1056
+ title: Agharta EVM and Protocol Upgrades
+ status: Draft
+-type: Standards Track
+-category: Meta
++type: Meta
+ author: Isaac Ardis <isaac.a@etclabs.org>
+ created: 2019-03-25
+ ---
+diff --git a/_specs/ECIP-1057.md b/ECIPs/ECIP-1057.md
+similarity index 99%
+rename from _specs/ECIP-1057.md
+rename to ECIPs/ECIP-1057.md
+index 987deabf..37611658 100644
+--- a/_specs/ECIP-1057.md
++++ b/ECIPs/ECIP-1057.md
+@@ -1,4 +1,5 @@
+ ---
++lang: en
+ ecip: 1057
+ title: Cold Staking
+ author: Dexaran, dexaran@ethereumclassic.org
+diff --git a/_specs/ECIP-1060.md b/ECIPs/ECIP-1060.md
+similarity index 99%
+rename from _specs/ECIP-1060.md
+rename to ECIPs/ECIP-1060.md
+index a1a932ed..537adacb 100644
+--- a/_specs/ECIP-1060.md
++++ b/ECIPs/ECIP-1060.md
+@@ -1,4 +1,5 @@
+ ---
++lang: en
+ ecip: 1060
+ title: Cliquey proof-of-authority consensus protocol
+ author: Aidan Hyman (@ChainSafeSystems), Talha Cross (@soc1c)
+diff --git a/_zh-specs/ECIP-1017_cn.md b/ECIPs/cn/ECIP-1017.md
+similarity index 96%
+rename from _zh-specs/ECIP-1017_cn.md
+rename to ECIPs/cn/ECIP-1017.md
+index 9c1a234c..f42e5ec1 100644
+--- a/_zh-specs/ECIP-1017_cn.md
++++ b/ECIPs/cn/ECIP-1017.md
+@@ -1,14 +1,13 @@
+-### Title
+-
+-    ECIP: 1017
+-    主题:ETC 货币政策和铸币方案最终修改 
+-    作者:Matthew Mazur 5n4pr011@gmail.com 
+-    翻译:Roy (以太坊原链协会 ECC) QQ:1251433202 
+-    状态:起草阶段
+-    类型:标准
+-    创建:2016/11/20
+-    
+-<br />
++---
++lang: cn
++ecip: 1017
++title: ETC 货币政策和铸币方案最终修改 
++author: Matthew Mazur 5n4pr011@gmail.com 
++translator: Roy (以太坊原链协会 ECC) QQ:1251433202 
++status: 起草阶段
++type: 标准
++created: 2016/11/20
++---
+ 
+ ### 摘要
+ 
+diff --git a/all.html b/all.html
+index 6320e0af..8a4e7182 100644
+--- a/all.html
++++ b/all.html
+@@ -3,4 +3,4 @@
+ title: All
+ ---
+ 
+-{% include eiptable.html eips=site.specs %}
++{% include eiptable.html eips=site.pages|where:"lang","en" %}
+diff --git a/assets/.keep b/assets/.keep
+deleted file mode 100644
+index 8b137891..00000000
+--- a/assets/.keep
++++ /dev/null
+@@ -1 +0,0 @@
+-
+diff --git a/core.html b/core.html
+index 35aefe96..a11bcaed 100644
+--- a/core.html
++++ b/core.html
+@@ -3,5 +3,5 @@
+ title: Core
+ ---
+ 
+-{% assign eips=site.specs|where:"type","Standards Track"|where:"category","Core" %}
++{% assign eips=site.pages|where:"lang","en"|where:"type","Standards Track"|where:"category","Core" %}
+ {% include eiptable.html eips=eips %}
+diff --git a/erc.html b/erc.html
+index e7b0b73f..fec3ccf0 100644
+--- a/erc.html
++++ b/erc.html
+@@ -3,5 +3,5 @@
+ title: ERC
+ ---
+ 
+-{% assign eips=site.specs|where:"type","Standards Track"|where:"category","ERC" %}
++{% assign eips=site.pages|where:"lang","en"|where:"type","Standards Track"|where:"category","ERC" %}
+ {% include eiptable.html eips=eips %}
+diff --git a/index.html b/index.html
+index c3ea4cb6..25d2c10a 100644
+--- a/index.html
++++ b/index.html
+@@ -13,20 +13,20 @@ <h2>ECIP Types</h2>
+ 
+ <p>ECIPs are separated into a number of types, and each has its own list of ECIPs.</p>
+ 
+-<h3>Standard Track ({{site.specs|where:"type","Standards Track"|size}})</h3>
++<h3>Standard Track ({{site.pages|where:"lang","en"|where:"type","Standards Track"|size}})</h3>
+ <p>Describes any change that affects most or all Ethereum Classic implementations, such as a change to the the network protocol, a change in block or transaction validity rules, proposed application standards/conventions, or any change or addition that affects the interoperability of applications using Ethereum Classic. Furthermore Standard ECIPs can be broken down into the following categories.</p>
+ 
+-<h4><a href="{{"core"|relative_url}}">Core</a> ({{site.specs|where:"type","Standards Track"|where:"category","Core"|size}})</h4>
++<h4><a href="{{"core"|relative_url}}">Core</a> ({{site.pages|where:"lang","en"|where:"type","Standards Track"|where:"category","Core"|size}})</h4>
+ <p>Improvements requiring a consensus fork, as well as changes that are not necessarily consensus critical but may be relevant to “core dev” discussions.</p>
+ 
+-<h4><a href="{{"interface"|relative_url}}">Interface</a> ({{site.specs|where:"type","Standards Track"|where:"category","Interface"|size}})</h4>
++<h4><a href="{{"interface"|relative_url}}">Interface</a> ({{site.pages|where:"lang","en"|where:"type","Standards Track"|where:"category","Interface"|size}})</h4>
+ <p>Includes improvements around client API/RPC specifications and standards, and also certain language-level standards like method names and contract ABIs. The label “interface” aligns with the interfaces repo and discussion should primarily occur in that repository before an ECIP is submitted to the ECIPs repository.</p>
+ 
+-<h4><a href="{{"erc"|relative_url}}">ERC</a> ({{site.specs|where:"type","Standards Track"|where:"category","ERC"|size}})</h4>
++<h4><a href="{{"erc"|relative_url}}">ERC</a> ({{site.pages|where:"lang","en"|where:"type","Standards Track"|where:"category","ERC"|size}})</h4>
+ <p>Application-level standards and conventions, including contract standards such as token standards, name registries, URI schemes, library/package formats, and wallet formats.</p>
+ 
+-<h3><a href="{{"meta"|relative_url}}">Meta</a> ({{site.specs|where:"type","Meta"|size}})</h3>
++<h3><a href="{{"meta"|relative_url}}">Meta</a> ({{site.pages|where:"lang","en"|where:"type","Meta"|size}})</h3>
+ <p>Describes a process surrounding Ethereum Classic or proposes a change to (or an event in) a process. Process ECIPs are like Standards Track ECIPs but apply to areas other than the Ethereum Classic protocol itself. They may propose an implementation, but not to Ethereum Classic's codebase; they often require community consensus; unlike Informational ECIPs, they are more than recommendations, and users are typically not free to ignore them. Examples include procedures, guidelines, changes to the decision-making process, and changes to the tools or environment used in Ethereum Classic development. Any meta-ECIP is also considered a Process ECIP.</p>
+ 
+-<h3><a href="{{"informational"|relative_url}}">Informational</a> ({{site.specs|where:"type","Informational"|size}})</h3>
++<h3><a href="{{"informational"|relative_url}}">Informational</a> ({{site.pages|where:"lang","en"|where:"type","Informational"|size}})</h3>
+ <p>Describes a Ethereum Classic design issue, or provides general guidelines or information to the Ethereum Classic community, but does not propose a new feature. Informational ECIPs do not necessarily represent Ethereum Classic community consensus or a recommendation, so users and implementers are free to ignore Informational ECIPs or follow their advice.</p>
+diff --git a/informational.html b/informational.html
+index b156069e..676d3df9 100644
+--- a/informational.html
++++ b/informational.html
+@@ -3,5 +3,5 @@
+ title: Informational
+ ---
+ 
+-{% assign eips=site.specs|where:"type","Informational" %}
++{% assign eips=site.pages|where:"lang","en"|where:"type","Informational" %}
+ {% include eiptable.html eips=eips %}
+diff --git a/interface.html b/interface.html
+index 8f9d71dc..c548970b 100644
+--- a/interface.html
++++ b/interface.html
+@@ -3,5 +3,5 @@
+ title: Interface
+ ---
+ 
+-{% assign eips=site.specs|where:"type","Standards Track"|where:"category","Interface" %}
++{% assign eips=site.pages|where:"lang","en"|where:"type","Standards Track"|where:"category","Interface" %}
+ {% include eiptable.html eips=eips %}
+diff --git a/meta.html b/meta.html
+index 21bbdc44..33b10f45 100644
+--- a/meta.html
++++ b/meta.html
+@@ -3,5 +3,5 @@
+ title: Meta
+ ---
+ 
+-{% assign eips=site.specs|where:"type","Meta" %}
++{% assign eips=site.pages|where:"lang","en"|where:"type","Meta" %}
+ {% include eiptable.html eips=eips %}
+
+From e52fd18b893760e38a83e40cfd713a1f8ecf8d2d Mon Sep 17 00:00:00 2001
+From: Wei Tang <hi@that.world>
+Date: Fri, 28 Jun 2019 23:55:29 +0200
+Subject: [PATCH 2/3] Fix Jekyll config
+
+---
+ _config.yml | 14 +++++---------
+ 1 file changed, 5 insertions(+), 9 deletions(-)
+
+diff --git a/_config.yml b/_config.yml
+index 7a48a3a1..b3e687f5 100644
+--- a/_config.yml
++++ b/_config.yml
+@@ -16,18 +16,14 @@ header_pages:
+  - meta.html
+  - informational.html
+ 
+-collections:
+-  specs:
+-    output: true
+-    permalink: /ECIPs/:slug/
++permalink: /:slug
+ 
+ defaults:
+-  - scope:
+-      type: specs
++  -
++    scope:
++      path: "ECIPs"
+     values:
+-      layout: ecip
+-
+-permalink: /:slug
++      layout: "ecip"
+ 
+ exclude:
+   - Gemfile
+
+From 48fd2b6c9d9a5fc6afa694e70212e19e14f27079 Mon Sep 17 00:00:00 2001
+From: Wei Tang <hi@that.world>
+Date: Fri, 28 Jun 2019 23:56:22 +0200
+Subject: [PATCH 3/3] Fix all page build
+
+---
+ all.html | 3 ++-
+ 1 file changed, 2 insertions(+), 1 deletion(-)
+
+diff --git a/all.html b/all.html
+index 8a4e7182..a1822307 100644
+--- a/all.html
++++ b/all.html
+@@ -3,4 +3,5 @@
+ title: All
+ ---
+ 
+-{% include eiptable.html eips=site.pages|where:"lang","en" %}
++{% assign eips=site.pages|where:"lang","en" %}
++{% include eiptable.html eips=eips %}

@@ -1,0 +1,40 @@
+From 6d10fd1822cb2feca9652a4c7e9d89cfad5b1b1f Mon Sep 17 00:00:00 2001
+From: Donald McIntyre <donald@etherplan.com>
+Date: Tue, 2 Jul 2019 12:29:39 -0600
+Subject: [PATCH] Changed the preamble box and status
+
+Changed preamble box to a shaded box because it was too wide on Github and included a partial set of lines on ecips.ethereumclassic.org (pls check if it breaks or would be ok on the org site).
+
+Changed status to `Final` from `Active` as the latter is not a formal status in the ecip process.
+---
+ _specs/ecip-1000.md | 20 +++++++++-----------
+ 1 file changed, 9 insertions(+), 11 deletions(-)
+
+diff --git a/_specs/ecip-1000.md b/_specs/ecip-1000.md
+index 86d6e09b..847898c4 100644
+--- a/_specs/ecip-1000.md
++++ b/_specs/ecip-1000.md
+@@ -1,14 +1,12 @@
+----
+-lang: en
+-ecip: 1000
+-title: ECIP Process
+-status: Active
+-type: Meta
+-discussions-to: https://github.com/ethereumclassic/ECIPs/issues/58
+-author: Wei Tang (@sorpaas)
+-created: 2017-06-29
+-license: Apache-2
+----
++	lang: en
++	ecip: 1000
++	title: ECIP Process
++	status: Final
++	type: Meta
++	discussions-to: https://github.com/ethereumclassic/ECIPs/issues/58
++	author: Wei Tang (@sorpaas)
++	created: 2017-06-29
++	license: Apache-2
+ 
+ # Abstract
+ 
