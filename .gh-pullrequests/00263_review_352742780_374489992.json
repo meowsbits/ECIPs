@@ -1,0 +1,50 @@
+{
+    "id": 374489992,
+    "node_id": "MDI0OlB1bGxSZXF1ZXN0UmV2aWV3Q29tbWVudDM3NDQ4OTk5Mg==",
+    "url": "https://api.github.com/repos/ethereumclassic/ECIPs/pulls/comments/374489992",
+    "pull_request_review_id": 352742780,
+    "diff_hunk": "@@ -0,0 +1,128 @@\n+---\n+lang: en\n+ecip: 1079\n+title: Phoenix EVM and Protocol Upgrades\n+author: Bob Summerwill (@bobsummerwill)\n+status: Draft\n+type: Meta\n+created: 2020-01-19\n+license: Apache-2.0\n+discussions-to: https://github.com/ethereumclassic/ECIPs/issues/263\n+---\n+\n+### Simple Summary\n+\n+This ECIP describes a hard-fork which would replace\n+[ECIP 1061: Aztlán EVM and Protocol Upgrades (Yingchun Edition)](https://ecips.ethereumclassic.org/ECIPs/ecip-1061) to \"fix\" two issues with ECIP-1061 where the written specification\n+did not match the original intent.",
+    "path": "_specs/ecip-1079.md",
+    "position": 17,
+    "original_position": 17,
+    "commit_id": "2752eed379194e89bc92c7bdfb617e9f9d5f356d",
+    "user": {
+      "login": "bobsummerwill",
+      "id": 3788156,
+      "node_id": "MDQ6VXNlcjM3ODgxNTY=",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/3788156?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/bobsummerwill",
+      "html_url": "https://github.com/bobsummerwill",
+      "followers_url": "https://api.github.com/users/bobsummerwill/followers",
+      "following_url": "https://api.github.com/users/bobsummerwill/following{/other_user}",
+      "gists_url": "https://api.github.com/users/bobsummerwill/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/bobsummerwill/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/bobsummerwill/subscriptions",
+      "organizations_url": "https://api.github.com/users/bobsummerwill/orgs",
+      "repos_url": "https://api.github.com/users/bobsummerwill/repos",
+      "events_url": "https://api.github.com/users/bobsummerwill/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/bobsummerwill/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "body": "\"Odd\" referring to \"not match the original intent\", @BelfordZ?\r\n\r\nThe scope which we agreed to in the meeting was \"Istanbul - 1884\" with an implicit understanding that removing 1884 was removing the breaking gas-repricings.  When Wei came to do the implementation, he found that we had actually misspecified, because we had \"thrown the baby out with the bathwater\" in two ways - firstly with the SELFBALANCE opcode, and second in an interaction between two of the EIPs which assumed that 1884 was present.\r\n\r\nPhoenix addresses those two mis-specifications.   All this detailed by Wei on his website.",
+    "created_at": "2020-02-04T06:12:46Z",
+    "updated_at": "2020-02-04T06:12:46Z",
+    "html_url": "https://github.com/ethereumclassic/ECIPs/pull/263#discussion_r374489992",
+    "pull_request_url": "https://api.github.com/repos/ethereumclassic/ECIPs/pulls/263",
+    "author_association": "MEMBER",
+    "_links": {
+      "self": {
+        "href": "https://api.github.com/repos/ethereumclassic/ECIPs/pulls/comments/374489992"
+      },
+      "html": {
+        "href": "https://github.com/ethereumclassic/ECIPs/pull/263#discussion_r374489992"
+      },
+      "pull_request": {
+        "href": "https://api.github.com/repos/ethereumclassic/ECIPs/pulls/263"
+      }
+    },
+    "original_commit_id": "2752eed379194e89bc92c7bdfb617e9f9d5f356d",
+    "in_reply_to_id": 372609750
+  }
