@@ -32,7 +32,7 @@
     "labels": [
 
     ],
-    "state": "open",
+    "state": "closed",
     "locked": false,
     "assignee": {
       "login": "realcodywburns",
@@ -77,10 +77,10 @@
       }
     ],
     "milestone": null,
-    "comments": 1,
+    "comments": 2,
     "created_at": "2020-02-03T14:30:30Z",
-    "updated_at": "2020-02-04T06:16:47Z",
-    "closed_at": null,
+    "updated_at": "2020-02-04T06:25:27Z",
+    "closed_at": "2020-02-04T06:25:27Z",
     "author_association": "MEMBER",
     "body": "We have had several commits since https://github.com/ethereumclassic/ECIPs/pull/279 a week ago, but the web view does not reflect those updates.\r\n\r\nAny ideas, @realcodywburns?  Thanks!",
     "reactions": {
