@@ -1,0 +1,39 @@
+{
+    "id": 352722040,
+    "node_id": "MDE3OlB1bGxSZXF1ZXN0UmV2aWV3MzUyNzIyMDQw",
+    "user": {
+      "login": "bobsummerwill",
+      "id": 3788156,
+      "node_id": "MDQ6VXNlcjM3ODgxNTY=",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/3788156?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/bobsummerwill",
+      "html_url": "https://github.com/bobsummerwill",
+      "followers_url": "https://api.github.com/users/bobsummerwill/followers",
+      "following_url": "https://api.github.com/users/bobsummerwill/following{/other_user}",
+      "gists_url": "https://api.github.com/users/bobsummerwill/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/bobsummerwill/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/bobsummerwill/subscriptions",
+      "organizations_url": "https://api.github.com/users/bobsummerwill/orgs",
+      "repos_url": "https://api.github.com/users/bobsummerwill/repos",
+      "events_url": "https://api.github.com/users/bobsummerwill/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/bobsummerwill/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "body": "Hey Zachary,\r\nI think the only thing holding this up from being merged is that WIP is not a valid status.\r\nShould be \"Draft\".\r\nWhy don't you make that edit, and we get this merged?\r\nIt is an important area for consideration.",
+    "state": "COMMENTED",
+    "html_url": "https://github.com/ethereumclassic/ECIPs/pull/249#pullrequestreview-352722040",
+    "pull_request_url": "https://api.github.com/repos/ethereumclassic/ECIPs/pulls/249",
+    "author_association": "MEMBER",
+    "_links": {
+      "html": {
+        "href": "https://github.com/ethereumclassic/ECIPs/pull/249#pullrequestreview-352722040"
+      },
+      "pull_request": {
+        "href": "https://api.github.com/repos/ethereumclassic/ECIPs/pulls/249"
+      }
+    },
+    "submitted_at": "2020-02-04T04:47:00Z",
+    "commit_id": "b2c83851772b1a7a5edb2c9a94acfd4faf28324d"
+  }
