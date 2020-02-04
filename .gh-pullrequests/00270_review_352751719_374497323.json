@@ -1,0 +1,50 @@
+{
+    "id": 374497323,
+    "node_id": "MDI0OlB1bGxSZXF1ZXN0UmV2aWV3Q29tbWVudDM3NDQ5NzMyMw==",
+    "url": "https://api.github.com/repos/ethereumclassic/ECIPs/pulls/comments/374497323",
+    "pull_request_review_id": 352751719,
+    "diff_hunk": "@@ -3,14 +3,24 @@ lang: en\n ecip: 1019\n title: (Epoch Decay 10) Monetary Policy and Final Modification to the Ethereum Classic Emission Schedule\n author: Mike Boremi <ecip-1019@mikes.email>\n-status: Draft\n+status: Replaced\n type: Standards Track\n category: Core\n created: 2017-01-19",
+    "path": "_specs/ecip-1019.md",
+    "position": 8,
+    "original_position": 8,
+    "commit_id": "41d5e3dbfe3c57ef52574d4f0e5375597dcce310",
+    "user": {
+      "login": "bobsummerwill",
+      "id": 3788156,
+      "node_id": "MDQ6VXNlcjM3ODgxNTY=",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/3788156?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/bobsummerwill",
+      "html_url": "https://github.com/bobsummerwill",
+      "followers_url": "https://api.github.com/users/bobsummerwill/followers",
+      "following_url": "https://api.github.com/users/bobsummerwill/following{/other_user}",
+      "gists_url": "https://api.github.com/users/bobsummerwill/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/bobsummerwill/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/bobsummerwill/subscriptions",
+      "organizations_url": "https://api.github.com/users/bobsummerwill/orgs",
+      "repos_url": "https://api.github.com/users/bobsummerwill/repos",
+      "events_url": "https://api.github.com/users/bobsummerwill/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/bobsummerwill/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "body": "Actually - I see that is still just a proposal for adding that additional metadata to EIPs.\r\nAnd I think it is a decent enough proposal, but it isn't part of the EIP flow or the ECIP flow yet.\r\nIf you want to champion that, why don't you create an ECIP to propose it?\r\nOr we can wait on the EIP parts to solidify and then adopt?",
+    "created_at": "2020-02-04T06:44:02Z",
+    "updated_at": "2020-02-04T06:44:02Z",
+    "html_url": "https://github.com/ethereumclassic/ECIPs/pull/270#discussion_r374497323",
+    "pull_request_url": "https://api.github.com/repos/ethereumclassic/ECIPs/pulls/270",
+    "author_association": "MEMBER",
+    "_links": {
+      "self": {
+        "href": "https://api.github.com/repos/ethereumclassic/ECIPs/pulls/comments/374497323"
+      },
+      "html": {
+        "href": "https://github.com/ethereumclassic/ECIPs/pull/270#discussion_r374497323"
+      },
+      "pull_request": {
+        "href": "https://api.github.com/repos/ethereumclassic/ECIPs/pulls/270"
+      }
+    },
+    "original_commit_id": "41d5e3dbfe3c57ef52574d4f0e5375597dcce310",
+    "in_reply_to_id": 372609145
+  }
