@@ -25,9 +25,9 @@
       "site_admin": false
     },
     "created_at": "2020-02-04T02:37:47Z",
-    "updated_at": "2020-02-04T02:37:47Z",
+    "updated_at": "2020-02-04T02:43:42Z",
     "author_association": "CONTRIBUTOR",
-    "body": "The new, proposed blockheight is unreasonably far away. What is the rationale?",
+    "body": "The proposed blockheight is much farther away than originally estimated. What is the cause?",
     "reactions": {
       "url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/comments/581714744/reactions",
       "total_count": 0,

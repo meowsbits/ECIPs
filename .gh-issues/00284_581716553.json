@@ -1,0 +1,43 @@
+{
+    "url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/comments/581716553",
+    "html_url": "https://github.com/ethereumclassic/ECIPs/issues/284#issuecomment-581716553",
+    "issue_url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/284",
+    "id": 581716553,
+    "node_id": "MDEyOklzc3VlQ29tbWVudDU4MTcxNjU1Mw==",
+    "user": {
+      "login": "TokenHash",
+      "id": 29529586,
+      "node_id": "MDQ6VXNlcjI5NTI5NTg2",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/29529586?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/TokenHash",
+      "html_url": "https://github.com/TokenHash",
+      "followers_url": "https://api.github.com/users/TokenHash/followers",
+      "following_url": "https://api.github.com/users/TokenHash/following{/other_user}",
+      "gists_url": "https://api.github.com/users/TokenHash/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/TokenHash/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/TokenHash/subscriptions",
+      "organizations_url": "https://api.github.com/users/TokenHash/orgs",
+      "repos_url": "https://api.github.com/users/TokenHash/repos",
+      "events_url": "https://api.github.com/users/TokenHash/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/TokenHash/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "created_at": "2020-02-04T02:45:47Z",
+    "updated_at": "2020-02-04T02:46:44Z",
+    "author_association": "CONTRIBUTOR",
+    "body": "It seems at least the mainnet block number is the same as in ECIP-1061 Aztlán: https://github.com/ethereumclassic/ECIPs/blob/master/_specs/ecip-1061.md\r\n\r\n> 778_507 on Mordor Classic PoW-testnet (Feb 5th, 2020)\r\n> 2_058_191 on Kotti Classic PoA-testnet (Feb 12th, 2020)\r\n> 10_500_839 on Ethereum Classic PoW-mainnet (March 25th, 2020)\r\n\r\nI think there must be some recalculation of the block times (from 13 seconds to 15, or something) that changed the time estimates.\r\n\r\nI support taking it slowly (it's only 2 or 3 months differential) but having both forks aligned and well tested to minimize the most as possible any chance of split, bug, or incompatibility in the mainnet.",
+    "reactions": {
+      "url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/comments/581716553/reactions",
+      "total_count": 0,
+      "+1": 0,
+      "-1": 0,
+      "laugh": 0,
+      "hooray": 0,
+      "confused": 0,
+      "heart": 0,
+      "rocket": 0,
+      "eyes": 0
+    }
+  }
