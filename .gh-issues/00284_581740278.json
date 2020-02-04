@@ -1,0 +1,43 @@
+{
+    "url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/comments/581740278",
+    "html_url": "https://github.com/ethereumclassic/ECIPs/issues/284#issuecomment-581740278",
+    "issue_url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/284",
+    "id": 581740278,
+    "node_id": "MDEyOklzc3VlQ29tbWVudDU4MTc0MDI3OA==",
+    "user": {
+      "login": "bobsummerwill",
+      "id": 3788156,
+      "node_id": "MDQ6VXNlcjM3ODgxNTY=",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/3788156?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/bobsummerwill",
+      "html_url": "https://github.com/bobsummerwill",
+      "followers_url": "https://api.github.com/users/bobsummerwill/followers",
+      "following_url": "https://api.github.com/users/bobsummerwill/following{/other_user}",
+      "gists_url": "https://api.github.com/users/bobsummerwill/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/bobsummerwill/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/bobsummerwill/subscriptions",
+      "organizations_url": "https://api.github.com/users/bobsummerwill/orgs",
+      "repos_url": "https://api.github.com/users/bobsummerwill/repos",
+      "events_url": "https://api.github.com/users/bobsummerwill/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/bobsummerwill/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "created_at": "2020-02-04T04:43:02Z",
+    "updated_at": "2020-02-04T04:43:02Z",
+    "author_association": "MEMBER",
+    "body": "@soc1c Agenda point.\r\n\r\nGiven that we are essentially down to a binary choice now between Accepting Phoenix or rejecting it (and the only reason I can see why that would make sense was on the basis that the timeline for 10_500_839 was too tight, but it isn't anymore), I think we will likely have some time available for OTHER BUSINESS, and I would propose that we work through the house-keeping of progressing the following ECIPs:\r\n\r\n- [ECIP-1063: Reject \"Integrated decentralized oracles and smart contracts\"](https://github.com/ethereumclassic/ECIPs/pull/203)\r\n- [ECIP-1051: Reject \"Ethereum Classic Treasury system\"](https://github.com/ethereumclassic/ECIPs/pull/229)\r\n- [ECIP-1057: Reject \"Cold Staking\"](https://github.com/ethereumclassic/ECIPs/pull/230)\r\n- [ECIP-1052: Reject \"Smart-contract Security Auditing core\"](https://github.com/ethereumclassic/ECIPs/pull/231)\r\n- [ECIP-1021: Move ERC-223 token standard to Last Call, on its path to Accepted and then Final](https://github.com/ethereumclassic/ECIPs/pull/232)\r\n\r\nThese have all been tagged as \"need consensus confirmed on a call, but are trivial Status changes to clear out our \"working set\".",
+    "reactions": {
+      "url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/comments/581740278/reactions",
+      "total_count": 0,
+      "+1": 0,
+      "-1": 0,
+      "laugh": 0,
+      "hooray": 0,
+      "confused": 0,
+      "heart": 0,
+      "rocket": 0,
+      "eyes": 0
+    }
+  }
