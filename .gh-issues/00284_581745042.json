@@ -1,0 +1,43 @@
+{
+    "url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/comments/581745042",
+    "html_url": "https://github.com/ethereumclassic/ECIPs/issues/284#issuecomment-581745042",
+    "issue_url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/284",
+    "id": 581745042,
+    "node_id": "MDEyOklzc3VlQ29tbWVudDU4MTc0NTA0Mg==",
+    "user": {
+      "login": "bobsummerwill",
+      "id": 3788156,
+      "node_id": "MDQ6VXNlcjM3ODgxNTY=",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/3788156?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/bobsummerwill",
+      "html_url": "https://github.com/bobsummerwill",
+      "followers_url": "https://api.github.com/users/bobsummerwill/followers",
+      "following_url": "https://api.github.com/users/bobsummerwill/following{/other_user}",
+      "gists_url": "https://api.github.com/users/bobsummerwill/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/bobsummerwill/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/bobsummerwill/subscriptions",
+      "organizations_url": "https://api.github.com/users/bobsummerwill/orgs",
+      "repos_url": "https://api.github.com/users/bobsummerwill/repos",
+      "events_url": "https://api.github.com/users/bobsummerwill/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/bobsummerwill/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "created_at": "2020-02-04T05:06:37Z",
+    "updated_at": "2020-02-04T05:06:37Z",
+    "author_association": "MEMBER",
+    "body": "Glad you feel that way too, @classiclab.\r\n\r\nIt was a surprise that the block is now expected so much later than we estimated in December, but I think it is actually a blessing in disguise to have the additional time to test the Phoenix changes, which are new and different than ETH and need testing thoroughly.   I don't know that we need an extra two months, but changing the ordering now would just introduce more risk.\r\n\r\nAnd I said above, the extended period does NOT have to mean that all other progress is stalled for two months.   As soon as there are Phoenix candidate releases for each of the clients - work can begin on other proposed future ECIPs.\r\n\r\nIf you have proposals **not listed above**, please do create ECIPs for them.",
+    "reactions": {
+      "url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/comments/581745042/reactions",
+      "total_count": 0,
+      "+1": 0,
+      "-1": 0,
+      "laugh": 0,
+      "hooray": 0,
+      "confused": 0,
+      "heart": 0,
+      "rocket": 0,
+      "eyes": 0
+    }
+  }
