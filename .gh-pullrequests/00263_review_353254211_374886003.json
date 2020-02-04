@@ -1,0 +1,50 @@
+{
+    "id": 374886003,
+    "node_id": "MDI0OlB1bGxSZXF1ZXN0UmV2aWV3Q29tbWVudDM3NDg4NjAwMw==",
+    "url": "https://api.github.com/repos/ethereumclassic/ECIPs/pulls/comments/374886003",
+    "pull_request_review_id": 353254211,
+    "diff_hunk": "@@ -0,0 +1,128 @@\n+---\n+lang: en\n+ecip: 1079\n+title: Phoenix EVM and Protocol Upgrades\n+author: Bob Summerwill (@bobsummerwill)\n+status: Draft\n+type: Meta\n+created: 2020-01-19\n+license: Apache-2.0\n+discussions-to: https://github.com/ethereumclassic/ECIPs/issues/263\n+---\n+\n+### Simple Summary\n+\n+This ECIP describes a hard-fork which would replace\n+[ECIP 1061: Aztlán EVM and Protocol Upgrades (Yingchun Edition)](https://ecips.ethereumclassic.org/ECIPs/ecip-1061) to \"fix\" two issues with ECIP-1061 where the written specification\n+did not match the original intent.",
+    "path": "_specs/ecip-1079.md",
+    "position": 17,
+    "original_position": 17,
+    "commit_id": "2752eed379194e89bc92c7bdfb617e9f9d5f356d",
+    "user": {
+      "login": "BelfordZ",
+      "id": 1787231,
+      "node_id": "MDQ6VXNlcjE3ODcyMzE=",
+      "avatar_url": "https://avatars0.githubusercontent.com/u/1787231?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/BelfordZ",
+      "html_url": "https://github.com/BelfordZ",
+      "followers_url": "https://api.github.com/users/BelfordZ/followers",
+      "following_url": "https://api.github.com/users/BelfordZ/following{/other_user}",
+      "gists_url": "https://api.github.com/users/BelfordZ/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/BelfordZ/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/BelfordZ/subscriptions",
+      "organizations_url": "https://api.github.com/users/BelfordZ/orgs",
+      "repos_url": "https://api.github.com/users/BelfordZ/repos",
+      "events_url": "https://api.github.com/users/BelfordZ/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/BelfordZ/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "body": "my bad, I meant purely formatting-wise. It's an odd choice to add a new line after \"specification\" and before \"did\"",
+    "created_at": "2020-02-04T19:48:26Z",
+    "updated_at": "2020-02-04T19:48:26Z",
+    "html_url": "https://github.com/ethereumclassic/ECIPs/pull/263#discussion_r374886003",
+    "pull_request_url": "https://api.github.com/repos/ethereumclassic/ECIPs/pulls/263",
+    "author_association": "MEMBER",
+    "_links": {
+      "self": {
+        "href": "https://api.github.com/repos/ethereumclassic/ECIPs/pulls/comments/374886003"
+      },
+      "html": {
+        "href": "https://github.com/ethereumclassic/ECIPs/pull/263#discussion_r374886003"
+      },
+      "pull_request": {
+        "href": "https://api.github.com/repos/ethereumclassic/ECIPs/pulls/263"
+      }
+    },
+    "original_commit_id": "2752eed379194e89bc92c7bdfb617e9f9d5f356d",
+    "in_reply_to_id": 372609750
+  }
