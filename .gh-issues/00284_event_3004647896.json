@@ -1,0 +1,29 @@
+{
+    "id": 3004647896,
+    "node_id": "MDE1OlN1YnNjcmliZWRFdmVudDMwMDQ2NDc4OTY=",
+    "url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/events/3004647896",
+    "actor": {
+      "login": "classiclab",
+      "id": 45863546,
+      "node_id": "MDQ6VXNlcjQ1ODYzNTQ2",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/45863546?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/classiclab",
+      "html_url": "https://github.com/classiclab",
+      "followers_url": "https://api.github.com/users/classiclab/followers",
+      "following_url": "https://api.github.com/users/classiclab/following{/other_user}",
+      "gists_url": "https://api.github.com/users/classiclab/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/classiclab/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/classiclab/subscriptions",
+      "organizations_url": "https://api.github.com/users/classiclab/orgs",
+      "repos_url": "https://api.github.com/users/classiclab/repos",
+      "events_url": "https://api.github.com/users/classiclab/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/classiclab/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "event": "subscribed",
+    "commit_id": null,
+    "commit_url": null,
+    "created_at": "2020-02-04T04:10:40Z"
+  }

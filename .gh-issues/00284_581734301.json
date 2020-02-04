@@ -1,0 +1,43 @@
+{
+    "url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/comments/581734301",
+    "html_url": "https://github.com/ethereumclassic/ECIPs/issues/284#issuecomment-581734301",
+    "issue_url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/284",
+    "id": 581734301,
+    "node_id": "MDEyOklzc3VlQ29tbWVudDU4MTczNDMwMQ==",
+    "user": {
+      "login": "bobsummerwill",
+      "id": 3788156,
+      "node_id": "MDQ6VXNlcjM3ODgxNTY=",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/3788156?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/bobsummerwill",
+      "html_url": "https://github.com/bobsummerwill",
+      "followers_url": "https://api.github.com/users/bobsummerwill/followers",
+      "following_url": "https://api.github.com/users/bobsummerwill/following{/other_user}",
+      "gists_url": "https://api.github.com/users/bobsummerwill/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/bobsummerwill/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/bobsummerwill/subscriptions",
+      "organizations_url": "https://api.github.com/users/bobsummerwill/orgs",
+      "repos_url": "https://api.github.com/users/bobsummerwill/repos",
+      "events_url": "https://api.github.com/users/bobsummerwill/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/bobsummerwill/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "created_at": "2020-02-04T04:10:40Z",
+    "updated_at": "2020-02-04T04:10:40Z",
+    "author_association": "MEMBER",
+    "body": "@classiclab The block number for Azlan was set on 20th December on a best estimate of a block targeting 25th March at that point:\r\nhttps://github.com/ethereumclassic/ECIPs/pull/248/files\r\n\r\nThe proposed block number for Phoenix is the same, but yes, it is a lot further back than originally intended.\r\n\r\nI asked @realcodywburns what his \"Bridgette\" bot estimated.   Here was the answer:\r\n\r\n \r\n Based on the last 50,000 blocks: \r\n \r\n                    9719915\r\n              Current Block Height \r\n      13.118                       9.305\r\n Average BlockTime               Std. Div \r\n                     2012058\r\n                  Block range \r\n   \r\n                  Mean Block \r\n                   10424503\r\n                      | \r\n   |-----------------------------------------|\r\n   |                                         |\r\n 10132109                                12144167\r\nLow Block number                     High Block \r\n (1 stdv dwn)                       (1 stdv up) \r\n   \r\n   Prime number near mean block: 10424507\r\n   Twin Prime near mean block: 10424567\r\n   A Quad Prime near that range: 10134401\r\nWarning! This range is larger than one human day, Try back later when the range will be tighter. \r\n \r\n\r\nHe said:\r\n\r\n\"We could be up to 2 million blocks higher than that by then depending on the block times\r\nOur 13 second block time can easily be 4 seconds  for 30% of the blocks\"\r\n\r\nThere is just a huge variance in block times.  There has been massive shift in both price and hashrate since December.\r\n\r\nThe https://etcnodes.org/aztlan estimate, which is just based on a 13s block-time estimate sees it even further back.",
+    "reactions": {
+      "url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/comments/581734301/reactions",
+      "total_count": 0,
+      "+1": 0,
+      "-1": 0,
+      "laugh": 0,
+      "hooray": 0,
+      "confused": 0,
+      "heart": 0,
+      "rocket": 0,
+      "eyes": 0
+    }
+  }
