@@ -1,0 +1,56 @@
+{
+    "url": "https://api.github.com/repos/ethereumclassic/ECIPs/pulls/comments/374915842",
+    "pull_request_review_id": 353292373,
+    "id": 374915842,
+    "node_id": "MDI0OlB1bGxSZXF1ZXN0UmV2aWV3Q29tbWVudDM3NDkxNTg0Mg==",
+    "diff_hunk": "@@ -0,0 +1,128 @@\n+---\n+lang: en\n+ecip: 1079\n+title: Phoenix EVM and Protocol Upgrades\n+author: Bob Summerwill (@bobsummerwill)\n+status: Draft\n+type: Meta\n+created: 2020-01-19\n+license: Apache-2.0\n+discussions-to: https://github.com/ethereumclassic/ECIPs/issues/263\n+---\n+\n+### Simple Summary\n+\n+This ECIP describes a hard-fork which would replace\n+[ECIP 1061: Aztlán EVM and Protocol Upgrades (Yingchun Edition)](https://ecips.ethereumclassic.org/ECIPs/ecip-1061) to \"fix\" two issues with ECIP-1061 where the written specification\n+did not match the original intent.",
+    "path": "_specs/ecip-1079.md",
+    "position": 17,
+    "original_position": 17,
+    "commit_id": "2752eed379194e89bc92c7bdfb617e9f9d5f356d",
+    "original_commit_id": "2752eed379194e89bc92c7bdfb617e9f9d5f356d",
+    "user": {
+      "login": "bobsummerwill",
+      "id": 3788156,
+      "node_id": "MDQ6VXNlcjM3ODgxNTY=",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/3788156?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/bobsummerwill",
+      "html_url": "https://github.com/bobsummerwill",
+      "followers_url": "https://api.github.com/users/bobsummerwill/followers",
+      "following_url": "https://api.github.com/users/bobsummerwill/following{/other_user}",
+      "gists_url": "https://api.github.com/users/bobsummerwill/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/bobsummerwill/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/bobsummerwill/subscriptions",
+      "organizations_url": "https://api.github.com/users/bobsummerwill/orgs",
+      "repos_url": "https://api.github.com/users/bobsummerwill/repos",
+      "events_url": "https://api.github.com/users/bobsummerwill/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/bobsummerwill/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "body": "Right.  Not sure what my fingers and brain were thinking at the time :-)\r\n",
+    "created_at": "2020-02-04T20:52:16Z",
+    "updated_at": "2020-02-04T20:52:16Z",
+    "html_url": "https://github.com/ethereumclassic/ECIPs/pull/263#discussion_r374915842",
+    "pull_request_url": "https://api.github.com/repos/ethereumclassic/ECIPs/pulls/263",
+    "author_association": "MEMBER",
+    "_links": {
+      "self": {
+        "href": "https://api.github.com/repos/ethereumclassic/ECIPs/pulls/comments/374915842"
+      },
+      "html": {
+        "href": "https://github.com/ethereumclassic/ECIPs/pull/263#discussion_r374915842"
+      },
+      "pull_request": {
+        "href": "https://api.github.com/repos/ethereumclassic/ECIPs/pulls/263"
+      }
+    },
+    "start_line": null,
+    "original_start_line": null,
+    "start_side": null,
+    "line": 17,
+    "original_line": 17,
+    "side": "RIGHT",
+    "in_reply_to_id": 372609750
+  }
