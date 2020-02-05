@@ -1,7 +1,7 @@
 {
-    "id": 3001697196,
-    "node_id": "MDE3OlJlbmFtZWRUaXRsZUV2ZW50MzAwMTY5NzE5Ng==",
-    "url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/events/3001697196",
+    "id": 3010846758,
+    "node_id": "MDE1OlJlZmVyZW5jZWRFdmVudDMwMTA4NDY3NTg=",
+    "url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/events/3010846758",
     "actor": {
       "login": "soc1c",
       "id": 47772477,
@@ -22,14 +22,10 @@
       "type": "User",
       "site_admin": false
     },
-    "event": "renamed",
-    "commit_id": null,
-    "commit_url": null,
-    "created_at": "2020-02-03T10:51:22Z",
-    "rename": {
-      "from": "ECIP for Greg Colvin's EIP-2315 Simple Subroutines for the EVM proposal.",
-      "to": "ECIP-1085: Simple Subroutines for the EVM proposal."
-    },
+    "event": "referenced",
+    "commit_id": "0ae33f6e27d98e83560d376ce8b2ebb9a46a617f",
+    "commit_url": "https://api.github.com/repos/ethereumclassic/ECIPs/commits/0ae33f6e27d98e83560d376ce8b2ebb9a46a617f",
+    "created_at": "2020-02-05T17:08:53Z",
     "issue": {
       "url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/286",
       "repository_url": "https://api.github.com/repos/ethereumclassic/ECIPs",

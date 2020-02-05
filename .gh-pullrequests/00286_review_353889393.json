@@ -1,0 +1,39 @@
+{
+    "id": 353889393,
+    "node_id": "MDE3OlB1bGxSZXF1ZXN0UmV2aWV3MzUzODg5Mzkz",
+    "user": {
+      "login": "soc1c",
+      "id": 47772477,
+      "node_id": "MDQ6VXNlcjQ3NzcyNDc3",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/47772477?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/soc1c",
+      "html_url": "https://github.com/soc1c",
+      "followers_url": "https://api.github.com/users/soc1c/followers",
+      "following_url": "https://api.github.com/users/soc1c/following{/other_user}",
+      "gists_url": "https://api.github.com/users/soc1c/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/soc1c/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/soc1c/subscriptions",
+      "organizations_url": "https://api.github.com/users/soc1c/orgs",
+      "repos_url": "https://api.github.com/users/soc1c/repos",
+      "events_url": "https://api.github.com/users/soc1c/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/soc1c/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "body": "",
+    "state": "APPROVED",
+    "html_url": "https://github.com/ethereumclassic/ECIPs/pull/286#pullrequestreview-353889393",
+    "pull_request_url": "https://api.github.com/repos/ethereumclassic/ECIPs/pulls/286",
+    "author_association": "MEMBER",
+    "_links": {
+      "html": {
+        "href": "https://github.com/ethereumclassic/ECIPs/pull/286#pullrequestreview-353889393"
+      },
+      "pull_request": {
+        "href": "https://api.github.com/repos/ethereumclassic/ECIPs/pulls/286"
+      }
+    },
+    "submitted_at": "2020-02-05T17:08:44Z",
+    "commit_id": "8b2d9e622771de44a440a40c7bf6b309af3f2b91"
+  }
