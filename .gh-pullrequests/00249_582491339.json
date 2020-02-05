@@ -1,0 +1,43 @@
+{
+    "url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/comments/582491339",
+    "html_url": "https://github.com/ethereumclassic/ECIPs/pull/249#issuecomment-582491339",
+    "issue_url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/249",
+    "id": 582491339,
+    "node_id": "MDEyOklzc3VlQ29tbWVudDU4MjQ5MTMzOQ==",
+    "user": {
+      "login": "TokenHash",
+      "id": 29529586,
+      "node_id": "MDQ6VXNlcjI5NTI5NTg2",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/29529586?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/TokenHash",
+      "html_url": "https://github.com/TokenHash",
+      "followers_url": "https://api.github.com/users/TokenHash/followers",
+      "following_url": "https://api.github.com/users/TokenHash/following{/other_user}",
+      "gists_url": "https://api.github.com/users/TokenHash/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/TokenHash/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/TokenHash/subscriptions",
+      "organizations_url": "https://api.github.com/users/TokenHash/orgs",
+      "repos_url": "https://api.github.com/users/TokenHash/repos",
+      "events_url": "https://api.github.com/users/TokenHash/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/TokenHash/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "created_at": "2020-02-05T16:27:58Z",
+    "updated_at": "2020-02-05T16:27:58Z",
+    "author_association": "CONTRIBUTOR",
+    "body": "@bobsummerwill @BelfordZ @soc1c I added/modified this text on ECIP-0001 to reflect the WIP rule:\r\n\r\n> `Draft` ECIPs which may be in a very early stage may be entered as `WIP` pull requests, which means they are a work in progress. However, `WIP` ECIP pull requests may not be merged into the ECIP repository unless authors feel confident enough about their proposals and moved them to `Draft` status.",
+    "reactions": {
+      "url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/comments/582491339/reactions",
+      "total_count": 0,
+      "+1": 0,
+      "-1": 0,
+      "laugh": 0,
+      "hooray": 0,
+      "confused": 0,
+      "heart": 0,
+      "rocket": 0,
+      "eyes": 0
+    }
+  }
