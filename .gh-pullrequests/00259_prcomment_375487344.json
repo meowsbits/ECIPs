@@ -1,0 +1,55 @@
+{
+    "url": "https://api.github.com/repos/ethereumclassic/ECIPs/pulls/comments/375487344",
+    "pull_request_review_id": 354014354,
+    "id": 375487344,
+    "node_id": "MDI0OlB1bGxSZXF1ZXN0UmV2aWV3Q29tbWVudDM3NTQ4NzM0NA==",
+    "diff_hunk": "@@ -0,0 +1,139 @@\n+---\n+lang: en\n+ecip: 1084\n+title: Hard-cap gas-limit in protocol\n+author: Bob Summerwill (@bobsummerwill)\n+status: Draft\n+type: Standards Track\n+category: Core\n+created: 2020-01-17\n+license: Apache-2.0\n+discussions-to: https://github.com/ethereumclassic/ECIPs/issues/260\n+---\n+\n+## Abstract\n+\n+A proposal to place a hard cap on the gaslimit for the ETC mainnet as an in-protocol\n+consensus rule. From the block that this ECIP was activated, gaslimit would follow a\n+curve defined in this proposal rather than being subject to miner voting.\n+\n+## Rationale\n+\n+There is nothing more important to the ETC network than security and decentralization.\n+Both of those desired characteristics have already been heavily compromised in ETC\n+because of the malincentives which ETC inherited from ETH in the form of the miner\n+gaslimit voting mechanism.\n+\n+The gaslimit has been raised for the ETH mainnet first to 8M and then to 10M gas,\n+despite it being obvious that the client implementations cannot adequately cope with\n+the state trie growth that such a high gaslimit has created.  ETH has been\n+\"overclocked\" and smoke is coming out of the engine.  This long crisis was one of the",
+    "path": "_specs/ecip-1084.md",
+    "position": 30,
+    "original_position": 30,
+    "commit_id": "5073cec5f35cf893dc7e4f60f3b56e5c4d2342ae",
+    "original_commit_id": "5073cec5f35cf893dc7e4f60f3b56e5c4d2342ae",
+    "user": {
+      "login": "meowsbits",
+      "id": 45600330,
+      "node_id": "MDQ6VXNlcjQ1NjAwMzMw",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/45600330?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/meowsbits",
+      "html_url": "https://github.com/meowsbits",
+      "followers_url": "https://api.github.com/users/meowsbits/followers",
+      "following_url": "https://api.github.com/users/meowsbits/following{/other_user}",
+      "gists_url": "https://api.github.com/users/meowsbits/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/meowsbits/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/meowsbits/subscriptions",
+      "organizations_url": "https://api.github.com/users/meowsbits/orgs",
+      "repos_url": "https://api.github.com/users/meowsbits/repos",
+      "events_url": "https://api.github.com/users/meowsbits/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/meowsbits/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "body": "This is not obvious to me. My client seems to run fine on ETH, ETC, and test networks. Can you provide benchmarks here?",
+    "created_at": "2020-02-05T20:21:42Z",
+    "updated_at": "2020-02-05T20:21:42Z",
+    "html_url": "https://github.com/ethereumclassic/ECIPs/pull/259#discussion_r375487344",
+    "pull_request_url": "https://api.github.com/repos/ethereumclassic/ECIPs/pulls/259",
+    "author_association": "MEMBER",
+    "_links": {
+      "self": {
+        "href": "https://api.github.com/repos/ethereumclassic/ECIPs/pulls/comments/375487344"
+      },
+      "html": {
+        "href": "https://github.com/ethereumclassic/ECIPs/pull/259#discussion_r375487344"
+      },
+      "pull_request": {
+        "href": "https://api.github.com/repos/ethereumclassic/ECIPs/pulls/259"
+      }
+    },
+    "start_line": null,
+    "original_start_line": null,
+    "start_side": null,
+    "line": 30,
+    "original_line": 30,
+    "side": "RIGHT"
+  }
