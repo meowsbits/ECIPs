@@ -7,7 +7,7 @@
     "path": "_specs/ecip-1078.md",
     "position": null,
     "original_position": 27,
-    "commit_id": "42a1eb6df895af95969e52fc5986f4cb4912606c",
+    "commit_id": "b03421c42e95782125b9e93c10a02c21daa2718a",
     "user": {
       "login": "soc1c",
       "id": 47772477,
@@ -30,7 +30,7 @@
     },
     "body": "```suggestion\r\n- `976_231` on Mordor Classic PoW-testnet (March 4th, 2020)\r\n```",
     "created_at": "2020-02-03T10:16:05Z",
-    "updated_at": "2020-02-03T14:59:09Z",
+    "updated_at": "2020-02-05T17:13:26Z",
     "html_url": "https://github.com/ethereumclassic/ECIPs/pull/285#discussion_r374019483",
     "pull_request_url": "https://api.github.com/repos/ethereumclassic/ECIPs/pulls/285",
     "author_association": "MEMBER",

@@ -1,14 +1,9 @@
 {
-    "url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/273",
-    "repository_url": "https://api.github.com/repos/ethereumclassic/ECIPs",
-    "labels_url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/273/labels{/name}",
-    "comments_url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/273/comments",
-    "events_url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/273/events",
-    "html_url": "https://github.com/ethereumclassic/ECIPs/issues/273",
-    "id": 552464455,
-    "node_id": "MDU6SXNzdWU1NTI0NjQ0NTU=",
-    "number": 273,
-    "title": "Proposal for owner, member, editor, & author removal",
+    "url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/comments/582513065",
+    "html_url": "https://github.com/ethereumclassic/ECIPs/issues/273#issuecomment-582513065",
+    "issue_url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/273",
+    "id": 582513065,
+    "node_id": "MDEyOklzc3VlQ29tbWVudDU4MjUxMzA2NQ==",
     "user": {
       "login": "TokenHash",
       "id": 29529586,
@@ -29,24 +24,12 @@
       "type": "User",
       "site_admin": false
     },
-    "labels": [
-
-    ],
-    "state": "closed",
-    "locked": false,
-    "assignee": null,
-    "assignees": [
-
-    ],
-    "milestone": null,
-    "comments": 7,
-    "created_at": "2020-01-20T19:03:41Z",
-    "updated_at": "2020-02-05T17:12:40Z",
-    "closed_at": "2020-02-05T17:12:40Z",
+    "created_at": "2020-02-05T17:12:37Z",
+    "updated_at": "2020-02-05T17:12:37Z",
     "author_association": "CONTRIBUTOR",
-    "body": "This is the discussion page for the proposal to remove Wei Tang from internal functions in this ETC repo.",
+    "body": "Yes. Closing as this was superseded by https://github.com/ethereumclassic/ECIPs/issues/276",
     "reactions": {
-      "url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/273/reactions",
+      "url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/comments/582513065/reactions",
       "total_count": 0,
       "+1": 0,
       "-1": 0,

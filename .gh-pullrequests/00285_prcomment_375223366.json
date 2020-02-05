@@ -5,9 +5,9 @@
     "node_id": "MDI0OlB1bGxSZXF1ZXN0UmV2aWV3Q29tbWVudDM3NTIyMzM2Ng==",
     "diff_hunk": "@@ -38,9 +39,9 @@ would result in protocol changes which met the original intent.\n \n This document proposes the following blocks at which to implement these changes in the Classic networks:\n \n-- `778_507` on Mordor Classic PoW-testnet (Feb 5th, 2020)\n-- `2_058_191` on Kotti Classic PoA-testnet (Feb 12th, 2020)\n-- `10_500_839` on Ethereum Classic PoW-mainnet (March 25th, 2020)\n+- `976_231` on Mordor Classic PoW-testnet (~March 4th, 2020)",
     "path": "_specs/ecip-1078.md",
-    "position": 29,
+    "position": null,
     "original_position": 29,
-    "commit_id": "42a1eb6df895af95969e52fc5986f4cb4912606c",
+    "commit_id": "b03421c42e95782125b9e93c10a02c21daa2718a",
     "original_commit_id": "42a1eb6df895af95969e52fc5986f4cb4912606c",
     "user": {
       "login": "soc1c",
@@ -31,7 +31,7 @@
     },
     "body": "```suggestion\r\n- `976_231` on Mordor Classic PoW-testnet (March 4th, 2020)\r\n```",
     "created_at": "2020-02-05T12:20:16Z",
-    "updated_at": "2020-02-05T12:20:17Z",
+    "updated_at": "2020-02-05T17:13:26Z",
     "html_url": "https://github.com/ethereumclassic/ECIPs/pull/285#discussion_r375223366",
     "pull_request_url": "https://api.github.com/repos/ethereumclassic/ECIPs/pulls/285",
     "author_association": "MEMBER",
@@ -49,7 +49,7 @@
     "start_line": null,
     "original_start_line": null,
     "start_side": null,
-    "line": 42,
+    "line": null,
     "original_line": 42,
     "side": "RIGHT"
   }

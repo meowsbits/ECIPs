@@ -1,7 +1,7 @@
 From d967305e709d960034f29b88b06b3fb1cfc4a335 Mon Sep 17 00:00:00 2001
 From: Bob Summerwill <bob@summerwill.net>
 Date: Fri, 31 Jan 2020 22:15:38 +0100
-Subject: [PATCH 1/4] =?UTF-8?q?Move=20ECIP-1078=20("fix")=20to=20Last=20Ca?=
+Subject: [PATCH 1/5] =?UTF-8?q?Move=20ECIP-1078=20("fix")=20to=20Last=20Ca?=
  =?UTF-8?q?ll.=20Move=20ECIP-1079=20("redo")=20to=20Withdrawn.=20Aztl?=
  =?UTF-8?q?=C3=A1n=20has=20activated=20on=20the=20Mordor=20testnet,=20so?=
  =?UTF-8?q?=20can=20no=20longer=20be=20withdrawn.=20Proceeding=20with=20"f?=
@@ -94,7 +94,7 @@ index 30343593..a52bf8d5 100644
 From c9e79df40ec270d01af4580dfbeca7274e9733e5 Mon Sep 17 00:00:00 2001
 From: Bob Summerwill <bob@summerwill.net>
 Date: Mon, 3 Feb 2020 15:44:32 +0100
-Subject: [PATCH 2/4] Set a review end date for Phoenix HF which is 8 weeks
+Subject: [PATCH 2/5] Set a review end date for Phoenix HF which is 8 weeks
  from today. Set block times for Mordor and Kotti as suggested by soc1c. Block
  for ETC mainnet activation is still TBD, but estimated as April/May/June.
  This means that Azltan+Phoenix is DELAYED from the earlier estimated 25th
@@ -136,7 +136,7 @@ index 63b889a5..4a3eeb1a 100644
 From 2d79fef5e721dc6ab36465391b28a0d7b192e7db Mon Sep 17 00:00:00 2001
 From: Bob Summerwill <bob@summerwill.net>
 Date: Mon, 3 Feb 2020 15:52:26 +0100
-Subject: [PATCH 3/4] Added actual activation date for Aztlan on Mordor.
+Subject: [PATCH 3/5] Added actual activation date for Aztlan on Mordor.
  Updated estimates for Kotti and ETC mainnet activation for Aztlan.
 
 ---
@@ -164,7 +164,7 @@ index c4392b29..5253ba63 100644
 From 42a1eb6df895af95969e52fc5986f4cb4912606c Mon Sep 17 00:00:00 2001
 From: Bob Summerwill <bob@summerwill.net>
 Date: Mon, 3 Feb 2020 15:59:03 +0100
-Subject: [PATCH 4/4] Decided that we might as well set the same ETC mainnet
+Subject: [PATCH 4/5] Decided that we might as well set the same ETC mainnet
  activation block for Phoenix as for Aztlan, even though that is still in
  May/June. We certainly would not want to activate any LATER if we can avoid
  it. And as per soc1c, we should avoid activation of Phoenix earlier than
@@ -207,6 +207,53 @@ index 4a3eeb1a..f370d513 100644
 +- `976_231` on Mordor Classic PoW-testnet (~March 4th, 2020)
 +- `2_208_203` on Kotti Classic PoA-testnet (~March 11st, 2020)
 +- `10_500_839` on Ethereum Classic PoW-mainnet (~May/June, 2020)
+ 
+ At HARD_FORK_BLOCK, apply the following changes:
+ 
+
+From b03421c42e95782125b9e93c10a02c21daa2718a Mon Sep 17 00:00:00 2001
+From: Bob Summerwill <bob@summerwill.net>
+Date: Wed, 5 Feb 2020 09:13:21 -0800
+Subject: [PATCH 5/5] Using "approx" prefix to make clear that future dates are
+ an approximate estimation. Meowbits suggested we remove the dates entirely,
+ but I do not think that is a good idea. Humans do not think in blocks.
+ However inaccurate these dates might be, humans like to make plans and that
+ requires dates.
+
+---
+ _specs/ecip-1061.md | 4 ++--
+ _specs/ecip-1078.md | 6 +++---
+ 2 files changed, 5 insertions(+), 5 deletions(-)
+
+diff --git a/_specs/ecip-1061.md b/_specs/ecip-1061.md
+index 20850e5d..b0ea22a9 100644
+--- a/_specs/ecip-1061.md
++++ b/_specs/ecip-1061.md
+@@ -32,8 +32,8 @@ _Istanbul_ hardforks. The proposed changes for Ethereum Classic's _Aztlán_ upgr
+ This document proposes the following blocks at which to implement these changes in the Classic networks:
+ 
+ - `778_507` on Mordor Classic PoW-testnet (activated on Jan 30th, 2020)
+-- `2_058_191` on Kotti Classic PoA-testnet (~Feb 14th, 2020)
+-- `10_500_839` on Ethereum Classic PoW-mainnet (~May/June, 2020)
++- `2_058_191` on Kotti Classic PoA-testnet (approx Feb 12th, 2020)
++- `10_500_839` on Ethereum Classic PoW-mainnet (approx Jun 10th, 2020)
+ 
+ For more information on the opcodes and their respective EIPs and implementations, please see the _Specification_
+ section of this document.
+diff --git a/_specs/ecip-1078.md b/_specs/ecip-1078.md
+index f370d513..13650d77 100644
+--- a/_specs/ecip-1078.md
++++ b/_specs/ecip-1078.md
+@@ -39,9 +39,9 @@ would result in protocol changes which met the original intent.
+ 
+ This document proposes the following blocks at which to implement these changes in the Classic networks:
+ 
+-- `976_231` on Mordor Classic PoW-testnet (~March 4th, 2020)
+-- `2_208_203` on Kotti Classic PoA-testnet (~March 11st, 2020)
+-- `10_500_839` on Ethereum Classic PoW-mainnet (~May/June, 2020)
++- `976_231` on Mordor Classic PoW-testnet (approx March 4th, 2020)
++- `2_208_203` on Kotti Classic PoA-testnet (approx March 11st, 2020)
++- `10_500_839` on Ethereum Classic PoW-mainnet (approx June 10th, 2020)
  
  At HARD_FORK_BLOCK, apply the following changes:
  
