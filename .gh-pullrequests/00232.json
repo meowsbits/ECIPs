@@ -32,17 +32,17 @@
     "labels": [
 
     ],
-    "state": "open",
+    "state": "closed",
     "locked": false,
     "assignee": null,
     "assignees": [
 
     ],
     "milestone": null,
-    "comments": 4,
+    "comments": 5,
     "created_at": "2019-12-01T18:19:18Z",
-    "updated_at": "2020-02-05T16:57:50Z",
-    "closed_at": null,
+    "updated_at": "2020-02-05T17:02:24Z",
+    "closed_at": "2020-02-05T17:02:19Z",
     "author_association": "MEMBER",
     "pull_request": {
       "url": "https://api.github.com/repos/ethereumclassic/ECIPs/pulls/232",
