@@ -29,9 +29,9 @@
       "type": "User",
       "site_admin": false
     },
-    "body": "This is not obvious to me. My client seems to run fine on ETH, ETC, and test networks. If you can provide benchmarks I think your `Rationale` will be stronger.",
+    "body": "~~This is not obvious to me. My client seems to run fine on ETH, ETC, and test networks. If you can provide benchmarks I think your `Rationale` will be stronger.~~\r\n\r\n_EDIT_: Scratching this comment because it probably belongs better in a discussions forum than technical ECIP review.",
     "created_at": "2020-02-05T20:21:42Z",
-    "updated_at": "2020-02-05T20:23:42Z",
+    "updated_at": "2020-02-05T20:26:18Z",
     "html_url": "https://github.com/ethereumclassic/ECIPs/pull/259#discussion_r375487344",
     "pull_request_url": "https://api.github.com/repos/ethereumclassic/ECIPs/pulls/259",
     "author_association": "MEMBER",
