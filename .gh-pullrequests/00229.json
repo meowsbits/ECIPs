@@ -41,7 +41,7 @@
     "milestone": null,
     "comments": 3,
     "created_at": "2019-12-01T18:06:24Z",
-    "updated_at": "2020-01-28T10:08:42Z",
+    "updated_at": "2020-02-05T16:39:16Z",
     "closed_at": null,
     "author_association": "MEMBER",
     "pull_request": {
@@ -53,8 +53,8 @@
     "body": "There has been no work on this proposal (or the earlier IOHK treasury proposal).\r\nThere is broad consensus that changing the block rewards to add treasury model is unacceptable.\r\nThe Monetary Policy (ECIP-1017) defines the ETC system and gives multi-decade certainty to all ETC ecosystem participants.\r\n\r\nIf we need to have a discussion of this on ETC Core Developers call then we should.\r\nAnd then Reject it.",
     "reactions": {
       "url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/229/reactions",
-      "total_count": 0,
-      "+1": 0,
+      "total_count": 1,
+      "+1": 1,
       "-1": 0,
       "laugh": 0,
       "hooray": 0,
