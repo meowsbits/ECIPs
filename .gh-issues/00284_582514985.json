@@ -1,0 +1,43 @@
+{
+    "url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/comments/582514985",
+    "html_url": "https://github.com/ethereumclassic/ECIPs/issues/284#issuecomment-582514985",
+    "issue_url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/284",
+    "id": 582514985,
+    "node_id": "MDEyOklzc3VlQ29tbWVudDU4MjUxNDk4NQ==",
+    "user": {
+      "login": "YazzyYaz",
+      "id": 9094204,
+      "node_id": "MDQ6VXNlcjkwOTQyMDQ=",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/9094204?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/YazzyYaz",
+      "html_url": "https://github.com/YazzyYaz",
+      "followers_url": "https://api.github.com/users/YazzyYaz/followers",
+      "following_url": "https://api.github.com/users/YazzyYaz/following{/other_user}",
+      "gists_url": "https://api.github.com/users/YazzyYaz/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/YazzyYaz/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/YazzyYaz/subscriptions",
+      "organizations_url": "https://api.github.com/users/YazzyYaz/orgs",
+      "repos_url": "https://api.github.com/users/YazzyYaz/repos",
+      "events_url": "https://api.github.com/users/YazzyYaz/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/YazzyYaz/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "created_at": "2020-02-05T17:16:38Z",
+    "updated_at": "2020-02-05T17:16:38Z",
+    "author_association": "MEMBER",
+    "body": "Meeting Notes:\r\n\r\n* Soc1c: Greetings from Hardfork Coordinator. Discussions on Phoenix Upgrade.\r\n* Bob: 1061 Aztlan Yingchun edition agreed on call in November.  Was adopted as Istanbul Minus 1884. Wei implemented it in Multi-Geth, he discovered 2 flaws in specifications. 1884 has changes but was problematic due to SELF-BALANCE op-code. Second piece is interaction with EIP Netgas Metering and 1884, the two were activated together in Ethereum, but with us were activated without the changes in 1884. Phoenix activation fixes the specifications to what we thought we were getting originally in Aztlan. Activation on the same day on mainnet. Activation on testnets needs to be fixed. Aztlan on Mordor happened, so needs Phoenix to happen there.  Kotti as well.\r\n* Bob: ECIP-1078 are written by Bob but specified by Wei Tang. It’s an overlay for Aztlan fix. 1079 is an Aztlan redo since 1061 will be withdrawn and we will have a new and replacement hardfork of 1079 is a new hardfork ecip. ECIP-1078 and ECIP-1079 is essentially the same changes but different timelines. Factors to favor a redo over a fix. The timeline is the different.\r\n* Bob: Redo is about “needing more time\". Fix would be a better option. Another option is to do Phoenix before. Way too risky as told by others. ECIP-1080 is specification for SELF-BALANCE.\r\n* Soc1c: everyone agrees we should fix Aztlan on same block. 1078 enables the SELF-Balance op-code in 1080.  Anyone has any concern with phoenix hardfork as fix for aztlan?\r\n* Isaac: Are current numbers canonical for block activation?\r\n* Soc1c: No, there are PRs now open to move one for fix to be implemented and redo to withdrawn. This will be canonical after this call.\r\n* Bob: Yes, the current PR: [Pull Requests · ethereumclassic/ECIPs · GitHub](https://github.com/ethereumclassic/ECIPs/pulls).  March 4 to Mordor activation, March 11 for Kotti, June 10 for Main net.\r\n* Soc1c: comment on Gas Metering? \r\n* Bob:1884 decision to remove the gas metering changes that break backward compatibility. Self-balance is second one added. Net metering is the third one.\r\n* Soc1c: Very clear now. \r\n* Bob: Code also already exists, if the activation of the changes are different than Ethereum, still the same code base and not on a different path.\r\n* Soc1c: Anyone has any questions? or technical concerns?\r\n* Silence\r\n* Soc1c: I propose moving with Bob's proposal then with Phoenix hardfork to Last Call. Declare consensus moving 1078 to Last Call.\r\n* Bob: Some ECIP suggestion to Reject because they’re long standing. ECIP-1051 is the one for treasury system. Anyone opposed to this rejection? \r\n* Silence.\r\n* Rejected\r\n* Bob: ECIP-1057 Cold Staking move to Rejected. Anyone opposes it?\r\n* Silence\r\n* Move to rejected consensus\r\n* Bob: ECIP-1052 Smart Contract Security Auditing to Rejected. Anyone opposes it?\r\n* Silence\r\n* Move to rejected consensus\r\n* Bob: ECIP-1063 Decentralized Oracles to Rejected. Anyone opposes it?\r\n* Silence\r\n* Moved to rejected consensus\r\n* ECIP-1085: Simple Subroutine[Pull Requests · ethereumclassic/ECIPs · GitHub](https://github.com/ethereumclassic/ECIPs/pulls)\r\n* Soc1c: No need to discuss Drafts on calls\r\n* Yaz: ERC-223 to Last Call?\r\n* Isaac: Is there an EIP doc on ERC-223? Do we adopt it in the repo or a separate repo?\r\n* Soc1c: It should be moved to final.\r\n* Isaac: Let’s discuss it more outside call.",
+    "reactions": {
+      "url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/comments/582514985/reactions",
+      "total_count": 0,
+      "+1": 0,
+      "-1": 0,
+      "laugh": 0,
+      "hooray": 0,
+      "confused": 0,
+      "heart": 0,
+      "rocket": 0,
+      "eyes": 0
+    }
+  }
