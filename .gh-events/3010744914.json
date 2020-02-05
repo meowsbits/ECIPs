@@ -1,7 +1,7 @@
 {
-    "id": 2984998011,
-    "node_id": "MDE3OlJlbmFtZWRUaXRsZUV2ZW50Mjk4NDk5ODAxMQ==",
-    "url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/events/2984998011",
+    "id": 3010744914,
+    "node_id": "MDExOk1lcmdlZEV2ZW50MzAxMDc0NDkxNA==",
+    "url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/events/3010744914",
     "actor": {
       "login": "soc1c",
       "id": 47772477,
@@ -22,14 +22,10 @@
       "type": "User",
       "site_admin": false
     },
-    "event": "renamed",
-    "commit_id": null,
-    "commit_url": null,
-    "created_at": "2020-01-28T10:08:16Z",
-    "rename": {
-      "from": "Reject ECIP-1052 \"Smart-contract Security Auditing core\"",
-      "to": "ECIP-1052: Reject \"Smart-contract Security Auditing core\""
-    },
+    "event": "merged",
+    "commit_id": "4af6177c753440f516c1f2e13160a7b87535bc5e",
+    "commit_url": "https://api.github.com/repos/ethereumclassic/ECIPs/commits/4af6177c753440f516c1f2e13160a7b87535bc5e",
+    "created_at": "2020-02-05T16:41:39Z",
     "issue": {
       "url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/231",
       "repository_url": "https://api.github.com/repos/ethereumclassic/ECIPs",

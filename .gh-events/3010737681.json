@@ -1,7 +1,7 @@
 {
-    "id": 2984998011,
-    "node_id": "MDE3OlJlbmFtZWRUaXRsZUV2ZW50Mjk4NDk5ODAxMQ==",
-    "url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/events/2984998011",
+    "id": 3010737681,
+    "node_id": "MDExOkNsb3NlZEV2ZW50MzAxMDczNzY4MQ==",
+    "url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/events/3010737681",
     "actor": {
       "login": "soc1c",
       "id": 47772477,
@@ -22,25 +22,21 @@
       "type": "User",
       "site_admin": false
     },
-    "event": "renamed",
+    "event": "closed",
     "commit_id": null,
     "commit_url": null,
-    "created_at": "2020-01-28T10:08:16Z",
-    "rename": {
-      "from": "Reject ECIP-1052 \"Smart-contract Security Auditing core\"",
-      "to": "ECIP-1052: Reject \"Smart-contract Security Auditing core\""
-    },
+    "created_at": "2020-02-05T16:39:47Z",
     "issue": {
-      "url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/231",
+      "url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/229",
       "repository_url": "https://api.github.com/repos/ethereumclassic/ECIPs",
-      "labels_url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/231/labels{/name}",
-      "comments_url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/231/comments",
-      "events_url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/231/events",
-      "html_url": "https://github.com/ethereumclassic/ECIPs/pull/231",
-      "id": 530771739,
-      "node_id": "MDExOlB1bGxSZXF1ZXN0MzQ3MzU1NTMx",
-      "number": 231,
-      "title": "ECIP-1052: Reject \"Smart-contract Security Auditing core\"",
+      "labels_url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/229/labels{/name}",
+      "comments_url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/229/comments",
+      "events_url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/229/events",
+      "html_url": "https://github.com/ethereumclassic/ECIPs/pull/229",
+      "id": 530769967,
+      "node_id": "MDExOlB1bGxSZXF1ZXN0MzQ3MzU0MzE5",
+      "number": 229,
+      "title": "ECIP-1051: Reject \"Ethereum Classic Treasury system\"",
       "user": {
         "login": "bobsummerwill",
         "id": 3788156,
@@ -71,18 +67,18 @@
 
       ],
       "milestone": null,
-      "comments": 4,
-      "created_at": "2019-12-01T18:18:52Z",
-      "updated_at": "2020-02-05T16:41:40Z",
-      "closed_at": "2020-02-05T16:41:39Z",
+      "comments": 3,
+      "created_at": "2019-12-01T18:06:24Z",
+      "updated_at": "2020-02-05T16:39:47Z",
+      "closed_at": "2020-02-05T16:39:47Z",
       "author_association": "MEMBER",
       "active_lock_reason": null,
       "pull_request": {
-        "url": "https://api.github.com/repos/ethereumclassic/ECIPs/pulls/231",
-        "html_url": "https://github.com/ethereumclassic/ECIPs/pull/231",
-        "diff_url": "https://github.com/ethereumclassic/ECIPs/pull/231.diff",
-        "patch_url": "https://github.com/ethereumclassic/ECIPs/pull/231.patch"
+        "url": "https://api.github.com/repos/ethereumclassic/ECIPs/pulls/229",
+        "html_url": "https://github.com/ethereumclassic/ECIPs/pull/229",
+        "diff_url": "https://github.com/ethereumclassic/ECIPs/pull/229.diff",
+        "patch_url": "https://github.com/ethereumclassic/ECIPs/pull/229.patch"
       },
-      "body": "This requires the Treasury.\r\nBoth the Treasury and this Auditing proposal on top run counter to ECIP-1017 monetary policy.\r\n\r\nAuditing is a good idea, but should not be centralized into the block rewards.\r\n\r\nThis runs counter to ETC philosophy and principles and should be rejected.\r\n\r\nPerhaps this is raised in an ETC Core Developers call, and formally rejected?"
+      "body": "There has been no work on this proposal (or the earlier IOHK treasury proposal).\r\nThere is broad consensus that changing the block rewards to add treasury model is unacceptable.\r\nThe Monetary Policy (ECIP-1017) defines the ETC system and gives multi-decade certainty to all ETC ecosystem participants.\r\n\r\nIf we need to have a discussion of this on ETC Core Developers call then we should.\r\nAnd then Reject it."
     }
   }
