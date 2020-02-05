@@ -1,0 +1,55 @@
+{
+    "url": "https://api.github.com/repos/ethereumclassic/ECIPs/pulls/comments/375488726",
+    "pull_request_review_id": 354016123,
+    "id": 375488726,
+    "node_id": "MDI0OlB1bGxSZXF1ZXN0UmV2aWV3Q29tbWVudDM3NTQ4ODcyNg==",
+    "diff_hunk": "@@ -0,0 +1,139 @@\n+---\n+lang: en\n+ecip: 1084\n+title: Hard-cap gas-limit in protocol\n+author: Bob Summerwill (@bobsummerwill)\n+status: Draft\n+type: Standards Track\n+category: Core\n+created: 2020-01-17\n+license: Apache-2.0\n+discussions-to: https://github.com/ethereumclassic/ECIPs/issues/260\n+---\n+\n+## Abstract\n+\n+A proposal to place a hard cap on the gaslimit for the ETC mainnet as an in-protocol\n+consensus rule. From the block that this ECIP was activated, gaslimit would follow a\n+curve defined in this proposal rather than being subject to miner voting.\n+\n+## Rationale\n+\n+There is nothing more important to the ETC network than security and decentralization.\n+Both of those desired characteristics have already been heavily compromised in ETC\n+because of the malincentives which ETC inherited from ETH in the form of the miner\n+gaslimit voting mechanism.\n+\n+The gaslimit has been raised for the ETH mainnet first to 8M and then to 10M gas,\n+despite it being obvious that the client implementations cannot adequately cope with\n+the state trie growth that such a high gaslimit has created.  ETH has been\n+\"overclocked\" and smoke is coming out of the engine.  This long crisis was one of the\n+primary motivations for the ETH 1.x initiative which started around DEVCON4 in Prague\n+in October 2018.  The crisis on ETH is still ongoing and still unresolved and is\n+affecting ETC too as well now.\n+\n+The miner gaslimit voting is one-sided.  There are no checks-and-balances.  There is no voice\n+for the end-users who care about the long-term health of the network.  There is only\n+a single \"control knob\" and the miners have control of that \"control knob\".  They are\n+incentivized to vote the limit up to infinity, because fees rise if they do so.\n+Like over use of credit cards, the bill comes much later as a consequence of growth of the state\n+trie which makes it harder and harder to run a full node.  For Ethash miners with\n+GPUs or FPGAs there is little consequence for them \"killing the host\".  They can just\n+exit and go and mine some other coin if ETH or ETC become completely centralized and\n+unusable because of state bloat.\n+\n+This malincentive has played out for ETH such that the ETH state tie is now so large\n+that full-sync-from-genesis is completely impractical and the disk usage is off the\n+charts for full nodes, let alone for archival nodes.  Fully validating syncs for\n+ETH nodes are now a multi-month process.\n+\n+Here is a recent example from Jeff Garzik on 15th January 2020 (it took him nearly 2 months):\n+\n+https://twitter.com/jgarzik/status/1217488290900848640\n+\n+Sync'd!\n+\n+- Ethereum --syncmode=full node:\n+- Laptop w/ 8G ram, external 1TB USB 3.1 SSD\n+- Started: November 26, 2019\n+- Finished: January 13, 2020\n+- Storage used: 668G\n+- Docker container restarts, for hard fork geth upgrades: 2\n+\n+ETH is completely reliant on Infura now and it is well known\n+(how serious a problem)[https://www.coindesk.com/the-race-is-on-to-replace-ethereums-most-centralized-layer]\n+that dependency on a single centralized and proprietary service provider is.\n+\n+(Anthony Lusardi)[https://twitter.com/pyskell] proposed an appeal to the ETC miners to\n+voluntarily vote the gaslimit down to 1M in March - (ECIP-1047)[https://ecips.ethereumclassic.org/ECIPs/ecip-1047]\n+but that appeal has never happened, though might soon.  A voluntary solution would\n+be a step in the right direction in terms of the effects, but it does not solve the\n+root issue which is the malincentive of the miner vote.\n+\n+A protocol change to set a hard-cap would resolve the unsustainability issue for\n+ETC and bring the protocol into alignment with ETC philosophy, rejecting this bad\n+inheritance from ETH and back in line with Bitcoin's sustainable approach.\n+Unlike BTC however, we would define a long-term growth curve to reflect the\n+constantly improving hardware - even with the same protocol and same client\n+implementations.\n+\n+\n+## Specification\n+\n+At block number ACTIVATION_BLOCK on ETC mainnet, switch the gas-limit calculation\n+to be one of the following two options:\n+\n+1. gaslimit = INITIAL_GASLIMIT + (block_number - ACTIVATION_BLOCK) * GASLIMIT_CURVE_RATE\n+2. gaslimit = INITIAL_GASLIMIT + (block_number - ACTIVATION_BLOCK) * 2 ^ GASLIMIT_CURVE_RATE\n+\n+Let ACTIVATION_BLOCK = TBD\n+Let INITIAL_GASLIMIT = 2,000,000 (subject to change)\n+Let GASLIMIT_CURVE_RATE = TBD\n+\n+\n+## Backwards compatibility\n+\n+There is certainly a concern that some smart contracts which used to work will cease\n+to work (until some future point where the raising gaslimit makes them viable again)\n+and we need to quantify this risk.\n+\n+There is a concern that it will not be possible to migrate ETH smart contracts to ETC\n+because of the lower gaslimit.  Straw polls on Twitter seem to indicated that 1M or 2M\n+is adequate for most smart contracts out there for their heaviest transactions with the\n+sole exception of transactions for contract deployment, which can hit 4M or more.  In\n+that case we have no answer yet other than spliting contracts up into multiple libraries.\n+\n+It looks like some kind of \"Webpack for Solidity\" would be workable, where we could add\n+opcodes to deploy chunks of bytecode across several transactions, with new opcodes for\n+START_DEPLOY, DEPLOY_CHUNK and END_DEPLOY or similar which could be used transparency\n+internal to the development framework (Truffle, Embark, Brownie, etc) and\n+compiler (SOLC, SOLL, Vyper, etc) to generate different bytecode depending on the\n+gaslimit of the target chain.   This is just an idea for the time being and needs its\n+own new ECIP too.\n+\n+Aragon is probably the perfect guinea pig for addressing these concerns because they have\n+large smart contracts and have just recently been the victim of backwards-compatibility\n+breaks in ETH as part of the Istanbul HF.  If we can provide a great story for ETH to ETC\n+migration with well engineered changes spanning frameworks, compiler and runtime then\n+that will be a delightful win-win for all parties.  As Jorge said, while breaking smart\n+contracts up is the right thing to do, it should not be REQUIRED.  To require changes\n+to existing script is a break in the implicit social contract:\n+\n+https://www.coindesk.com/ethereums-istanbul-upgrade-will-break-680-smart-contracts-on-aragon\n+\n+\n+### Implementation\n+\n+There is no implementation of this proposal yet because we are missing the specific details",
+    "path": "_specs/ecip-1084.md",
+    "position": 127,
+    "original_position": 127,
+    "commit_id": "5073cec5f35cf893dc7e4f60f3b56e5c4d2342ae",
+    "original_commit_id": "5073cec5f35cf893dc7e4f60f3b56e5c4d2342ae",
+    "user": {
+      "login": "meowsbits",
+      "id": 45600330,
+      "node_id": "MDQ6VXNlcjQ1NjAwMzMw",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/45600330?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/meowsbits",
+      "html_url": "https://github.com/meowsbits",
+      "followers_url": "https://api.github.com/users/meowsbits/followers",
+      "following_url": "https://api.github.com/users/meowsbits/following{/other_user}",
+      "gists_url": "https://api.github.com/users/meowsbits/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/meowsbits/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/meowsbits/subscriptions",
+      "organizations_url": "https://api.github.com/users/meowsbits/orgs",
+      "repos_url": "https://api.github.com/users/meowsbits/repos",
+      "events_url": "https://api.github.com/users/meowsbits/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/meowsbits/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "body": "Is this draft waiting for these specifics?",
+    "created_at": "2020-02-05T20:24:58Z",
+    "updated_at": "2020-02-05T20:24:59Z",
+    "html_url": "https://github.com/ethereumclassic/ECIPs/pull/259#discussion_r375488726",
+    "pull_request_url": "https://api.github.com/repos/ethereumclassic/ECIPs/pulls/259",
+    "author_association": "MEMBER",
+    "_links": {
+      "self": {
+        "href": "https://api.github.com/repos/ethereumclassic/ECIPs/pulls/comments/375488726"
+      },
+      "html": {
+        "href": "https://github.com/ethereumclassic/ECIPs/pull/259#discussion_r375488726"
+      },
+      "pull_request": {
+        "href": "https://api.github.com/repos/ethereumclassic/ECIPs/pulls/259"
+      }
+    },
+    "start_line": null,
+    "original_start_line": null,
+    "start_side": null,
+    "line": 127,
+    "original_line": 127,
+    "side": "RIGHT"
+  }
