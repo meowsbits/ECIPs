@@ -1,0 +1,43 @@
+{
+    "url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/comments/583777564",
+    "html_url": "https://github.com/ethereumclassic/ECIPs/pull/259#issuecomment-583777564",
+    "issue_url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/259",
+    "id": 583777564,
+    "node_id": "MDEyOklzc3VlQ29tbWVudDU4Mzc3NzU2NA==",
+    "user": {
+      "login": "bobsummerwill",
+      "id": 3788156,
+      "node_id": "MDQ6VXNlcjM3ODgxNTY=",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/3788156?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/bobsummerwill",
+      "html_url": "https://github.com/bobsummerwill",
+      "followers_url": "https://api.github.com/users/bobsummerwill/followers",
+      "following_url": "https://api.github.com/users/bobsummerwill/following{/other_user}",
+      "gists_url": "https://api.github.com/users/bobsummerwill/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/bobsummerwill/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/bobsummerwill/subscriptions",
+      "organizations_url": "https://api.github.com/users/bobsummerwill/orgs",
+      "repos_url": "https://api.github.com/users/bobsummerwill/repos",
+      "events_url": "https://api.github.com/users/bobsummerwill/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/bobsummerwill/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "created_at": "2020-02-08T21:15:21Z",
+    "updated_at": "2020-02-08T21:15:21Z",
+    "author_association": "MEMBER",
+    "body": "You asked \"what from\" on the gaslimit, @meowsbits?\r\n\r\nHere is a historical graph of the ETH gaslimit, which I believe that ETC has pretty much inherited by mistake due to whatever the Parity-Ethereum defaults have been:\r\n\r\nhttps://etherscan.io/chart/gaslimit\r\n\r\nThe limit was lowered at the time of the Shanghai attacks in Sep/Oct/Nov 2016 or so and you can see a dip in the historical progression there, but you can see in general it was:\r\n\r\n3M during 2015\r\n4.7M during 2016 to mid 2017 (barring dip for the attacks)\r\n6.7M mid 2017 to late 2017\r\n8.0M during 2018 and until Sep 2019\r\n10M since Sep 2019.\r\n\r\nFull-syncs are horrific now on ETH:  https://twitter.com/jgarzik/status/1217488290900848640\r\n\r\nSee also articles like:  https://hackernoon.com/the-ethereum-blockchain-size-has-exceeded-1tb-and-yes-its-an-issue-2b650b5f4f62",
+    "reactions": {
+      "url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/comments/583777564/reactions",
+      "total_count": 0,
+      "+1": 0,
+      "-1": 0,
+      "laugh": 0,
+      "hooray": 0,
+      "confused": 0,
+      "heart": 0,
+      "rocket": 0,
+      "eyes": 0
+    }
+  }
