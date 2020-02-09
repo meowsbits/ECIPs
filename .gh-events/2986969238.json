@@ -95,11 +95,11 @@
           "type": "User",
           "site_admin": false
         },
-        "open_issues": 1,
-        "closed_issues": 11,
+        "open_issues": 2,
+        "closed_issues": 21,
         "state": "open",
         "created_at": "2019-11-27T20:32:02Z",
-        "updated_at": "2020-01-31T15:43:09Z",
+        "updated_at": "2020-02-09T17:47:18Z",
         "due_on": null,
         "closed_at": null
       },
