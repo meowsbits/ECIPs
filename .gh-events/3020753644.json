@@ -1,7 +1,7 @@
 {
-    "id": 2837817396,
-    "node_id": "MDExOkNsb3NlZEV2ZW50MjgzNzgxNzM5Ng==",
-    "url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/events/2837817396",
+    "id": 3020753644,
+    "node_id": "MDE5OkFkZGVkVG9Qcm9qZWN0RXZlbnQzMDIwNzUzNjQ0",
+    "url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/events/3020753644",
     "actor": {
       "login": "soc1c",
       "id": 47772477,
@@ -22,21 +22,21 @@
       "type": "User",
       "site_admin": false
     },
-    "event": "closed",
+    "event": "added_to_project",
     "commit_id": null,
     "commit_url": null,
-    "created_at": "2019-11-28T06:29:12Z",
+    "created_at": "2020-02-09T17:42:55Z",
     "issue": {
-      "url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/177",
+      "url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/280",
       "repository_url": "https://api.github.com/repos/ethereumclassic/ECIPs",
-      "labels_url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/177/labels{/name}",
-      "comments_url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/177/comments",
-      "events_url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/177/events",
-      "html_url": "https://github.com/ethereumclassic/ECIPs/issues/177",
-      "id": 519405348,
-      "node_id": "MDU6SXNzdWU1MTk0MDUzNDg=",
-      "number": 177,
-      "title": "Core Devs Call: ECIP-1061 Aztlán Upgrade",
+      "labels_url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/280/labels{/name}",
+      "comments_url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/280/comments",
+      "events_url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/280/events",
+      "html_url": "https://github.com/ethereumclassic/ECIPs/pull/280",
+      "id": 556096555,
+      "node_id": "MDExOlB1bGxSZXF1ZXN0MzY3OTE5MTQ4",
+      "number": 280,
+      "title": "ECIP-1061 \"phoenix\": aztlan as vanilla istanbul",
       "user": {
         "login": "soc1c",
         "id": 47772477,
@@ -96,19 +96,25 @@
           "site_admin": false
         },
         "open_issues": 1,
-        "closed_issues": 15,
+        "closed_issues": 11,
         "state": "open",
         "created_at": "2019-11-27T20:32:02Z",
-        "updated_at": "2020-02-09T17:45:19Z",
+        "updated_at": "2020-01-31T15:43:09Z",
         "due_on": null,
         "closed_at": null
       },
-      "comments": 26,
-      "created_at": "2019-11-07T17:22:16Z",
-      "updated_at": "2019-12-11T10:43:44Z",
-      "closed_at": "2019-11-28T06:29:12Z",
+      "comments": 5,
+      "created_at": "2020-01-28T09:54:39Z",
+      "updated_at": "2020-02-03T10:35:47Z",
+      "closed_at": "2020-01-31T15:43:09Z",
       "author_association": "CONTRIBUTOR",
       "active_lock_reason": null,
-      "body": "Ref [ECIP-1061](https://github.com/ethereumclassic/ECIPs/blob/master/_specs/ecip-1061.md) #81 #157 #176 \r\n\r\n### ETC Core Devs Call - ECIP-1061 Aztlán Finalization\r\n\r\nWhen: **Wednesday, November 27, 2019, 1pm UTC**, 60 minutes max.\r\n\r\nWhere: **Ethereum Classic Discord** https://discord.gg/dwxb6nf `#ecips` channel. Will use/create a voice channel _ad hoc._\r\n\r\n### Agenda\r\n\r\n- Quick client teams check-in\r\n  - Parity Ethereum / Parity Tech\r\n  - Geth Classic / ChainSafe, ETCLabs Core\r\n  - Multi-Geth / Multi-Geth, ETCLabs Core \r\n  - Hyperledger Besu / ChainSafe, PegaSys\r\n- Aztlán (ECIP-1061) needs to be either **accepted** or _updated_ (or _rejected_)\r\n  - discuss included EIPs\r\n  - discuss a timeline for the protocol upgrade\r\n    - Mordor Classic and Kotti Classic testnet (February?)\r\n    - Ethereum Classic mainnet (March?)\r\n- anything else related to Aztlán\r\n\r\nPlease comment to add items to the agenda"
+      "pull_request": {
+        "url": "https://api.github.com/repos/ethereumclassic/ECIPs/pulls/280",
+        "html_url": "https://github.com/ethereumclassic/ECIPs/pull/280",
+        "diff_url": "https://github.com/ethereumclassic/ECIPs/pull/280.diff",
+        "patch_url": "https://github.com/ethereumclassic/ECIPs/pull/280.patch"
+      },
+      "body": "open for discussion: a vanilla istanbul on classic.\r\n\r\nbenefits:\r\n* no side effects or edge cases\r\n* all clients support it out of the box\r\n* we can stick to the original schedule\r\n* phoenix day on march 25"
     }
   }
