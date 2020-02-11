@@ -39,9 +39,9 @@
 
     ],
     "milestone": null,
-    "comments": 10,
+    "comments": 11,
     "created_at": "2019-06-19T18:49:48Z",
-    "updated_at": "2020-02-11T16:45:27Z",
+    "updated_at": "2020-02-11T18:09:28Z",
     "closed_at": null,
     "author_association": "MEMBER",
     "body": ":construction: :tropical_fish: I would like to see and help work toward describing plans and accountable standards for\r\n\r\n#### A. Test network testing protocol\r\n\r\nAs [cody speaks to](https://github.com/ethereumclassic/ECIPs/issues/83#issuecomment-502648849), testnet outcomes are only as meaningful as the rigors they are subjected to. We ought to be clear and collaborative about the design and implementation of these **\"live\" testnet protocols**. Who will participate in this? Who will take responsibility, and for which aspects? What are standards that we expect for these protocols? ... reproducability? ... regression-readiness? \r\n\r\n- Kensington\r\n- Kotti\r\n- Morden\r\n\r\n#### B. Cross client integration tests\r\n\r\nLike establishing a shared and meaningful idea of what \"not breaking\" means above, there are clear limitations to the implications of even successful testnet behavior (for example https://github.com/eth-classic/go-ethereum/issues/67 would not have been caught). \r\n\r\nThis points to the value of shared **cross-client test suites**, which can prove out edge cases and other important simulations that may not be possible or practical on a test network. [ethereum/tests](https://github.com/ethereum/tests) is an example of this, albeit in a very one-trick-pony kind of way. \r\n\r\n---\r\n\r\n> Since the teams \"owning\" client development are either independent and/or volunteer-based, and that participation in the network is entirely in the hands of the client operator in the first place, the standards that might be developed here could not be considered with any more earnest than suggested guidelines for client software and operator review, albeit developed with common aims and shared skin in the game.",
