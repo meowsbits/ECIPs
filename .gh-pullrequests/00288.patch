@@ -1,0 +1,34 @@
+From dad8ee0f9a3aeac5411400bf2b668ed70339c4c6 Mon Sep 17 00:00:00 2001
+From: Bob Summerwill <bob@summerwill.net>
+Date: Mon, 10 Feb 2020 17:20:22 -0800
+Subject: [PATCH] =?UTF-8?q?Move=20ECIP=201080:=20SELFBALANCE=20opcode=20to?=
+ =?UTF-8?q?=20Last=20Draft.=20This=20should=20have=20happened=20at=20the?=
+ =?UTF-8?q?=20same=20time=20as=20ECIP=201078:=20Phoenix=20EVM=20and=20Prot?=
+ =?UTF-8?q?ocol=20Upgrades=20("Aztl=C3=A1n=20fix")=20was=20moved.=20Also?=
+ =?UTF-8?q?=20correcting=20"type"=20and=20"category"=20from=20Meta=20to=20?=
+ =?UTF-8?q?Standards=20Track.=20That=20was=20a=20cut-and-paste=20error.?=
+MIME-Version: 1.0
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 8bit
+
+---
+ _specs/ecip-1080.md | 6 ++++--
+ 1 file changed, 4 insertions(+), 2 deletions(-)
+
+diff --git a/_specs/ecip-1080.md b/_specs/ecip-1080.md
+index d2e3c89f..90f08078 100644
+--- a/_specs/ecip-1080.md
++++ b/_specs/ecip-1080.md
+@@ -3,8 +3,10 @@ lang: en
+ ecip: 1080
+ title: SELFBALANCE opcode
+ author: Bob Summerwill (@bobsummerwill)
+-status: Draft
+-type: Meta
++status: Last Call
++review-period-end: 2020-03-30
++type: Standards Track
++category: Core
+ created: 2020-01-19
+ license: Apache-2.0
+ discussions-to: https://github.com/ethereumclassic/ECIPs/issues/266
