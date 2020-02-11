@@ -68,7 +68,7 @@
           "description": "New feature or request"
         }
       ],
-      "state": "open",
+      "state": "closed",
       "locked": false,
       "assignee": {
         "login": "bobsummerwill",
@@ -115,8 +115,8 @@
       "milestone": null,
       "comments": 3,
       "created_at": "2020-01-18T00:07:54Z",
-      "updated_at": "2020-02-08T21:15:22Z",
-      "closed_at": null,
+      "updated_at": "2020-02-11T00:50:06Z",
+      "closed_at": "2020-02-11T00:50:06Z",
       "author_association": "MEMBER",
       "active_lock_reason": null,
       "pull_request": {
