@@ -1,0 +1,25 @@
+From 1fc67a2e64e8b465a8da7e610a754804f4a3129a Mon Sep 17 00:00:00 2001
+From: Bob Summerwill <bob@summerwill.net>
+Date: Wed, 12 Feb 2020 11:56:32 -0800
+Subject: [PATCH] Move ECIP-1048 Clique proof-of-authority consensus protocol
+ to Final. Kotti has been live for over a year. Clique is implemented in
+ Parity-Ethereum, Multi-Geth and Hyperledger Besu. This ECIP just got left
+ unprocessed.
+
+---
+ _specs/ecip-1048.md | 2 +-
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+
+diff --git a/_specs/ecip-1048.md b/_specs/ecip-1048.md
+index ea185a2c..4b833ee7 100644
+--- a/_specs/ecip-1048.md
++++ b/_specs/ecip-1048.md
+@@ -4,7 +4,7 @@ ecip: 1048
+ title: Clique proof-of-authority consensus protocol
+ author: Péter Szilágyi <peterke@gmail.com>
+ discussions-to: https://github.com/ethereum/EIPs/issues/225
+-status: Last Call
++status: Final
+ type: Standards Track
+ category: Core
+ created: 2017-03-06
