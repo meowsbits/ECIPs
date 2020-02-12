@@ -1,0 +1,26 @@
+From f0d13c9dcfd0e91a5c8686943ee606f2977dce04 Mon Sep 17 00:00:00 2001
+From: Bob Summerwill <bob@summerwill.net>
+Date: Wed, 12 Feb 2020 12:00:16 -0800
+Subject: [PATCH] Move ECIP 1050: Status Codes to Final. It has been in Last
+ Call since October. People are using this standard in the real world. The
+ standard is not changing. This is a best practice, not consensus.
+
+---
+ _specs/ecip-1050.md | 4 ++--
+ 1 file changed, 2 insertions(+), 2 deletions(-)
+
+diff --git a/_specs/ecip-1050.md b/_specs/ecip-1050.md
+index c311910f..334040c4 100644
+--- a/_specs/ecip-1050.md
++++ b/_specs/ecip-1050.md
+@@ -4,8 +4,8 @@ ecip: 1050
+ title: Status Codes
+ author: Brooklyn Zelenka (@expede), Boris Mann (@bmann)
+ discussions-to: https://fission.codes/blockchain/ethclassic
+-status: Last Call
+-type: Standars Track
++status: Final
++type: Standards Track
+ category: ECBP
+ created: 2018-12-03
+ ---
