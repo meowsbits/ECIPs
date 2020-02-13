@@ -1,0 +1,43 @@
+{
+    "url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/comments/585613008",
+    "html_url": "https://github.com/ethereumclassic/ECIPs/pull/277#issuecomment-585613008",
+    "issue_url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/277",
+    "id": 585613008,
+    "node_id": "MDEyOklzc3VlQ29tbWVudDU4NTYxMzAwOA==",
+    "user": {
+      "login": "sorpaas",
+      "id": 6277322,
+      "node_id": "MDQ6VXNlcjYyNzczMjI=",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/6277322?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/sorpaas",
+      "html_url": "https://github.com/sorpaas",
+      "followers_url": "https://api.github.com/users/sorpaas/followers",
+      "following_url": "https://api.github.com/users/sorpaas/following{/other_user}",
+      "gists_url": "https://api.github.com/users/sorpaas/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/sorpaas/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/sorpaas/subscriptions",
+      "organizations_url": "https://api.github.com/users/sorpaas/orgs",
+      "repos_url": "https://api.github.com/users/sorpaas/repos",
+      "events_url": "https://api.github.com/users/sorpaas/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/sorpaas/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "created_at": "2020-02-13T08:38:37Z",
+    "updated_at": "2020-02-13T08:38:37Z",
+    "author_association": "MEMBER",
+    "body": "The background stories:\r\n\r\n* https://that.world/~classic/2020/01/24/controversy/\r\n* https://twitter.com/sorpaas/status/1222293062266839040\r\n* https://twitter.com/sorpaas/status/1227656972700352512\r\n\r\nGoodbye, ETC!",
+    "reactions": {
+      "url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/comments/585613008/reactions",
+      "total_count": 0,
+      "+1": 0,
+      "-1": 0,
+      "laugh": 0,
+      "hooray": 0,
+      "confused": 0,
+      "heart": 0,
+      "rocket": 0,
+      "eyes": 0
+    }
+  }
