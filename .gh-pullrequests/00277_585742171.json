@@ -1,0 +1,43 @@
+{
+    "url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/comments/585742171",
+    "html_url": "https://github.com/ethereumclassic/ECIPs/pull/277#issuecomment-585742171",
+    "issue_url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/277",
+    "id": 585742171,
+    "node_id": "MDEyOklzc3VlQ29tbWVudDU4NTc0MjE3MQ==",
+    "user": {
+      "login": "bobsummerwill",
+      "id": 3788156,
+      "node_id": "MDQ6VXNlcjM3ODgxNTY=",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/3788156?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/bobsummerwill",
+      "html_url": "https://github.com/bobsummerwill",
+      "followers_url": "https://api.github.com/users/bobsummerwill/followers",
+      "following_url": "https://api.github.com/users/bobsummerwill/following{/other_user}",
+      "gists_url": "https://api.github.com/users/bobsummerwill/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/bobsummerwill/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/bobsummerwill/subscriptions",
+      "organizations_url": "https://api.github.com/users/bobsummerwill/orgs",
+      "repos_url": "https://api.github.com/users/bobsummerwill/repos",
+      "events_url": "https://api.github.com/users/bobsummerwill/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/bobsummerwill/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "created_at": "2020-02-13T12:57:38Z",
+    "updated_at": "2020-02-13T12:57:38Z",
+    "author_association": "MEMBER",
+    "body": "For the historical record, nobody has asked Wei to “leave”.\r\n\r\nAll that is being proposed is that his ECIP Editor privileges be revoked (because he has repeatedly abused them) and that we purpose to replace ECIP-1000 with ECIP-0001 because he has abused his position as the author of that process too.\r\n\r\nHe can still author ECIPs, he can still carry on with his core development work and his valuable work on corepaper, if he chooses.   His work in those domains is highly valued and appreciated.  But ECIP Editor is something different.  It requires soft skills and empathy which are not his forte.\r\n\r\nIf he leaves ETC entirely that is his own choice.  Nobody is asking for or forcing that.   The drama is of his own creation.",
+    "reactions": {
+      "url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/comments/585742171/reactions",
+      "total_count": 0,
+      "+1": 0,
+      "-1": 0,
+      "laugh": 0,
+      "hooray": 0,
+      "confused": 0,
+      "heart": 0,
+      "rocket": 0,
+      "eyes": 0
+    }
+  }
