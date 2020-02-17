@@ -41,7 +41,7 @@
     "milestone": null,
     "comments": 3,
     "created_at": "2020-01-24T20:59:32Z",
-    "updated_at": "2020-02-13T17:01:43Z",
+    "updated_at": "2020-02-17T15:56:29Z",
     "closed_at": null,
     "author_association": "CONTRIBUTOR",
     "pull_request": {
@@ -53,8 +53,8 @@
     "body": "This ECIP seeks to replace ECIP-1000: https://github.com/ethereumclassic/ECIPs/blob/master/_specs/ecip-1000.md\r\n\r\n**Changes:**\r\n\r\n1. Clarifies the ECIP process is not a governance system nor constitution.\r\n2. Removes @sorpaas as an editor.\r\n3. Establishes with more clarity that the BIP and EIP are precedents for the ECIP process.\r\n4. Adds language in the \"ECIP Status Field\" section to make expressly clear that when an ECIP advances in the status chain, it can be reverted, rejected, or withdrawn if flaws are found after the fact.\r\n5. Adds a minimal Code of Conduct for this ECIP process specifically, not for the entire ETC ecosystem.\r\n\r\n**This ECIP makes these PRs unnecessary:**\r\n\r\n- https://github.com/ethereumclassic/ECIPs/pull/274\r\n- https://github.com/ethereumclassic/ECIPs/pull/258\r\n- https://github.com/ethereumclassic/ECIPs/pull/239\r\n\r\n**Numbering Format:**\r\n\r\nThe format `ECIP-0001` was chosen as a proposal to establish a new numbering sequence based on `0001` and so on, for `process` ECIPs so they show at the top of the specs, the ECIPs website,  and other lists.",
     "reactions": {
       "url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/277/reactions",
-      "total_count": 2,
-      "+1": 2,
+      "total_count": 3,
+      "+1": 3,
       "-1": 0,
       "laugh": 0,
       "hooray": 0,
