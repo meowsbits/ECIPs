@@ -1,14 +1,9 @@
 {
-    "url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/294",
-    "repository_url": "https://api.github.com/repos/ethereumclassic/ECIPs",
-    "labels_url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/294/labels{/name}",
-    "comments_url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/294/comments",
-    "events_url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/294/events",
-    "html_url": "https://github.com/ethereumclassic/ECIPs/issues/294",
-    "id": 566983588,
-    "node_id": "MDU6SXNzdWU1NjY5ODM1ODg=",
-    "number": 294,
-    "title": "ECIP-1082 [Discussion]: Fork identifier (`forkid`) protocol fork list specification",
+    "url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/comments/587561013",
+    "html_url": "https://github.com/ethereumclassic/ECIPs/issues/262#issuecomment-587561013",
+    "issue_url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/262",
+    "id": 587561013,
+    "node_id": "MDEyOklzc3VlQ29tbWVudDU4NzU2MTAxMw==",
     "user": {
       "login": "meowsbits",
       "id": 45600330,
@@ -29,24 +24,12 @@
       "type": "User",
       "site_admin": false
     },
-    "labels": [
-
-    ],
-    "state": "open",
-    "locked": false,
-    "assignee": null,
-    "assignees": [
-
-    ],
-    "milestone": null,
-    "comments": 1,
-    "created_at": "2020-02-18T15:47:20Z",
-    "updated_at": "2020-02-18T16:14:05Z",
-    "closed_at": null,
+    "created_at": "2020-02-18T16:51:39Z",
+    "updated_at": "2020-02-18T16:51:39Z",
     "author_association": "MEMBER",
-    "body": "https://github.com/ethereumclassic/ECIPs/blob/master/_specs/ecip-1082.md",
+    "body": "So as I understand it, this spec \"allows\" the incorrect EIP2200 specification as-is (SLOAD.constantGas=200), and will effectively do so on the Mordor and Kotti testnets for the span between the respective Aztlan and Phoenix activations. \r\n\r\nThis prevents the EIP2200 fix (EIP2200.constantGas=800, eg. https://github.com/etclabscore/multi-geth/pull/144) from breaking the testnets by changing (actually correcting) the gas price without doing so in a hard fork. (Kind of a weird concept: the correction would break the incorrect network implementations; this proposal effectively delays the correction indefinitely on these affected networks).",
     "reactions": {
-      "url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/294/reactions",
+      "url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/comments/587561013/reactions",
       "total_count": 0,
       "+1": 0,
       "-1": 0,
