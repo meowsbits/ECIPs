@@ -1,0 +1,29 @@
+{
+    "id": 3047116356,
+    "node_id": "MDE0Ok1lbnRpb25lZEV2ZW50MzA0NzExNjM1Ng==",
+    "url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/events/3047116356",
+    "actor": {
+      "login": "tzdybal",
+      "id": 1138893,
+      "node_id": "MDQ6VXNlcjExMzg4OTM=",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/1138893?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/tzdybal",
+      "html_url": "https://github.com/tzdybal",
+      "followers_url": "https://api.github.com/users/tzdybal/followers",
+      "following_url": "https://api.github.com/users/tzdybal/following{/other_user}",
+      "gists_url": "https://api.github.com/users/tzdybal/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/tzdybal/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/tzdybal/subscriptions",
+      "organizations_url": "https://api.github.com/users/tzdybal/orgs",
+      "repos_url": "https://api.github.com/users/tzdybal/repos",
+      "events_url": "https://api.github.com/users/tzdybal/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/tzdybal/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "event": "mentioned",
+    "commit_id": null,
+    "commit_url": null,
+    "created_at": "2020-02-18T13:22:22Z"
+  }
