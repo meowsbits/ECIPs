@@ -1,0 +1,43 @@
+{
+    "url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/comments/587562984",
+    "html_url": "https://github.com/ethereumclassic/ECIPs/issues/262#issuecomment-587562984",
+    "issue_url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/262",
+    "id": 587562984,
+    "node_id": "MDEyOklzc3VlQ29tbWVudDU4NzU2Mjk4NA==",
+    "user": {
+      "login": "meowsbits",
+      "id": 45600330,
+      "node_id": "MDQ6VXNlcjQ1NjAwMzMw",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/45600330?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/meowsbits",
+      "html_url": "https://github.com/meowsbits",
+      "followers_url": "https://api.github.com/users/meowsbits/followers",
+      "following_url": "https://api.github.com/users/meowsbits/following{/other_user}",
+      "gists_url": "https://api.github.com/users/meowsbits/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/meowsbits/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/meowsbits/subscriptions",
+      "organizations_url": "https://api.github.com/users/meowsbits/orgs",
+      "repos_url": "https://api.github.com/users/meowsbits/repos",
+      "events_url": "https://api.github.com/users/meowsbits/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/meowsbits/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "created_at": "2020-02-18T16:55:38Z",
+    "updated_at": "2020-02-18T16:55:38Z",
+    "author_association": "MEMBER",
+    "body": "What if we were to also provide an activation number for the disabling of this allowance, especially with a value below the Phoenix-Fix (ECIP-1078) activation.\r\n\r\nPros:\r\n- Allow us to test correct EIP2200 implementations and outcomes (both for logical soundness, and benchmarking live gas metering as it will be comparable to EIP1283+EIP1708).\r\n\r\nCons: \r\n- Aside from being a comparative reference, this configuration won't directly correspond to any Mainnet configuration, and could thus be seen as overkill.\r\n",
+    "reactions": {
+      "url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/comments/587562984/reactions",
+      "total_count": 0,
+      "+1": 0,
+      "-1": 0,
+      "laugh": 0,
+      "hooray": 0,
+      "confused": 0,
+      "heart": 0,
+      "rocket": 0,
+      "eyes": 0
+    }
+  }
