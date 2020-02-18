@@ -25,9 +25,9 @@
       "site_admin": false
     },
     "created_at": "2020-02-18T16:55:38Z",
-    "updated_at": "2020-02-18T16:55:38Z",
+    "updated_at": "2020-02-18T17:00:39Z",
     "author_association": "MEMBER",
-    "body": "What if we were to also provide an activation number for the disabling of this allowance, especially with a value below the Phoenix-Fix (ECIP-1078) activation.\r\n\r\nPros:\r\n- Allow us to test correct EIP2200 implementations and outcomes (both for logical soundness, and benchmarking live gas metering as it will be comparable to EIP1283+EIP1708).\r\n\r\nCons: \r\n- Aside from being a comparative reference, this configuration won't directly correspond to any Mainnet configuration, and could thus be seen as overkill.\r\n",
+    "body": "#### Rel [ECIP1086](https://github.com/ethereumclassic/ECIPs/pull/293).\r\n\r\nWhat if we were to also provide an activation number for the _disabling of this allowance_, especially with a value below the Phoenix-Fix (ECIP-1078) activation.\r\n\r\nPros:\r\n- Allow us to test correct EIP2200 implementations and outcomes (both for logical soundness, and benchmarking live gas metering as it will be comparable to EIP1283+EIP1708).\r\n\r\nCons: \r\n- Aside from being a comparative reference, this configuration won't directly correspond to any Mainnet configuration, and could thus be seen as overkill.\r\n",
     "reactions": {
       "url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/comments/587562984/reactions",
       "total_count": 0,

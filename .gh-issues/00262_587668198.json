@@ -1,0 +1,43 @@
+{
+    "url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/comments/587668198",
+    "html_url": "https://github.com/ethereumclassic/ECIPs/issues/262#issuecomment-587668198",
+    "issue_url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/262",
+    "id": 587668198,
+    "node_id": "MDEyOklzc3VlQ29tbWVudDU4NzY2ODE5OA==",
+    "user": {
+      "login": "soc1c",
+      "id": 47772477,
+      "node_id": "MDQ6VXNlcjQ3NzcyNDc3",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/47772477?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/soc1c",
+      "html_url": "https://github.com/soc1c",
+      "followers_url": "https://api.github.com/users/soc1c/followers",
+      "following_url": "https://api.github.com/users/soc1c/following{/other_user}",
+      "gists_url": "https://api.github.com/users/soc1c/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/soc1c/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/soc1c/subscriptions",
+      "organizations_url": "https://api.github.com/users/soc1c/orgs",
+      "repos_url": "https://api.github.com/users/soc1c/repos",
+      "events_url": "https://api.github.com/users/soc1c/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/soc1c/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "created_at": "2020-02-18T19:02:52Z",
+    "updated_at": "2020-02-18T19:02:52Z",
+    "author_association": "MEMBER",
+    "body": "> This prevents the EIP2200 fix (EIP2200.constantGas=800, eg. etclabscore/multi-geth#144) from breaking the testnets by changing (actually correcting) the gas price without doing so in a hard fork. (Kind of a weird concept: the correction would break the incorrect network implementations; this proposal effectively delays the correction indefinitely on these affected networks).\r\n\r\nExactly. Fun fact, such a thing used to happen on Ethereum Foundation mainnet and it was decided to rather specify the bug than rolling back the network.",
+    "reactions": {
+      "url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/comments/587668198/reactions",
+      "total_count": 0,
+      "+1": 0,
+      "-1": 0,
+      "laugh": 0,
+      "hooray": 0,
+      "confused": 0,
+      "heart": 0,
+      "rocket": 0,
+      "eyes": 0
+    }
+  }
