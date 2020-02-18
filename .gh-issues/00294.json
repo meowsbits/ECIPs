@@ -8,7 +8,7 @@
     "id": 566983588,
     "node_id": "MDU6SXNzdWU1NjY5ODM1ODg=",
     "number": 294,
-    "title": "ECIP-1082: Discussion",
+    "title": "ECIP-1082 [Discussion]: Fork identifier (`forkid`) protocol fork list specification",
     "user": {
       "login": "meowsbits",
       "id": 45600330,
@@ -41,7 +41,7 @@
     "milestone": null,
     "comments": 1,
     "created_at": "2020-02-18T15:47:20Z",
-    "updated_at": "2020-02-18T16:06:49Z",
+    "updated_at": "2020-02-18T16:11:47Z",
     "closed_at": null,
     "author_association": "MEMBER",
     "body": "https://github.com/ethereumclassic/ECIPs/blob/master/_specs/ecip-1082.md",

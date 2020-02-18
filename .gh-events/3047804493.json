@@ -1,0 +1,82 @@
+{
+    "id": 3047804493,
+    "node_id": "MDE3OlJlbmFtZWRUaXRsZUV2ZW50MzA0NzgwNDQ5Mw==",
+    "url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/events/3047804493",
+    "actor": {
+      "login": "meowsbits",
+      "id": 45600330,
+      "node_id": "MDQ6VXNlcjQ1NjAwMzMw",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/45600330?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/meowsbits",
+      "html_url": "https://github.com/meowsbits",
+      "followers_url": "https://api.github.com/users/meowsbits/followers",
+      "following_url": "https://api.github.com/users/meowsbits/following{/other_user}",
+      "gists_url": "https://api.github.com/users/meowsbits/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/meowsbits/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/meowsbits/subscriptions",
+      "organizations_url": "https://api.github.com/users/meowsbits/orgs",
+      "repos_url": "https://api.github.com/users/meowsbits/repos",
+      "events_url": "https://api.github.com/users/meowsbits/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/meowsbits/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "event": "renamed",
+    "commit_id": null,
+    "commit_url": null,
+    "created_at": "2020-02-18T16:11:47Z",
+    "rename": {
+      "from": "ECIP-1082: Discussion",
+      "to": "ECIP-1082 [Discussion]: Fork identifier (`forkid`) protocol fork list specification"
+    },
+    "issue": {
+      "url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/294",
+      "repository_url": "https://api.github.com/repos/ethereumclassic/ECIPs",
+      "labels_url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/294/labels{/name}",
+      "comments_url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/294/comments",
+      "events_url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/294/events",
+      "html_url": "https://github.com/ethereumclassic/ECIPs/issues/294",
+      "id": 566983588,
+      "node_id": "MDU6SXNzdWU1NjY5ODM1ODg=",
+      "number": 294,
+      "title": "ECIP-1082 [Discussion]: Fork identifier (`forkid`) protocol fork list specification",
+      "user": {
+        "login": "meowsbits",
+        "id": 45600330,
+        "node_id": "MDQ6VXNlcjQ1NjAwMzMw",
+        "avatar_url": "https://avatars1.githubusercontent.com/u/45600330?v=4",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/meowsbits",
+        "html_url": "https://github.com/meowsbits",
+        "followers_url": "https://api.github.com/users/meowsbits/followers",
+        "following_url": "https://api.github.com/users/meowsbits/following{/other_user}",
+        "gists_url": "https://api.github.com/users/meowsbits/gists{/gist_id}",
+        "starred_url": "https://api.github.com/users/meowsbits/starred{/owner}{/repo}",
+        "subscriptions_url": "https://api.github.com/users/meowsbits/subscriptions",
+        "organizations_url": "https://api.github.com/users/meowsbits/orgs",
+        "repos_url": "https://api.github.com/users/meowsbits/repos",
+        "events_url": "https://api.github.com/users/meowsbits/events{/privacy}",
+        "received_events_url": "https://api.github.com/users/meowsbits/received_events",
+        "type": "User",
+        "site_admin": false
+      },
+      "labels": [
+
+      ],
+      "state": "open",
+      "locked": false,
+      "assignee": null,
+      "assignees": [
+
+      ],
+      "milestone": null,
+      "comments": 1,
+      "created_at": "2020-02-18T15:47:20Z",
+      "updated_at": "2020-02-18T16:11:47Z",
+      "closed_at": null,
+      "author_association": "MEMBER",
+      "active_lock_reason": null,
+      "body": "https://github.com/ethereumclassic/ECIPs/blob/master/_specs/ecip-1082.md"
+    }
+  }
