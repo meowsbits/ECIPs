@@ -1,7 +1,7 @@
 From cf40674a7c888939aa10f7416c4e44db32546c44 Mon Sep 17 00:00:00 2001
 From: Talha Cross <47772477+soc1c@users.noreply.github.com>
 Date: Tue, 18 Feb 2020 13:56:18 +0100
-Subject: [PATCH] ECIP-1086: SLOAD Gas Patch for the Testnets
+Subject: [PATCH 1/2] ECIP-1086: SLOAD Gas Patch for the Testnets
 
 ---
  _specs/ecip-1086.md | 65 +++++++++++++++++++++++++++++++++++++++++++++
@@ -79,3 +79,26 @@ index 00000000..d44ead26
 +## Copyright
 +
 +Copyright and related rights waived via [CC0](https://creativecommons.org/publicdomain/zero/1.0/).
+
+From 8c7fa04af31ceba09723c436e8f1ca1ef78a9b1c Mon Sep 17 00:00:00 2001
+From: Talha Cross <47772477+soc1c@users.noreply.github.com>
+Date: Tue, 18 Feb 2020 14:24:17 +0100
+Subject: [PATCH 2/2] ECIP-1086: add link to besu implementation
+
+---
+ _specs/ecip-1086.md | 2 ++
+ 1 file changed, 2 insertions(+)
+
+diff --git a/_specs/ecip-1086.md b/_specs/ecip-1086.md
+index d44ead26..9bfacc98 100644
+--- a/_specs/ecip-1086.md
++++ b/_specs/ecip-1086.md
+@@ -60,6 +60,8 @@ Note, that accepting and merging these pull requests would either require to rol
+ 
+ Adoption of the content of this ECIP requires a configuration for all clients to allow for configuring `SLOAD_GAS` as per [ECIP-1086](https://ecips.ethereumclassic.org/ECIPs/ecip-1086). The implementation cost is considered low.
+ 
++A sample implementation is available for _Besu_: [hyperledger/besu#382](https://github.com/hyperledger/besu/pull/382)
++
+ ## Copyright
+ 
+ Copyright and related rights waived via [CC0](https://creativecommons.org/publicdomain/zero/1.0/).
