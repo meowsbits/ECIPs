@@ -1,0 +1,43 @@
+{
+    "url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/comments/588266866",
+    "html_url": "https://github.com/ethereumclassic/ECIPs/issues/262#issuecomment-588266866",
+    "issue_url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/262",
+    "id": 588266866,
+    "node_id": "MDEyOklzc3VlQ29tbWVudDU4ODI2Njg2Ng==",
+    "user": {
+      "login": "tzdybal",
+      "id": 1138893,
+      "node_id": "MDQ6VXNlcjExMzg4OTM=",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/1138893?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/tzdybal",
+      "html_url": "https://github.com/tzdybal",
+      "followers_url": "https://api.github.com/users/tzdybal/followers",
+      "following_url": "https://api.github.com/users/tzdybal/following{/other_user}",
+      "gists_url": "https://api.github.com/users/tzdybal/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/tzdybal/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/tzdybal/subscriptions",
+      "organizations_url": "https://api.github.com/users/tzdybal/orgs",
+      "repos_url": "https://api.github.com/users/tzdybal/repos",
+      "events_url": "https://api.github.com/users/tzdybal/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/tzdybal/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "created_at": "2020-02-19T14:40:25Z",
+    "updated_at": "2020-02-19T14:40:25Z",
+    "author_association": "MEMBER",
+    "body": "IMO:\r\n - as name suggests, test networks are for testing. Test failed - on testnet, not mainnet - this is great!\r\n - we should somehow document this (client's wiki, or something)\r\n - we should fix the clients and move along; rolling back testnets seems perfectly fine for me.\r\n\r\nHaving separate ECIP and separate fork, and separate configuration in clients (for forks), just to \"fix\" testnets seems not practical. Resetting seems way more pragmatic.\r\n\r\nKISS.",
+    "reactions": {
+      "url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/comments/588266866/reactions",
+      "total_count": 0,
+      "+1": 0,
+      "-1": 0,
+      "laugh": 0,
+      "hooray": 0,
+      "confused": 0,
+      "heart": 0,
+      "rocket": 0,
+      "eyes": 0
+    }
+  }
