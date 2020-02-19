@@ -25,13 +25,13 @@
       "site_admin": false
     },
     "created_at": "2020-02-19T11:57:02Z",
-    "updated_at": "2020-02-19T11:57:02Z",
+    "updated_at": "2020-02-19T16:25:08Z",
     "author_association": "MEMBER",
-    "body": "> testnets shall be considered public good for application developers. not breaking them should be our primary goal. \r\n\r\nI disagree here; I see them as a tool, not a service. I also see breaking them as our primary goal, and have no feelings of passion when I imaging running `debug.setHead` on a testnet client.",
+    "body": "> testnets shall be considered public good for application developers. not breaking them should be our primary goal. \r\n\r\nI disagree here; I see them as a tool, not a service. I also see breaking them as our primary goal (along with incidental confidence when we fail to), and have no feelings of passion when I imaging running `debug.setHead` on a testnet client.",
     "reactions": {
       "url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/comments/588187036/reactions",
-      "total_count": 0,
-      "+1": 0,
+      "total_count": 1,
+      "+1": 1,
       "-1": 0,
       "laugh": 0,
       "hooray": 0,
