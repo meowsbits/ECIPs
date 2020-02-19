@@ -1,0 +1,43 @@
+{
+    "url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/comments/588520036",
+    "html_url": "https://github.com/ethereumclassic/ECIPs/issues/262#issuecomment-588520036",
+    "issue_url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/262",
+    "id": 588520036,
+    "node_id": "MDEyOklzc3VlQ29tbWVudDU4ODUyMDAzNg==",
+    "user": {
+      "login": "bobsummerwill",
+      "id": 3788156,
+      "node_id": "MDQ6VXNlcjM3ODgxNTY=",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/3788156?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/bobsummerwill",
+      "html_url": "https://github.com/bobsummerwill",
+      "followers_url": "https://api.github.com/users/bobsummerwill/followers",
+      "following_url": "https://api.github.com/users/bobsummerwill/following{/other_user}",
+      "gists_url": "https://api.github.com/users/bobsummerwill/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/bobsummerwill/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/bobsummerwill/subscriptions",
+      "organizations_url": "https://api.github.com/users/bobsummerwill/orgs",
+      "repos_url": "https://api.github.com/users/bobsummerwill/repos",
+      "events_url": "https://api.github.com/users/bobsummerwill/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/bobsummerwill/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "created_at": "2020-02-19T23:04:54Z",
+    "updated_at": "2020-02-19T23:05:12Z",
+    "author_association": "MEMBER",
+    "body": "From @sorpaas on OpenEthereum Discord:\r\n\r\n*By the way I’m considering clarifying this in EIP-2200 — https://github.com/ethereum/EIPs/pull/2514 That will mean reverting #11474. That won’t affect Ethereum at all so shouldn’t be a big deal.*\r\n\r\nSo my read on this (and please do confirm, Wei), is that EIP-2200 reused a variable in a way which worked \"by mistake\" for ETH, but caused the confusion which is at the root of the consensus split on Mordor and Kotti.   Though that consensus split is only **currently** manifesting for Hyperledger Besu clients.\r\n\r\nIf the confusion was all just caused by the reused variable in EIP-2200 then the resolution is simple - making Hyperledger Besu match the Parity-Ethereum and Geth/Multi-Geth behaviours and doing a release.   The patches to Parity-Ethereum, Geth and Multi-Geth would be reverted, your errata to EIP-2200 merged, and matching code changes to clarify made to each of the clients (though these could not affect consensus - just clarity of implementation of the specification).\r\n\r\n@soc1c @GregTheGreek @meowsbits ^^\r\n",
+    "reactions": {
+      "url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/comments/588520036/reactions",
+      "total_count": 0,
+      "+1": 0,
+      "-1": 0,
+      "laugh": 0,
+      "hooray": 0,
+      "confused": 0,
+      "heart": 0,
+      "rocket": 0,
+      "eyes": 0
+    }
+  }

@@ -25,9 +25,9 @@
       "site_admin": false
     },
     "created_at": "2020-02-19T16:35:59Z",
-    "updated_at": "2020-02-19T16:35:59Z",
+    "updated_at": "2020-02-19T16:38:53Z",
     "author_association": "MEMBER",
-    "body": "Just an update from the development side at ETC Core. \r\n\r\nWe've just renamed and migrated etclabscore/multi-geth to __[etclabscore/core-geth](https://github.com/etclabscore/core-geth)__, and now we want to make a first release which'll include the rename for network client advertisements.\r\n\r\nTo that end, we're also needing to manage which ECIPs we include. \r\n\r\nI'm going to merge the patch for ECIP1086 which will prevent the testnets from breaking with a fixed EIP2200 implementation. This isn't because I'm trying to strongarm the \"Patch it\" side of the  \"Patch it\" vs. \"Roll it back\" debate; but, instead because these approaches are not incompatible from the perspective of the protocol provider (despite having patched the testnets to not be broken, we can still roll them back to whatever, whenever... if that's what we wind up wanting to do).\r\n\r\nStay tuned.",
+    "body": "Just an update from the development side at ETC Core. \r\n\r\nWe've just renamed and migrated etclabscore/multi-geth to __[etclabscore/core-geth](https://github.com/etclabscore/core-geth)__, and now we want to make a first release which'll include the rename for network client advertisements.\r\n\r\nTo that end, we're also needing to manage which ECIPs we include. \r\n\r\nI'm going to merge the patch for ECIP1086 which will prevent the testnets from breaking with a fixed EIP2200 implementation. This isn't because I'm trying to strongarm the \"Patch it\" side of the  \"Patch it\" vs. \"Roll it back\" debate; but, instead because these approaches are not incompatible from the perspective of the protocol provider (despite having patched the testnets to not be broken, we can still roll them back to whatever, whenever... if that's what we wind up wanting to do --  and then if rollback is decided on, we can simply unplug the ECIP1086 spec from the client as \"useless code\").\r\n\r\nStay tuned.",
     "reactions": {
       "url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/comments/588314452/reactions",
       "total_count": 0,
