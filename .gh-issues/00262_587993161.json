@@ -1,0 +1,43 @@
+{
+    "url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/comments/587993161",
+    "html_url": "https://github.com/ethereumclassic/ECIPs/issues/262#issuecomment-587993161",
+    "issue_url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/262",
+    "id": 587993161,
+    "node_id": "MDEyOklzc3VlQ29tbWVudDU4Nzk5MzE2MQ==",
+    "user": {
+      "login": "bobsummerwill",
+      "id": 3788156,
+      "node_id": "MDQ6VXNlcjM3ODgxNTY=",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/3788156?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/bobsummerwill",
+      "html_url": "https://github.com/bobsummerwill",
+      "followers_url": "https://api.github.com/users/bobsummerwill/followers",
+      "following_url": "https://api.github.com/users/bobsummerwill/following{/other_user}",
+      "gists_url": "https://api.github.com/users/bobsummerwill/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/bobsummerwill/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/bobsummerwill/subscriptions",
+      "organizations_url": "https://api.github.com/users/bobsummerwill/orgs",
+      "repos_url": "https://api.github.com/users/bobsummerwill/repos",
+      "events_url": "https://api.github.com/users/bobsummerwill/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/bobsummerwill/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "created_at": "2020-02-19T01:47:18Z",
+    "updated_at": "2020-02-19T01:47:18Z",
+    "author_association": "MEMBER",
+    "body": "Having said that, such a plan for \"parallel testnets which are PURELY for testing protocol transitions\" sound like a new thing to me, which needs a new ECIP, and coordination in the coming months.\r\n\r\nFor the here and now, we need to get Mordor and Kotti back in consensus, and given that we have merged fixes for all clients which get back to consensus at SLOAD=800, please could we focus on the matter in hand there.\r\n\r\nWhat is needed to roll that out?   @soc1c?  @meowsbits?  @gregthegreek?",
+    "reactions": {
+      "url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/comments/587993161/reactions",
+      "total_count": 0,
+      "+1": 0,
+      "-1": 0,
+      "laugh": 0,
+      "hooray": 0,
+      "confused": 0,
+      "heart": 0,
+      "rocket": 0,
+      "eyes": 0
+    }
+  }
