@@ -1,7 +1,7 @@
 {
-    "id": 3047116378,
-    "node_id": "MDE1OlN1YnNjcmliZWRFdmVudDMwNDcxMTYzNzg=",
-    "url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/events/3047116378",
+    "id": 3049731143,
+    "node_id": "MDE0Ok1lbnRpb25lZEV2ZW50MzA0OTczMTE0Mw==",
+    "url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/events/3049731143",
     "actor": {
       "login": "GregTheGreek",
       "id": 16929357,
@@ -22,10 +22,10 @@
       "type": "User",
       "site_admin": false
     },
-    "event": "subscribed",
+    "event": "mentioned",
     "commit_id": null,
     "commit_url": null,
-    "created_at": "2020-02-18T13:22:22Z",
+    "created_at": "2020-02-19T00:44:56Z",
     "issue": {
       "url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/293",
       "repository_url": "https://api.github.com/repos/ethereumclassic/ECIPs",
