@@ -1,0 +1,43 @@
+{
+    "url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/comments/588541196",
+    "html_url": "https://github.com/ethereumclassic/ECIPs/issues/262#issuecomment-588541196",
+    "issue_url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/262",
+    "id": 588541196,
+    "node_id": "MDEyOklzc3VlQ29tbWVudDU4ODU0MTE5Ng==",
+    "user": {
+      "login": "bobsummerwill",
+      "id": 3788156,
+      "node_id": "MDQ6VXNlcjM3ODgxNTY=",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/3788156?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/bobsummerwill",
+      "html_url": "https://github.com/bobsummerwill",
+      "followers_url": "https://api.github.com/users/bobsummerwill/followers",
+      "following_url": "https://api.github.com/users/bobsummerwill/following{/other_user}",
+      "gists_url": "https://api.github.com/users/bobsummerwill/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/bobsummerwill/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/bobsummerwill/subscriptions",
+      "organizations_url": "https://api.github.com/users/bobsummerwill/orgs",
+      "repos_url": "https://api.github.com/users/bobsummerwill/repos",
+      "events_url": "https://api.github.com/users/bobsummerwill/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/bobsummerwill/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "created_at": "2020-02-20T00:11:20Z",
+    "updated_at": "2020-02-20T00:11:20Z",
+    "author_association": "MEMBER",
+    "body": "OK - chatted with @GregTheGreek.   So his understanding is that while the EIP-2200 naming was confusing, this rewording on the EIP would not affect consensus, so we still need the fixes.\r\n\r\nAnd so, my understanding of next steps here, as communicated to Greg and he confirmed his agreement were ...\r\n\r\nSo we proceed with Afri's ECIP which clarifies the testnet consensus.\r\nWe proceed with getting point releases of Parity-Ethereum and CoreGeth.\r\nWe upgrade the validators on Kotti and we mine our way back into consensus on Mordor.\r\nThen that is Aztlan \"done\" (caveat finding further issues).\r\nThe point-release from CoreGeth would also include Phoenix support.\r\nYou would merge a PR against Hyperledger Besu activating Phoenix support too, and we would need to get a point-release of that too.   Maybe that makes 1.4.0?\r\nAnd then you have a new SOW to generate for me to sign which is to add Phoenix support to OpenEthereum.\r\nAnd if Wei does his clarification, and then matching \"cleans\" are done in all the clients that is nice, but not consensus affecting.",
+    "reactions": {
+      "url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/comments/588541196/reactions",
+      "total_count": 0,
+      "+1": 0,
+      "-1": 0,
+      "laugh": 0,
+      "hooray": 0,
+      "confused": 0,
+      "heart": 0,
+      "rocket": 0,
+      "eyes": 0
+    }
+  }
