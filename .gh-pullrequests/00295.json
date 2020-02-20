@@ -41,7 +41,7 @@
     "milestone": null,
     "comments": 0,
     "created_at": "2020-02-20T12:31:18Z",
-    "updated_at": "2020-02-20T12:31:18Z",
+    "updated_at": "2020-02-20T12:40:12Z",
     "closed_at": null,
     "author_association": "MEMBER",
     "pull_request": {
@@ -50,7 +50,7 @@
       "diff_url": "https://github.com/ethereumclassic/ECIPs/pull/295.diff",
       "patch_url": "https://github.com/ethereumclassic/ECIPs/pull/295.patch"
     },
-    "body": "",
+    "body": "### Abstract\r\n\r\nDon't touch Kotti; allow ECIP1061, ECIP1078, and ECIP1086 (EIP2200, EIP2200Disable) to continue as specified and implemented there.\r\n\r\nRollback Mordor to 750000 (3507 blocks prior to ECIP1061 activation), with ECIP1078 activation at block 778507 (same as ECIP1061).\r\n\r\n---\r\n\r\nRendered: https://github.com/ethereumclassic/ECIPs/blob/823ac0e2f05fa3c731421c0742750e76ba883138/_specs/ecip-1087.md",
     "reactions": {
       "url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/295/reactions",
       "total_count": 0,
