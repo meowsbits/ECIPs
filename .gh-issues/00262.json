@@ -113,9 +113,9 @@
       "due_on": null,
       "closed_at": null
     },
-    "comments": 19,
+    "comments": 20,
     "created_at": "2020-01-19T21:05:37Z",
-    "updated_at": "2020-02-20T11:41:52Z",
+    "updated_at": "2020-02-20T12:32:57Z",
     "closed_at": null,
     "author_association": "MEMBER",
     "body": "Discussion for ECIP-1078 and ECIP-1086.",
