@@ -1,0 +1,26 @@
+From 14426077089daa49a3f310179ccc9ac4f741df56 Mon Sep 17 00:00:00 2001
+From: Talha Cross <47772477+soc1c@users.noreply.github.com>
+Date: Fri, 21 Feb 2020 13:59:04 +0100
+Subject: [PATCH] ECIP-1061: Move Aztlan to Phoenix block on Mordor
+
+---
+ _specs/ecip-1061.md | 6 +++---
+ 1 file changed, 3 insertions(+), 3 deletions(-)
+
+diff --git a/_specs/ecip-1061.md b/_specs/ecip-1061.md
+index b0ea22a9..65a09130 100644
+--- a/_specs/ecip-1061.md
++++ b/_specs/ecip-1061.md
+@@ -31,9 +31,9 @@ _Istanbul_ hardforks. The proposed changes for Ethereum Classic's _Aztlán_ upgr
+ 
+ This document proposes the following blocks at which to implement these changes in the Classic networks:
+ 
+-- `778_507` on Mordor Classic PoW-testnet (activated on Jan 30th, 2020)
+-- `2_058_191` on Kotti Classic PoA-testnet (approx Feb 12th, 2020)
+-- `10_500_839` on Ethereum Classic PoW-mainnet (approx Jun 10th, 2020)
++- `976_231` on Mordor Classic PoW-testnet (March 4th, 2020)
++- `2_058_191` on Kotti Classic PoA-testnet (Feb 12th, 2020)
++- `10_500_839` on Ethereum Classic PoW-mainnet (Jun 10th, 2020)
+ 
+ For more information on the opcodes and their respective EIPs and implementations, please see the _Specification_
+ section of this document.
