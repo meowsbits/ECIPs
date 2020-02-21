@@ -21,7 +21,7 @@
       "type": "User",
       "site_admin": false
     },
-    "body": "Should be broken into 1 pull request for each ECIP modified (2 pull requests).\r\n\r\n_EDIT_:  i can't seem to be able to drop this `request-changes` review (or to modify it to a `comment`)... ?",
+    "body": "Should be broken into 1 pull request for each ECIP modified (2 pull requests).\r\n\r\n_EDIT_:  i can't seem to be able to drop this `request-changes` review (or to modify it to a `comment`)... ? \r\n\r\nSee \"It modifies an `Accepted` ECIP\" for my real remaining reason for request-changes review: https://github.com/ethereumclassic/ECIPs/pull/296#pullrequestreview-362627664",
     "state": "CHANGES_REQUESTED",
     "html_url": "https://github.com/ethereumclassic/ECIPs/pull/296#pullrequestreview-362621885",
     "pull_request_url": "https://api.github.com/repos/ethereumclassic/ECIPs/pulls/296",
