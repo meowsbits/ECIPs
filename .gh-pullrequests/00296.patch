@@ -1,7 +1,7 @@
 From 14426077089daa49a3f310179ccc9ac4f741df56 Mon Sep 17 00:00:00 2001
 From: Talha Cross <47772477+soc1c@users.noreply.github.com>
 Date: Fri, 21 Feb 2020 13:59:04 +0100
-Subject: [PATCH] ECIP-1061: Move Aztlan to Phoenix block on Mordor
+Subject: [PATCH 1/2] ECIP-1061: Move Aztlan to Phoenix block on Mordor
 
 ---
  _specs/ecip-1061.md | 6 +++---
@@ -24,3 +24,36 @@ index b0ea22a9..65a09130 100644
  
  For more information on the opcodes and their respective EIPs and implementations, please see the _Specification_
  section of this document.
+
+From 375b9edf32cae5810bfdc2d2ad7e1087fa43b9f0 Mon Sep 17 00:00:00 2001
+From: Talha Cross <47772477+soc1c@users.noreply.github.com>
+Date: Fri, 21 Feb 2020 14:03:26 +0100
+Subject: [PATCH 2/2] ECIP-1086: Move to last call without Mordor.
+
+---
+ _specs/ecip-1086.md | 5 +++--
+ 1 file changed, 3 insertions(+), 2 deletions(-)
+
+diff --git a/_specs/ecip-1086.md b/_specs/ecip-1086.md
+index 9214cb17..615eab65 100644
+--- a/_specs/ecip-1086.md
++++ b/_specs/ecip-1086.md
+@@ -2,7 +2,8 @@
+ lang: en
+ ecip: 1086
+ title: SLOAD Gas Patch for the Classic Testnets
+-status: Draft
++status: Last Call
++review-period-end: 2020-02-29
+ type: Standards Track
+ category: Core
+ author: Talha Cross <no-reply@soc1.cz>
+@@ -38,7 +39,7 @@ A subsequent protocol upgrade disabling [EIP-2200](https://eips.ethereum.org/EIP
+ 
+ This document proposes the following `BLOCK_NUMBER` at which to implement these changes in the Classic test networks:
+ 
+-- `778_507` on _Mordor_ Classic PoW-testnet (Jan 30th, 2020)
++- Never on _Mordor_ Classic PoW-testnet which will be reverted in favor of testing a proper _Phoenix_ transition.
+ - `2_058_191` on _Kotti_ Classic PoA-testnet (Feb 12th, 2020)
+ 
+ 
