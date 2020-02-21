@@ -1,0 +1,60 @@
+{
+    "url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/298",
+    "repository_url": "https://api.github.com/repos/ethereumclassic/ECIPs",
+    "labels_url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/298/labels{/name}",
+    "comments_url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/298/comments",
+    "events_url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/298/events",
+    "html_url": "https://github.com/ethereumclassic/ECIPs/issues/298",
+    "id": 569005788,
+    "node_id": "MDU6SXNzdWU1NjkwMDU3ODg=",
+    "number": 298,
+    "title": "Core Devs Call: Phoenix Upgrade from Scratch",
+    "user": {
+      "login": "soc1c",
+      "id": 47772477,
+      "node_id": "MDQ6VXNlcjQ3NzcyNDc3",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/47772477?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/soc1c",
+      "html_url": "https://github.com/soc1c",
+      "followers_url": "https://api.github.com/users/soc1c/followers",
+      "following_url": "https://api.github.com/users/soc1c/following{/other_user}",
+      "gists_url": "https://api.github.com/users/soc1c/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/soc1c/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/soc1c/subscriptions",
+      "organizations_url": "https://api.github.com/users/soc1c/orgs",
+      "repos_url": "https://api.github.com/users/soc1c/repos",
+      "events_url": "https://api.github.com/users/soc1c/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/soc1c/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "labels": [
+
+    ],
+    "state": "open",
+    "locked": false,
+    "assignee": null,
+    "assignees": [
+
+    ],
+    "milestone": null,
+    "comments": 0,
+    "created_at": "2020-02-21T14:59:12Z",
+    "updated_at": "2020-02-21T14:59:12Z",
+    "closed_at": null,
+    "author_association": "MEMBER",
+    "body": "ref #297 \r\n\r\nref [ECIP-1061](https://github.com/ethereumclassic/ECIPs/blob/master/_specs/ecip-1061.md) [ECIP-1078](https://github.com/ethereumclassic/ECIPs/blob/master/_specs/ecip-1078.md) [ECIP-1086](https://github.com/ethereumclassic/ECIPs/blob/master/_specs/ecip-1086.md)\r\n\r\n### ETC Core Devs Call - Phoenix Upgrade from Scratch\r\n\r\nWhen: **Wednesday, February 26, 2019, 1pm UTC**, 60 minutes max.\r\n\r\nWhere: **Ethereum Classic Discord** https://discord.gg/dwxb6nf `#ecips` channel. Will use/create a voice channel _ad hoc._\r\n\r\n### Agenda\r\n\r\n- Quick client teams check-in\r\n  - Parity Tech\r\n  - ETC Core\r\n  - ChainSafe\r\n  - Multi-Geth\r\n- Aztlán needs to be rejected as it's having multiple issues #217 #226 #227\r\n- Phoenix needs to be rejected as it's not of a sufficient patch especially with the context of the broken testnet activations #262\r\n- Testnet patch should be rejected to favor a clean new hardfork meta #293  #297 \r\n- It's still possible to do Phoenix on the same block number if we agree to activate one of the following options (ECIPs pending):\r\n  - Phoenix hardfork same as ETH Istanbul (including EIP-1884)\r\n  - Phoenix hardfork \"classic flavor\" (ECIP-1080 instead of 1884, EIP-1706 instead of EIP-2200)\r\n- anything else related to Aztlán and Phoenix\r\n\r\n_Please comment to add items to the agenda._",
+    "reactions": {
+      "url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/298/reactions",
+      "total_count": 0,
+      "+1": 0,
+      "-1": 0,
+      "laugh": 0,
+      "hooray": 0,
+      "confused": 0,
+      "heart": 0,
+      "rocket": 0,
+      "eyes": 0
+    }
+  }
