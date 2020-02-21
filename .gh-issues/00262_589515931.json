@@ -1,0 +1,43 @@
+{
+    "url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/comments/589515931",
+    "html_url": "https://github.com/ethereumclassic/ECIPs/issues/262#issuecomment-589515931",
+    "issue_url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/262",
+    "id": 589515931,
+    "node_id": "MDEyOklzc3VlQ29tbWVudDU4OTUxNTkzMQ==",
+    "user": {
+      "login": "bobsummerwill",
+      "id": 3788156,
+      "node_id": "MDQ6VXNlcjM3ODgxNTY=",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/3788156?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/bobsummerwill",
+      "html_url": "https://github.com/bobsummerwill",
+      "followers_url": "https://api.github.com/users/bobsummerwill/followers",
+      "following_url": "https://api.github.com/users/bobsummerwill/following{/other_user}",
+      "gists_url": "https://api.github.com/users/bobsummerwill/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/bobsummerwill/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/bobsummerwill/subscriptions",
+      "organizations_url": "https://api.github.com/users/bobsummerwill/orgs",
+      "repos_url": "https://api.github.com/users/bobsummerwill/repos",
+      "events_url": "https://api.github.com/users/bobsummerwill/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/bobsummerwill/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "created_at": "2020-02-21T06:19:53Z",
+    "updated_at": "2020-02-21T06:19:53Z",
+    "author_association": "MEMBER",
+    "body": "From Discord ...\r\n\r\nBob: My brain has been stewing and I think I have a better and simpler plan.\r\n\r\nIn the last 24 hours it has become evident that 2200 is utterly broken.  That is fine.  It is only ever going to be deployed on the Kotti and Mordor testnets.  Geth and Parity are in consensus.  Besu is the only one out of consensus.\r\n\r\nSo we:\r\n- Make Besu match (200 pricing)\r\n- That is Atzlan in the bag.\r\n- Undo the “fixes” in Geth, Multi-Geth and Parity.  That was a complete waste of time.\r\n- I ditch the PR again 2200 I just made.  Again a waste of time.   We don’t try to fix 2200.  It is screwed.\r\n- We push releases for all clients with the 1078 Phoenix changes.\r\n- We all get on with our lives.\r\n- No Testnet rollback required.\r\n- No EIP/ECIP changes required\r\n\r\nYaz:  does that mean 1884 is included?\r\n\r\nBob:\r\n\r\nNo\r\nIt means Aztlan is weird (known) but only hits testnets.\r\nAnd Aztlan+Phoenix is equivalent to Istanbul - 1884 repricings, but without the broken 2200 code, which gets disabled as part of Phoenix.\r\nIf we had our wits about us Aztlan+Phoenix would have activated at the same block on the testnets too.   All this crap is the result of the early activation of Aztlan before we were ready  with “the overlay”\r\n\r\nThe only downside I see to my plan is that we never rectify 2200 in the spec.  But that makes no practical difference.  The EIPs/ECIPs exist to coordinate and keep the clients in consensus, but they are not mandatory.  If we can stay in consensus even if the spec is broken then that is fine anyway.\r\n\r\nMaybe ETH Core Devs care and some wording will go through, but we do not need to be gated on that.\r\n\r\nAnd we do not NEED to change the Final text.  Clarifying would be good for other future client implementations, but is not urgent.\r\n\r\nEIP-2200 can be cleaned up at our leisure.  The clients can be cleaned up to make that flow clearer at our leisure.  But the existing consensus would be “blessed”.  And most importantly we are not waiting on anybody.\r\n\r\nGreg:\r\nI kinda said this before in november or whenever. But the underlying mechanics for implementing 1884 and 2200 were due to historical data from ETH. We don't have the same volume on ETC, although it is a security vulnerability (at scale).\r\n\r\nso playing around with 1884 & 2200 are a double edged sword\r\n\r\nBob:\r\n\r\n“so playing around with 1884 & 2200 are a double edged sword”\r\n\r\nYeah.  I think Phoenix scope is honestly fine.  We know we have that TODO to we do it carefully within EVM versioning at the next HF.  Or maybe even unconditionally at that point.   But we do it intentionally, and in a data driven way.",
+    "reactions": {
+      "url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/comments/589515931/reactions",
+      "total_count": 0,
+      "+1": 0,
+      "-1": 0,
+      "laugh": 0,
+      "hooray": 0,
+      "confused": 0,
+      "heart": 0,
+      "rocket": 0,
+      "eyes": 0
+    }
+  }
