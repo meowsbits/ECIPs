@@ -1,0 +1,120 @@
+From cf2e440dafc686820c16f8198d2896634272ecad Mon Sep 17 00:00:00 2001
+From: Talha Cross <47772477+soc1c@users.noreply.github.com>
+Date: Fri, 21 Feb 2020 15:41:30 +0100
+Subject: [PATCH 1/4] ecip-1061: reject aztlan and pull phoenix
+
+---
+ _specs/ecip-1061.md | 8 ++++----
+ 1 file changed, 4 insertions(+), 4 deletions(-)
+
+diff --git a/_specs/ecip-1061.md b/_specs/ecip-1061.md
+index b0ea22a9..d4c1a1be 100644
+--- a/_specs/ecip-1061.md
++++ b/_specs/ecip-1061.md
+@@ -2,7 +2,7 @@
+ lang: en
+ ecip: 1061
+ title: Aztlán EVM and Protocol Upgrades (Yingchun Edition)
+-status: Accepted
++status: Rejected
+ type: Meta
+ author: Talha Cross (@soc1c), Wei Tang (@sorpaas)
+ created: 2019-06-06
+@@ -31,9 +31,9 @@ _Istanbul_ hardforks. The proposed changes for Ethereum Classic's _Aztlán_ upgr
+ 
+ This document proposes the following blocks at which to implement these changes in the Classic networks:
+ 
+-- `778_507` on Mordor Classic PoW-testnet (activated on Jan 30th, 2020)
+-- `2_058_191` on Kotti Classic PoA-testnet (approx Feb 12th, 2020)
+-- `10_500_839` on Ethereum Classic PoW-mainnet (approx Jun 10th, 2020)
++- ~~`778_507` on Mordor Classic PoW-testnet (activated on Jan 30th, 2020)~~
++- ~~`2_058_191` on Kotti Classic PoA-testnet (approx Feb 12th, 2020)~~
++- ~~`10_500_839` on Ethereum Classic PoW-mainnet (approx Jun 10th, 2020)~~
+ 
+ For more information on the opcodes and their respective EIPs and implementations, please see the _Specification_
+ section of this document.
+
+From 98ecc1a33c2995e5a5dad591105aaf6302a41ca7 Mon Sep 17 00:00:00 2001
+From: Talha Cross <47772477+soc1c@users.noreply.github.com>
+Date: Fri, 21 Feb 2020 15:44:11 +0100
+Subject: [PATCH 2/4] ecip-1071: reject aztlan and pull phoenix
+
+---
+ _specs/ecip-1078.md | 9 ++++-----
+ 1 file changed, 4 insertions(+), 5 deletions(-)
+
+diff --git a/_specs/ecip-1078.md b/_specs/ecip-1078.md
+index 13650d77..04917dde 100644
+--- a/_specs/ecip-1078.md
++++ b/_specs/ecip-1078.md
+@@ -3,8 +3,7 @@ lang: en
+ ecip: 1078
+ title: Phoenix EVM and Protocol Upgrades ("Aztlán fix")
+ author: Bob Summerwill (@bobsummerwill)
+-status: Last Call
+-review-period-end: 2020-03-30
++status: Rejected
+ type: Meta
+ created: 2020-01-19
+ license: Apache-2.0
+@@ -39,9 +38,9 @@ would result in protocol changes which met the original intent.
+ 
+ This document proposes the following blocks at which to implement these changes in the Classic networks:
+ 
+-- `976_231` on Mordor Classic PoW-testnet (approx March 4th, 2020)
+-- `2_208_203` on Kotti Classic PoA-testnet (approx March 11st, 2020)
+-- `10_500_839` on Ethereum Classic PoW-mainnet (approx June 10th, 2020)
++- ~~`976_231` on Mordor Classic PoW-testnet (approx March 4th, 2020)~~
++- ~~`2_208_203` on Kotti Classic PoA-testnet (approx March 11st, 2020)~~
++- ~~`10_500_839` on Ethereum Classic PoW-mainnet (approx June 10th, 2020)~~
+ 
+ At HARD_FORK_BLOCK, apply the following changes:
+ 
+
+From 5221762ec3ff024798f63ae296d2acd2547646ab Mon Sep 17 00:00:00 2001
+From: Talha Cross <47772477+soc1c@users.noreply.github.com>
+Date: Fri, 21 Feb 2020 15:45:00 +0100
+Subject: [PATCH 3/4] ecip-1086: reject sload testnet fix and pull aztlan
+
+---
+ _specs/ecip-1086.md | 2 +-
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+
+diff --git a/_specs/ecip-1086.md b/_specs/ecip-1086.md
+index 9214cb17..3b268517 100644
+--- a/_specs/ecip-1086.md
++++ b/_specs/ecip-1086.md
+@@ -2,7 +2,7 @@
+ lang: en
+ ecip: 1086
+ title: SLOAD Gas Patch for the Classic Testnets
+-status: Draft
++status: Reject
+ type: Standards Track
+ category: Core
+ author: Talha Cross <no-reply@soc1.cz>
+
+From d967e0b9697c5ab2132e54533f63a780d4bec16c Mon Sep 17 00:00:00 2001
+From: Talha Cross <47772477+soc1c@users.noreply.github.com>
+Date: Fri, 21 Feb 2020 15:46:33 +0100
+Subject: [PATCH 4/4] Update ecip-1086.md
+
+---
+ _specs/ecip-1086.md | 4 ++--
+ 1 file changed, 2 insertions(+), 2 deletions(-)
+
+diff --git a/_specs/ecip-1086.md b/_specs/ecip-1086.md
+index 3b268517..f41af446 100644
+--- a/_specs/ecip-1086.md
++++ b/_specs/ecip-1086.md
+@@ -38,8 +38,8 @@ A subsequent protocol upgrade disabling [EIP-2200](https://eips.ethereum.org/EIP
+ 
+ This document proposes the following `BLOCK_NUMBER` at which to implement these changes in the Classic test networks:
+ 
+-- `778_507` on _Mordor_ Classic PoW-testnet (Jan 30th, 2020)
+-- `2_058_191` on _Kotti_ Classic PoA-testnet (Feb 12th, 2020)
++- ~~`778_507` on _Mordor_ Classic PoW-testnet (Jan 30th, 2020)~~
++- ~~`2_058_191` on _Kotti_ Classic PoA-testnet (Feb 12th, 2020)~~
+ 
+ 
+ ### Rationale
