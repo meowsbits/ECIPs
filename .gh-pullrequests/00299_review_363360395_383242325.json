@@ -1,0 +1,50 @@
+{
+    "id": 383242325,
+    "node_id": "MDI0OlB1bGxSZXF1ZXN0UmV2aWV3Q29tbWVudDM4MzI0MjMyNQ==",
+    "url": "https://api.github.com/repos/ethereumclassic/ECIPs/pulls/comments/383242325",
+    "pull_request_review_id": 363360395,
+    "diff_hunk": "@@ -0,0 +1,79 @@\n+---\n+lang: en\n+ecip: 1088\n+title: Phoenix EVM and Protocol Upgrades (Vanilla Option)\n+status: Draft\n+type: Meta\n+author: /raw PONG _GHMoaCXLT (@q9f)\n+created: 2020-02-24\n+discussions-to: https://github.com/ethereumclassic/ECIPs/issues/262\n+---\n+\n+### Simple Summary\n+\n+Enable the outstanding Ethereum Foundation _Istanbul_ network protocol upgrades on the Ethereum Classic network in a hard-fork code-named _Phoenix_ to enable maximum compatibility across these networks.\n+\n+This is the _vanilla_ option equaling to a vanilla EIP-1679 _Istanbul_ option of the Ethereum Foundation network.\n+\n+### Abstract\n+\n+Add support for a subset of protocol-impacting changes introduced in the Ethereum Foundation (ETH) network via the _Istanbul_ hardforks. The proposed changes for Ethereum Classic's _Phoenix_ upgrade include:\n+\n+- Add Blake2 compression function `F` precompile\n+- Reduce alt_bn128 precompile gas costs\n+- Add ChainID opcode\n+- Repricing for trie-size-dependent opcodes\n+- Calldata gas cost reduction\n+- Rebalance net-metered SSTORE gas cost with consideration of SLOAD gas cost change\n+\n+This document proposes the following blocks at which to implement these changes in the Classic networks:\n+\n+- `999_983` on Mordor Classic PoW-testnet (April, 2020)",
+    "path": "_specs/ecip-1088.md",
+    "position": 31,
+    "original_position": 31,
+    "commit_id": "9fe6436da16c3071dfa1eb5a45db4bfdf83e9824",
+    "user": {
+      "login": "q9f",
+      "id": 58883403,
+      "node_id": "MDQ6VXNlcjU4ODgzNDAz",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/58883403?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/q9f",
+      "html_url": "https://github.com/q9f",
+      "followers_url": "https://api.github.com/users/q9f/followers",
+      "following_url": "https://api.github.com/users/q9f/following{/other_user}",
+      "gists_url": "https://api.github.com/users/q9f/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/q9f/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/q9f/subscriptions",
+      "organizations_url": "https://api.github.com/users/q9f/orgs",
+      "repos_url": "https://api.github.com/users/q9f/repos",
+      "events_url": "https://api.github.com/users/q9f/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/q9f/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "body": "what's the reasoning? having a higher block number gives is much more time preparing clients and releases. having a block number that lives in the past forces us to push through consensus and client releases.",
+    "created_at": "2020-02-24T12:41:19Z",
+    "updated_at": "2020-02-24T12:41:19Z",
+    "html_url": "https://github.com/ethereumclassic/ECIPs/pull/299#discussion_r383242325",
+    "pull_request_url": "https://api.github.com/repos/ethereumclassic/ECIPs/pulls/299",
+    "author_association": "NONE",
+    "_links": {
+      "self": {
+        "href": "https://api.github.com/repos/ethereumclassic/ECIPs/pulls/comments/383242325"
+      },
+      "html": {
+        "href": "https://github.com/ethereumclassic/ECIPs/pull/299#discussion_r383242325"
+      },
+      "pull_request": {
+        "href": "https://api.github.com/repos/ethereumclassic/ECIPs/pulls/299"
+      }
+    },
+    "original_commit_id": "9fe6436da16c3071dfa1eb5a45db4bfdf83e9824",
+    "in_reply_to_id": 383238677
+  }
