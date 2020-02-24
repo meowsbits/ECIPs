@@ -1,0 +1,43 @@
+{
+    "url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/comments/590599445",
+    "html_url": "https://github.com/ethereumclassic/ECIPs/issues/14#issuecomment-590599445",
+    "issue_url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/14",
+    "id": 590599445,
+    "node_id": "MDEyOklzc3VlQ29tbWVudDU5MDU5OTQ0NQ==",
+    "user": {
+      "login": "BelfordZ",
+      "id": 1787231,
+      "node_id": "MDQ6VXNlcjE3ODcyMzE=",
+      "avatar_url": "https://avatars0.githubusercontent.com/u/1787231?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/BelfordZ",
+      "html_url": "https://github.com/BelfordZ",
+      "followers_url": "https://api.github.com/users/BelfordZ/followers",
+      "following_url": "https://api.github.com/users/BelfordZ/following{/other_user}",
+      "gists_url": "https://api.github.com/users/BelfordZ/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/BelfordZ/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/BelfordZ/subscriptions",
+      "organizations_url": "https://api.github.com/users/BelfordZ/orgs",
+      "repos_url": "https://api.github.com/users/BelfordZ/repos",
+      "events_url": "https://api.github.com/users/BelfordZ/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/BelfordZ/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "created_at": "2020-02-24T23:22:38Z",
+    "updated_at": "2020-02-24T23:22:38Z",
+    "author_association": "MEMBER",
+    "body": "Gas limit is something that is meant to be adjusted by miners. Sadly, there is no 'defacto' strategy for increasing or decreasing gasLimit, and so miners generally seem to not care.\r\n\r\nLet's close this issue, and centre future proposals around algorithms and strategies for decreasing or increasing block gasLimit",
+    "reactions": {
+      "url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/comments/590599445/reactions",
+      "total_count": 0,
+      "+1": 0,
+      "-1": 0,
+      "laugh": 0,
+      "hooray": 0,
+      "confused": 0,
+      "heart": 0,
+      "rocket": 0,
+      "eyes": 0
+    }
+  }
