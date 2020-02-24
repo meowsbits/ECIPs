@@ -1,7 +1,7 @@
 From c835a35be816d6cb49653d5d10dce1d9465aab12 Mon Sep 17 00:00:00 2001
 From: /raw PONG _GHMoaCXLT <58883403+q9f@users.noreply.github.com>
 Date: Mon, 24 Feb 2020 11:37:19 +0100
-Subject: [PATCH] ECIP-1089: Phoenix EVM Upgrade (Classic Option)
+Subject: [PATCH 1/2] ECIP-1089: Phoenix EVM Upgrade (Classic Option)
 
 ---
  _specs/ecip-1089.md | 79 +++++++++++++++++++++++++++++++++++++++++++++
@@ -93,3 +93,33 @@ index 00000000..2d0261cc
 +## Copyright
 +
 +Copyright and related rights waived via [CC0](https://creativecommons.org/publicdomain/zero/1.0/).
+
+From 2a53103988ff6d0a7bc4bb16c14653531a231694 Mon Sep 17 00:00:00 2001
+From: /raw PONG _GHMoaCXLT <58883403+q9f@users.noreply.github.com>
+Date: Mon, 24 Feb 2020 12:10:58 +0100
+Subject: [PATCH 2/2] Add EIP-1283 to ECIP-1089
+
+---
+ _specs/ecip-1089.md | 2 ++
+ 1 file changed, 2 insertions(+)
+
+diff --git a/_specs/ecip-1089.md b/_specs/ecip-1089.md
+index 2d0261cc..49d91fee 100644
+--- a/_specs/ecip-1089.md
++++ b/_specs/ecip-1089.md
+@@ -21,6 +21,7 @@ Add support for a subset of protocol-impacting changes introduced in the Ethereu
+ 
+ - Add Blake2 compression function `F` precompile
+ - Reduce alt_bn128 precompile gas costs
++- Net gas metering for SSTORE without dirty maps
+ - Add ChainID opcode
+ - Disable SSTORE with gasleft lower than call stipend
+ - Calldata gas cost reduction
+@@ -44,6 +45,7 @@ Technical specifications for each EIP can be found at those documents respective
+ 
+ - [EIP-152](https://eips.ethereum.org/EIPS/eip-152): Add Blake2 compression function `F` precompile
+ - [EIP-1108](https://eips.ethereum.org/EIPS/eip-1108): Reduce alt_bn128 precompile gas costs
++- [EIP-1283](https://eips.ethereum.org/EIPS/eip-1283): Net gas metering for SSTORE without dirty maps
+ - [EIP-1344](https://eips.ethereum.org/EIPS/eip-1344): Add ChainID opcode
+ - [EIP-1706](https://eips.ethereum.org/EIPS/eip-1706): Disable SSTORE with gasleft lower than call stipend
+ - [EIP-2028](https://eips.ethereum.org/EIPS/eip-2028): Calldata gas cost reduction
