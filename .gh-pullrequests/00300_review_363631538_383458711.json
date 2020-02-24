@@ -28,9 +28,9 @@
       "type": "User",
       "site_admin": false
     },
-    "body": "- Do not modify opcode `TIMESTAMP` to opcode `KITTEN` at `0x42`, despite popular opinion.",
+    "body": "- Do not modify opcode `TIMESTAMP` to opcode `FREE_KITTEN` at `0x42`, despite popular opinion.",
     "created_at": "2020-02-24T19:11:44Z",
-    "updated_at": "2020-02-24T19:11:53Z",
+    "updated_at": "2020-02-24T19:12:16Z",
     "html_url": "https://github.com/ethereumclassic/ECIPs/pull/300#discussion_r383458711",
     "pull_request_url": "https://api.github.com/repos/ethereumclassic/ECIPs/pulls/300",
     "author_association": "MEMBER",
