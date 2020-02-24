@@ -1,0 +1,49 @@
+{
+    "id": 383204804,
+    "node_id": "MDI0OlB1bGxSZXF1ZXN0UmV2aWV3Q29tbWVudDM4MzIwNDgwNA==",
+    "url": "https://api.github.com/repos/ethereumclassic/ECIPs/pulls/comments/383204804",
+    "pull_request_review_id": 363313375,
+    "diff_hunk": "@@ -0,0 +1,79 @@\n+---\n+lang: en\n+ecip: 1089\n+title: Phoenix EVM and Protocol Upgrades (Classic Option)\n+status: Draft\n+type: Meta\n+author: /raw PONG _GHMoaCXLT (@q9f)\n+created: 2020-02-24\n+discussions-to: https://github.com/ethereumclassic/ECIPs/issues/262\n+---\n+\n+### Simple Summary\n+\n+Enable the outstanding Ethereum Foundation _Istanbul_ network protocol upgrades on the Ethereum Classic network in a hard-fork code-named _Phoenix_ to enable maximum compatibility across these networks.\n+\n+This is the _classic_ option equaling to an _Istanbul_ option without gas repricing.\n+\n+### Abstract\n+\n+Add support for a subset of protocol-impacting changes introduced in the Ethereum Foundation (ETH) network via the _Istanbul_ hardforks. The proposed changes for Ethereum Classic's _Phoenix_ upgrade include:\n+\n+- Add Blake2 compression function `F` precompile\n+- Reduce alt_bn128 precompile gas costs\n+- Add ChainID opcode\n+- Disable SSTORE with gasleft lower than call stipend\n+- Calldata gas cost reduction\n+- Add SELFBALANCE opcode\n+\n+This document proposes the following blocks at which to implement these changes in the Classic networks:\n+\n+- `999_983` on Mordor Classic PoW-testnet (April, 2020)\n+- `2_200_013` on Kotti Classic PoA-testnet (April, 2020)\n+- `10_500_839` on Ethereum Classic PoW-mainnet (June 10th, 2020)\n+\n+For more information on the opcodes and their respective EIPs and implementations, please see the _Specification_ section of this document.\n+\n+### Motivation\n+\n+To enhance the Ethereum Virtual Machine's (EVM) capabilities, various opcodes shall be added to the Ethereum Classic networks, all of which have been in use on the Ethereum Foundation networks since end of 2019.\n+\n+### Specification\n+\n+Technical specifications for each EIP can be found at those documents respectively:\n+\n+- [EIP-152](https://eips.ethereum.org/EIPS/eip-152): Add Blake2 compression function `F` precompile\n+- [EIP-1108](https://eips.ethereum.org/EIPS/eip-1108): Reduce alt_bn128 precompile gas costs\n+- [EIP-1344](https://eips.ethereum.org/EIPS/eip-1344): Add ChainID opcode\n+- [EIP-1706](https://eips.ethereum.org/EIPS/eip-1706): Disable SSTORE with gasleft lower than call stipend",
+    "path": "_specs/ecip-1089.md",
+    "position": 48,
+    "original_position": 48,
+    "commit_id": "c835a35be816d6cb49653d5d10dce1d9465aab12",
+    "user": {
+      "login": "meowsbits",
+      "id": 45600330,
+      "node_id": "MDQ6VXNlcjQ1NjAwMzMw",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/45600330?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/meowsbits",
+      "html_url": "https://github.com/meowsbits",
+      "followers_url": "https://api.github.com/users/meowsbits/followers",
+      "following_url": "https://api.github.com/users/meowsbits/following{/other_user}",
+      "gists_url": "https://api.github.com/users/meowsbits/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/meowsbits/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/meowsbits/subscriptions",
+      "organizations_url": "https://api.github.com/users/meowsbits/orgs",
+      "repos_url": "https://api.github.com/users/meowsbits/repos",
+      "events_url": "https://api.github.com/users/meowsbits/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/meowsbits/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "body": "Is this accidentally missing EIP1283? \r\n(See https://github.com/ethereumclassic/ECIPs/blob/master/_specs/ecip-1078.md#specification).",
+    "created_at": "2020-02-24T11:09:15Z",
+    "updated_at": "2020-02-24T11:09:15Z",
+    "html_url": "https://github.com/ethereumclassic/ECIPs/pull/300#discussion_r383204804",
+    "pull_request_url": "https://api.github.com/repos/ethereumclassic/ECIPs/pulls/300",
+    "author_association": "MEMBER",
+    "_links": {
+      "self": {
+        "href": "https://api.github.com/repos/ethereumclassic/ECIPs/pulls/comments/383204804"
+      },
+      "html": {
+        "href": "https://github.com/ethereumclassic/ECIPs/pull/300#discussion_r383204804"
+      },
+      "pull_request": {
+        "href": "https://api.github.com/repos/ethereumclassic/ECIPs/pulls/300"
+      }
+    },
+    "original_commit_id": "c835a35be816d6cb49653d5d10dce1d9465aab12"
+  }
