@@ -1,0 +1,43 @@
+{
+    "url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/comments/590261441",
+    "html_url": "https://github.com/ethereumclassic/ECIPs/issues/298#issuecomment-590261441",
+    "issue_url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/298",
+    "id": 590261441,
+    "node_id": "MDEyOklzc3VlQ29tbWVudDU5MDI2MTQ0MQ==",
+    "user": {
+      "login": "q9f",
+      "id": 58883403,
+      "node_id": "MDQ6VXNlcjU4ODgzNDAz",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/58883403?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/q9f",
+      "html_url": "https://github.com/q9f",
+      "followers_url": "https://api.github.com/users/q9f/followers",
+      "following_url": "https://api.github.com/users/q9f/following{/other_user}",
+      "gists_url": "https://api.github.com/users/q9f/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/q9f/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/q9f/subscriptions",
+      "organizations_url": "https://api.github.com/users/q9f/orgs",
+      "repos_url": "https://api.github.com/users/q9f/repos",
+      "events_url": "https://api.github.com/users/q9f/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/q9f/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "created_at": "2020-02-24T10:45:21Z",
+    "updated_at": "2020-02-24T10:45:21Z",
+    "author_association": "NONE",
+    "body": "> Redoing testnets means we:\r\n>   * Restart them from scratch (IMO less favourable)\r\n>   * 51% attack them because theres very little hashrate and just apply the changes that way (favourable)\r\n\r\nThis is both overdoing it. We can just pull the Aztlan config from the testnets and continue mining the Agharta chain till we hit the new Phoenix block. This wouldn't require neither rebooting them nor 51%ing them.",
+    "reactions": {
+      "url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/comments/590261441/reactions",
+      "total_count": 0,
+      "+1": 0,
+      "-1": 0,
+      "laugh": 0,
+      "hooray": 0,
+      "confused": 0,
+      "heart": 0,
+      "rocket": 0,
+      "eyes": 0
+    }
+  }
