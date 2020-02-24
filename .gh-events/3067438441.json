@@ -1,7 +1,7 @@
 {
-    "id": 3067381643,
-    "node_id": "MDExOkNsb3NlZEV2ZW50MzA2NzM4MTY0Mw==",
-    "url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/events/3067381643",
+    "id": 3067438441,
+    "node_id": "MDE0Ok1lbnRpb25lZEV2ZW50MzA2NzQzODQ0MQ==",
+    "url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/events/3067438441",
     "actor": {
       "login": "BelfordZ",
       "id": 1787231,
@@ -22,10 +22,10 @@
       "type": "User",
       "site_admin": false
     },
-    "event": "closed",
+    "event": "mentioned",
     "commit_id": null,
     "commit_url": null,
-    "created_at": "2020-02-24T23:25:34Z",
+    "created_at": "2020-02-24T23:53:31Z",
     "issue": {
       "url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/283",
       "repository_url": "https://api.github.com/repos/ethereumclassic/ECIPs",
