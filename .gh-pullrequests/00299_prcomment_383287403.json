@@ -1,0 +1,56 @@
+{
+    "url": "https://api.github.com/repos/ethereumclassic/ECIPs/pulls/comments/383287403",
+    "pull_request_review_id": 363417144,
+    "id": 383287403,
+    "node_id": "MDI0OlB1bGxSZXF1ZXN0UmV2aWV3Q29tbWVudDM4MzI4NzQwMw==",
+    "diff_hunk": "@@ -0,0 +1,79 @@\n+---\n+lang: en\n+ecip: 1088\n+title: Phoenix EVM and Protocol Upgrades (Vanilla Option)\n+status: Draft\n+type: Meta\n+author: /raw PONG _GHMoaCXLT (@q9f)\n+created: 2020-02-24\n+discussions-to: https://github.com/ethereumclassic/ECIPs/issues/262\n+---\n+\n+### Simple Summary\n+\n+Enable the outstanding Ethereum Foundation _Istanbul_ network protocol upgrades on the Ethereum Classic network in a hard-fork code-named _Phoenix_ to enable maximum compatibility across these networks.\n+\n+This is the _vanilla_ option equaling to a vanilla EIP-1679 _Istanbul_ option of the Ethereum Foundation network.\n+\n+### Abstract\n+\n+Add support for a subset of protocol-impacting changes introduced in the Ethereum Foundation (ETH) network via the _Istanbul_ hardforks. The proposed changes for Ethereum Classic's _Phoenix_ upgrade include:\n+\n+- Add Blake2 compression function `F` precompile\n+- Reduce alt_bn128 precompile gas costs\n+- Add ChainID opcode\n+- Repricing for trie-size-dependent opcodes\n+- Calldata gas cost reduction\n+- Rebalance net-metered SSTORE gas cost with consideration of SLOAD gas cost change\n+\n+This document proposes the following blocks at which to implement these changes in the Classic networks:\n+\n+- `999_983` on Mordor Classic PoW-testnet (April, 2020)",
+    "path": "_specs/ecip-1088.md",
+    "position": 31,
+    "original_position": 31,
+    "commit_id": "9fe6436da16c3071dfa1eb5a45db4bfdf83e9824",
+    "original_commit_id": "9fe6436da16c3071dfa1eb5a45db4bfdf83e9824",
+    "user": {
+      "login": "meowsbits",
+      "id": 45600330,
+      "node_id": "MDQ6VXNlcjQ1NjAwMzMw",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/45600330?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/meowsbits",
+      "html_url": "https://github.com/meowsbits",
+      "followers_url": "https://api.github.com/users/meowsbits/followers",
+      "following_url": "https://api.github.com/users/meowsbits/following{/other_user}",
+      "gists_url": "https://api.github.com/users/meowsbits/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/meowsbits/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/meowsbits/subscriptions",
+      "organizations_url": "https://api.github.com/users/meowsbits/orgs",
+      "repos_url": "https://api.github.com/users/meowsbits/repos",
+      "events_url": "https://api.github.com/users/meowsbits/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/meowsbits/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "body": "`778_507` is the latest definitely-viable number. The number may be able to be higher, depending on what was run on the network. If no one used or interacted with opcodes or pricing modified by the Aztlan+/PhoenixFix configurations, the block number may be able to be later. ",
+    "created_at": "2020-02-24T14:14:36Z",
+    "updated_at": "2020-02-24T14:14:37Z",
+    "html_url": "https://github.com/ethereumclassic/ECIPs/pull/299#discussion_r383287403",
+    "pull_request_url": "https://api.github.com/repos/ethereumclassic/ECIPs/pulls/299",
+    "author_association": "MEMBER",
+    "_links": {
+      "self": {
+        "href": "https://api.github.com/repos/ethereumclassic/ECIPs/pulls/comments/383287403"
+      },
+      "html": {
+        "href": "https://github.com/ethereumclassic/ECIPs/pull/299#discussion_r383287403"
+      },
+      "pull_request": {
+        "href": "https://api.github.com/repos/ethereumclassic/ECIPs/pulls/299"
+      }
+    },
+    "start_line": null,
+    "original_start_line": null,
+    "start_side": null,
+    "line": 31,
+    "original_line": 31,
+    "side": "RIGHT",
+    "in_reply_to_id": 383238677
+  }
