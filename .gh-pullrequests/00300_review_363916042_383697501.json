@@ -1,0 +1,50 @@
+{
+    "id": 383697501,
+    "node_id": "MDI0OlB1bGxSZXF1ZXN0UmV2aWV3Q29tbWVudDM4MzY5NzUwMQ==",
+    "url": "https://api.github.com/repos/ethereumclassic/ECIPs/pulls/comments/383697501",
+    "pull_request_review_id": 363916042,
+    "diff_hunk": "@@ -0,0 +1,81 @@\n+---\n+lang: en\n+ecip: 1089\n+title: Phoenix EVM and Protocol Upgrades (Classic Option)\n+status: Draft\n+type: Meta\n+author: /raw PONG _GHMoaCXLT (@q9f)\n+created: 2020-02-24\n+discussions-to: https://github.com/ethereumclassic/ECIPs/issues/262\n+---\n+\n+### Simple Summary\n+\n+Enable the outstanding Ethereum Foundation _Istanbul_ network protocol upgrades on the Ethereum Classic network in a hard-fork code-named _Phoenix_ to enable maximum compatibility across these networks.\n+\n+This is the _classic_ option equaling to an _Istanbul_ option without gas repricing.\n+\n+### Abstract\n+\n+Add support for a subset of protocol-impacting changes introduced in the Ethereum Foundation (ETH) network via the _Istanbul_ hardforks. The proposed changes for Ethereum Classic's _Phoenix_ upgrade include:\n+\n+- Add Blake2 compression function `F` precompile\n+- Reduce alt_bn128 precompile gas costs\n+- Net gas metering for SSTORE without dirty maps\n+- Add ChainID opcode\n+- Disable SSTORE with gasleft lower than call stipend\n+- Calldata gas cost reduction\n+- Add SELFBALANCE opcode",
+    "path": "_specs/ecip-1089.md",
+    "position": 28,
+    "original_position": 28,
+    "commit_id": "2a53103988ff6d0a7bc4bb16c14653531a231694",
+    "user": {
+      "login": "q9f",
+      "id": 58883403,
+      "node_id": "MDQ6VXNlcjU4ODgzNDAz",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/58883403?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/q9f",
+      "html_url": "https://github.com/q9f",
+      "followers_url": "https://api.github.com/users/q9f/followers",
+      "following_url": "https://api.github.com/users/q9f/following{/other_user}",
+      "gists_url": "https://api.github.com/users/q9f/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/q9f/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/q9f/subscriptions",
+      "organizations_url": "https://api.github.com/users/q9f/orgs",
+      "repos_url": "https://api.github.com/users/q9f/repos",
+      "events_url": "https://api.github.com/users/q9f/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/q9f/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "body": "This just sums up the included specifications. I don't know how to improve this section but happy for any suggestions.",
+    "created_at": "2020-02-25T07:24:32Z",
+    "updated_at": "2020-02-25T07:24:32Z",
+    "html_url": "https://github.com/ethereumclassic/ECIPs/pull/300#discussion_r383697501",
+    "pull_request_url": "https://api.github.com/repos/ethereumclassic/ECIPs/pulls/300",
+    "author_association": "NONE",
+    "_links": {
+      "self": {
+        "href": "https://api.github.com/repos/ethereumclassic/ECIPs/pulls/comments/383697501"
+      },
+      "html": {
+        "href": "https://github.com/ethereumclassic/ECIPs/pull/300#discussion_r383697501"
+      },
+      "pull_request": {
+        "href": "https://api.github.com/repos/ethereumclassic/ECIPs/pulls/300"
+      }
+    },
+    "original_commit_id": "2a53103988ff6d0a7bc4bb16c14653531a231694",
+    "in_reply_to_id": 383443988
+  }
