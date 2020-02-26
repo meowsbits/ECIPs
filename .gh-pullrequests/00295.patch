@@ -1,7 +1,7 @@
 From 823ac0e2f05fa3c731421c0742750e76ba883138 Mon Sep 17 00:00:00 2001
 From: meows <b5c6@protonmail.com>
 Date: Thu, 20 Feb 2020 07:28:04 -0500
-Subject: [PATCH 01/10] draft(ECIP1087): draft way to unfuck the Aztlan+Phoenix
+Subject: [PATCH 01/11] draft(ECIP1087): draft way to unfuck the Aztlan+Phoenix
  testnet situation
 
 Signed-off-by: meows <b5c6@protonmail.com>
@@ -76,7 +76,7 @@ index 00000000..cf1f0b20
 From 63b71c111a50ad066f641136a9707336018a3609 Mon Sep 17 00:00:00 2001
 From: meows <b5c6@protonmail.com>
 Date: Thu, 20 Feb 2020 07:35:29 -0500
-Subject: [PATCH 02/10] typo(ECIP1087): fix
+Subject: [PATCH 02/11] typo(ECIP1087): fix
 
 Signed-off-by: meows <b5c6@protonmail.com>
 ---
@@ -100,7 +100,7 @@ index cf1f0b20..60e97b5d 100644
 From 00baa61510bec38b591b32685af65f4986f3b022 Mon Sep 17 00:00:00 2001
 From: meows <b5c6@protonmail.com>
 Date: Thu, 20 Feb 2020 07:37:20 -0500
-Subject: [PATCH 03/10] draft(ECIP1087): more detailed abstract
+Subject: [PATCH 03/11] draft(ECIP1087): more detailed abstract
 
 Signed-off-by: meows <b5c6@protonmail.com>
 ---
@@ -124,7 +124,7 @@ index 60e97b5d..3378ed38 100644
 From 6d8f5dce4bffedd9d4c701936f986bbebb2d97ce Mon Sep 17 00:00:00 2001
 From: meows <b5c6@protonmail.com>
 Date: Thu, 20 Feb 2020 07:56:24 -0500
-Subject: [PATCH 04/10] draft(ECIP1087): improve wording, rationale
+Subject: [PATCH 04/11] draft(ECIP1087): improve wording, rationale
 
 Signed-off-by: meows <b5c6@protonmail.com>
 ---
@@ -197,7 +197,7 @@ index 3378ed38..98efe938 100644
 From 62c6cc682c5ba3248fdde119490fd9e424336f32 Mon Sep 17 00:00:00 2001
 From: meows <b5c6@protonmail.com>
 Date: Thu, 20 Feb 2020 07:57:51 -0500
-Subject: [PATCH 05/10] draft(ECIP1087): improve abstract
+Subject: [PATCH 05/11] draft(ECIP1087): improve abstract
 
 Signed-off-by: meows <b5c6@protonmail.com>
 ---
@@ -221,7 +221,7 @@ index 98efe938..3d3c9902 100644
 From c6076e0db66766ea840798b4b527547b7f01b5c8 Mon Sep 17 00:00:00 2001
 From: meows <b5c6@protonmail.com>
 Date: Thu, 20 Feb 2020 08:24:34 -0500
-Subject: [PATCH 06/10] draft(ECIP1087): note that eip2200 won't event actually
+Subject: [PATCH 06/11] draft(ECIP1087): note that eip2200 won't event actually
  be enabled on etc mainnet
 
 Signed-off-by: meows <b5c6@protonmail.com>
@@ -246,7 +246,7 @@ index 3d3c9902..e1884d05 100644
 From 635b4ff84111667846406f07fc40ece878ce7c98 Mon Sep 17 00:00:00 2001
 From: meows <b5c6@protonmail.com>
 Date: Thu, 20 Feb 2020 08:26:21 -0500
-Subject: [PATCH 07/10] draft(ECIP1087): use a colon
+Subject: [PATCH 07/11] draft(ECIP1087): use a colon
 
 Signed-off-by: meows <b5c6@protonmail.com>
 ---
@@ -270,7 +270,7 @@ index e1884d05..e6f3ba75 100644
 From a57f2e8ea521c1de7105b870065be4e7ffbbe9b6 Mon Sep 17 00:00:00 2001
 From: meows <b5c6@protonmail.com>
 Date: Thu, 20 Feb 2020 08:28:10 -0500
-Subject: [PATCH 08/10] draft(ECIP1087): minor words mod
+Subject: [PATCH 08/11] draft(ECIP1087): minor words mod
 
 Signed-off-by: meows <b5c6@protonmail.com>
 ---
@@ -294,7 +294,7 @@ index e6f3ba75..438b9664 100644
 From 6e30fd43c1d3d555ad5de4add288b537a1c0bf0c Mon Sep 17 00:00:00 2001
 From: meows <b5c6@protonmail.com>
 Date: Thu, 20 Feb 2020 08:30:11 -0500
-Subject: [PATCH 09/10] draft(ECIP1087): make title more descriptive and
+Subject: [PATCH 09/11] draft(ECIP1087): make title more descriptive and
  referential kind of
 
 Signed-off-by: meows <b5c6@protonmail.com>
@@ -318,7 +318,7 @@ index 438b9664..f58dc2b9 100644
 From 75673d1e4e7a69c4b6f574450eea40549ab83757 Mon Sep 17 00:00:00 2001
 From: meows <b5c6@protonmail.com>
 Date: Thu, 20 Feb 2020 12:22:07 -0500
-Subject: [PATCH 10/10] draft(ECIP1087): require the required ECIPS
+Subject: [PATCH 10/11] draft(ECIP1087): require the required ECIPS
 
 Signed-off-by: meows <b5c6@protonmail.com>
 ---
@@ -337,3 +337,27 @@ index f58dc2b9..ae82aaf8 100644
  ---
  
  ### Abstract
+
+From c4d67b98e9ba2e030219026dd430ee6456f89cd8 Mon Sep 17 00:00:00 2001
+From: meows <b5c6@protonmail.com>
+Date: Wed, 26 Feb 2020 14:23:57 -0500
+Subject: [PATCH 11/11] status(ECIP1087): Withdrawn
+
+Signed-off-by: meows <b5c6@protonmail.com>
+---
+ _specs/ecip-1087.md | 2 +-
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+
+diff --git a/_specs/ecip-1087.md b/_specs/ecip-1087.md
+index ae82aaf8..46b0971e 100644
+--- a/_specs/ecip-1087.md
++++ b/_specs/ecip-1087.md
+@@ -2,7 +2,7 @@
+ ecip: 1087
+ title: ECIP1061/ECIP1078/ECIP1086 on Mordor Testnet (with rollback)
+ discussions-to: TBD
+-status: Draft
++status: Withdrawn
+ type: Standards Track (Core)
+ created: 2020-02-20
+ license: Apache-2.0
