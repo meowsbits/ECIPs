@@ -1,0 +1,66 @@
+{
+    "url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/302",
+    "repository_url": "https://api.github.com/repos/ethereumclassic/ECIPs",
+    "labels_url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/302/labels{/name}",
+    "comments_url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/302/comments",
+    "events_url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/302/events",
+    "html_url": "https://github.com/ethereumclassic/ECIPs/pull/302",
+    "id": 571614927,
+    "node_id": "MDExOlB1bGxSZXF1ZXN0MzgwNDY5NTc4",
+    "number": 302,
+    "title": "fix(Gemfile.lock): bundle update",
+    "user": {
+      "login": "meowsbits",
+      "id": 45600330,
+      "node_id": "MDQ6VXNlcjQ1NjAwMzMw",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/45600330?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/meowsbits",
+      "html_url": "https://github.com/meowsbits",
+      "followers_url": "https://api.github.com/users/meowsbits/followers",
+      "following_url": "https://api.github.com/users/meowsbits/following{/other_user}",
+      "gists_url": "https://api.github.com/users/meowsbits/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/meowsbits/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/meowsbits/subscriptions",
+      "organizations_url": "https://api.github.com/users/meowsbits/orgs",
+      "repos_url": "https://api.github.com/users/meowsbits/repos",
+      "events_url": "https://api.github.com/users/meowsbits/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/meowsbits/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "labels": [
+
+    ],
+    "state": "open",
+    "locked": false,
+    "assignee": null,
+    "assignees": [
+
+    ],
+    "milestone": null,
+    "comments": 0,
+    "created_at": "2020-02-26T19:46:04Z",
+    "updated_at": "2020-02-26T19:46:04Z",
+    "closed_at": null,
+    "author_association": "MEMBER",
+    "pull_request": {
+      "url": "https://api.github.com/repos/ethereumclassic/ECIPs/pulls/302",
+      "html_url": "https://github.com/ethereumclassic/ECIPs/pull/302",
+      "diff_url": "https://github.com/ethereumclassic/ECIPs/pull/302.diff",
+      "patch_url": "https://github.com/ethereumclassic/ECIPs/pull/302.patch"
+    },
+    "body": "Should resolve reported vulnerability with nokogiri < 1.10.8\r\n\r\nI just ran `bundle update` and :crossed_fingers: \r\n\r\nSigned-off-by: meows <b5c6@protonmail.com>",
+    "reactions": {
+      "url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/302/reactions",
+      "total_count": 0,
+      "+1": 0,
+      "-1": 0,
+      "laugh": 0,
+      "hooray": 0,
+      "confused": 0,
+      "heart": 0,
+      "rocket": 0,
+      "eyes": 0
+    }
+  }
