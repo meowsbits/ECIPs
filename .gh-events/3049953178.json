@@ -133,11 +133,11 @@
           "type": "User",
           "site_admin": false
         },
-        "open_issues": 4,
-        "closed_issues": 21,
+        "open_issues": 3,
+        "closed_issues": 22,
         "state": "open",
         "created_at": "2019-11-27T20:32:02Z",
-        "updated_at": "2020-02-21T14:51:25Z",
+        "updated_at": "2020-02-26T15:16:30Z",
         "due_on": null,
         "closed_at": null
       },
