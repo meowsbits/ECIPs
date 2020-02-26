@@ -1,0 +1,43 @@
+{
+    "url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/comments/591438459",
+    "html_url": "https://github.com/ethereumclassic/ECIPs/pull/300#issuecomment-591438459",
+    "issue_url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/300",
+    "id": 591438459,
+    "node_id": "MDEyOklzc3VlQ29tbWVudDU5MTQzODQ1OQ==",
+    "user": {
+      "login": "q9f",
+      "id": 58883403,
+      "node_id": "MDQ6VXNlcjU4ODgzNDAz",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/58883403?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/q9f",
+      "html_url": "https://github.com/q9f",
+      "followers_url": "https://api.github.com/users/q9f/followers",
+      "following_url": "https://api.github.com/users/q9f/following{/other_user}",
+      "gists_url": "https://api.github.com/users/q9f/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/q9f/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/q9f/subscriptions",
+      "organizations_url": "https://api.github.com/users/q9f/orgs",
+      "repos_url": "https://api.github.com/users/q9f/repos",
+      "events_url": "https://api.github.com/users/q9f/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/q9f/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "created_at": "2020-02-26T13:57:00Z",
+    "updated_at": "2020-02-26T13:57:00Z",
+    "author_association": "NONE",
+    "body": "changes status to withdrawn as decided on the call today, ref #298 \r\n\r\nbut we should merge it anyways for the sake of documentation",
+    "reactions": {
+      "url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/comments/591438459/reactions",
+      "total_count": 0,
+      "+1": 0,
+      "-1": 0,
+      "laugh": 0,
+      "hooray": 0,
+      "confused": 0,
+      "heart": 0,
+      "rocket": 0,
+      "eyes": 0
+    }
+  }

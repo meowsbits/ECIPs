@@ -7,7 +7,7 @@
     "path": "_specs/ecip-1089.md",
     "position": 28,
     "original_position": 28,
-    "commit_id": "2a53103988ff6d0a7bc4bb16c14653531a231694",
+    "commit_id": "5f59493da7b2a8269994c68e726548677618a323",
     "original_commit_id": "2a53103988ff6d0a7bc4bb16c14653531a231694",
     "user": {
       "login": "GregTheGreek",
@@ -31,7 +31,7 @@
     },
     "body": "My opinion is that if we reference the EIP, and modify it, we should bullet point whats changing no?",
     "created_at": "2020-02-25T17:04:24Z",
-    "updated_at": "2020-02-25T17:04:24Z",
+    "updated_at": "2020-02-26T13:55:58Z",
     "html_url": "https://github.com/ethereumclassic/ECIPs/pull/300#discussion_r384004329",
     "pull_request_url": "https://api.github.com/repos/ethereumclassic/ECIPs/pulls/300",
     "author_association": "NONE",

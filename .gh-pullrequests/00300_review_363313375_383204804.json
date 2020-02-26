@@ -7,7 +7,7 @@
     "path": "_specs/ecip-1089.md",
     "position": 50,
     "original_position": 48,
-    "commit_id": "2a53103988ff6d0a7bc4bb16c14653531a231694",
+    "commit_id": "5f59493da7b2a8269994c68e726548677618a323",
     "user": {
       "login": "meowsbits",
       "id": 45600330,
@@ -30,7 +30,7 @@
     },
     "body": "Is this accidentally missing EIP1283? \r\n(See https://github.com/ethereumclassic/ECIPs/blob/master/_specs/ecip-1078.md#specification).",
     "created_at": "2020-02-24T11:09:15Z",
-    "updated_at": "2020-02-24T11:10:59Z",
+    "updated_at": "2020-02-26T13:55:58Z",
     "html_url": "https://github.com/ethereumclassic/ECIPs/pull/300#discussion_r383204804",
     "pull_request_url": "https://api.github.com/repos/ethereumclassic/ECIPs/pulls/300",
     "author_association": "MEMBER",
