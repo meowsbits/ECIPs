@@ -8,7 +8,7 @@
     "id": 571614927,
     "node_id": "MDExOlB1bGxSZXF1ZXN0MzgwNDY5NTc4",
     "number": 302,
-    "title": "fix(Gemfile.lock): bundle update",
+    "title": "fix(Gemfile.lock): bundle update and fix nokogiri security alert",
     "user": {
       "login": "meowsbits",
       "id": 45600330,
@@ -41,7 +41,7 @@
     "milestone": null,
     "comments": 0,
     "created_at": "2020-02-26T19:46:04Z",
-    "updated_at": "2020-02-26T19:46:04Z",
+    "updated_at": "2020-02-26T19:51:32Z",
     "closed_at": null,
     "author_association": "MEMBER",
     "pull_request": {
@@ -50,7 +50,7 @@
       "diff_url": "https://github.com/ethereumclassic/ECIPs/pull/302.diff",
       "patch_url": "https://github.com/ethereumclassic/ECIPs/pull/302.patch"
     },
-    "body": "Should resolve reported vulnerability with nokogiri < 1.10.8\r\n\r\nI just ran `bundle update` and :crossed_fingers: \r\n\r\nSigned-off-by: meows <b5c6@protonmail.com>",
+    "body": "Should resolve reported vulnerability with nokogiri < 1.10.8\r\n\r\nSigned-off-by: meows <b5c6@protonmail.com>",
     "reactions": {
       "url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/302/reactions",
       "total_count": 0,

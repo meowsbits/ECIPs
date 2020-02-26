@@ -1,0 +1,88 @@
+{
+    "id": 3075181491,
+    "node_id": "MDE3OlJlbmFtZWRUaXRsZUV2ZW50MzA3NTE4MTQ5MQ==",
+    "url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/events/3075181491",
+    "actor": {
+      "login": "meowsbits",
+      "id": 45600330,
+      "node_id": "MDQ6VXNlcjQ1NjAwMzMw",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/45600330?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/meowsbits",
+      "html_url": "https://github.com/meowsbits",
+      "followers_url": "https://api.github.com/users/meowsbits/followers",
+      "following_url": "https://api.github.com/users/meowsbits/following{/other_user}",
+      "gists_url": "https://api.github.com/users/meowsbits/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/meowsbits/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/meowsbits/subscriptions",
+      "organizations_url": "https://api.github.com/users/meowsbits/orgs",
+      "repos_url": "https://api.github.com/users/meowsbits/repos",
+      "events_url": "https://api.github.com/users/meowsbits/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/meowsbits/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "event": "renamed",
+    "commit_id": null,
+    "commit_url": null,
+    "created_at": "2020-02-26T19:49:47Z",
+    "rename": {
+      "from": "fix(Gemfile.lock): bundle update",
+      "to": "fix(Gemfile.lock): bundle update and fix nokogiri security alert"
+    },
+    "issue": {
+      "url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/302",
+      "repository_url": "https://api.github.com/repos/ethereumclassic/ECIPs",
+      "labels_url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/302/labels{/name}",
+      "comments_url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/302/comments",
+      "events_url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/302/events",
+      "html_url": "https://github.com/ethereumclassic/ECIPs/pull/302",
+      "id": 571614927,
+      "node_id": "MDExOlB1bGxSZXF1ZXN0MzgwNDY5NTc4",
+      "number": 302,
+      "title": "fix(Gemfile.lock): bundle update and fix nokogiri security alert",
+      "user": {
+        "login": "meowsbits",
+        "id": 45600330,
+        "node_id": "MDQ6VXNlcjQ1NjAwMzMw",
+        "avatar_url": "https://avatars1.githubusercontent.com/u/45600330?v=4",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/meowsbits",
+        "html_url": "https://github.com/meowsbits",
+        "followers_url": "https://api.github.com/users/meowsbits/followers",
+        "following_url": "https://api.github.com/users/meowsbits/following{/other_user}",
+        "gists_url": "https://api.github.com/users/meowsbits/gists{/gist_id}",
+        "starred_url": "https://api.github.com/users/meowsbits/starred{/owner}{/repo}",
+        "subscriptions_url": "https://api.github.com/users/meowsbits/subscriptions",
+        "organizations_url": "https://api.github.com/users/meowsbits/orgs",
+        "repos_url": "https://api.github.com/users/meowsbits/repos",
+        "events_url": "https://api.github.com/users/meowsbits/events{/privacy}",
+        "received_events_url": "https://api.github.com/users/meowsbits/received_events",
+        "type": "User",
+        "site_admin": false
+      },
+      "labels": [
+
+      ],
+      "state": "open",
+      "locked": false,
+      "assignee": null,
+      "assignees": [
+
+      ],
+      "milestone": null,
+      "comments": 0,
+      "created_at": "2020-02-26T19:46:04Z",
+      "updated_at": "2020-02-26T19:51:32Z",
+      "closed_at": null,
+      "author_association": "MEMBER",
+      "active_lock_reason": null,
+      "pull_request": {
+        "url": "https://api.github.com/repos/ethereumclassic/ECIPs/pulls/302",
+        "html_url": "https://github.com/ethereumclassic/ECIPs/pull/302",
+        "diff_url": "https://github.com/ethereumclassic/ECIPs/pull/302.diff",
+        "patch_url": "https://github.com/ethereumclassic/ECIPs/pull/302.patch"
+      },
+      "body": "Should resolve reported vulnerability with nokogiri < 1.10.8\r\n\r\nSigned-off-by: meows <b5c6@protonmail.com>"
+    }
+  }

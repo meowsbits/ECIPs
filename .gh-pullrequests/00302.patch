@@ -1,7 +1,7 @@
 From a0979d9a09421ef67871a55efd1522f63b0a0535 Mon Sep 17 00:00:00 2001
 From: meows <b5c6@protonmail.com>
 Date: Wed, 26 Feb 2020 14:44:38 -0500
-Subject: [PATCH] fix(Gemfile.lock): bundle update
+Subject: [PATCH 1/2] fix(Gemfile.lock): bundle update
 
 Should resolve reported vulnerability with nokogiri < 1.10.8
 
@@ -166,3 +166,41 @@ index 771375d6..ad75e4de 100644
  BUNDLED WITH
 -   1.16.1
 +   2.1.2
+
+From c38488a190ade0dbb887b902cf178c0ba6b69d33 Mon Sep 17 00:00:00 2001
+From: meows <b5c6@protonmail.com>
+Date: Wed, 26 Feb 2020 14:49:07 -0500
+Subject: [PATCH 2/2] Gemfile: nokogiri >= 1.10.8
+
+This was suggested to me by Github.
+
+Signed-off-by: meows <b5c6@protonmail.com>
+---
+ Gemfile      | 1 +
+ Gemfile.lock | 1 +
+ 2 files changed, 2 insertions(+)
+
+diff --git a/Gemfile b/Gemfile
+index c8f707f6..337377ac 100644
+--- a/Gemfile
++++ b/Gemfile
+@@ -9,6 +9,7 @@ source "https://rubygems.org"
+ # This will help ensure the proper Jekyll version is running.
+ # Happy Jekylling!
+ gem "jekyll", "~> 3.6.2"
++gem "nokogiri", ">= 1.10.8"
+ 
+ # This is the default theme for new Jekyll sites. You may change this to anything you like.
+ gem "minima", "~> 2.0"
+diff --git a/Gemfile.lock b/Gemfile.lock
+index ad75e4de..dfe3e66b 100644
+--- a/Gemfile.lock
++++ b/Gemfile.lock
+@@ -265,6 +265,7 @@ DEPENDENCIES
+   jekyll (~> 3.6.2)
+   jekyll-feed (~> 0.6)
+   minima (~> 2.0)
++  nokogiri (>= 1.10.8)
+   tzinfo-data
+ 
+ BUNDLED WITH
