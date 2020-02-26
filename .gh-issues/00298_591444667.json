@@ -1,0 +1,43 @@
+{
+    "url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/comments/591444667",
+    "html_url": "https://github.com/ethereumclassic/ECIPs/issues/298#issuecomment-591444667",
+    "issue_url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/298",
+    "id": 591444667,
+    "node_id": "MDEyOklzc3VlQ29tbWVudDU5MTQ0NDY2Nw==",
+    "user": {
+      "login": "q9f",
+      "id": 58883403,
+      "node_id": "MDQ6VXNlcjU4ODgzNDAz",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/58883403?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/q9f",
+      "html_url": "https://github.com/q9f",
+      "followers_url": "https://api.github.com/users/q9f/followers",
+      "following_url": "https://api.github.com/users/q9f/following{/other_user}",
+      "gists_url": "https://api.github.com/users/q9f/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/q9f/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/q9f/subscriptions",
+      "organizations_url": "https://api.github.com/users/q9f/orgs",
+      "repos_url": "https://api.github.com/users/q9f/repos",
+      "events_url": "https://api.github.com/users/q9f/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/q9f/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "created_at": "2020-02-26T14:10:04Z",
+    "updated_at": "2020-02-26T14:10:04Z",
+    "author_association": "NONE",
+    "body": "attendees:\r\n- bobsummerwill\r\n- DontPanicBurns\r\n- ey\r\n- GregTheGreek\r\n- isaac\r\n- Kimi Sian-Yu Chen\r\n- mackcom\r\n- q9f\r\n- Ray Zou\r\n- stev\r\n- zcstarr\r\n\r\nkey points of the meeting:\r\n- general agreement about rejecting aztlan (1061), phoenix fix (1078), and testnet fix (1086)\r\n- general agreement about moving on with either vanilla phoenix (1088) or classic phoenix (1089)\r\n- rough consensus on rejecting the old ecips in favor of a clean phoenix\r\n- rough consensus on moving 1088 to last call and withdrawing 1089\r\n- the fork will be called simply \"phoenix\" (protocol parity day)\r\n- testnets will be reverting to the agharta chain until they hit the 1088 block\r\n\r\nrecording above by @meowsbits ",
+    "reactions": {
+      "url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/comments/591444667/reactions",
+      "total_count": 0,
+      "+1": 0,
+      "-1": 0,
+      "laugh": 0,
+      "hooray": 0,
+      "confused": 0,
+      "heart": 0,
+      "rocket": 0,
+      "eyes": 0
+    }
+  }
