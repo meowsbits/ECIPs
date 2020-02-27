@@ -1,0 +1,43 @@
+{
+    "url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/comments/592052762",
+    "html_url": "https://github.com/ethereumclassic/ECIPs/pull/304#issuecomment-592052762",
+    "issue_url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/304",
+    "id": 592052762,
+    "node_id": "MDEyOklzc3VlQ29tbWVudDU5MjA1Mjc2Mg==",
+    "user": {
+      "login": "meowsbits",
+      "id": 45600330,
+      "node_id": "MDQ6VXNlcjQ1NjAwMzMw",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/45600330?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/meowsbits",
+      "html_url": "https://github.com/meowsbits",
+      "followers_url": "https://api.github.com/users/meowsbits/followers",
+      "following_url": "https://api.github.com/users/meowsbits/following{/other_user}",
+      "gists_url": "https://api.github.com/users/meowsbits/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/meowsbits/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/meowsbits/subscriptions",
+      "organizations_url": "https://api.github.com/users/meowsbits/orgs",
+      "repos_url": "https://api.github.com/users/meowsbits/repos",
+      "events_url": "https://api.github.com/users/meowsbits/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/meowsbits/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "created_at": "2020-02-27T16:32:39Z",
+    "updated_at": "2020-02-27T16:32:39Z",
+    "author_association": "MEMBER",
+    "body": "Closing in favor of a simpler and more comprehensive feature and fix bundle at #306 , which includes this change and then makes more things better too.\r\n\r\nIf anyone wants to reopen to make the change set more modular I'm happy to do so. Just trying to save a few editor-review bandwidth.",
+    "reactions": {
+      "url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/comments/592052762/reactions",
+      "total_count": 0,
+      "+1": 0,
+      "-1": 0,
+      "laugh": 0,
+      "hooray": 0,
+      "confused": 0,
+      "heart": 0,
+      "rocket": 0,
+      "eyes": 0
+    }
+  }
