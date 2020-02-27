@@ -1,7 +1,7 @@
 From a0979d9a09421ef67871a55efd1522f63b0a0535 Mon Sep 17 00:00:00 2001
 From: meows <b5c6@protonmail.com>
 Date: Wed, 26 Feb 2020 14:44:38 -0500
-Subject: [PATCH 01/28] fix(Gemfile.lock): bundle update
+Subject: [PATCH 01/29] fix(Gemfile.lock): bundle update
 
 Should resolve reported vulnerability with nokogiri < 1.10.8
 
@@ -170,7 +170,7 @@ index 771375d6..ad75e4de 100644
 From c38488a190ade0dbb887b902cf178c0ba6b69d33 Mon Sep 17 00:00:00 2001
 From: meows <b5c6@protonmail.com>
 Date: Wed, 26 Feb 2020 14:49:07 -0500
-Subject: [PATCH 02/28] Gemfile: nokogiri >= 1.10.8
+Subject: [PATCH 02/29] Gemfile: nokogiri >= 1.10.8
 
 This was suggested to me by Github.
 
@@ -208,7 +208,7 @@ index ad75e4de..dfe3e66b 100644
 From 64146c0b670bf6ff3af5436ad2cc77be345c8f85 Mon Sep 17 00:00:00 2001
 From: meows <b5c6@protonmail.com>
 Date: Thu, 27 Feb 2020 08:52:22 -0500
-Subject: [PATCH 03/28] use ecip_validator fork
+Subject: [PATCH 03/29] use ecip_validator fork
 
 Signed-off-by: meows <b5c6@protonmail.com>
 ---
@@ -265,7 +265,7 @@ index dfe3e66b..ca3571b0 100644
 From b6ecacdbb44cae0b5772698d3258f0cfa836ef04 Mon Sep 17 00:00:00 2001
 From: meows <b5c6@protonmail.com>
 Date: Thu, 27 Feb 2020 09:01:34 -0500
-Subject: [PATCH 04/28] github actions workflows
+Subject: [PATCH 04/29] github actions workflows
 
 Signed-off-by: meows <b5c6@protonmail.com>
 ---
@@ -307,7 +307,7 @@ index 57c97e9c..5cd231e0 100644
 From 402964144ca3410480b21c3d10cb0717095e4406 Mon Sep 17 00:00:00 2001
 From: meows <b5c6@protonmail.com>
 Date: Thu, 27 Feb 2020 09:04:14 -0500
-Subject: [PATCH 05/28] every step must define a `uses` or `run` key
+Subject: [PATCH 05/29] every step must define a `uses` or `run` key
 
 Signed-off-by: meows <b5c6@protonmail.com>
 ---
@@ -333,7 +333,7 @@ index f0c59eee..dfaeebab 100644
 From fbc7c2f07d27b909ec715104fc1e20913e960fe2 Mon Sep 17 00:00:00 2001
 From: meows <b5c6@protonmail.com>
 Date: Thu, 27 Feb 2020 09:10:05 -0500
-Subject: [PATCH 06/28] fix ruby setup steps
+Subject: [PATCH 06/29] fix ruby setup steps
 
 Signed-off-by: meows <b5c6@protonmail.com>
 ---
@@ -362,7 +362,7 @@ index dfaeebab..b83318dd 100644
 From 7994c181cf427af2adff9896e8b8963191df2213 Mon Sep 17 00:00:00 2001
 From: meows <b5c6@protonmail.com>
 Date: Thu, 27 Feb 2020 09:34:45 -0500
-Subject: [PATCH 07/28] update Gemfile
+Subject: [PATCH 07/29] update Gemfile
 
 Signed-off-by: meows <b5c6@protonmail.com>
 ---
@@ -385,7 +385,7 @@ index ca3571b0..edd18030 100644
 From f9045fa6e468098951dd80beebbcc9566f29326d Mon Sep 17 00:00:00 2001
 From: meows <b5c6@protonmail.com>
 Date: Thu, 27 Feb 2020 09:35:22 -0500
-Subject: [PATCH 08/28] _specs/ecip-1015.md is NOT valid:       
+Subject: [PATCH 08/29] _specs/ecip-1015.md is NOT valid:       
  {:created=>["cant be blank"]}
 
 Signed-off-by: meows <b5c6@protonmail.com>
@@ -409,7 +409,7 @@ index 0856aef7..0e40f0aa 100644
 From 541cee3fafb9c389da07719291eaffe6b9cd2c7f Mon Sep 17 00:00:00 2001
 From: meows <b5c6@protonmail.com>
 Date: Thu, 27 Feb 2020 09:37:20 -0500
-Subject: [PATCH 09/28] Gemfile: ecip_validator at
+Subject: [PATCH 09/29] Gemfile: ecip_validator at
  d7ff58ad3c28791df33b99aec2abe7ed57e640f2
 
 Signed-off-by: meows <b5c6@protonmail.com>
@@ -433,7 +433,7 @@ index edd18030..fac840f5 100644
 From 8ee77ce54c2d2a38846db2c1cc1dcdf663fd9d04 Mon Sep 17 00:00:00 2001
 From: meows <b5c6@protonmail.com>
 Date: Thu, 27 Feb 2020 09:38:28 -0500
-Subject: [PATCH 10/28] status(ecip1019): s/Replaced/Superseded/ fixes
+Subject: [PATCH 10/29] status(ecip1019): s/Replaced/Superseded/ fixes
  ecip_validator
 
 Signed-off-by: meows <b5c6@protonmail.com>
@@ -458,7 +458,7 @@ index 717ab25e..730573e1 100644
 From 1f2b799fbcc1860b02a2293d705440a623979260 Mon Sep 17 00:00:00 2001
 From: meows <b5c6@protonmail.com>
 Date: Thu, 27 Feb 2020 09:39:18 -0500
-Subject: [PATCH 11/28] fix(ecip1021): s/Author/author/ fixes ecip_validator
+Subject: [PATCH 11/29] fix(ecip1021): s/Author/author/ fixes ecip_validator
 
 Signed-off-by: meows <b5c6@protonmail.com>
 ---
@@ -482,7 +482,7 @@ index 3c94514a..e87ec94b 100644
 From 12fbe7244ce380d3326458a70328e6352216ced8 Mon Sep 17 00:00:00 2001
 From: meows <b5c6@protonmail.com>
 Date: Thu, 27 Feb 2020 09:40:55 -0500
-Subject: [PATCH 12/28] fix(ecip1043): s/Standards/Standards Track/
+Subject: [PATCH 12/29] fix(ecip1043): s/Standards/Standards Track/
 
 _specs/ecip-1043.md is NOT valid:        {:type=>["is not included in the list"]}
 
@@ -508,7 +508,7 @@ index 79f2f21b..6cd6e377 100644
 From 7a6a9a517fda9254422269fa957837aad62ac133 Mon Sep 17 00:00:00 2001
 From: meows <b5c6@protonmail.com>
 Date: Thu, 27 Feb 2020 09:42:00 -0500
-Subject: [PATCH 13/28] fix(ecip1045): s/Replaced/Superseded/
+Subject: [PATCH 13/29] fix(ecip1045): s/Replaced/Superseded/
 
 _specs/ecip-1045.md is NOT valid:        {:status=>["is not included in the list"]}
 
@@ -534,7 +534,7 @@ index e166f7cb..0720aee2 100644
 From f4ed3315e23427180b7437235667b6911255ab9d Mon Sep 17 00:00:00 2001
 From: meows <b5c6@protonmail.com>
 Date: Thu, 27 Feb 2020 09:43:16 -0500
-Subject: [PATCH 14/28] fix(ecip1054): s/discussions-To/discussions-to/
+Subject: [PATCH 14/29] fix(ecip1054): s/discussions-To/discussions-to/
 
 Warning: _specs/ecip-1054.md     undefined method `discussions_To=` for #<EipValidator::Validator:0x000055d257337140>
 Signed-off-by: meows <b5c6@protonmail.com>
@@ -559,7 +559,7 @@ index d4c96f01..226659d3 100644
 From 0af281dbb69574b15f179a06cf537fda92a5a83d Mon Sep 17 00:00:00 2001
 From: meows <b5c6@protonmail.com>
 Date: Thu, 27 Feb 2020 09:44:30 -0500
-Subject: [PATCH 15/28] fix(ecip1055): +lang: en
+Subject: [PATCH 15/29] fix(ecip1055): +lang: en
 
 _specs/ecip-1055.md is NOT valid:        {:lang=>['cant be blank']}
 
@@ -583,7 +583,7 @@ index 7c7f2538..4fc23b37 100644
 From dc20abfe315acd1c6213f686b643101824e821cf Mon Sep 17 00:00:00 2001
 From: meows <b5c6@protonmail.com>
 Date: Thu, 27 Feb 2020 09:45:20 -0500
-Subject: [PATCH 16/28] fix(ecip1057): s/Author/author/
+Subject: [PATCH 16/29] fix(ecip1057): s/Author/author/
 
 Warning: _specs/ecip-1057.md     undefined method  for #<EipValidator::Validator:0x000055e3a229c3c8>
 Signed-off-by: meows <b5c6@protonmail.com>
@@ -608,7 +608,7 @@ index a05e0c96..502885a3 100644
 From 431d7f8b6cfebb7fc1dba8c117e240db94368ac4 Mon Sep 17 00:00:00 2001
 From: meows <b5c6@protonmail.com>
 Date: Thu, 27 Feb 2020 09:47:06 -0500
-Subject: [PATCH 17/28] fix(ecip1063): fix frontmatter type, category
+Subject: [PATCH 17/29] fix(ecip1063): fix frontmatter type, category
 
 Signed-off-by: meows <b5c6@protonmail.com>
 ---
@@ -633,7 +633,7 @@ index f229bfa3..19f246c4 100644
 From 1510bbb272ff6dbd4fdbb9fd0e18bbab13e7589a Mon Sep 17 00:00:00 2001
 From: meows <b5c6@protonmail.com>
 Date: Thu, 27 Feb 2020 09:48:18 -0500
-Subject: [PATCH 18/28] fix(ecip1067): frontmatter issues wrt type, category
+Subject: [PATCH 18/29] fix(ecip1067): frontmatter issues wrt type, category
 
 Signed-off-by: meows <b5c6@protonmail.com>
 ---
@@ -658,7 +658,7 @@ index 9c449a25..5fb29aa0 100644
 From e789b08e5ee4a43db59edad4b06fe6037a98d93d Mon Sep 17 00:00:00 2001
 From: meows <b5c6@protonmail.com>
 Date: Thu, 27 Feb 2020 09:48:50 -0500
-Subject: [PATCH 19/28] fix(ecip1070): +lang: en
+Subject: [PATCH 19/29] fix(ecip1070): +lang: en
 
 Signed-off-by: meows <b5c6@protonmail.com>
 ---
@@ -680,7 +680,7 @@ index 368e3573..e163fb62 100644
 From 857ca6fa59861f678e6a4a0d82b4c00b3eb7ff17 Mon Sep 17 00:00:00 2001
 From: meows <b5c6@protonmail.com>
 Date: Thu, 27 Feb 2020 09:50:04 -0500
-Subject: [PATCH 20/28] fix(ecip1076): type, category
+Subject: [PATCH 20/29] fix(ecip1076): type, category
 
 Signed-off-by: meows <b5c6@protonmail.com>
 ---
@@ -705,7 +705,7 @@ index f2864fe8..052f8889 100644
 From 80b838949dd8e5cc96a7be6d30c69db574a37b32 Mon Sep 17 00:00:00 2001
 From: meows <b5c6@protonmail.com>
 Date: Thu, 27 Feb 2020 06:02:49 -0500
-Subject: [PATCH 21/28] fix(ecip1082): character that cannot start any token,
+Subject: [PATCH 21/29] fix(ecip1082): character that cannot start any token,
  line 5, col 9
 
 https://github.com/meowsbits/ECIPs/runs/470695379?check_suite_focus=true
@@ -731,7 +731,7 @@ index 2e9038ce..51422e0c 100644
 From 72db7556c5c48d5dd4d80c73f330934a65d3ecaa Mon Sep 17 00:00:00 2001
 From: meows <b5c6@protonmail.com>
 Date: Thu, 27 Feb 2020 09:51:39 -0500
-Subject: [PATCH 22/28] fix(ecip1085): +category: core
+Subject: [PATCH 22/29] fix(ecip1085): +category: core
 
 Signed-off-by: meows <b5c6@protonmail.com>
 ---
@@ -754,7 +754,7 @@ index 9cb9a3ff..3efbf070 100644
 From a852d25db550518e9199a90e77359f0162f60294 Mon Sep 17 00:00:00 2001
 From: meows <b5c6@protonmail.com>
 Date: Thu, 27 Feb 2020 09:52:23 -0500
-Subject: [PATCH 23/28] fix(ecip1086): status: s/Reject/Rejected/
+Subject: [PATCH 23/29] fix(ecip1086): status: s/Reject/Rejected/
 
 Signed-off-by: meows <b5c6@protonmail.com>
 ---
@@ -778,7 +778,7 @@ index f41af446..d4ef70c6 100644
 From e720d1b8deb9769022830479a0a146064041aa98 Mon Sep 17 00:00:00 2001
 From: meows <b5c6@protonmail.com>
 Date: Thu, 27 Feb 2020 10:40:09 -0500
-Subject: [PATCH 24/28] upgrade(ecip_validator+ci): validate translations too
+Subject: [PATCH 24/29] upgrade(ecip_validator+ci): validate translations too
 
 Signed-off-by: meows <b5c6@protonmail.com>
 ---
@@ -812,7 +812,7 @@ index fac840f5..724fddcb 100644
 From 3a3d071d86dbe8d0fe325412db0a19cd4fb4782f Mon Sep 17 00:00:00 2001
 From: meows <b5c6@protonmail.com>
 Date: Thu, 27 Feb 2020 11:01:00 -0500
-Subject: [PATCH 25/28] only run jekyll ci if canonical remote
+Subject: [PATCH 25/29] only run jekyll ci if canonical remote
 
 Signed-off-by: meows <b5c6@protonmail.com>
 ---
@@ -835,7 +835,7 @@ index 5cd231e0..29b22360 100644
 From af6aa69dbc547329e0961a4a44c2739771dbb82f Mon Sep 17 00:00:00 2001
 From: meows <b5c6@protonmail.com>
 Date: Thu, 27 Feb 2020 11:03:33 -0500
-Subject: [PATCH 26/28] only canonical for jekyll build entirely
+Subject: [PATCH 26/29] only canonical for jekyll build entirely
 
 Signed-off-by: meows <b5c6@protonmail.com>
 ---
@@ -866,7 +866,7 @@ index 29b22360..c8213a8e 100644
 From 544b799e13845ea2f703dccc922764c326b30f71 Mon Sep 17 00:00:00 2001
 From: meows <b5c6@protonmail.com>
 Date: Thu, 27 Feb 2020 11:04:35 -0500
-Subject: [PATCH 27/28] Revert "only canonical for jekyll build entirely"
+Subject: [PATCH 27/29] Revert "only canonical for jekyll build entirely"
 
 This reverts commit af6aa69dbc547329e0961a4a44c2739771dbb82f.
 ---
@@ -897,7 +897,7 @@ index c8213a8e..29b22360 100644
 From d2600ec9bbed0983785c9846973e7458bdbf8cd8 Mon Sep 17 00:00:00 2001
 From: meows <b5c6@protonmail.com>
 Date: Thu, 27 Feb 2020 11:14:23 -0500
-Subject: [PATCH 28/28] fix warning about deprecated version field for ruby env
+Subject: [PATCH 28/29] fix warning about deprecated version field for ruby env
 
 Signed-off-by: meows <b5c6@protonmail.com>
 ---
@@ -917,3 +917,35 @@ index 3a12f093..4399d687 100644
      - name: Validate the ECIP spec files
        run: |
          gem install bundler
+
+From 552dc9b47c8011ca1c5d97844f470b1e89d1a2c1 Mon Sep 17 00:00:00 2001
+From: meows <b5c6@protonmail.com>
+Date: Thu, 27 Feb 2020 11:52:36 -0500
+Subject: [PATCH 29/29] fix(ecip-X): update template file to fix frontmatter
+ fields
+
+Signed-off-by: meows <b5c6@protonmail.com>
+---
+ ecip-X.md | 7 +++++--
+ 1 file changed, 5 insertions(+), 2 deletions(-)
+
+diff --git a/ecip-X.md b/ecip-X.md
+index 0691e94b..6126f0b9 100644
+--- a/ecip-X.md
++++ b/ecip-X.md
+@@ -1,10 +1,13 @@
+ ---
+ ecip: <ECIP number>
+ title: <ECIP title>
++lang: <en | zh | <any>>
++translator: <if a translation, name or pseudonym of translator>
+ author: <list of authors' real names and optionally, email addrs>
+-discussions-to: <email address>
++discussions-to: <email address or accessible online forum>
+ status: <WIP | Draft | Last Call | Accepted | Final | Deferred | Replaced | Rejected | Withdrawn | Active>
+-type: <Standards Track (Core, Networking, Interface, ECBP) | Meta | Informational>
++type: <Standards Track | Meta | Informational>
++category: <if type='Standards Track' then anyof(Core | Networking | Interface | ECBP)>
+ created: <date created on, in ISO 8601 (yyyy-mm-dd) format>
+ replaces: <ECIP number>
+ superseded-by: <ECIP number>
