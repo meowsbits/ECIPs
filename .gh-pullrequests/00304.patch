@@ -1,0 +1,25 @@
+From 6a2a6e4e2f01308da0e98389a5c01f8d17ec220a Mon Sep 17 00:00:00 2001
+From: meows <b5c6@protonmail.com>
+Date: Thu, 27 Feb 2020 06:02:49 -0500
+Subject: [PATCH] fix(ecip1082): character that cannot start any token, line 5,
+ col 9
+
+https://github.com/meowsbits/ECIPs/runs/470695379?check_suite_focus=true
+Signed-off-by: meows <b5c6@protonmail.com>
+---
+ _specs/ecip-1082.md | 2 +-
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+
+diff --git a/_specs/ecip-1082.md b/_specs/ecip-1082.md
+index 2e9038ce..51422e0c 100644
+--- a/_specs/ecip-1082.md
++++ b/_specs/ecip-1082.md
+@@ -2,7 +2,7 @@
+ lang: en
+ ecip: 1082
+ title: Fork identifier (`forkid`) protocol fork list specification
+-author: @meowsbits
++author: github.com/meowsbits
+ status: Last Call
+ type: Standards Track
+ discussions-to: https://github.com/ethereumclassic/ECIPs/issues/294
