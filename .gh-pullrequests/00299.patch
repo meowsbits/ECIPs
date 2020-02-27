@@ -1,1 +1,130 @@
-curl: (6) Could not resolve host: patch-diff.githubusercontent.com
+From 9fe6436da16c3071dfa1eb5a45db4bfdf83e9824 Mon Sep 17 00:00:00 2001
+From: /raw PONG _GHMoaCXLT <58883403+q9f@users.noreply.github.com>
+Date: Mon, 24 Feb 2020 11:33:40 +0100
+Subject: [PATCH 1/2] ECIP-1088: Phoenix EVM Upgrade (Vanilla Option)
+
+---
+ _specs/ecip-1088.md | 79 +++++++++++++++++++++++++++++++++++++++++++++
+ 1 file changed, 79 insertions(+)
+ create mode 100644 _specs/ecip-1088.md
+
+diff --git a/_specs/ecip-1088.md b/_specs/ecip-1088.md
+new file mode 100644
+index 00000000..4385ac39
+--- /dev/null
++++ b/_specs/ecip-1088.md
+@@ -0,0 +1,79 @@
++---
++lang: en
++ecip: 1088
++title: Phoenix EVM and Protocol Upgrades (Vanilla Option)
++status: Draft
++type: Meta
++author: /raw PONG _GHMoaCXLT (@q9f)
++created: 2020-02-24
++discussions-to: https://github.com/ethereumclassic/ECIPs/issues/262
++---
++
++### Simple Summary
++
++Enable the outstanding Ethereum Foundation _Istanbul_ network protocol upgrades on the Ethereum Classic network in a hard-fork code-named _Phoenix_ to enable maximum compatibility across these networks.
++
++This is the _vanilla_ option equaling to a vanilla EIP-1679 _Istanbul_ option of the Ethereum Foundation network.
++
++### Abstract
++
++Add support for a subset of protocol-impacting changes introduced in the Ethereum Foundation (ETH) network via the _Istanbul_ hardforks. The proposed changes for Ethereum Classic's _Phoenix_ upgrade include:
++
++- Add Blake2 compression function `F` precompile
++- Reduce alt_bn128 precompile gas costs
++- Add ChainID opcode
++- Repricing for trie-size-dependent opcodes
++- Calldata gas cost reduction
++- Rebalance net-metered SSTORE gas cost with consideration of SLOAD gas cost change
++
++This document proposes the following blocks at which to implement these changes in the Classic networks:
++
++- `999_983` on Mordor Classic PoW-testnet (April, 2020)
++- `2_200_013` on Kotti Classic PoA-testnet (April, 2020)
++- `10_500_839` on Ethereum Classic PoW-mainnet (June 10th, 2020)
++
++For more information on the opcodes and their respective EIPs and implementations, please see the _Specification_ section of this document.
++
++### Motivation
++
++To enhance the Ethereum Virtual Machine's (EVM) capabilities, various opcodes shall be added to the Ethereum Classic networks, all of which have been in use on the Ethereum Foundation networks since end of 2019.
++
++### Specification
++
++Technical specifications for each EIP can be found at those documents respectively:
++
++- [EIP-152](https://eips.ethereum.org/EIPS/eip-152): Add Blake2 compression function `F` precompile
++- [EIP-1108](https://eips.ethereum.org/EIPS/eip-1108): Reduce alt_bn128 precompile gas costs
++- [EIP-1344](https://eips.ethereum.org/EIPS/eip-1344): Add ChainID opcode
++- [EIP-1884](https://eips.ethereum.org/EIPS/eip-1884): Repricing for trie-size-dependent opcodes
++- [EIP-2028](https://eips.ethereum.org/EIPS/eip-2028): Calldata gas cost reduction
++- [EIP-2200](https://eips.ethereum.org/EIPS/eip-2200): Rebalance net-metered SSTORE gas cost with consideration of SLOAD gas cost change
++
++### Rationale
++
++__Interoperability__: Establishing and maintaining interoperable behavior between Ethereum clients is essential for developers and end-user adoption, yielding benefits for all participating chains (e.g., ETH and ETC, Ropsten and Mordor,
++Görli and Kotti).
++
++__Immutability__: None of the introduced new opcodes in the EVM has the potential to change the behavior of existing contracts; in the case where previously an arbitrary invalid bytecode would have been deployed to the network, none of them would be able to modify the state of the Ethereum Classic networks retrospectively. Adding opcodes to the EVM increases its functionality and should be considered a feature upgrade rather than a modification.
++
++### Implementation
++
++Adoption of the content of this ECIP requires a hard fork as it introduces changes that are not backward compatible.
++
++The following clients with Ethereum Classic support implement the _Istanbul_ features currently and would be able to support the _Phoenix_ upgrade:
++
++- Hyperledger Besu
++- Core-Geth
++- Multi-Geth
++- Parity Ethereum
++
++### Final Note
++
++Both, the Geth Classic client and the Morden testnet will no longer be supported by the community and not recieve the _Phoenix_ ugrades.
++
++- Users of the Geth Classic client are urged to migrate their services to Parity Ethereum, Multi-Geth, or Hyperledger Besu. It is no longer recommended to run Geth Classic in production.
++- Users of the Morden Classic testnet are urged to migrate their applications to the Kotti Classic or Morder Classic testnets.
++
++## Copyright
++
++Copyright and related rights waived via [CC0](https://creativecommons.org/publicdomain/zero/1.0/).
+
+From 0e82298f0b8f48dc47a9f03ab1e84a2f5c9a749f Mon Sep 17 00:00:00 2001
+From: /raw PONG _GHMoaCXLT <58883403+q9f@users.noreply.github.com>
+Date: Wed, 26 Feb 2020 14:58:24 +0100
+Subject: [PATCH 2/2] move 1088 to last call
+
+---
+ _specs/ecip-1088.md | 7 +++----
+ 1 file changed, 3 insertions(+), 4 deletions(-)
+
+diff --git a/_specs/ecip-1088.md b/_specs/ecip-1088.md
+index 4385ac39..9cf03726 100644
+--- a/_specs/ecip-1088.md
++++ b/_specs/ecip-1088.md
+@@ -1,8 +1,9 @@
+ ---
+ lang: en
+ ecip: 1088
+-title: Phoenix EVM and Protocol Upgrades (Vanilla Option)
+-status: Draft
++title: Phoenix EVM and Protocol Upgrades
++status: Last Call
++review-period-end: 2020-03-31
+ type: Meta
+ author: /raw PONG _GHMoaCXLT (@q9f)
+ created: 2020-02-24
+@@ -13,8 +14,6 @@ discussions-to: https://github.com/ethereumclassic/ECIPs/issues/262
+ 
+ Enable the outstanding Ethereum Foundation _Istanbul_ network protocol upgrades on the Ethereum Classic network in a hard-fork code-named _Phoenix_ to enable maximum compatibility across these networks.
+ 
+-This is the _vanilla_ option equaling to a vanilla EIP-1679 _Istanbul_ option of the Ethereum Foundation network.
+-
+ ### Abstract
+ 
+ Add support for a subset of protocol-impacting changes introduced in the Ethereum Foundation (ETH) network via the _Istanbul_ hardforks. The proposed changes for Ethereum Classic's _Phoenix_ upgrade include:
