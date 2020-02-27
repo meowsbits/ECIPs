@@ -1,0 +1,55 @@
+{
+    "url": "https://api.github.com/repos/ethereumclassic/ECIPs/pulls/comments/385232401",
+    "pull_request_review_id": 365819521,
+    "id": 385232401,
+    "node_id": "MDI0OlB1bGxSZXF1ZXN0UmV2aWV3Q29tbWVudDM4NTIzMjQwMQ==",
+    "diff_hunk": "@@ -6,6 +6,7 @@ author: Cody W Burns <cody.w.burns@ethereumclassic.org>\n status: Final\n type: Standards Track\n category: Core\n+created: 2016-10-25",
+    "path": "_specs/ecip-1015.md",
+    "position": 4,
+    "original_position": 4,
+    "commit_id": "d2600ec9bbed0983785c9846973e7458bdbf8cd8",
+    "original_commit_id": "d2600ec9bbed0983785c9846973e7458bdbf8cd8",
+    "user": {
+      "login": "meowsbits",
+      "id": 45600330,
+      "node_id": "MDQ6VXNlcjQ1NjAwMzMw",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/45600330?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/meowsbits",
+      "html_url": "https://github.com/meowsbits",
+      "followers_url": "https://api.github.com/users/meowsbits/followers",
+      "following_url": "https://api.github.com/users/meowsbits/following{/other_user}",
+      "gists_url": "https://api.github.com/users/meowsbits/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/meowsbits/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/meowsbits/subscriptions",
+      "organizations_url": "https://api.github.com/users/meowsbits/orgs",
+      "repos_url": "https://api.github.com/users/meowsbits/repos",
+      "events_url": "https://api.github.com/users/meowsbits/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/meowsbits/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "body": "Source: https://github.com/ethereumproject/ECIPs/commit/925a3e87babf211a9df210fa3a84344742d00ba7",
+    "created_at": "2020-02-27T16:44:43Z",
+    "updated_at": "2020-02-27T16:44:43Z",
+    "html_url": "https://github.com/ethereumclassic/ECIPs/pull/306#discussion_r385232401",
+    "pull_request_url": "https://api.github.com/repos/ethereumclassic/ECIPs/pulls/306",
+    "author_association": "MEMBER",
+    "_links": {
+      "self": {
+        "href": "https://api.github.com/repos/ethereumclassic/ECIPs/pulls/comments/385232401"
+      },
+      "html": {
+        "href": "https://github.com/ethereumclassic/ECIPs/pull/306#discussion_r385232401"
+      },
+      "pull_request": {
+        "href": "https://api.github.com/repos/ethereumclassic/ECIPs/pulls/306"
+      }
+    },
+    "start_line": null,
+    "original_start_line": null,
+    "start_side": null,
+    "line": 9,
+    "original_line": 9,
+    "side": "RIGHT"
+  }
