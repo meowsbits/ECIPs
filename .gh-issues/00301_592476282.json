@@ -1,14 +1,9 @@
 {
-    "url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/303",
-    "repository_url": "https://api.github.com/repos/ethereumclassic/ECIPs",
-    "labels_url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/303/labels{/name}",
-    "comments_url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/303/comments",
-    "events_url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/303/events",
-    "html_url": "https://github.com/ethereumclassic/ECIPs/issues/303",
-    "id": 571631607,
-    "node_id": "MDU6SXNzdWU1NzE2MzE2MDc=",
-    "number": 303,
-    "title": "New Picture for The Upcoming Phoenix Upgrade as mentioned in #301",
+    "url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/comments/592476282",
+    "html_url": "https://github.com/ethereumclassic/ECIPs/issues/301#issuecomment-592476282",
+    "issue_url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/301",
+    "id": 592476282,
+    "node_id": "MDEyOklzc3VlQ29tbWVudDU5MjQ3NjI4Mg==",
     "user": {
       "login": "TheEnthusiasticAs",
       "id": 48069525,
@@ -29,24 +24,12 @@
       "type": "User",
       "site_admin": false
     },
-    "labels": [
-
-    ],
-    "state": "closed",
-    "locked": false,
-    "assignee": null,
-    "assignees": [
-
-    ],
-    "milestone": null,
-    "comments": 2,
-    "created_at": "2020-02-26T20:15:14Z",
-    "updated_at": "2020-02-28T11:35:33Z",
-    "closed_at": "2020-02-28T11:35:33Z",
+    "created_at": "2020-02-28T11:38:04Z",
+    "updated_at": "2020-02-28T11:38:04Z",
     "author_association": "MEMBER",
-    "body": "Let me know, what do you think about this ... :\r\n![ETC Phoenix v1](https://user-images.githubusercontent.com/48069525/75383626-fd10af80-58dc-11ea-9324-1fc8554e0e03.png)\r\n",
+    "body": "I am closing this issue as mentioned in issue #303 ",
     "reactions": {
-      "url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/303/reactions",
+      "url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/comments/592476282/reactions",
       "total_count": 0,
       "+1": 0,
       "-1": 0,
