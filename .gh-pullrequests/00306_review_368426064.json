@@ -1,13 +1,6 @@
 {
-    "id": 387375459,
-    "node_id": "MDI0OlB1bGxSZXF1ZXN0UmV2aWV3Q29tbWVudDM4NzM3NTQ1OQ==",
-    "url": "https://api.github.com/repos/ethereumclassic/ECIPs/pulls/comments/387375459",
-    "pull_request_review_id": 368423375,
-    "diff_hunk": "@@ -10,6 +10,7 @@ jobs:\n     steps:\n     - uses: actions/checkout@v1\n     - name: Build the site in the jekyll/builder container\n+      if: github.repository == 'ethereumclassic/ECIPs'",
-    "path": ".github/workflows/jekyll.yml",
-    "position": 10,
-    "original_position": 10,
-    "commit_id": "0f50e6e823e0870cf0060195af3c7f5e5918a24a",
+    "id": 368426064,
+    "node_id": "MDE3OlB1bGxSZXF1ZXN0UmV2aWV3MzY4NDI2MDY0",
     "user": {
       "login": "meowsbits",
       "id": 45600330,
@@ -28,23 +21,19 @@
       "type": "User",
       "site_admin": false
     },
-    "body": "Forks don't need their tests failing for reasons they don't care about... nor to go through the steps for publishing a website unless they definitely intend to do that.",
-    "created_at": "2020-03-04T00:28:45Z",
-    "updated_at": "2020-03-04T00:33:34Z",
-    "html_url": "https://github.com/ethereumclassic/ECIPs/pull/306#discussion_r387375459",
+    "body": "",
+    "state": "COMMENTED",
+    "html_url": "https://github.com/ethereumclassic/ECIPs/pull/306#pullrequestreview-368426064",
     "pull_request_url": "https://api.github.com/repos/ethereumclassic/ECIPs/pulls/306",
     "author_association": "MEMBER",
     "_links": {
-      "self": {
-        "href": "https://api.github.com/repos/ethereumclassic/ECIPs/pulls/comments/387375459"
-      },
       "html": {
-        "href": "https://github.com/ethereumclassic/ECIPs/pull/306#discussion_r387375459"
+        "href": "https://github.com/ethereumclassic/ECIPs/pull/306#pullrequestreview-368426064"
       },
       "pull_request": {
         "href": "https://api.github.com/repos/ethereumclassic/ECIPs/pulls/306"
       }
     },
-    "original_commit_id": "0f50e6e823e0870cf0060195af3c7f5e5918a24a",
-    "in_reply_to_id": 387281476
+    "submitted_at": "2020-03-04T00:36:22Z",
+    "commit_id": "0f50e6e823e0870cf0060195af3c7f5e5918a24a"
   }

@@ -1,0 +1,56 @@
+{
+    "url": "https://api.github.com/repos/ethereumclassic/ECIPs/pulls/comments/387377856",
+    "pull_request_review_id": 368426064,
+    "id": 387377856,
+    "node_id": "MDI0OlB1bGxSZXF1ZXN0UmV2aWV3Q29tbWVudDM4NzM3Nzg1Ng==",
+    "diff_hunk": "@@ -210,60 +208,65 @@ GEM\n       rb-inotify (~> 0.9, >= 0.9.7)\n       ruby_dep (~> 1.2)\n     mercenary (0.3.6)\n-    mini_portile2 (2.3.0)\n+    mini_portile2 (2.4.0)\n     minima (2.4.0)\n       jekyll (~> 3.5)\n       jekyll-feed (~> 0.9)\n       jekyll-seo-tag (~> 2.1)\n-    minitest (5.11.3)\n-    multipart-post (2.0.0)\n-    net-dns (0.8.0)\n-    nokogiri (1.8.5)\n-      mini_portile2 (~> 2.3.0)\n-    octokit (4.8.0)\n+    minitest (5.14.0)\n+    multipart-post (2.1.1)\n+    net-dns (0.9.0)\n+    nokogiri (1.10.8)\n+      mini_portile2 (~> 2.4.0)\n+    nokogumbo (2.0.2)\n+      nokogiri (~> 1.8, >= 1.8.4)\n+    octokit (4.16.0)\n+      faraday (>= 0.9)\n       sawyer (~> 0.8.0, >= 0.5.3)\n-    parallel (1.12.1)\n-    pathutil (0.16.1)\n+    parallel (1.19.1)\n+    pathutil (0.16.2)\n       forwardable-extended (~> 2.6)\n     public_suffix (2.0.5)\n+    rainbow (3.0.0)\n     rb-fsevent (0.10.3)\n-    rb-inotify (0.9.10)\n-      ffi (>= 0.5.0, < 2)\n+    rb-inotify (0.10.1)\n+      ffi (~> 1.0)\n     rouge (2.2.1)\n     ruby-enum (0.7.2)\n       i18n\n     ruby_dep (1.5.0)\n-    rubyzip (2.0.0)\n-    safe_yaml (1.0.4)\n-    sass (3.5.5)\n+    rubyzip (2.2.0)\n+    safe_yaml (1.0.5)\n+    sass (3.7.4)\n       sass-listen (~> 4.0.0)\n     sass-listen (4.0.0)\n       rb-fsevent (~> 0.9, >= 0.9.4)\n       rb-inotify (~> 0.9, >= 0.9.7)\n-    sawyer (0.8.1)\n-      addressable (>= 2.3.5, < 2.6)\n-      faraday (~> 0.8, < 1.0)\n+    sawyer (0.8.2)\n+      addressable (>= 2.3.5)\n+      faraday (> 0.8, < 2.0)\n     terminal-table (1.8.0)\n       unicode-display_width (~> 1.1, >= 1.1.1)\n     thread_safe (0.3.6)\n-    typhoeus (1.3.0)\n+    typhoeus (1.3.1)\n       ethon (>= 0.9.0)\n-    tzinfo (1.2.5)\n+    tzinfo (1.2.6)\n       thread_safe (~> 0.1)\n-    unicode-display_width (1.3.0)\n-    yell (2.0.7)\n+    unicode-display_width (1.6.1)\n+    yell (2.2.2)\n \n PLATFORMS\n   ruby\n \n DEPENDENCIES\n-  eip_validator (>= 0.8.0)\n+  ecip_validator (>= 0.9.0)",
+    "path": "Gemfile.lock",
+    "position": 149,
+    "original_position": 149,
+    "commit_id": "0f50e6e823e0870cf0060195af3c7f5e5918a24a",
+    "original_commit_id": "0f50e6e823e0870cf0060195af3c7f5e5918a24a",
+    "user": {
+      "login": "meowsbits",
+      "id": 45600330,
+      "node_id": "MDQ6VXNlcjQ1NjAwMzMw",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/45600330?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/meowsbits",
+      "html_url": "https://github.com/meowsbits",
+      "followers_url": "https://api.github.com/users/meowsbits/followers",
+      "following_url": "https://api.github.com/users/meowsbits/following{/other_user}",
+      "gists_url": "https://api.github.com/users/meowsbits/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/meowsbits/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/meowsbits/subscriptions",
+      "organizations_url": "https://api.github.com/users/meowsbits/orgs",
+      "repos_url": "https://api.github.com/users/meowsbits/repos",
+      "events_url": "https://api.github.com/users/meowsbits/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/meowsbits/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "body": "And I do really think that would be something worth prioritizing here too, since that code will be just another representation of some of the parameters outlined in ECIP1000 or whatever, like requiring frontmatter fields, values, whatever. Actually even a better way of doing it than ECIP1000/whatever imo.",
+    "created_at": "2020-03-04T00:36:22Z",
+    "updated_at": "2020-03-04T00:36:22Z",
+    "html_url": "https://github.com/ethereumclassic/ECIPs/pull/306#discussion_r387377856",
+    "pull_request_url": "https://api.github.com/repos/ethereumclassic/ECIPs/pulls/306",
+    "author_association": "MEMBER",
+    "_links": {
+      "self": {
+        "href": "https://api.github.com/repos/ethereumclassic/ECIPs/pulls/comments/387377856"
+      },
+      "html": {
+        "href": "https://github.com/ethereumclassic/ECIPs/pull/306#discussion_r387377856"
+      },
+      "pull_request": {
+        "href": "https://api.github.com/repos/ethereumclassic/ECIPs/pulls/306"
+      }
+    },
+    "start_line": null,
+    "original_start_line": null,
+    "start_side": null,
+    "line": 262,
+    "original_line": 262,
+    "side": "RIGHT",
+    "in_reply_to_id": 387281083
+  }
