@@ -1,9 +1,6 @@
 {
-    "url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/comments/594246203",
-    "html_url": "https://github.com/ethereumclassic/ECIPs/pull/249#issuecomment-594246203",
-    "issue_url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/249",
-    "id": 594246203,
-    "node_id": "MDEyOklzc3VlQ29tbWVudDU5NDI0NjIwMw==",
+    "id": 368429498,
+    "node_id": "MDE3OlB1bGxSZXF1ZXN0UmV2aWV3MzY4NDI5NDk4",
     "user": {
       "login": "meowsbits",
       "id": 45600330,
@@ -24,20 +21,19 @@
       "type": "User",
       "site_admin": false
     },
-    "created_at": "2020-03-04T00:43:56Z",
-    "updated_at": "2020-03-04T00:45:09Z",
+    "body": "",
+    "state": "COMMENTED",
+    "html_url": "https://github.com/ethereumclassic/ECIPs/pull/249#pullrequestreview-368429498",
+    "pull_request_url": "https://api.github.com/repos/ethereumclassic/ECIPs/pulls/249",
     "author_association": "MEMBER",
-    "body": "https://ecips.ethereumclassic.org/ECIPs/ecip-1000#ecip-licensing\r\n\r\n> Each new ECIP must identify at least one acceptable license in its preamble. ....",
-    "reactions": {
-      "url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/comments/594246203/reactions",
-      "total_count": 0,
-      "+1": 0,
-      "-1": 0,
-      "laugh": 0,
-      "hooray": 0,
-      "confused": 0,
-      "heart": 0,
-      "rocket": 0,
-      "eyes": 0
-    }
+    "_links": {
+      "html": {
+        "href": "https://github.com/ethereumclassic/ECIPs/pull/249#pullrequestreview-368429498"
+      },
+      "pull_request": {
+        "href": "https://api.github.com/repos/ethereumclassic/ECIPs/pulls/249"
+      }
+    },
+    "submitted_at": "2020-03-04T00:45:39Z",
+    "commit_id": "e2b4dc0b3eb3b04ccaacc82d9838fae16642d546"
   }
