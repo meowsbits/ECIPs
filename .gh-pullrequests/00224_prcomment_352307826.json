@@ -7,7 +7,7 @@
     "path": "_specs/ecip-_.md",
     "position": null,
     "original_position": 20,
-    "commit_id": "a4c7dd1ec7a87705ba9af9ee0153b252c0e89e72",
+    "commit_id": "5a7cc34ab0aa831b3b0140c5a37fb3d6c0a83527",
     "original_commit_id": "93895296e4c969f07f99b304db1569a573268892",
     "user": {
       "login": "sorpaas",
@@ -31,7 +31,7 @@
     },
     "body": "Probably also states that those PRs should not be merged until the community consensus is reached?",
     "created_at": "2019-11-30T22:31:34Z",
-    "updated_at": "2019-12-01T13:54:41Z",
+    "updated_at": "2020-03-04T12:01:02Z",
     "html_url": "https://github.com/ethereumclassic/ECIPs/pull/224#discussion_r352307826",
     "pull_request_url": "https://api.github.com/repos/ethereumclassic/ECIPs/pulls/224",
     "author_association": "MEMBER",

@@ -7,7 +7,7 @@
     "path": "_specs/ecip-_.md",
     "position": null,
     "original_position": 20,
-    "commit_id": "a4c7dd1ec7a87705ba9af9ee0153b252c0e89e72",
+    "commit_id": "5a7cc34ab0aa831b3b0140c5a37fb3d6c0a83527",
     "user": {
       "login": "meowsbits",
       "id": 45600330,
@@ -30,10 +30,10 @@
     },
     "body": "I'm leaning toward keeping this document as \"mechanic\" as possible; to describe only \"the physics\" of ECIP process events.  ... :smile_cat: I want to help program and code the event-based system; but not to provide the type definitions or factory for providing those events... yet )). \r\n\r\nPull requests are getting merged already, somehow. ECIPs are changing status already, somehow. Human \"consensus\"/decision-making (either as a potential specification or as practical tradition) has important impacts for this repository's specifications including, but certainly not limited to, this one. \r\n\r\nIf you feel strongly a need to specify and document how \"human consensus\" does or should happen in a given case, then I would suggest we do so in a separate concern.\r\n\r\nI am -- as always -- open to further discussion, especially if you would (please :heart_decoration: ) propose a change set we can use a concrete reference point.",
     "created_at": "2019-12-01T11:07:44Z",
-    "updated_at": "2019-12-01T13:54:41Z",
+    "updated_at": "2020-03-04T12:01:02Z",
     "html_url": "https://github.com/ethereumclassic/ECIPs/pull/224#discussion_r352336587",
     "pull_request_url": "https://api.github.com/repos/ethereumclassic/ECIPs/pulls/224",
-    "author_association": "CONTRIBUTOR",
+    "author_association": "MEMBER",
     "_links": {
       "self": {
         "href": "https://api.github.com/repos/ethereumclassic/ECIPs/pulls/comments/352336587"

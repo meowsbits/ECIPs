@@ -39,11 +39,11 @@
 
     ],
     "milestone": null,
-    "comments": 4,
+    "comments": 5,
     "created_at": "2019-11-30T22:21:30Z",
-    "updated_at": "2019-12-02T20:10:41Z",
+    "updated_at": "2020-03-04T12:05:53Z",
     "closed_at": null,
-    "author_association": "CONTRIBUTOR",
+    "author_association": "MEMBER",
     "pull_request": {
       "url": "https://api.github.com/repos/ethereumclassic/ECIPs/pulls/224",
       "html_url": "https://github.com/ethereumclassic/ECIPs/pull/224",
