@@ -1,14 +1,9 @@
 {
-    "url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/309",
-    "repository_url": "https://api.github.com/repos/ethereumclassic/ECIPs",
-    "labels_url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/309/labels{/name}",
-    "comments_url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/309/comments",
-    "events_url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/309/events",
-    "html_url": "https://github.com/ethereumclassic/ECIPs/pull/309",
-    "id": 575146695,
-    "node_id": "MDExOlB1bGxSZXF1ZXN0MzgzMzQ3MDgx",
-    "number": 309,
-    "title": "formatter: Update ecip-1087.md",
+    "url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/comments/594338254",
+    "html_url": "https://github.com/ethereumclassic/ECIPs/pull/309#issuecomment-594338254",
+    "issue_url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/309",
+    "id": 594338254,
+    "node_id": "MDEyOklzc3VlQ29tbWVudDU5NDMzODI1NA==",
     "user": {
       "login": "realcodywburns",
       "id": 13103499,
@@ -29,30 +24,12 @@
       "type": "User",
       "site_admin": false
     },
-    "labels": [
-
-    ],
-    "state": "closed",
-    "locked": false,
-    "assignee": null,
-    "assignees": [
-
-    ],
-    "milestone": null,
-    "comments": 1,
-    "created_at": "2020-03-04T05:26:38Z",
+    "created_at": "2020-03-04T05:42:37Z",
     "updated_at": "2020-03-04T05:42:47Z",
-    "closed_at": "2020-03-04T05:42:37Z",
     "author_association": "MEMBER",
-    "pull_request": {
-      "url": "https://api.github.com/repos/ethereumclassic/ECIPs/pulls/309",
-      "html_url": "https://github.com/ethereumclassic/ECIPs/pull/309",
-      "diff_url": "https://github.com/ethereumclassic/ECIPs/pull/309.diff",
-      "patch_url": "https://github.com/ethereumclassic/ECIPs/pull/309.patch"
-    },
-    "body": "update to pass validator",
+    "body": "duplicate",
     "reactions": {
-      "url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/309/reactions",
+      "url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/comments/594338254/reactions",
       "total_count": 0,
       "+1": 0,
       "-1": 0,
