@@ -1,0 +1,43 @@
+{
+    "url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/comments/594997318",
+    "html_url": "https://github.com/ethereumclassic/ECIPs/issues/14#issuecomment-594997318",
+    "issue_url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/14",
+    "id": 594997318,
+    "node_id": "MDEyOklzc3VlQ29tbWVudDU5NDk5NzMxOA==",
+    "user": {
+      "login": "BelfordZ",
+      "id": 1787231,
+      "node_id": "MDQ6VXNlcjE3ODcyMzE=",
+      "avatar_url": "https://avatars0.githubusercontent.com/u/1787231?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/BelfordZ",
+      "html_url": "https://github.com/BelfordZ",
+      "followers_url": "https://api.github.com/users/BelfordZ/followers",
+      "following_url": "https://api.github.com/users/BelfordZ/following{/other_user}",
+      "gists_url": "https://api.github.com/users/BelfordZ/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/BelfordZ/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/BelfordZ/subscriptions",
+      "organizations_url": "https://api.github.com/users/BelfordZ/orgs",
+      "repos_url": "https://api.github.com/users/BelfordZ/repos",
+      "events_url": "https://api.github.com/users/BelfordZ/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/BelfordZ/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "created_at": "2020-03-05T02:35:28Z",
+    "updated_at": "2020-03-05T02:35:28Z",
+    "author_association": "MEMBER",
+    "body": "as I understand it:\r\n\r\n1. Request for miners to vote up one way or another is not something that should be done via ECIP\r\n2. we should close any such requests.\r\n\r\nIn this case, the request is for miners to vote to decrease the block gas limit. AFAIK, this is something that should be handled with miners directly, or with pool software/client developers such that they may change how the miner vote is decided.",
+    "reactions": {
+      "url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/comments/594997318/reactions",
+      "total_count": 0,
+      "+1": 0,
+      "-1": 0,
+      "laugh": 0,
+      "hooray": 0,
+      "confused": 0,
+      "heart": 0,
+      "rocket": 0,
+      "eyes": 0
+    }
+  }
