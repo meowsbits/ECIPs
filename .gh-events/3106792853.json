@@ -1,0 +1,88 @@
+{
+    "id": 3106792853,
+    "node_id": "MDE3OlJlbmFtZWRUaXRsZUV2ZW50MzEwNjc5Mjg1Mw==",
+    "url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/events/3106792853",
+    "actor": {
+      "login": "TokenHash",
+      "id": 29529586,
+      "node_id": "MDQ6VXNlcjI5NTI5NTg2",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/29529586?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/TokenHash",
+      "html_url": "https://github.com/TokenHash",
+      "followers_url": "https://api.github.com/users/TokenHash/followers",
+      "following_url": "https://api.github.com/users/TokenHash/following{/other_user}",
+      "gists_url": "https://api.github.com/users/TokenHash/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/TokenHash/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/TokenHash/subscriptions",
+      "organizations_url": "https://api.github.com/users/TokenHash/orgs",
+      "repos_url": "https://api.github.com/users/TokenHash/repos",
+      "events_url": "https://api.github.com/users/TokenHash/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/TokenHash/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "event": "renamed",
+    "commit_id": null,
+    "commit_url": null,
+    "created_at": "2020-03-06T20:34:31Z",
+    "rename": {
+      "from": "Fixed url capitalization - added language to include controversies",
+      "to": "ECIP-0001: Fixed url capitalization - added language to include controversies"
+    },
+    "issue": {
+      "url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/310",
+      "repository_url": "https://api.github.com/repos/ethereumclassic/ECIPs",
+      "labels_url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/310/labels{/name}",
+      "comments_url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/310/comments",
+      "events_url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/310/events",
+      "html_url": "https://github.com/ethereumclassic/ECIPs/pull/310",
+      "id": 577161062,
+      "node_id": "MDExOlB1bGxSZXF1ZXN0Mzg1MDA5MzU4",
+      "number": 310,
+      "title": "ECIP-0001: Fixed url capitalization - added language to include controversies",
+      "user": {
+        "login": "TokenHash",
+        "id": 29529586,
+        "node_id": "MDQ6VXNlcjI5NTI5NTg2",
+        "avatar_url": "https://avatars1.githubusercontent.com/u/29529586?v=4",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/TokenHash",
+        "html_url": "https://github.com/TokenHash",
+        "followers_url": "https://api.github.com/users/TokenHash/followers",
+        "following_url": "https://api.github.com/users/TokenHash/following{/other_user}",
+        "gists_url": "https://api.github.com/users/TokenHash/gists{/gist_id}",
+        "starred_url": "https://api.github.com/users/TokenHash/starred{/owner}{/repo}",
+        "subscriptions_url": "https://api.github.com/users/TokenHash/subscriptions",
+        "organizations_url": "https://api.github.com/users/TokenHash/orgs",
+        "repos_url": "https://api.github.com/users/TokenHash/repos",
+        "events_url": "https://api.github.com/users/TokenHash/events{/privacy}",
+        "received_events_url": "https://api.github.com/users/TokenHash/received_events",
+        "type": "User",
+        "site_admin": false
+      },
+      "labels": [
+
+      ],
+      "state": "open",
+      "locked": false,
+      "assignee": null,
+      "assignees": [
+
+      ],
+      "milestone": null,
+      "comments": 0,
+      "created_at": "2020-03-06T20:32:48Z",
+      "updated_at": "2020-03-07T17:30:03Z",
+      "closed_at": null,
+      "author_association": "CONTRIBUTOR",
+      "active_lock_reason": null,
+      "pull_request": {
+        "url": "https://api.github.com/repos/ethereumclassic/ECIPs/pulls/310",
+        "html_url": "https://github.com/ethereumclassic/ECIPs/pull/310",
+        "diff_url": "https://github.com/ethereumclassic/ECIPs/pull/310.diff",
+        "patch_url": "https://github.com/ethereumclassic/ECIPs/pull/310.patch"
+      },
+      "body": "• ECIP -> ecip\r\n\r\n• Added language \"including, but not limited to\" in the phrase that clarifies that devs/editors can change ECIPs to previous statuses in the case in the examples but also if other major events occur, such as the recent ProgPow controversy after EIP-1057 was moved to accepted. The text modified was:\r\n\r\n\"However, core developers and editors can decide to move ECIPs back to previous statuses after the fact, or to `Rejected` or `Withdrawn` status, at their discretion provided there is reasonable cause, **including but not limited to,** a major, but correctable, flaw was found in the ECIP, a major but not correctable flaw was found in the ECIP.\""
+    }
+  }
