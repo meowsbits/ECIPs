@@ -1,0 +1,43 @@
+{
+    "url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/comments/598958686",
+    "html_url": "https://github.com/ethereumclassic/ECIPs/issues/255#issuecomment-598958686",
+    "issue_url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/255",
+    "id": 598958686,
+    "node_id": "MDEyOklzc3VlQ29tbWVudDU5ODk1ODY4Ng==",
+    "user": {
+      "login": "gitr0n1n",
+      "id": 58588775,
+      "node_id": "MDQ6VXNlcjU4NTg4Nzc1",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/58588775?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/gitr0n1n",
+      "html_url": "https://github.com/gitr0n1n",
+      "followers_url": "https://api.github.com/users/gitr0n1n/followers",
+      "following_url": "https://api.github.com/users/gitr0n1n/following{/other_user}",
+      "gists_url": "https://api.github.com/users/gitr0n1n/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/gitr0n1n/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/gitr0n1n/subscriptions",
+      "organizations_url": "https://api.github.com/users/gitr0n1n/orgs",
+      "repos_url": "https://api.github.com/users/gitr0n1n/repos",
+      "events_url": "https://api.github.com/users/gitr0n1n/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/gitr0n1n/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "created_at": "2020-03-13T22:36:11Z",
+    "updated_at": "2020-03-13T22:36:11Z",
+    "author_association": "MEMBER",
+    "body": "I love this since we will always have a countdown for users. Once we hit era3, we countdown to era4....then era5.....\r\n\r\nLong term use in this. Would be great to have it on the ethereumclassic.org site.\r\n\r\n5m20.ethereumclassic.org ?\r\nera.ethereumclassic.org ?\r\ncountdown.ethereumclassic.org ?\r\n\r\nNot sure whats the best fit, but feels like a big win for the site.",
+    "reactions": {
+      "url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/comments/598958686/reactions",
+      "total_count": 0,
+      "+1": 0,
+      "-1": 0,
+      "laugh": 0,
+      "hooray": 0,
+      "confused": 0,
+      "heart": 0,
+      "rocket": 0,
+      "eyes": 0
+    }
+  }
