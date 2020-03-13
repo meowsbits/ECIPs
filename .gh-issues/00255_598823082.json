@@ -1,14 +1,9 @@
 {
-    "url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/255",
-    "repository_url": "https://api.github.com/repos/ethereumclassic/ECIPs",
-    "labels_url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/255/labels{/name}",
-    "comments_url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/255/comments",
-    "events_url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/255/events",
-    "html_url": "https://github.com/ethereumclassic/ECIPs/issues/255",
-    "id": 548603720,
-    "node_id": "MDU6SXNzdWU1NDg2MDM3MjA=",
-    "number": 255,
-    "title": "Suggestion to build an ETC 5m20 countdown website similar to BTC/LTC",
+    "url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/comments/598823082",
+    "html_url": "https://github.com/ethereumclassic/ECIPs/issues/255#issuecomment-598823082",
+    "issue_url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/255",
+    "id": 598823082,
+    "node_id": "MDEyOklzc3VlQ29tbWVudDU5ODgyMzA4Mg==",
     "user": {
       "login": "TheEnthusiasticAs",
       "id": 48069525,
@@ -29,24 +24,12 @@
       "type": "User",
       "site_admin": false
     },
-    "labels": [
-
-    ],
-    "state": "open",
-    "locked": false,
-    "assignee": null,
-    "assignees": [
-
-    ],
-    "milestone": null,
-    "comments": 4,
-    "created_at": "2020-01-12T17:51:31Z",
+    "created_at": "2020-03-13T17:04:17Z",
     "updated_at": "2020-03-13T17:04:17Z",
-    "closed_at": null,
     "author_association": "MEMBER",
-    "body": "People often ask me in telegram group, when the halving is. Such a countdown would handy:\r\nhttps://www.bitcoinblockhalf.com/.\r\nI am not a computer engineer. A contribution by someone with knowledge would be appreciated. Thank You!",
+    "body": "Putting the released domains here:\r\n5m20 = https://etcis.money\r\nECIP1017 = https://ecip1017.site",
     "reactions": {
-      "url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/255/reactions",
+      "url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/comments/598823082/reactions",
       "total_count": 0,
       "+1": 0,
       "-1": 0,
