@@ -1,0 +1,66 @@
+{
+    "url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/312",
+    "repository_url": "https://api.github.com/repos/ethereumclassic/ECIPs",
+    "labels_url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/312/labels{/name}",
+    "comments_url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/312/comments",
+    "events_url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/312/events",
+    "html_url": "https://github.com/ethereumclassic/ECIPs/pull/312",
+    "id": 583933817,
+    "node_id": "MDExOlB1bGxSZXF1ZXN0MzkwNjA2NjM2",
+    "number": 312,
+    "title": "Integrating ecip-0001 into ecip-1000",
+    "user": {
+      "login": "TokenHash",
+      "id": 29529586,
+      "node_id": "MDQ6VXNlcjI5NTI5NTg2",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/29529586?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/TokenHash",
+      "html_url": "https://github.com/TokenHash",
+      "followers_url": "https://api.github.com/users/TokenHash/followers",
+      "following_url": "https://api.github.com/users/TokenHash/following{/other_user}",
+      "gists_url": "https://api.github.com/users/TokenHash/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/TokenHash/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/TokenHash/subscriptions",
+      "organizations_url": "https://api.github.com/users/TokenHash/orgs",
+      "repos_url": "https://api.github.com/users/TokenHash/repos",
+      "events_url": "https://api.github.com/users/TokenHash/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/TokenHash/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "labels": [
+
+    ],
+    "state": "open",
+    "locked": false,
+    "assignee": null,
+    "assignees": [
+
+    ],
+    "milestone": null,
+    "comments": 0,
+    "created_at": "2020-03-18T18:48:04Z",
+    "updated_at": "2020-03-18T18:48:04Z",
+    "closed_at": null,
+    "author_association": "CONTRIBUTOR",
+    "pull_request": {
+      "url": "https://api.github.com/repos/ethereumclassic/ECIPs/pulls/312",
+      "html_url": "https://github.com/ethereumclassic/ECIPs/pull/312",
+      "diff_url": "https://github.com/ethereumclassic/ECIPs/pull/312.diff",
+      "patch_url": "https://github.com/ethereumclassic/ECIPs/pull/312.patch"
+    },
+    "body": "To make it easier to compare and move to active, I am integrating the changes I proposed in ecip-0001 into this ecip-1000:\r\n\r\n• it leaves Sorpaas as editor\r\n• it keeps the changes and additions to rules proposed in ecip-0001\r\n\r\nIn summary, the new text largely clarifies some aspects of ecip-1000 that were not explicit before.\r\n\r\nThe goal is to minimize discussions about \"process\" and focus on standards.",
+    "reactions": {
+      "url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/312/reactions",
+      "total_count": 0,
+      "+1": 0,
+      "-1": 0,
+      "laugh": 0,
+      "hooray": 0,
+      "confused": 0,
+      "heart": 0,
+      "rocket": 0,
+      "eyes": 0
+    }
+  }
