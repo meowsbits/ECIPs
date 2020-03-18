@@ -1,0 +1,23 @@
+From 7c0a9cc6c4cca182aa4b0c971fb0f78a33c799a6 Mon Sep 17 00:00:00 2001
+From: Donald McIntyre <29529586+TokenHash@users.noreply.github.com>
+Date: Wed, 18 Mar 2020 12:52:10 -0600
+Subject: [PATCH] Withdrawing ecip-0001
+
+Withdrawing this ecip as it didn't have consensus. Integrated changes in ecip-1000 by means of PR https://github.com/ethereumclassic/ECIPs/pull/312
+---
+ _specs/ECIP-0001.md | 2 +-
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+
+diff --git a/_specs/ECIP-0001.md b/_specs/ECIP-0001.md
+index 476e7602..f5828410 100644
+--- a/_specs/ECIP-0001.md
++++ b/_specs/ECIP-0001.md
+@@ -2,7 +2,7 @@
+ lang: en
+ ecip: 0001
+ title: ECIP Process
+-status: Draft
++status: Withdrawn
+ type: Meta
+ discussions-to: https://github.com/ethereumclassic/ECIPs/issues/276
+ author: Donald McIntyre (@TokenHash)
