@@ -1,0 +1,39 @@
+{
+    "id": 378786467,
+    "node_id": "MDE3OlB1bGxSZXF1ZXN0UmV2aWV3Mzc4Nzg2NDY3",
+    "user": {
+      "login": "YazzyYaz",
+      "id": 9094204,
+      "node_id": "MDQ6VXNlcjkwOTQyMDQ=",
+      "avatar_url": "https://avatars0.githubusercontent.com/u/9094204?u=4f4e25ef405e7227f1e8c5d6139b738e6f26edf9&v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/YazzyYaz",
+      "html_url": "https://github.com/YazzyYaz",
+      "followers_url": "https://api.github.com/users/YazzyYaz/followers",
+      "following_url": "https://api.github.com/users/YazzyYaz/following{/other_user}",
+      "gists_url": "https://api.github.com/users/YazzyYaz/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/YazzyYaz/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/YazzyYaz/subscriptions",
+      "organizations_url": "https://api.github.com/users/YazzyYaz/orgs",
+      "repos_url": "https://api.github.com/users/YazzyYaz/repos",
+      "events_url": "https://api.github.com/users/YazzyYaz/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/YazzyYaz/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "body": "",
+    "state": "APPROVED",
+    "html_url": "https://github.com/ethereumclassic/ECIPs/pull/311#pullrequestreview-378786467",
+    "pull_request_url": "https://api.github.com/repos/ethereumclassic/ECIPs/pulls/311",
+    "author_association": "MEMBER",
+    "_links": {
+      "html": {
+        "href": "https://github.com/ethereumclassic/ECIPs/pull/311#pullrequestreview-378786467"
+      },
+      "pull_request": {
+        "href": "https://api.github.com/repos/ethereumclassic/ECIPs/pulls/311"
+      }
+    },
+    "submitted_at": "2020-03-20T20:18:30Z",
+    "commit_id": "0a24bd3b1b0cf43e21995f18acea5aa86099c763"
+  }
