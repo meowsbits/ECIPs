@@ -25,9 +25,9 @@
       "site_admin": false
     },
     "created_at": "2020-03-21T14:55:55Z",
-    "updated_at": "2020-03-21T14:55:55Z",
+    "updated_at": "2020-03-21T15:14:24Z",
     "author_association": "MEMBER",
-    "body": "So I see precedent to change these gas prices in ECIP-1015 back in 2016. So we are being consistent with that.\r\n\r\n\"EIP-1884: Repricing for trie-size-dependent opcodes\"",
+    "body": "So I see precedent to change these gas prices in ECIP-1015 back in 2016. So we are being consistent with that.\r\n\r\n\"EIP-1884: Repricing for trie-size-dependent opcodes\"\r\n\r\nas noted in this good comment: https://youtu.be/HzcJL3rVbpU?t=1355",
     "reactions": {
       "url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/comments/602056518/reactions",
       "total_count": 0,
