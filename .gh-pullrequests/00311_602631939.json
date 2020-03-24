@@ -25,9 +25,9 @@
       "site_admin": false
     },
     "created_at": "2020-03-23T14:31:31Z",
-    "updated_at": "2020-03-23T14:31:31Z",
+    "updated_at": "2020-03-23T21:27:19Z",
     "author_association": "MEMBER",
-    "body": "Noting w/r/t [the above `mentioned` link](https://github.com/multi-geth/multi-geth/pull/141): It's a PR to multi-geth/multi-geth with test cases showing that that provider hasn't yet implemented the protocol to spec, yet.\r\n\r\nNot yet sure about hyperledger/besu or others yet. But if multi-geth/multi-geth has it wrong, then others might as well.",
+    "body": "Noting w/r/t [the above `mentioned` link](https://github.com/multi-geth/multi-geth/pull/141): It's a PR to multi-geth/multi-geth with test cases showing that that provider hasn't yet implemented the protocol to spec, yet.\r\n\r\nNot yet sure about hyperledger/besu yet. Core-Geth passes the tests (actually generated them too) and can be a reference implementation. ",
     "reactions": {
       "url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/comments/602631939/reactions",
       "total_count": 0,
