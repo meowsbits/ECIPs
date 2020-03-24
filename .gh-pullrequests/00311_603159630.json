@@ -25,9 +25,9 @@
       "site_admin": false
     },
     "created_at": "2020-03-24T10:33:59Z",
-    "updated_at": "2020-03-24T10:33:59Z",
+    "updated_at": "2020-03-24T16:47:50Z",
     "author_association": "MEMBER",
-    "body": "> This is related to https://eips.ethereum.org/EIPS/eip-2364, right?\r\nAnd https://eips.ethereum.org/EIPS/eip-2124?\r\n\r\nYep.  https://github.com/ethereumclassic/ECIPs/blob/b1c48b16d58de8ac6b8a159eef66901d9d80c8af/_specs/ecip-1082.md#abstract\r\n\r\n> Are you are seeking to implement this within Core-Geth so that the Geth <-> Core-Geth discovery and uncoupling is cleaner/faster?\r\n\r\nIt is already implemented. Please review for the original EIP documents for rationale.\r\n\r\n> Would it be helpful for the ETC fork metadata in Core-Geth to up upstreamed to Geth as well, or does it not make a difference?\r\n\r\n`forkid` is a function of chain configuration. Thus, you can't \"upstream metadata\" without upstream the chain config, which ethereum/go-ethereum is reluctant to accept at this point.",
+    "body": "> This is related to https://eips.ethereum.org/EIPS/eip-2364, right?\r\nAnd https://eips.ethereum.org/EIPS/eip-2124?\r\n\r\nYep.  https://github.com/ethereumclassic/ECIPs/blob/b1c48b16d58de8ac6b8a159eef66901d9d80c8af/_specs/ecip-1082.md#abstract\r\n\r\n> Are you are seeking to implement this within Core-Geth so that the Geth <-> Core-Geth discovery and uncoupling is cleaner/faster?\r\n\r\nIt is already implemented. Please review the original EIP documents for rationale.\r\n\r\n> Would it be helpful for the ETC fork metadata in Core-Geth to up upstreamed to Geth as well, or does it not make a difference?\r\n\r\n`forkid` is a function of chain configuration. Thus, you can't \"upstream metadata\" without upstreaming the chain config, which ethereum/go-ethereum is reluctant to accept at this point.",
     "reactions": {
       "url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/comments/603159630/reactions",
       "total_count": 0,

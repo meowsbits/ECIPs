@@ -1,0 +1,43 @@
+{
+    "url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/comments/603478368",
+    "html_url": "https://github.com/ethereumclassic/ECIPs/issues/294#issuecomment-603478368",
+    "issue_url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/294",
+    "id": 603478368,
+    "node_id": "MDEyOklzc3VlQ29tbWVudDYwMzQ3ODM2OA==",
+    "user": {
+      "login": "meowsbits",
+      "id": 45600330,
+      "node_id": "MDQ6VXNlcjQ1NjAwMzMw",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/45600330?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/meowsbits",
+      "html_url": "https://github.com/meowsbits",
+      "followers_url": "https://api.github.com/users/meowsbits/followers",
+      "following_url": "https://api.github.com/users/meowsbits/following{/other_user}",
+      "gists_url": "https://api.github.com/users/meowsbits/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/meowsbits/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/meowsbits/subscriptions",
+      "organizations_url": "https://api.github.com/users/meowsbits/orgs",
+      "repos_url": "https://api.github.com/users/meowsbits/repos",
+      "events_url": "https://api.github.com/users/meowsbits/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/meowsbits/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "created_at": "2020-03-24T20:07:57Z",
+    "updated_at": "2020-03-24T20:07:57Z",
+    "author_association": "MEMBER",
+    "body": "> The test case difference is due to 1920000. I don't think omitting fork block 1920000 is a good idea. Can you explain why that won't cause issues when it syncs between 1920000 to 2500000?\r\n> > https://github.com/multi-geth/multi-geth/pull/141#pullrequestreview-380505139\r\n\r\nThe general rationale for ECIP-1082 choosing to omit 1920000 from the set of forks is that for Ethereum Classic, there was indeed no fork. \r\n\r\nThe scope of concern for syncing at this height would be for a client (`geth`) to be able to adequately (and efficiently) differentiate between nodes providing ETH data and those providing ETC data, and for the node in question to be able to import it's respective blocks correctly.\r\n\r\n- ETC clients will mark ETH block 1920000 as invalid; ETH applies state differences at the DAO fork block that will cause the block to be rejected as invalid by ETC clients, since they won't be configured with this manual state override. This will stop a full sync in it's tracks, cause the node to drop the peer it downloaded the bad block from, and go about it's business. For an efficient fast sync, the case is a little more complex. An ETH client will reject ETC blocks, since they will be vetted against the custom `HeaderValidation` logic. ETC clients, however, will have a harder time differentiating their chain, since state may not yet be downloaded. In the worst case scenario, an ETC geth might fast sync from an ETH node as high as the next fork as you've mentioned, and discover then that they'd been mislead, and need to find another peer with which to negotiate a common ancestor, effectively using trial and error to find a peer that serves the valid chain. This scenario can easily be avoided by adding the relevant hash for 1920000 to a white or black list that would be validated against during the Header Validation, perhaps somewhere like [here](https://github.com/multi-geth/multi-geth/blob/05fb90865e1d4b8bbd4f351311dbe4c10557b2b9/consensus/misc/forks.go#L30).\r\n- Thankfully, the `forkid`s for eth/64 ETH and ETC clients are different as of 1150000, which actually allows the protocol to distinguish the networks earlier than is possible otherwise, so clients implementing this protocol are able to disambiguate networks sooner, avoiding the above issue altogether.\r\n- Finally, it is not difficult to imagine a chain configuration::forkid implementation that continues to use the fork block 1920000 for block processing (as currently with multi-geth), but omits 1920000 as an exception during the fork id function. \r\n\r\n",
+    "reactions": {
+      "url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/comments/603478368/reactions",
+      "total_count": 0,
+      "+1": 0,
+      "-1": 0,
+      "laugh": 0,
+      "hooray": 0,
+      "confused": 0,
+      "heart": 0,
+      "rocket": 0,
+      "eyes": 0
+    }
+  }
