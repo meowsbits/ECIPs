@@ -25,9 +25,9 @@
       "site_admin": false
     },
     "created_at": "2020-03-24T23:20:27Z",
-    "updated_at": "2020-03-24T23:20:47Z",
+    "updated_at": "2020-03-24T23:21:22Z",
     "author_association": "MEMBER",
-    "body": "Noting from review at above PR a good point @sorpaas made: if ETC were to keep 1920000 in the fork set, the forkids would be identical to ETH through ~2500000, which would cause an ambiguity.",
+    "body": "Noting from review at above PR a good point @sorpaas made: if ETC were to keep 1920000 in the fork set, the forkids would be identical to ETH through ~2500000, which would cause a networking ambiguity.",
     "reactions": {
       "url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/comments/603554664/reactions",
       "total_count": 0,
