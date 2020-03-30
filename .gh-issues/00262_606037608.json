@@ -1,0 +1,43 @@
+{
+    "url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/comments/606037608",
+    "html_url": "https://github.com/ethereumclassic/ECIPs/issues/262#issuecomment-606037608",
+    "issue_url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/262",
+    "id": 606037608,
+    "node_id": "MDEyOklzc3VlQ29tbWVudDYwNjAzNzYwOA==",
+    "user": {
+      "login": "meowsbits",
+      "id": 45600330,
+      "node_id": "MDQ6VXNlcjQ1NjAwMzMw",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/45600330?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/meowsbits",
+      "html_url": "https://github.com/meowsbits",
+      "followers_url": "https://api.github.com/users/meowsbits/followers",
+      "following_url": "https://api.github.com/users/meowsbits/following{/other_user}",
+      "gists_url": "https://api.github.com/users/meowsbits/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/meowsbits/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/meowsbits/subscriptions",
+      "organizations_url": "https://api.github.com/users/meowsbits/orgs",
+      "repos_url": "https://api.github.com/users/meowsbits/repos",
+      "events_url": "https://api.github.com/users/meowsbits/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/meowsbits/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "created_at": "2020-03-30T14:34:55Z",
+    "updated_at": "2020-03-30T14:34:55Z",
+    "author_association": "MEMBER",
+    "body": "@q9f Can you give use a reminder summary of the current state of review, like original concerns - if any - and their resolution, the state of the testnets, which tests and/or heuristics are passing, and what will/would happen tomorrow? ",
+    "reactions": {
+      "url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/comments/606037608/reactions",
+      "total_count": 0,
+      "+1": 0,
+      "-1": 0,
+      "laugh": 0,
+      "hooray": 0,
+      "confused": 0,
+      "heart": 0,
+      "rocket": 0,
+      "eyes": 0
+    }
+  }
