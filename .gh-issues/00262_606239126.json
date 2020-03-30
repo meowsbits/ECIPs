@@ -1,0 +1,43 @@
+{
+    "url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/comments/606239126",
+    "html_url": "https://github.com/ethereumclassic/ECIPs/issues/262#issuecomment-606239126",
+    "issue_url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/262",
+    "id": 606239126,
+    "node_id": "MDEyOklzc3VlQ29tbWVudDYwNjIzOTEyNg==",
+    "user": {
+      "login": "bobsummerwill",
+      "id": 3788156,
+      "node_id": "MDQ6VXNlcjM3ODgxNTY=",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/3788156?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/bobsummerwill",
+      "html_url": "https://github.com/bobsummerwill",
+      "followers_url": "https://api.github.com/users/bobsummerwill/followers",
+      "following_url": "https://api.github.com/users/bobsummerwill/following{/other_user}",
+      "gists_url": "https://api.github.com/users/bobsummerwill/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/bobsummerwill/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/bobsummerwill/subscriptions",
+      "organizations_url": "https://api.github.com/users/bobsummerwill/orgs",
+      "repos_url": "https://api.github.com/users/bobsummerwill/repos",
+      "events_url": "https://api.github.com/users/bobsummerwill/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/bobsummerwill/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "created_at": "2020-03-30T20:43:31Z",
+    "updated_at": "2020-03-30T20:43:31Z",
+    "author_association": "MEMBER",
+    "body": "From ETC Discord:\r\n\r\n@gitr0n1n asked \"What is the thought/logic behind using the same gas metrics as the ETH network?\"\r\n\r\n\r\nThat is something which ETC has always done.    I don't think it is really a valid criticism.   Prior to the launch of the Ethereum network, the gas pricings were \"best guesses\".   Some of those guesses were really bad, to the degree where they become DOS vectors or serious performance imbalances and were changed in hard-forks.\r\n\r\nThat is exactly what is happening here for 1884.  Are the costs perfectly tuned for ETC?   Probably not.   Would it be worthwhile doing a deep analysis of ETC transactions and coming up with an ETC-tuned set of gas prices?   Probably, yes.    But the repricings in 1884 are part of a set of consistent prices within ETH.    \"Doing the same as ETH\" has always been the starting point for ETC.\r\n\r\nThis is a \"Whataboutism\".\r\n\r\nWhen we start intentionally pulling away from ETH it would be entirely sensible (within versioning discipline) to have an ETC-specific gas schedule based on some expensive and deep research into the ETC chain distinct from the ETH chain.    That is not now.",
+    "reactions": {
+      "url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/comments/606239126/reactions",
+      "total_count": 0,
+      "+1": 0,
+      "-1": 0,
+      "laugh": 0,
+      "hooray": 0,
+      "confused": 0,
+      "heart": 0,
+      "rocket": 0,
+      "eyes": 0
+    }
+  }
