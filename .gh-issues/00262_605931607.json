@@ -1,9 +1,9 @@
 {
-    "url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/comments/605930920",
-    "html_url": "https://github.com/ethereumclassic/ECIPs/issues/298#issuecomment-605930920",
-    "issue_url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/298",
-    "id": 605930920,
-    "node_id": "MDEyOklzc3VlQ29tbWVudDYwNTkzMDkyMA==",
+    "url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/comments/605931607",
+    "html_url": "https://github.com/ethereumclassic/ECIPs/issues/262#issuecomment-605931607",
+    "issue_url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/262",
+    "id": 605931607,
+    "node_id": "MDEyOklzc3VlQ29tbWVudDYwNTkzMTYwNw==",
     "user": {
       "login": "q9f",
       "id": 58883403,
@@ -24,12 +24,12 @@
       "type": "User",
       "site_admin": false
     },
-    "created_at": "2020-03-30T10:56:42Z",
-    "updated_at": "2020-03-30T10:57:39Z",
+    "created_at": "2020-03-30T10:58:12Z",
+    "updated_at": "2020-03-30T10:58:12Z",
     "author_association": "CONTRIBUTOR",
-    "body": "Ethereum Classic Mainnet Phoenix Hardfork Block `10_500_839` (ECIP-1088):\r\n- Sun, May 31, 2020 (@13.0s blocktime)\r\n- **Fri, Jun 05, 2020** (@14.0s blocktime; _current block time: 13.8s_)\r\n- Wed, Jun 10, 2020 (@15.0s blocktime)\r\n\r\nKotti Classic Testnet Phoenix Hardfork Block `2_200_013` (ECIP-1088):\r\n- **Mon, Apr 13, 2020** (@15.0s blocktime; _assuming no validator downtime_)\r\n\r\nMordor Classic Testnet Phoenix Hardfork Block `999_983` (ECIP-1088):\r\n- Mon, Mar 09, 2020 (_already active; 21 days ago_)\r\n\r\nThe ECIP-1088 review period ends tomorrow. Please raise your voice now if there is anything we would need to address. Thanks.",
+    "body": "The ECIP-1088 review period ends tomorrow. Please raise your voice now if there is anything we would need to address. Thanks.",
     "reactions": {
-      "url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/comments/605930920/reactions",
+      "url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/comments/605931607/reactions",
       "total_count": 0,
       "+1": 0,
       "-1": 0,
