@@ -1,0 +1,43 @@
+{
+    "url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/comments/606810133",
+    "html_url": "https://github.com/ethereumclassic/ECIPs/issues/262#issuecomment-606810133",
+    "issue_url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/262",
+    "id": 606810133,
+    "node_id": "MDEyOklzc3VlQ29tbWVudDYwNjgxMDEzMw==",
+    "user": {
+      "login": "bobsummerwill",
+      "id": 3788156,
+      "node_id": "MDQ6VXNlcjM3ODgxNTY=",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/3788156?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/bobsummerwill",
+      "html_url": "https://github.com/bobsummerwill",
+      "followers_url": "https://api.github.com/users/bobsummerwill/followers",
+      "following_url": "https://api.github.com/users/bobsummerwill/following{/other_user}",
+      "gists_url": "https://api.github.com/users/bobsummerwill/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/bobsummerwill/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/bobsummerwill/subscriptions",
+      "organizations_url": "https://api.github.com/users/bobsummerwill/orgs",
+      "repos_url": "https://api.github.com/users/bobsummerwill/repos",
+      "events_url": "https://api.github.com/users/bobsummerwill/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/bobsummerwill/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "created_at": "2020-03-31T18:55:31Z",
+    "updated_at": "2020-03-31T18:55:31Z",
+    "author_association": "MEMBER",
+    "body": "Michael Joseph:\r\n\r\nDo we have any progress on a solution to the potential CHAINID issue for ECIP-1088?  If I understand correctly, the Phoenix fork will prevent backward compatibility for the loser of the prospective battle that ensues if we have another dramatic fork (to the tune of the DAO attack) which divides the community.  Not that we won't be able to make it through, somehow, but if we are anticipating this issue already, is there no way to be proactive?\r\n\r\n@bobsummerwill:\r\nThe whole concept of Chain ID is based on \"Simple replay attack protection\" (https://eips.ethereum.org/EIPS/eip-155).   Note the word simple.  The scheme only works if different chains use different IDs.   If there is a fight over IDs then the scheme breaks down at every level.\r\n\r\nThis ECIP is specifically just exposing that existing information as an opcode, because it is useful.  If we want a more robust scheme for replay protection than that is something different again.",
+    "reactions": {
+      "url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/comments/606810133/reactions",
+      "total_count": 0,
+      "+1": 0,
+      "-1": 0,
+      "laugh": 0,
+      "hooray": 0,
+      "confused": 0,
+      "heart": 0,
+      "rocket": 0,
+      "eyes": 0
+    }
+  }
