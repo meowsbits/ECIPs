@@ -1,0 +1,43 @@
+{
+    "url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/comments/607512595",
+    "html_url": "https://github.com/ethereumclassic/ECIPs/pull/314#issuecomment-607512595",
+    "issue_url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/314",
+    "id": 607512595,
+    "node_id": "MDEyOklzc3VlQ29tbWVudDYwNzUxMjU5NQ==",
+    "user": {
+      "login": "roninkaizen",
+      "id": 17592883,
+      "node_id": "MDQ6VXNlcjE3NTkyODgz",
+      "avatar_url": "https://avatars0.githubusercontent.com/u/17592883?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/roninkaizen",
+      "html_url": "https://github.com/roninkaizen",
+      "followers_url": "https://api.github.com/users/roninkaizen/followers",
+      "following_url": "https://api.github.com/users/roninkaizen/following{/other_user}",
+      "gists_url": "https://api.github.com/users/roninkaizen/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/roninkaizen/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/roninkaizen/subscriptions",
+      "organizations_url": "https://api.github.com/users/roninkaizen/orgs",
+      "repos_url": "https://api.github.com/users/roninkaizen/repos",
+      "events_url": "https://api.github.com/users/roninkaizen/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/roninkaizen/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "created_at": "2020-04-01T22:03:55Z",
+    "updated_at": "2020-04-01T22:03:55Z",
+    "author_association": "NONE",
+    "body": "what a nice picture of you :)\r\ngood, that it was just a 1st of april this year",
+    "reactions": {
+      "url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/comments/607512595/reactions",
+      "total_count": 0,
+      "+1": 0,
+      "-1": 0,
+      "laugh": 0,
+      "hooray": 0,
+      "confused": 0,
+      "heart": 0,
+      "rocket": 0,
+      "eyes": 0
+    }
+  }

@@ -1,0 +1,39 @@
+{
+    "id": 385866230,
+    "node_id": "MDE3OlB1bGxSZXF1ZXN0UmV2aWV3Mzg1ODY2MjMw",
+    "user": {
+      "login": "TokenHash",
+      "id": 29529586,
+      "node_id": "MDQ6VXNlcjI5NTI5NTg2",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/29529586?u=98ace46677168e8512d3d1ca4a9c6b903711b07e&v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/TokenHash",
+      "html_url": "https://github.com/TokenHash",
+      "followers_url": "https://api.github.com/users/TokenHash/followers",
+      "following_url": "https://api.github.com/users/TokenHash/following{/other_user}",
+      "gists_url": "https://api.github.com/users/TokenHash/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/TokenHash/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/TokenHash/subscriptions",
+      "organizations_url": "https://api.github.com/users/TokenHash/orgs",
+      "repos_url": "https://api.github.com/users/TokenHash/repos",
+      "events_url": "https://api.github.com/users/TokenHash/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/TokenHash/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "body": "ETC is officially ossified.",
+    "state": "APPROVED",
+    "html_url": "https://github.com/ethereumclassic/ECIPs/pull/314#pullrequestreview-385866230",
+    "pull_request_url": "https://api.github.com/repos/ethereumclassic/ECIPs/pulls/314",
+    "author_association": "CONTRIBUTOR",
+    "_links": {
+      "html": {
+        "href": "https://github.com/ethereumclassic/ECIPs/pull/314#pullrequestreview-385866230"
+      },
+      "pull_request": {
+        "href": "https://api.github.com/repos/ethereumclassic/ECIPs/pulls/314"
+      }
+    },
+    "submitted_at": "2020-04-01T19:00:58Z",
+    "commit_id": "676ff08dd05c38ff22e2147783ece108fe5c4653"
+  }
