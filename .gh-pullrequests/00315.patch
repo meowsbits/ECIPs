@@ -1,0 +1,23 @@
+From c90fe1923cf48c5da79f0110874d2a0bee658bec Mon Sep 17 00:00:00 2001
+From: /raw PONG _GHMoaCXLT <58883403+q9f@users.noreply.github.com>
+Date: Thu, 2 Apr 2020 16:01:18 +0200
+Subject: [PATCH] ECIP-1088: Accept Phoenix
+
+---
+ _specs/ecip-1088.md | 3 +--
+ 1 file changed, 1 insertion(+), 2 deletions(-)
+
+diff --git a/_specs/ecip-1088.md b/_specs/ecip-1088.md
+index 9cf03726..ad903cdf 100644
+--- a/_specs/ecip-1088.md
++++ b/_specs/ecip-1088.md
+@@ -2,8 +2,7 @@
+ lang: en
+ ecip: 1088
+ title: Phoenix EVM and Protocol Upgrades
+-status: Last Call
+-review-period-end: 2020-03-31
++status: Accepted
+ type: Meta
+ author: /raw PONG _GHMoaCXLT (@q9f)
+ created: 2020-02-24

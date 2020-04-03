@@ -173,11 +173,11 @@
           "type": "User",
           "site_admin": false
         },
-        "open_issues": 3,
-        "closed_issues": 22,
+        "open_issues": 1,
+        "closed_issues": 24,
         "state": "open",
         "created_at": "2019-11-27T20:32:02Z",
-        "updated_at": "2020-02-26T15:16:30Z",
+        "updated_at": "2020-04-03T13:50:53Z",
         "due_on": null,
         "closed_at": null
       },

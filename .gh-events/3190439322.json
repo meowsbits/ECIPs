@@ -81,7 +81,7 @@
           "description": ""
         }
       ],
-      "state": "open",
+      "state": "closed",
       "locked": false,
       "assignee": null,
       "assignees": [
@@ -90,8 +90,8 @@
       "milestone": null,
       "comments": 2,
       "created_at": "2020-04-01T08:39:19Z",
-      "updated_at": "2020-04-02T03:33:24Z",
-      "closed_at": null,
+      "updated_at": "2020-04-03T13:50:52Z",
+      "closed_at": "2020-04-03T13:50:52Z",
       "author_association": "CONTRIBUTOR",
       "active_lock_reason": null,
       "pull_request": {
