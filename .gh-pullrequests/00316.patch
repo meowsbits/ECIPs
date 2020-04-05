@@ -1,0 +1,78 @@
+From f7df2245b0df3a70de505f7ee683cdba7ecaec8a Mon Sep 17 00:00:00 2001
+From: MichaelJoseph <mjspennies@gmail.com>
+Date: Sun, 5 Apr 2020 13:55:36 -0400
+Subject: [PATCH] Update and rename ecip-X.md to ecip-1090
+
+---
+ ecip-1090 | 27 +++++++++++++++++++++++++++
+ ecip-X.md | 27 ---------------------------
+ 2 files changed, 27 insertions(+), 27 deletions(-)
+ create mode 100644 ecip-1090
+ delete mode 100644 ecip-X.md
+
+diff --git a/ecip-1090 b/ecip-1090
+new file mode 100644
+index 00000000..8f99b7e7
+--- /dev/null
++++ b/ecip-1090
+@@ -0,0 +1,27 @@
++---
++ecip: <1090>
++title: <CHAINID=0>
++lang: <en | zh | <any>>
++translator: <if a translation, name or pseudonym of translator>
++author: <MichaelJoseph: mjspennies@gmail.com>
++discussions-to: <email address or accessible online forum>
++status: <Draft>
++type: <Meta>
++category: <Core>
++created: <2020-04-05>
++replaces: <EIP 155>
++superseded-by: <ECIP number>
++resolution: <url>
++---
++
++### Abstract
++set CHAINID to equal 0, or if hashrates permit, Pi.
++### Motivation
++
++### Specification
++
++### Rationale
++Doing so will legitimize our chain as the original Ethereum Blockchain: immudatbility and future immutability is assured.
++### Implementation
++
++### Copyright/Licensing
+diff --git a/ecip-X.md b/ecip-X.md
+deleted file mode 100644
+index 6126f0b9..00000000
+--- a/ecip-X.md
++++ /dev/null
+@@ -1,27 +0,0 @@
+----
+-ecip: <ECIP number>
+-title: <ECIP title>
+-lang: <en | zh | <any>>
+-translator: <if a translation, name or pseudonym of translator>
+-author: <list of authors' real names and optionally, email addrs>
+-discussions-to: <email address or accessible online forum>
+-status: <WIP | Draft | Last Call | Accepted | Final | Deferred | Replaced | Rejected | Withdrawn | Active>
+-type: <Standards Track | Meta | Informational>
+-category: <if type='Standards Track' then anyof(Core | Networking | Interface | ECBP)>
+-created: <date created on, in ISO 8601 (yyyy-mm-dd) format>
+-replaces: <ECIP number>
+-superseded-by: <ECIP number>
+-resolution: <url>
+----
+-
+-### Abstract
+-
+-### Motivation
+-
+-### Specification
+-
+-### Rationale
+-
+-### Implementation
+-
+-### Copyright/Licensing
