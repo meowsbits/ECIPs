@@ -1,14 +1,9 @@
 {
-    "url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/317",
-    "repository_url": "https://api.github.com/repos/ethereumclassic/ECIPs",
-    "labels_url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/317/labels{/name}",
-    "comments_url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/317/comments",
-    "events_url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/317/events",
-    "html_url": "https://github.com/ethereumclassic/ECIPs/issues/317",
-    "id": 594585526,
-    "node_id": "MDU6SXNzdWU1OTQ1ODU1MjY=",
-    "number": 317,
-    "title": "CHAINID=π ; ECIP-1090",
+    "url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/comments/609534591",
+    "html_url": "https://github.com/ethereumclassic/ECIPs/issues/317#issuecomment-609534591",
+    "issue_url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/317",
+    "id": 609534591,
+    "node_id": "MDEyOklzc3VlQ29tbWVudDYwOTUzNDU5MQ==",
     "user": {
       "login": "MGiuseppi",
       "id": 62612681,
@@ -29,24 +24,12 @@
       "type": "User",
       "site_admin": false
     },
-    "labels": [
-
-    ],
-    "state": "open",
-    "locked": false,
-    "assignee": null,
-    "assignees": [
-
-    ],
-    "milestone": null,
-    "comments": 3,
-    "created_at": "2020-04-05T18:22:26Z",
-    "updated_at": "2020-04-06T02:30:19Z",
-    "closed_at": null,
+    "created_at": "2020-04-06T02:30:18Z",
+    "updated_at": "2020-04-06T02:30:18Z",
     "author_association": "NONE",
-    "body": "Use CHAINID=0",
+    "body": "Consciousness is state that exists only in the present.\r\n\r\nIf we set chainID=π, our chainID will also serve as a unique principle on our blockchain and one that is perpetually verifying its identity.\r\n\r\nIt would appear to the general user, like a watermark.\r\n\r\n Running this universally recognized hash of π constantly in our ChainID slot will make etc immediately recognizable and universally appealing, not to mention more secure.",
     "reactions": {
-      "url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/317/reactions",
+      "url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/comments/609534591/reactions",
       "total_count": 0,
       "+1": 0,
       "-1": 0,
