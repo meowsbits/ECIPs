@@ -1,0 +1,55 @@
+{
+    "url": "https://api.github.com/repos/ethereumclassic/ECIPs/pulls/comments/403914707",
+    "pull_request_review_id": 388033793,
+    "id": 403914707,
+    "node_id": "MDI0OlB1bGxSZXF1ZXN0UmV2aWV3Q29tbWVudDQwMzkxNDcwNw==",
+    "diff_hunk": "@@ -0,0 +1,27 @@\n+---\n+ecip: <1090>\n+title: <CHAINID=0>",
+    "path": "ecip-1090",
+    "position": 3,
+    "original_position": 3,
+    "commit_id": "f7df2245b0df3a70de505f7ee683cdba7ecaec8a",
+    "original_commit_id": "f7df2245b0df3a70de505f7ee683cdba7ecaec8a",
+    "user": {
+      "login": "q9f",
+      "id": 58883403,
+      "node_id": "MDQ6VXNlcjU4ODgzNDAz",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/58883403?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/q9f",
+      "html_url": "https://github.com/q9f",
+      "followers_url": "https://api.github.com/users/q9f/followers",
+      "following_url": "https://api.github.com/users/q9f/following{/other_user}",
+      "gists_url": "https://api.github.com/users/q9f/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/q9f/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/q9f/subscriptions",
+      "organizations_url": "https://api.github.com/users/q9f/orgs",
+      "repos_url": "https://api.github.com/users/q9f/repos",
+      "events_url": "https://api.github.com/users/q9f/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/q9f/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "body": "can you make this more verbose?",
+    "created_at": "2020-04-06T08:29:28Z",
+    "updated_at": "2020-04-06T08:30:50Z",
+    "html_url": "https://github.com/ethereumclassic/ECIPs/pull/316#discussion_r403914707",
+    "pull_request_url": "https://api.github.com/repos/ethereumclassic/ECIPs/pulls/316",
+    "author_association": "CONTRIBUTOR",
+    "_links": {
+      "self": {
+        "href": "https://api.github.com/repos/ethereumclassic/ECIPs/pulls/comments/403914707"
+      },
+      "html": {
+        "href": "https://github.com/ethereumclassic/ECIPs/pull/316#discussion_r403914707"
+      },
+      "pull_request": {
+        "href": "https://api.github.com/repos/ethereumclassic/ECIPs/pulls/316"
+      }
+    },
+    "start_line": null,
+    "original_start_line": null,
+    "start_side": null,
+    "line": 3,
+    "original_line": 3,
+    "side": "RIGHT"
+  }
