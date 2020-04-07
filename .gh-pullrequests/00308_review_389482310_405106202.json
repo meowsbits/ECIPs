@@ -1,0 +1,49 @@
+{
+    "id": 405106202,
+    "node_id": "MDI0OlB1bGxSZXF1ZXN0UmV2aWV3Q29tbWVudDQwNTEwNjIwMg==",
+    "url": "https://api.github.com/repos/ethereumclassic/ECIPs/pulls/comments/405106202",
+    "pull_request_review_id": 389482310,
+    "diff_hunk": "@@ -1,12 +1,15 @@\n ---\n+lang: en\n ecip: 1087\n title: ECIP1061/ECIP1078/ECIP1086 on Mordor Testnet (with rollback)\n discussions-to: TBD\n+author: meowsbits\n status: Withdrawn\n-type: Standards Track (Core)\n+category: Core\n+type: Standards Track\n created: 2020-02-20\n-license: Apache-2.0\n-requires: ECIP1061 ECIP1078 ECIP1086\n+license: Apache-2.0\t\n+requires: ECIP1061 ECIP1078 ECIP1086\t",
+    "path": "_specs/ecip-1087.md",
+    "position": 15,
+    "original_position": 15,
+    "commit_id": "f6603d560fe9f543514cdfa78642a113034fcf68",
+    "user": {
+      "login": "BelfordZ",
+      "id": 1787231,
+      "node_id": "MDQ6VXNlcjE3ODcyMzE=",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/1787231?u=c8dfec8a4299d49e47990cdbe8f24264b815c966&v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/BelfordZ",
+      "html_url": "https://github.com/BelfordZ",
+      "followers_url": "https://api.github.com/users/BelfordZ/followers",
+      "following_url": "https://api.github.com/users/BelfordZ/following{/other_user}",
+      "gists_url": "https://api.github.com/users/BelfordZ/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/BelfordZ/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/BelfordZ/subscriptions",
+      "organizations_url": "https://api.github.com/users/BelfordZ/orgs",
+      "repos_url": "https://api.github.com/users/BelfordZ/repos",
+      "events_url": "https://api.github.com/users/BelfordZ/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/BelfordZ/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "body": "```suggestion\r\nrequires: ECIP1061 ECIP1078 ECIP1086\r\n```",
+    "created_at": "2020-04-07T20:53:56Z",
+    "updated_at": "2020-04-07T20:53:56Z",
+    "html_url": "https://github.com/ethereumclassic/ECIPs/pull/308#discussion_r405106202",
+    "pull_request_url": "https://api.github.com/repos/ethereumclassic/ECIPs/pulls/308",
+    "author_association": "MEMBER",
+    "_links": {
+      "self": {
+        "href": "https://api.github.com/repos/ethereumclassic/ECIPs/pulls/comments/405106202"
+      },
+      "html": {
+        "href": "https://github.com/ethereumclassic/ECIPs/pull/308#discussion_r405106202"
+      },
+      "pull_request": {
+        "href": "https://api.github.com/repos/ethereumclassic/ECIPs/pulls/308"
+      }
+    },
+    "original_commit_id": "f6603d560fe9f543514cdfa78642a113034fcf68"
+  }
