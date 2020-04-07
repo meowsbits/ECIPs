@@ -25,9 +25,9 @@
       "site_admin": false
     },
     "created_at": "2020-04-06T08:32:07Z",
-    "updated_at": "2020-04-06T08:32:07Z",
+    "updated_at": "2020-04-06T08:48:44Z",
     "author_association": "CONTRIBUTOR",
-    "body": "`0` is not possible, https://github.com/openethereum/openethereum/issues/8345#issuecomment-429956249",
+    "body": "`0` is not possible, https://github.com/openethereum/openethereum/issues/8345#issuecomment-429956249\r\n\r\nEdit, apparently, open ethereum does support `0`, https://github.com/openethereum/openethereum/pull/9792\r\n\r\nDon't know about the other clients.",
     "reactions": {
       "url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/comments/609652951/reactions",
       "total_count": 0,
