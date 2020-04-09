@@ -1,9 +1,9 @@
 {
-    "url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/comments/609463249",
-    "html_url": "https://github.com/ethereumclassic/ECIPs/issues/317#issuecomment-609463249",
+    "url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/comments/611265577",
+    "html_url": "https://github.com/ethereumclassic/ECIPs/issues/317#issuecomment-611265577",
     "issue_url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/317",
-    "id": 609463249,
-    "node_id": "MDEyOklzc3VlQ29tbWVudDYwOTQ2MzI0OQ==",
+    "id": 611265577,
+    "node_id": "MDEyOklzc3VlQ29tbWVudDYxMTI2NTU3Nw==",
     "user": {
       "login": "MGiuseppi",
       "id": 62612681,
@@ -24,12 +24,12 @@
       "type": "User",
       "site_admin": false
     },
-    "created_at": "2020-04-05T18:46:23Z",
-    "updated_at": "2020-04-09T00:43:47Z",
+    "created_at": "2020-04-09T00:42:11Z",
+    "updated_at": "2020-04-09T00:42:11Z",
     "author_association": "NONE",
-    "body": "Or Pi.    \r\n\r\n\r\nI would much rather it be Pi, but imagine the hardware is not yet there.\r\n\r\nEdit: while my preference is for a with concurrent hashing of π, I don't believe it is in etc's best interest to fight over this or delay further .",
+    "body": "the math to use a non-integer chainID is more difficult and more suited for a new iteration of digital currency.\r\n\r\n\r\n\r\nETC should adopt chainID=0",
     "reactions": {
-      "url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/comments/609463249/reactions",
+      "url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/comments/611265577/reactions",
       "total_count": 0,
       "+1": 0,
       "-1": 0,

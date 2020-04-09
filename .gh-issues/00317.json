@@ -8,7 +8,7 @@
     "id": 594585526,
     "node_id": "MDU6SXNzdWU1OTQ1ODU1MjY=",
     "number": 317,
-    "title": "CHAINID=π ; ECIP-1090",
+    "title": "CHAINID=0 ; ECIP-1090",
     "user": {
       "login": "MGiuseppi",
       "id": 62612681,
@@ -39,9 +39,9 @@
 
     ],
     "milestone": null,
-    "comments": 5,
+    "comments": 6,
     "created_at": "2020-04-05T18:22:26Z",
-    "updated_at": "2020-04-07T17:56:04Z",
+    "updated_at": "2020-04-09T00:43:47Z",
     "closed_at": null,
     "author_association": "NONE",
     "body": "Use CHAINID=0",

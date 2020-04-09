@@ -1,7 +1,7 @@
 From 11d47015f6b23fd00f5489afb5caf1730636c806 Mon Sep 17 00:00:00 2001
 From: Cody Burns <cody.w.burns@gmail.com>
 Date: Tue, 3 Mar 2020 21:14:05 -0800
-Subject: [PATCH 1/4] Update ecip-1083.md
+Subject: [PATCH 1/6] Update ecip-1083.md
 
 add lang
 ---
@@ -22,7 +22,7 @@ index c4e21eaa..ded0b6db 100644
 From 6f68f7d6ed1f0ae56dd0045fa561fb11b55f27ad Mon Sep 17 00:00:00 2001
 From: Cody Burns <cody.w.burns@gmail.com>
 Date: Tue, 3 Mar 2020 21:40:42 -0800
-Subject: [PATCH 2/4] Update ecip-1087.md
+Subject: [PATCH 2/6] Update ecip-1087.md
 
 format fix to clear validator
 ---
@@ -60,7 +60,7 @@ index 3cdd4607..26f62475 100644
 From 69e1165f39c77672d32cd807e4f4048e15b6f005 Mon Sep 17 00:00:00 2001
 From: Cody Burns <cody.w.burns@gmail.com>
 Date: Tue, 3 Mar 2020 21:42:01 -0800
-Subject: [PATCH 3/4] Update ecip-1087.md
+Subject: [PATCH 3/6] Update ecip-1087.md
 
 ---
  _specs/ecip-1087.md | 16 ++++++++--------
@@ -97,7 +97,7 @@ index 26f62475..2de1fb0c 100644
 From f6603d560fe9f543514cdfa78642a113034fcf68 Mon Sep 17 00:00:00 2001
 From: Cody Burns <cody.w.burns@gmail.com>
 Date: Tue, 3 Mar 2020 21:48:18 -0800
-Subject: [PATCH 4/4] Update ecip-1087.md
+Subject: [PATCH 4/6] Update ecip-1087.md
 
 ---
  _specs/ecip-1087.md | 3 ++-
@@ -118,3 +118,51 @@ index 2de1fb0c..e16d5105 100644
  type: Standards Track
  created: 2020-02-20
  license: Apache-2.0	
+
+From f9a8f9daec0f8d50ebc3e20411da9a8c9510d562 Mon Sep 17 00:00:00 2001
+From: meowsbits <45600330+meowsbits@users.noreply.github.com>
+Date: Wed, 8 Apr 2020 05:03:46 -0500
+Subject: [PATCH 5/6] fix: whitespace _specs/ecip-1087.md
+
+Co-Authored-By: Zachary Belford <belfordz66@gmail.com>
+---
+ _specs/ecip-1087.md | 2 +-
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+
+diff --git a/_specs/ecip-1087.md b/_specs/ecip-1087.md
+index e16d5105..639e80d3 100644
+--- a/_specs/ecip-1087.md
++++ b/_specs/ecip-1087.md
+@@ -8,7 +8,7 @@ status: Withdrawn
+ category: Core
+ type: Standards Track
+ created: 2020-02-20
+-license: Apache-2.0	
++license: Apache-2.0
+ requires: ECIP1061 ECIP1078 ECIP1086	
+ ---
+ 
+
+From abf38850a7357104cbee8e3a594d1f88661bd6cf Mon Sep 17 00:00:00 2001
+From: meowsbits <45600330+meowsbits@users.noreply.github.com>
+Date: Wed, 8 Apr 2020 05:04:05 -0500
+Subject: [PATCH 6/6] fix: whitespace _specs/ecip-1087.md
+
+Co-Authored-By: Zachary Belford <belfordz66@gmail.com>
+---
+ _specs/ecip-1087.md | 2 +-
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+
+diff --git a/_specs/ecip-1087.md b/_specs/ecip-1087.md
+index 639e80d3..60c0f3fe 100644
+--- a/_specs/ecip-1087.md
++++ b/_specs/ecip-1087.md
+@@ -9,7 +9,7 @@ category: Core
+ type: Standards Track
+ created: 2020-02-20
+ license: Apache-2.0
+-requires: ECIP1061 ECIP1078 ECIP1086	
++requires: ECIP1061 ECIP1078 ECIP1086
+ ---
+ 
+ ### Abstract
