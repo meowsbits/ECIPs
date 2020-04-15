@@ -1,0 +1,39 @@
+{
+    "id": 394207778,
+    "node_id": "MDE3OlB1bGxSZXF1ZXN0UmV2aWV3Mzk0MjA3Nzc4",
+    "user": {
+      "login": "BelfordZ",
+      "id": 1787231,
+      "node_id": "MDQ6VXNlcjE3ODcyMzE=",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/1787231?u=c8dfec8a4299d49e47990cdbe8f24264b815c966&v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/BelfordZ",
+      "html_url": "https://github.com/BelfordZ",
+      "followers_url": "https://api.github.com/users/BelfordZ/followers",
+      "following_url": "https://api.github.com/users/BelfordZ/following{/other_user}",
+      "gists_url": "https://api.github.com/users/BelfordZ/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/BelfordZ/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/BelfordZ/subscriptions",
+      "organizations_url": "https://api.github.com/users/BelfordZ/orgs",
+      "repos_url": "https://api.github.com/users/BelfordZ/repos",
+      "events_url": "https://api.github.com/users/BelfordZ/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/BelfordZ/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "body": "",
+    "state": "APPROVED",
+    "html_url": "https://github.com/ethereumclassic/ECIPs/pull/308#pullrequestreview-394207778",
+    "pull_request_url": "https://api.github.com/repos/ethereumclassic/ECIPs/pulls/308",
+    "author_association": "MEMBER",
+    "_links": {
+      "html": {
+        "href": "https://github.com/ethereumclassic/ECIPs/pull/308#pullrequestreview-394207778"
+      },
+      "pull_request": {
+        "href": "https://api.github.com/repos/ethereumclassic/ECIPs/pulls/308"
+      }
+    },
+    "submitted_at": "2020-04-15T23:44:10Z",
+    "commit_id": "abf38850a7357104cbee8e3a594d1f88661bd6cf"
+  }
