@@ -25,9 +25,9 @@
       "site_admin": false
     },
     "created_at": "2020-04-22T22:50:48Z",
-    "updated_at": "2020-04-22T23:19:27Z",
+    "updated_at": "2020-04-22T23:25:41Z",
     "author_association": "MEMBER",
-    "body": "\"# Precedents\"\r\n @TokenHash \r\nMight be worth adding Python's PEPs into the precedents section.\r\nhttps://github.com/python/peps\r\n\r\nSource: https://bitcoinmagazine.com/guides/what-is-a-bitcoin-improvement-proposal-bip",
+    "body": "Line 27:\r\n\"# Precedents\r\n\r\nThis ECIP process has the precedents of the [Bitcoin BIP](https://github.com/bitcoin/bips/blob/master/bip-0002.mediawiki) and the [Ethereum EIP](https://github.com/ethereum/EIPs) processes.\"\r\n\r\n\r\n @TokenHash \r\nMight be worth adding Python's PEPs into the precedents section, it was the inspiration for BIPs.\r\nhttps://github.com/python/peps\r\n\r\nSource: https://bitcoinmagazine.com/guides/what-is-a-bitcoin-improvement-proposal-bip",
     "reactions": {
       "url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/comments/618080005/reactions",
       "total_count": 0,

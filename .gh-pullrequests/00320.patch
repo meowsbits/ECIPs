@@ -1,0 +1,24 @@
+From 4b1e5555e613ad1bedff3eb7634f5cfb10809375 Mon Sep 17 00:00:00 2001
+From: meows <b5c6@protonmail.com>
+Date: Thu, 23 Apr 2020 06:24:50 -0500
+Subject: [PATCH] try pinning faraday dep to fix jekyll build
+
+Signed-off-by: meows <b5c6@protonmail.com>
+---
+ Gemfile | 5 ++++-
+ 1 file changed, 4 insertions(+), 1 deletion(-)
+
+diff --git a/Gemfile b/Gemfile
+index b46ace4f..5bd75575 100644
+--- a/Gemfile
++++ b/Gemfile
+@@ -32,4 +32,7 @@ gem "wdm", "~> 0.1.0" if Gem.win_platform?
+ 
+ gem "html-proofer", '>=3.3.1'
+ 
+-gem 'ecip_validator', '>= 0.9.0'
+\ No newline at end of file
++gem 'ecip_validator', '>= 0.9.0'
++
++# Rel issue: https://github.com/ethereumclassic/ECIPs/pull/308#issuecomment-618044919
++gem 'faraday', '~> 0.17.3'

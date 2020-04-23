@@ -25,9 +25,9 @@
       "site_admin": false
     },
     "created_at": "2020-04-22T23:19:06Z",
-    "updated_at": "2020-04-22T23:19:06Z",
+    "updated_at": "2020-04-22T23:26:17Z",
     "author_association": "MEMBER",
-    "body": "Line 384: \"ECIP-0001\" reference to old ECIP. @TokenHash ",
+    "body": "Line 384: \"ECIP-0001\" reference to old ECIP.\r\n\r\n@TokenHash change to ECIP-1000 with the migration.",
     "reactions": {
       "url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/comments/618088136/reactions",
       "total_count": 0,
