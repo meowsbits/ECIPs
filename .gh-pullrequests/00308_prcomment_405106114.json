@@ -7,7 +7,7 @@
     "path": "_specs/ecip-1087.md",
     "position": null,
     "original_position": 14,
-    "commit_id": "abf38850a7357104cbee8e3a594d1f88661bd6cf",
+    "commit_id": "3c3edf6bad324dff117f5e9c9f92858f24bec1bf",
     "original_commit_id": "f6603d560fe9f543514cdfa78642a113034fcf68",
     "user": {
       "login": "BelfordZ",
@@ -31,7 +31,7 @@
     },
     "body": "```suggestion\r\nlicense: Apache-2.0\r\n```",
     "created_at": "2020-04-07T20:53:46Z",
-    "updated_at": "2020-04-08T10:04:06Z",
+    "updated_at": "2020-04-23T11:42:33Z",
     "html_url": "https://github.com/ethereumclassic/ECIPs/pull/308#discussion_r405106114",
     "pull_request_url": "https://api.github.com/repos/ethereumclassic/ECIPs/pulls/308",
     "author_association": "MEMBER",
