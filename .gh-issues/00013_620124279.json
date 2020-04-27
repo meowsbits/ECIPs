@@ -1,0 +1,43 @@
+{
+    "url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/comments/620124279",
+    "html_url": "https://github.com/ethereumclassic/ECIPs/issues/13#issuecomment-620124279",
+    "issue_url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/13",
+    "id": 620124279,
+    "node_id": "MDEyOklzc3VlQ29tbWVudDYyMDEyNDI3OQ==",
+    "user": {
+      "login": "p3c-bot",
+      "id": 40745785,
+      "node_id": "MDQ6VXNlcjQwNzQ1Nzg1",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/40745785?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/p3c-bot",
+      "html_url": "https://github.com/p3c-bot",
+      "followers_url": "https://api.github.com/users/p3c-bot/followers",
+      "following_url": "https://api.github.com/users/p3c-bot/following{/other_user}",
+      "gists_url": "https://api.github.com/users/p3c-bot/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/p3c-bot/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/p3c-bot/subscriptions",
+      "organizations_url": "https://api.github.com/users/p3c-bot/orgs",
+      "repos_url": "https://api.github.com/users/p3c-bot/repos",
+      "events_url": "https://api.github.com/users/p3c-bot/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/p3c-bot/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "created_at": "2020-04-27T17:26:31Z",
+    "updated_at": "2020-04-27T17:26:31Z",
+    "author_association": "CONTRIBUTOR",
+    "body": "Fairly important update to ECIP-1049 (Change Proof of Work Algorithm from Ethash to Keccak256)\r\n------------\r\n\r\nIEEE (Institute of Electrical and Electronics Engineers) performed a study of all of the major smart contract platforms including Ethereum, and have concluded that most of them except for R3 failed to meet military/NIST level security standards in there cryptography. They said that ETH 2.0 is a moving target that they couldn't assess, but that because of Ethash specifically and its lack of compliance to previous NIST recommendations (SHA2 or SHA3), they do not give Ethereum a passing grade.\r\n\r\nIt's becoming increasingly clear that if we can move off of Ethash towards the widely respected and tested Keccak256, we can become the public blockchain platform with the best cryptography out there, a huge catalyst for growth of the ecosystem and price. \r\n\r\nSource: https://modernconsensus.com/technology/report-ethereum-hyperledger-fabric-multichain-flunk-u-s-security-standards/\r\n\r\nPaper Itself: https://papers.ssrn.com/sol3/Delivery.cfm/SSRN_ID3381692_code643771.pdf?abstractid=3381692&mirid=1\r\n",
+    "reactions": {
+      "url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/comments/620124279/reactions",
+      "total_count": 0,
+      "+1": 0,
+      "-1": 0,
+      "laugh": 0,
+      "hooray": 0,
+      "confused": 0,
+      "heart": 0,
+      "rocket": 0,
+      "eyes": 0
+    }
+  }
