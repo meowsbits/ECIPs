@@ -1,0 +1,43 @@
+{
+    "url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/comments/636791284",
+    "html_url": "https://github.com/ethereumclassic/ECIPs/issues/319#issuecomment-636791284",
+    "issue_url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/319",
+    "id": 636791284,
+    "node_id": "MDEyOklzc3VlQ29tbWVudDYzNjc5MTI4NA==",
+    "user": {
+      "login": "meowsbits",
+      "id": 45600330,
+      "node_id": "MDQ6VXNlcjQ1NjAwMzMw",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/45600330?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/meowsbits",
+      "html_url": "https://github.com/meowsbits",
+      "followers_url": "https://api.github.com/users/meowsbits/followers",
+      "following_url": "https://api.github.com/users/meowsbits/following{/other_user}",
+      "gists_url": "https://api.github.com/users/meowsbits/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/meowsbits/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/meowsbits/subscriptions",
+      "organizations_url": "https://api.github.com/users/meowsbits/orgs",
+      "repos_url": "https://api.github.com/users/meowsbits/repos",
+      "events_url": "https://api.github.com/users/meowsbits/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/meowsbits/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "created_at": "2020-06-01T11:10:12Z",
+    "updated_at": "2020-06-01T11:10:12Z",
+    "author_association": "MEMBER",
+    "body": "@ `Jekyll Workflow / build` on master at https://github.com/ethereumclassic/ECIPs/commit/a080e13bab2f0a0866789bb117a8adc424a4d653:\r\n\r\n```\r\nBundle complete! 9 Gemfile dependencies, 91 gems now installed.\r\nUse `bundle info [gemname]` to see where a bundled gem is installed.\r\n##[error]Process completed with exit code 15.\r\n```\r\nhttps://github.com/ethereumclassic/ECIPs/runs/727069091?check_suite_focus=true#step:3:168",
+    "reactions": {
+      "url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/comments/636791284/reactions",
+      "total_count": 0,
+      "+1": 0,
+      "-1": 0,
+      "laugh": 0,
+      "hooray": 0,
+      "confused": 0,
+      "heart": 0,
+      "rocket": 0,
+      "eyes": 0
+    }
+  }
