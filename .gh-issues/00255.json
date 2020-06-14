@@ -39,11 +39,12 @@
 
     ],
     "milestone": null,
-    "comments": 6,
+    "comments": 7,
     "created_at": "2020-01-12T17:51:31Z",
-    "updated_at": "2020-03-14T06:24:06Z",
+    "updated_at": "2020-06-14T16:31:03Z",
     "closed_at": null,
     "author_association": "MEMBER",
+    "active_lock_reason": null,
     "body": "People often ask me in telegram group, when the halving is. Such a countdown would handy:\r\nhttps://www.bitcoinblockhalf.com/.\r\nI am not a computer engineer. A contribution by someone with knowledge would be appreciated. Thank You!",
     "reactions": {
       "url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/255/reactions",
