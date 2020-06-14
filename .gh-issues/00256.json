@@ -75,11 +75,12 @@
       "due_on": null,
       "closed_at": null
     },
-    "comments": 0,
+    "comments": 1,
     "created_at": "2020-01-12T18:07:55Z",
-    "updated_at": "2020-04-17T16:03:30Z",
+    "updated_at": "2020-06-14T16:41:42Z",
     "closed_at": null,
     "author_association": "MEMBER",
+    "active_lock_reason": null,
     "body": "Notification of Aztlán plan to make known stakeholders aware of the rough timeline and expected upgrades ahead of the fork:\r\n\r\n## 4 contact points:\r\nInitial heads up a fork is being discussed, get updated contact info\r\nFork blocks have been decided\r\nFork is 2 weeks out\r\nFork happened and is good to go\r\n\r\nTo avoid the spamming of the stakeholders, the list of them will be provided by editors of it in a DM in the ETC discord. Please ask in #hf-communications channel.\r\n\r\nThank You!",
     "reactions": {
       "url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/256/reactions",

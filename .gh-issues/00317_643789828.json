@@ -25,9 +25,9 @@
       "site_admin": false
     },
     "created_at": "2020-06-14T16:28:42Z",
-    "updated_at": "2020-06-14T16:28:42Z",
+    "updated_at": "2020-06-14T16:42:08Z",
     "author_association": "MEMBER",
-    "body": "This issue does not appear to have material support. Can we close this one?",
+    "body": "This issue does not appear to have material support. Can we close this one? @TheEnthusiasticAs ",
     "reactions": {
       "url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/comments/643789828/reactions",
       "total_count": 0,
