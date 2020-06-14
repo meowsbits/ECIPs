@@ -1,0 +1,43 @@
+{
+    "url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/comments/643827930",
+    "html_url": "https://github.com/ethereumclassic/ECIPs/issues/325#issuecomment-643827930",
+    "issue_url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/325",
+    "id": 643827930,
+    "node_id": "MDEyOklzc3VlQ29tbWVudDY0MzgyNzkzMA==",
+    "user": {
+      "login": "developerkevin",
+      "id": 29807183,
+      "node_id": "MDQ6VXNlcjI5ODA3MTgz",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/29807183?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/developerkevin",
+      "html_url": "https://github.com/developerkevin",
+      "followers_url": "https://api.github.com/users/developerkevin/followers",
+      "following_url": "https://api.github.com/users/developerkevin/following{/other_user}",
+      "gists_url": "https://api.github.com/users/developerkevin/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/developerkevin/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/developerkevin/subscriptions",
+      "organizations_url": "https://api.github.com/users/developerkevin/orgs",
+      "repos_url": "https://api.github.com/users/developerkevin/repos",
+      "events_url": "https://api.github.com/users/developerkevin/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/developerkevin/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "created_at": "2020-06-14T22:01:33Z",
+    "updated_at": "2020-06-14T22:01:33Z",
+    "author_association": "MEMBER",
+    "body": "I agree with Yaz. We don’t wanna push him out permanently maybe he’s just\ngoing through one of his emotional phases.\n\nOn Sun, Jun 14, 2020 at 3:00 PM Yaz Khoury <notifications@github.com> wrote:\n\n> I don't think we should be removing @sorpaas <https://github.com/sorpaas>\n> from the contributor list just because he announced he's not working\n> specifically on ETC. He has many contributions and ideas to the space that\n> warrant thinking more about these decisions than just hastily removing\n> someone because they wrote a blog post.\n>\n> —\n> You are receiving this because you are subscribed to this thread.\n> Reply to this email directly, view it on GitHub\n> <https://github.com/ethereumclassic/ECIPs/issues/325#issuecomment-643827811>,\n> or unsubscribe\n> <https://github.com/notifications/unsubscribe-auth/AHDNETY5C57ZSKK225WBD7TRWVB7FANCNFSM4N47PWAA>\n> .\n>\n",
+    "reactions": {
+      "url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/comments/643827930/reactions",
+      "total_count": 0,
+      "+1": 0,
+      "-1": 0,
+      "laugh": 0,
+      "hooray": 0,
+      "confused": 0,
+      "heart": 0,
+      "rocket": 0,
+      "eyes": 0
+    }
+  }
