@@ -25,9 +25,9 @@
       "site_admin": false
     },
     "created_at": "2020-06-14T16:44:11Z",
-    "updated_at": "2020-06-14T16:44:11Z",
+    "updated_at": "2020-06-14T21:32:44Z",
     "author_association": "MEMBER",
-    "body": "An example, it appears Sorpaas is moving on from ETC to pursue other projects. So it is likely a good time to review his permissioned roles and update permission and repo access based on that annoucement. @YazzyYaz ",
+    "body": "An example, it appears Sorpaas is moving on from ETC to pursue other projects. So it is likely a good time to review his permissioned roles and update permission and repo access based on that annoucement. @YazzyYaz @q9f @stevanlohja ",
     "reactions": {
       "url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/comments/643791724/reactions",
       "total_count": 0,
