@@ -1,14 +1,9 @@
 {
-    "url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/317",
-    "repository_url": "https://api.github.com/repos/ethereumclassic/ECIPs",
-    "labels_url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/317/labels{/name}",
-    "comments_url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/317/comments",
-    "events_url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/317/events",
-    "html_url": "https://github.com/ethereumclassic/ECIPs/issues/317",
-    "id": 594585526,
-    "node_id": "MDU6SXNzdWU1OTQ1ODU1MjY=",
-    "number": 317,
-    "title": "CHAINID=0 ; ECIP-1090",
+    "url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/comments/644066490",
+    "html_url": "https://github.com/ethereumclassic/ECIPs/issues/317#issuecomment-644066490",
+    "issue_url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/317",
+    "id": 644066490,
+    "node_id": "MDEyOklzc3VlQ29tbWVudDY0NDA2NjQ5MA==",
     "user": {
       "login": "MGiuseppi",
       "id": 62612681,
@@ -29,25 +24,12 @@
       "type": "User",
       "site_admin": false
     },
-    "labels": [
-
-    ],
-    "state": "open",
-    "locked": false,
-    "assignee": null,
-    "assignees": [
-
-    ],
-    "milestone": null,
-    "comments": 9,
-    "created_at": "2020-04-05T18:22:26Z",
+    "created_at": "2020-06-15T11:16:19Z",
     "updated_at": "2020-06-15T11:16:19Z",
-    "closed_at": null,
     "author_association": "NONE",
-    "active_lock_reason": null,
-    "body": "Use CHAINID=0",
+    "body": ".....Of all the disheartening responses....\n\n\nOn Mon, Jun 15, 2020, 6:34 AM TheEnthusiasticAs <notifications@github.com>\nwrote:\n\n> @gitr0n1n <https://github.com/gitr0n1n> It is better, if it will be\n> closed / stay opened based on the opinions of the devs, e.g. of @q9f\n> <https://github.com/q9f>, @YazzyYaz <https://github.com/YazzyYaz>\n>\n> —\n> You are receiving this because you authored the thread.\n> Reply to this email directly, view it on GitHub\n> <https://github.com/ethereumclassic/ECIPs/issues/317#issuecomment-644047797>,\n> or unsubscribe\n> <https://github.com/notifications/unsubscribe-auth/AO5WJSKZWYHSTHVS67MLX7DRWX2MRANCNFSM4MBH6W2Q>\n> .\n>\n",
     "reactions": {
-      "url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/317/reactions",
+      "url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/comments/644066490/reactions",
       "total_count": 0,
       "+1": 0,
       "-1": 0,
