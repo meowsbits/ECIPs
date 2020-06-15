@@ -1,0 +1,55 @@
+{
+    "url": "https://api.github.com/repos/ethereumclassic/ECIPs/pulls/comments/440402825",
+    "pull_request_review_id": 430937300,
+    "id": 440402825,
+    "node_id": "MDI0OlB1bGxSZXF1ZXN0UmV2aWV3Q29tbWVudDQ0MDQwMjgyNQ==",
+    "diff_hunk": "@@ -3,7 +3,8 @@ lang: en\n ecip: 1082\n title: Fork identifier (`forkid`) protocol fork list specification\n author: github.com/meowsbits\n-status: Final\n+status: Superseded\n+superseded-by: 1090",
+    "path": "_specs/ecip-1082.md",
+    "position": 6,
+    "original_position": 6,
+    "commit_id": "20b80683b5a65a8c115437ce9ad6de5125991a77",
+    "original_commit_id": "20b80683b5a65a8c115437ce9ad6de5125991a77",
+    "user": {
+      "login": "meowsbits",
+      "id": 45600330,
+      "node_id": "MDQ6VXNlcjQ1NjAwMzMw",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/45600330?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/meowsbits",
+      "html_url": "https://github.com/meowsbits",
+      "followers_url": "https://api.github.com/users/meowsbits/followers",
+      "following_url": "https://api.github.com/users/meowsbits/following{/other_user}",
+      "gists_url": "https://api.github.com/users/meowsbits/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/meowsbits/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/meowsbits/subscriptions",
+      "organizations_url": "https://api.github.com/users/meowsbits/orgs",
+      "repos_url": "https://api.github.com/users/meowsbits/repos",
+      "events_url": "https://api.github.com/users/meowsbits/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/meowsbits/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "body": "```suggestion\r\nsuperseded-by: 1091\r\n```",
+    "created_at": "2020-06-15T19:38:17Z",
+    "updated_at": "2020-06-15T19:38:17Z",
+    "html_url": "https://github.com/ethereumclassic/ECIPs/pull/323#discussion_r440402825",
+    "pull_request_url": "https://api.github.com/repos/ethereumclassic/ECIPs/pulls/323",
+    "author_association": "MEMBER",
+    "_links": {
+      "self": {
+        "href": "https://api.github.com/repos/ethereumclassic/ECIPs/pulls/comments/440402825"
+      },
+      "html": {
+        "href": "https://github.com/ethereumclassic/ECIPs/pull/323#discussion_r440402825"
+      },
+      "pull_request": {
+        "href": "https://api.github.com/repos/ethereumclassic/ECIPs/pulls/323"
+      }
+    },
+    "start_line": null,
+    "original_start_line": null,
+    "start_side": null,
+    "line": 7,
+    "original_line": 7,
+    "side": "RIGHT"
+  }
