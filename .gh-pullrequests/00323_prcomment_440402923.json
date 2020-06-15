@@ -5,9 +5,9 @@
     "node_id": "MDI0OlB1bGxSZXF1ZXN0UmV2aWV3Q29tbWVudDQ0MDQwMjkyMw==",
     "diff_hunk": "@@ -0,0 +1,164 @@\n+---\n+lang: en\n+ecip: 1090",
     "path": "_specs/ecip-1090.md",
-    "position": 3,
+    "position": null,
     "original_position": 3,
-    "commit_id": "20b80683b5a65a8c115437ce9ad6de5125991a77",
+    "commit_id": "cc8f10d8692f4058fa63ce87f504b4373b7ce3f5",
     "original_commit_id": "20b80683b5a65a8c115437ce9ad6de5125991a77",
     "user": {
       "login": "meowsbits",
@@ -31,7 +31,7 @@
     },
     "body": "```suggestion\r\necip: 1091\r\n```",
     "created_at": "2020-06-15T19:38:29Z",
-    "updated_at": "2020-06-15T19:38:29Z",
+    "updated_at": "2020-06-15T19:39:42Z",
     "html_url": "https://github.com/ethereumclassic/ECIPs/pull/323#discussion_r440402923",
     "pull_request_url": "https://api.github.com/repos/ethereumclassic/ECIPs/pulls/323",
     "author_association": "MEMBER",
@@ -49,7 +49,7 @@
     "start_line": null,
     "original_start_line": null,
     "start_side": null,
-    "line": 3,
+    "line": null,
     "original_line": 3,
     "side": "RIGHT"
   }
