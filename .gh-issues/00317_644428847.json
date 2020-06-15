@@ -1,0 +1,43 @@
+{
+    "url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/comments/644428847",
+    "html_url": "https://github.com/ethereumclassic/ECIPs/issues/317#issuecomment-644428847",
+    "issue_url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/317",
+    "id": 644428847,
+    "node_id": "MDEyOklzc3VlQ29tbWVudDY0NDQyODg0Nw==",
+    "user": {
+      "login": "MGiuseppi",
+      "id": 62612681,
+      "node_id": "MDQ6VXNlcjYyNjEyNjgx",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/62612681?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/MGiuseppi",
+      "html_url": "https://github.com/MGiuseppi",
+      "followers_url": "https://api.github.com/users/MGiuseppi/followers",
+      "following_url": "https://api.github.com/users/MGiuseppi/following{/other_user}",
+      "gists_url": "https://api.github.com/users/MGiuseppi/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/MGiuseppi/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/MGiuseppi/subscriptions",
+      "organizations_url": "https://api.github.com/users/MGiuseppi/orgs",
+      "repos_url": "https://api.github.com/users/MGiuseppi/repos",
+      "events_url": "https://api.github.com/users/MGiuseppi/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/MGiuseppi/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "created_at": "2020-06-15T22:49:44Z",
+    "updated_at": "2020-06-15T22:49:44Z",
+    "author_association": "NONE",
+    "body": "Please catch me up:\n\nAs I understood it, the phoenix hard fork would prevent any future\nmodifications of chainID.\n\nSince that has occurred, is there a reason to have a dissussion revolving\naround how to change it?\n\n\nIf there is still a way to implement change in chainID, I will devote some\nattention to it.\n\n\n\n\nOn Mon, Jun 15, 2020, 4:51 PM Yaz Khoury <notifications@github.com> wrote:\n\n> I think we can keep this one open for the time being and request a formal\n> proposal from @MGiuseppi <https://github.com/MGiuseppi>.\n>\n> If he can't provide an ECIP draft within an agreed-upon time, then we can\n> close this issue. It can always be re-opened later, but there's nothing\n> specific in our ECIP process about what to do with open issue tickets.\n>\n> @MGiuseppi <https://github.com/MGiuseppi> can we expect an ECIP draft\n> from you on this? We can use link the discussion page of the draft to this\n> page so more people can discuss your idea.\n>\n> —\n> You are receiving this because you were mentioned.\n> Reply to this email directly, view it on GitHub\n> <https://github.com/ethereumclassic/ECIPs/issues/317#issuecomment-644379859>,\n> or unsubscribe\n> <https://github.com/notifications/unsubscribe-auth/AO5WJSOTDBXIEFO72435ZBTRW2CARANCNFSM4MBH6W2Q>\n> .\n>\n",
+    "reactions": {
+      "url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/comments/644428847/reactions",
+      "total_count": 0,
+      "+1": 0,
+      "-1": 0,
+      "laugh": 0,
+      "hooray": 0,
+      "confused": 0,
+      "heart": 0,
+      "rocket": 0,
+      "eyes": 0
+    }
+  }
