@@ -1,0 +1,43 @@
+{
+    "url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/comments/644379859",
+    "html_url": "https://github.com/ethereumclassic/ECIPs/issues/317#issuecomment-644379859",
+    "issue_url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/317",
+    "id": 644379859,
+    "node_id": "MDEyOklzc3VlQ29tbWVudDY0NDM3OTg1OQ==",
+    "user": {
+      "login": "YazzyYaz",
+      "id": 9094204,
+      "node_id": "MDQ6VXNlcjkwOTQyMDQ=",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/9094204?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/YazzyYaz",
+      "html_url": "https://github.com/YazzyYaz",
+      "followers_url": "https://api.github.com/users/YazzyYaz/followers",
+      "following_url": "https://api.github.com/users/YazzyYaz/following{/other_user}",
+      "gists_url": "https://api.github.com/users/YazzyYaz/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/YazzyYaz/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/YazzyYaz/subscriptions",
+      "organizations_url": "https://api.github.com/users/YazzyYaz/orgs",
+      "repos_url": "https://api.github.com/users/YazzyYaz/repos",
+      "events_url": "https://api.github.com/users/YazzyYaz/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/YazzyYaz/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "created_at": "2020-06-15T20:45:45Z",
+    "updated_at": "2020-06-15T20:45:45Z",
+    "author_association": "MEMBER",
+    "body": "I think we can keep this one open for the time being and request a formal proposal from @MGiuseppi.\r\n\r\nIf he can't provide an ECIP draft within an agreed-upon time, then we can close this issue. It can always be re-opened later, but there's nothing specific in our ECIP process about what to do with open issue tickets.\r\n\r\n@MGiuseppi can we expect an ECIP draft from you on this? We can use link the discussion page of the draft to this page so more people can discuss your idea.",
+    "reactions": {
+      "url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/comments/644379859/reactions",
+      "total_count": 0,
+      "+1": 0,
+      "-1": 0,
+      "laugh": 0,
+      "hooray": 0,
+      "confused": 0,
+      "heart": 0,
+      "rocket": 0,
+      "eyes": 0
+    }
+  }
