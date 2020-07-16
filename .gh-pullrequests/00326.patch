@@ -1,0 +1,34 @@
+From f60c9746008ca877b6e0740dbc9218bff4407b33 Mon Sep 17 00:00:00 2001
+From: Cody Burns <cody.w.burns@gmail.com>
+Date: Thu, 16 Jul 2020 12:24:25 -0500
+Subject: [PATCH] MV Sorpass from current to former ecip editor
+
+Moving Wei Tang (@sorpaas) from "current editors" to "former editors" to comply with their wish to disengage from Ethereum classic ecosystem
+---
+ _specs/ecip-1000.md | 6 ++++--
+ 1 file changed, 4 insertions(+), 2 deletions(-)
+
+diff --git a/_specs/ecip-1000.md b/_specs/ecip-1000.md
+index 06949025..b8914933 100644
+--- a/_specs/ecip-1000.md
++++ b/_specs/ecip-1000.md
+@@ -70,15 +70,17 @@ A good reason to transfer ownership is because the original author no longer has
+ 
+ ## ECIP Editors
+ 
+-The current ECIP editors are:
++Current ECIP editors:
+ 
+-* Wei Tang (@sorpaas)
+ * Mr. Meows D. Bits (@meowsbits)
+ * Cody Burns (@realcodywburns)
+ * Talha Cross (@soc1c)
+ * Yaz Khoury (@YazzyYaz)
+ * Zachary Belford (@BelfordZ)
+ 
++Former ECIP editors:
++* Wei Tang (@sorpaas)
++
+ ## ECIP Editor Responsibilities & Workflow
+ 
+ ### Introduction

@@ -1,7 +1,7 @@
 {
-    "id": 2072941849,
-    "node_id": "MDEyOkxhYmVsZWRFdmVudDIwNzI5NDE4NDk=",
-    "url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/events/2072941849",
+    "id": 3554326136,
+    "node_id": "MDEyOkxhYmVsZWRFdmVudDM1NTQzMjYxMzY=",
+    "url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/events/3554326136",
     "actor": {
       "login": "realcodywburns",
       "id": 13103499,
@@ -25,22 +25,22 @@
     "event": "labeled",
     "commit_id": null,
     "commit_url": null,
-    "created_at": "2019-01-14T21:09:40Z",
+    "created_at": "2020-07-16T17:25:30Z",
     "label": {
-      "name": "Consensus",
-      "color": "d73a4a"
+      "name": "type: meta",
+      "color": "cfd3d7"
     },
     "issue": {
-      "url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/11",
+      "url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/326",
       "repository_url": "https://api.github.com/repos/ethereumclassic/ECIPs",
-      "labels_url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/11/labels{/name}",
-      "comments_url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/11/comments",
-      "events_url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/11/events",
-      "html_url": "https://github.com/ethereumclassic/ECIPs/issues/11",
-      "id": 399074310,
-      "node_id": "MDU6SXNzdWUzOTkwNzQzMTA=",
-      "number": 11,
-      "title": "ECIP-1043: Fixed DAG limit restriction",
+      "labels_url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/326/labels{/name}",
+      "comments_url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/326/comments",
+      "events_url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/326/events",
+      "html_url": "https://github.com/ethereumclassic/ECIPs/pull/326",
+      "id": 658399791,
+      "node_id": "MDExOlB1bGxSZXF1ZXN0NDUwMzY3MjUx",
+      "number": 326,
+      "title": "MV Sorpass from current to former ecip editor",
       "user": {
         "login": "realcodywburns",
         "id": 13103499,
@@ -63,22 +63,13 @@
       },
       "labels": [
         {
-          "id": 1154785139,
-          "node_id": "MDU6TGFiZWwxMTU0Nzg1MTM5",
-          "url": "https://api.github.com/repos/ethereumclassic/ECIPs/labels/status:%20draft",
-          "name": "status: draft",
-          "color": "ffffff",
+          "id": 1154785129,
+          "node_id": "MDU6TGFiZWwxMTU0Nzg1MTI5",
+          "url": "https://api.github.com/repos/ethereumclassic/ECIPs/labels/type:%20meta",
+          "name": "type: meta",
+          "color": "cfd3d7",
           "default": false,
-          "description": "draft stage - can be assigned ecip number and merged, but requires new PR to be Accepted"
-        },
-        {
-          "id": 1154785127,
-          "node_id": "MDU6TGFiZWwxMTU0Nzg1MTI3",
-          "url": "https://api.github.com/repos/ethereumclassic/ECIPs/labels/type:%20core",
-          "name": "type: core",
-          "color": "d73a4a",
-          "default": false,
-          "description": "Requires consensus consideration"
+          "description": "Accepted best practices"
         }
       ],
       "state": "open",
@@ -88,12 +79,18 @@
 
       ],
       "milestone": null,
-      "comments": 6,
-      "created_at": "2019-01-14T21:09:14Z",
-      "updated_at": "2020-06-18T04:47:25Z",
+      "comments": 0,
+      "created_at": "2020-07-16T17:25:29Z",
+      "updated_at": "2020-07-16T17:25:30Z",
       "closed_at": null,
       "author_association": "MEMBER",
       "active_lock_reason": null,
-      "body": "[ECIP-1043: Fixed DAG limit restriction](https://ecips.ethereumclassic.org/ECIPs/ecip-1043)"
+      "pull_request": {
+        "url": "https://api.github.com/repos/ethereumclassic/ECIPs/pulls/326",
+        "html_url": "https://github.com/ethereumclassic/ECIPs/pull/326",
+        "diff_url": "https://github.com/ethereumclassic/ECIPs/pull/326.diff",
+        "patch_url": "https://github.com/ethereumclassic/ECIPs/pull/326.patch"
+      },
+      "body": "Moving Wei Tang (@sorpaas) from \"current editors\" to \"former editors\" to comply with their wish to disengage from Ethereum classic ecosystem"
     }
   }
