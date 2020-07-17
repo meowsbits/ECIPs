@@ -155,6 +155,8 @@
         "diff_url": "https://github.com/ethereumclassic/ECIPs/pull/282.diff",
         "patch_url": "https://github.com/ethereumclassic/ECIPs/pull/282.patch"
       },
-      "body": "Feature-enable specifications conventionally use block numbers as inclusive\r\nstarting points, as opposed to last-without variables.\r\n\r\nThis commit edits the specification section assuming that that was what was\r\nintended.\r\n\r\nRel #281 "
-    }
+      "body": "Feature-enable specifications conventionally use block numbers as inclusive\r\nstarting points, as opposed to last-without variables.\r\n\r\nThis commit edits the specification section assuming that that was what was\r\nintended.\r\n\r\nRel #281 ",
+      "performed_via_github_app": null
+    },
+    "performed_via_github_app": null
   }

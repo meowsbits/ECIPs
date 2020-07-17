@@ -79,6 +79,8 @@
         "diff_url": "https://github.com/ethereumclassic/ECIPs/pull/136.diff",
         "patch_url": "https://github.com/ethereumclassic/ECIPs/pull/136.patch"
       },
-      "body": "Given Atlantis hard fork is executed, this PR is changing the status of ECIP-1054 to `final` according to the process on ECIP-1000."
-    }
+      "body": "Given Atlantis hard fork is executed, this PR is changing the status of ECIP-1054 to `final` according to the process on ECIP-1000.",
+      "performed_via_github_app": null
+    },
+    "performed_via_github_app": null
   }

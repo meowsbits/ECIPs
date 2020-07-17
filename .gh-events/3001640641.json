@@ -79,6 +79,8 @@
         "diff_url": "https://github.com/ethereumclassic/ECIPs/pull/137.diff",
         "patch_url": "https://github.com/ethereumclassic/ECIPs/pull/137.patch"
       },
-      "body": "Correcting from _Petersburg_ to _St. Petersburg_."
-    }
+      "body": "Correcting from _Petersburg_ to _St. Petersburg_.",
+      "performed_via_github_app": null
+    },
+    "performed_via_github_app": null
   }

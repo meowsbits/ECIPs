@@ -79,6 +79,8 @@
         "diff_url": "https://github.com/ethereumclassic/ECIPs/pull/289.diff",
         "patch_url": "https://github.com/ethereumclassic/ECIPs/pull/289.patch"
       },
-      "body": "Kotti has been live for over a year.\r\nClique is implemented in Parity-Ethereum, Multi-Geth and Hyperledger Besu.\r\nThis ECIP just got left unprocessed."
-    }
+      "body": "Kotti has been live for over a year.\r\nClique is implemented in Parity-Ethereum, Multi-Geth and Hyperledger Besu.\r\nThis ECIP just got left unprocessed.",
+      "performed_via_github_app": null
+    },
+    "performed_via_github_app": null
   }

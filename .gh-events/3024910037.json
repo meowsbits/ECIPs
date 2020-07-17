@@ -125,6 +125,8 @@
         "diff_url": "https://github.com/ethereumclassic/ECIPs/pull/259.diff",
         "patch_url": "https://github.com/ethereumclassic/ECIPs/pull/259.patch"
       },
-      "body": "Hard cap on the gaslimit for the ETC mainnet as an in-protocol consensus rule.\r\n\r\nFrom the block that this ECIP was activated, gaslimit would follow a\r\ncurve defined in this proposal rather than being subject to miner voting."
-    }
+      "body": "Hard cap on the gaslimit for the ETC mainnet as an in-protocol consensus rule.\r\n\r\nFrom the block that this ECIP was activated, gaslimit would follow a\r\ncurve defined in this proposal rather than being subject to miner voting.",
+      "performed_via_github_app": null
+    },
+    "performed_via_github_app": null
   }

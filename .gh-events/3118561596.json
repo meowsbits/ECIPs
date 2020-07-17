@@ -113,6 +113,8 @@
         "diff_url": "https://github.com/ethereumclassic/ECIPs/pull/308.diff",
         "patch_url": "https://github.com/ethereumclassic/ECIPs/pull/308.patch"
       },
-      "body": "add lang"
-    }
+      "body": "add lang",
+      "performed_via_github_app": null
+    },
+    "performed_via_github_app": null
   }

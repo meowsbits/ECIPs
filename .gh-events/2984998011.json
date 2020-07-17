@@ -83,6 +83,8 @@
         "diff_url": "https://github.com/ethereumclassic/ECIPs/pull/231.diff",
         "patch_url": "https://github.com/ethereumclassic/ECIPs/pull/231.patch"
       },
-      "body": "This requires the Treasury.\r\nBoth the Treasury and this Auditing proposal on top run counter to ECIP-1017 monetary policy.\r\n\r\nAuditing is a good idea, but should not be centralized into the block rewards.\r\n\r\nThis runs counter to ETC philosophy and principles and should be rejected.\r\n\r\nPerhaps this is raised in an ETC Core Developers call, and formally rejected?"
-    }
+      "body": "This requires the Treasury.\r\nBoth the Treasury and this Auditing proposal on top run counter to ECIP-1017 monetary policy.\r\n\r\nAuditing is a good idea, but should not be centralized into the block rewards.\r\n\r\nThis runs counter to ETC philosophy and principles and should be rejected.\r\n\r\nPerhaps this is raised in an ETC Core Developers call, and formally rejected?",
+      "performed_via_github_app": null
+    },
+    "performed_via_github_app": null
   }

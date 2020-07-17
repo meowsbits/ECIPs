@@ -79,6 +79,8 @@
         "diff_url": "https://github.com/ethereumclassic/ECIPs/pull/235.diff",
         "patch_url": "https://github.com/ethereumclassic/ECIPs/pull/235.patch"
       },
-      "body": "A lot of stuff happens on Github influencing and indeed embodying the ECIP process. Although this content frequently remains visible _on Github_, it is not an actual part of the repository content.\r\n\r\nThis change set proposed includes version controlled snapshots of Github Pull Requests and Issues for the repository as hosted at this Github URL.\r\n\r\nIf tentatively accepted, next steps might be establishing and/or popularizing patterns of implementation (scripts) and snapshot-update schedules and handling.\r\n\r\nFor ECIP content, I think this matters because it's important for the content itself to be associated with prominent and available discourse surrounding it.\r\n\r\nFor reference, I use the following scripts to collect this metadata:\r\n- https://gist.github.com/meowsbits/3f0a79a42ac1b87573b8e5169325f9f9\r\n- https://gist.github.com/meowsbits/552374d2cc89de29902e5d34fbbff5e9"
-    }
+      "body": "A lot of stuff happens on Github influencing and indeed embodying the ECIP process. Although this content frequently remains visible _on Github_, it is not an actual part of the repository content.\r\n\r\nThis change set proposed includes version controlled snapshots of Github Pull Requests and Issues for the repository as hosted at this Github URL.\r\n\r\nIf tentatively accepted, next steps might be establishing and/or popularizing patterns of implementation (scripts) and snapshot-update schedules and handling.\r\n\r\nFor ECIP content, I think this matters because it's important for the content itself to be associated with prominent and available discourse surrounding it.\r\n\r\nFor reference, I use the following scripts to collect this metadata:\r\n- https://gist.github.com/meowsbits/3f0a79a42ac1b87573b8e5169325f9f9\r\n- https://gist.github.com/meowsbits/552374d2cc89de29902e5d34fbbff5e9",
+      "performed_via_github_app": null
+    },
+    "performed_via_github_app": null
   }

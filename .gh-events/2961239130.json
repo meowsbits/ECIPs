@@ -83,6 +83,8 @@
         "diff_url": "https://github.com/ethereumclassic/ECIPs/pull/249.diff",
         "patch_url": "https://github.com/ethereumclassic/ECIPs/pull/249.patch"
       },
-      "body": "ref: https://github.com/ethereum/EIPs/issues/1662 https://github.com/ethereum/EIPs/issues/170"
-    }
+      "body": "ref: https://github.com/ethereum/EIPs/issues/1662 https://github.com/ethereum/EIPs/issues/170",
+      "performed_via_github_app": null
+    },
+    "performed_via_github_app": null
   }

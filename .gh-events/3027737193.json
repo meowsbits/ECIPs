@@ -119,6 +119,8 @@
         "diff_url": "https://github.com/ethereumclassic/ECIPs/pull/288.diff",
         "patch_url": "https://github.com/ethereumclassic/ECIPs/pull/288.patch"
       },
-      "body": "This should have happened at the same time as ECIP 1078: Phoenix EVM and Protocol Upgrades (\"Aztlán fix\") was moved.\r\nAlso correcting \"type\" and \"category\" from Meta to Standards Track.\r\nThat was a cut-and-paste error."
-    }
+      "body": "This should have happened at the same time as ECIP 1078: Phoenix EVM and Protocol Upgrades (\"Aztlán fix\") was moved.\r\nAlso correcting \"type\" and \"category\" from Meta to Standards Track.\r\nThat was a cut-and-paste error.",
+      "performed_via_github_app": null
+    },
+    "performed_via_github_app": null
   }

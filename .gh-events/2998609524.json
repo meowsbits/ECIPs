@@ -73,6 +73,8 @@
       "closed_at": "2020-01-31T21:43:30Z",
       "author_association": "CONTRIBUTOR",
       "active_lock_reason": null,
-      "body": "I think the link and text to the ECIPs site on ./ethereumclassic/ECIPs should be:\r\n\r\n`The Ethereum Classic Improvement Proposal repository is at https://ecips.ethereumclassic.org/`\r\n\r\nCurrently it's:\r\n\r\n`https://ethereumclassic.org/`\r\n\r\n...which takes you the home, but that is not the ECIPs site."
-    }
+      "body": "I think the link and text to the ECIPs site on ./ethereumclassic/ECIPs should be:\r\n\r\n`The Ethereum Classic Improvement Proposal repository is at https://ecips.ethereumclassic.org/`\r\n\r\nCurrently it's:\r\n\r\n`https://ethereumclassic.org/`\r\n\r\n...which takes you the home, but that is not the ECIPs site.",
+      "performed_via_github_app": null
+    },
+    "performed_via_github_app": null
   }

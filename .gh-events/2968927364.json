@@ -117,6 +117,8 @@
         "diff_url": "https://github.com/ethereumclassic/ECIPs/pull/267.diff",
         "patch_url": "https://github.com/ethereumclassic/ECIPs/pull/267.patch"
       },
-      "body": "Both soc1c and meowbits have made crystal clear that they do not want their real names in ECIP-1000."
-    }
+      "body": "Both soc1c and meowbits have made crystal clear that they do not want their real names in ECIP-1000.",
+      "performed_via_github_app": null
+    },
+    "performed_via_github_app": null
   }

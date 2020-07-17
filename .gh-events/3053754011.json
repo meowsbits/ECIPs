@@ -147,6 +147,8 @@
       "closed_at": "2020-04-03T13:50:53Z",
       "author_association": "MEMBER",
       "active_lock_reason": null,
-      "body": "Discussion for ECIP-1078 and ECIP-1086."
-    }
+      "body": "Discussion for ECIP-1078 and ECIP-1086.",
+      "performed_via_github_app": null
+    },
+    "performed_via_github_app": null
   }

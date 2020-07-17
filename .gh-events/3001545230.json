@@ -109,6 +109,8 @@
       "closed_at": "2020-02-03T10:09:06Z",
       "author_association": "CONTRIBUTOR",
       "active_lock_reason": null,
-      "body": ""
-    }
+      "body": "",
+      "performed_via_github_app": null
+    },
+    "performed_via_github_app": null
   }

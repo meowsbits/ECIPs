@@ -77,6 +77,8 @@
       "closed_at": null,
       "author_association": "MEMBER",
       "active_lock_reason": null,
-      "body": "https://github.com/ethereumclassic/ECIPs/blob/master/_specs/ecip-1082.md"
-    }
+      "body": "https://github.com/ethereumclassic/ECIPs/blob/master/_specs/ecip-1082.md",
+      "performed_via_github_app": null
+    },
+    "performed_via_github_app": null
   }

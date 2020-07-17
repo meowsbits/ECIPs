@@ -83,6 +83,8 @@
         "diff_url": "https://github.com/ethereumclassic/ECIPs/pull/278.diff",
         "patch_url": "https://github.com/ethereumclassic/ECIPs/pull/278.patch"
       },
-      "body": "Seems this ECIP was merged without a number. The actual underlying correction proposed was done in ECIP-1000 through another PR https://github.com/ethereumclassic/ECIPs/pull/267, so this ECIP may either get a number and moved to \"Active\" so it agrees with the ECIP process format, or it may be deleted."
-    }
+      "body": "Seems this ECIP was merged without a number. The actual underlying correction proposed was done in ECIP-1000 through another PR https://github.com/ethereumclassic/ECIPs/pull/267, so this ECIP may either get a number and moved to \"Active\" so it agrees with the ECIP process format, or it may be deleted.",
+      "performed_via_github_app": null
+    },
+    "performed_via_github_app": null
   }

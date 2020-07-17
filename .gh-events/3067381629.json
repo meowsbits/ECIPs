@@ -79,6 +79,8 @@
         "diff_url": "https://github.com/ethereumclassic/ECIPs/pull/283.diff",
         "patch_url": "https://github.com/ethereumclassic/ECIPs/pull/283.patch"
       },
-      "body": "It was replaced by ECIP-0001 ECIP process."
-    }
+      "body": "It was replaced by ECIP-0001 ECIP process.",
+      "performed_via_github_app": null
+    },
+    "performed_via_github_app": null
   }

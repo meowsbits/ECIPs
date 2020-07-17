@@ -83,6 +83,8 @@
         "diff_url": "https://github.com/ethereumclassic/ECIPs/pull/229.diff",
         "patch_url": "https://github.com/ethereumclassic/ECIPs/pull/229.patch"
       },
-      "body": "There has been no work on this proposal (or the earlier IOHK treasury proposal).\r\nThere is broad consensus that changing the block rewards to add treasury model is unacceptable.\r\nThe Monetary Policy (ECIP-1017) defines the ETC system and gives multi-decade certainty to all ETC ecosystem participants.\r\n\r\nIf we need to have a discussion of this on ETC Core Developers call then we should.\r\nAnd then Reject it."
-    }
+      "body": "There has been no work on this proposal (or the earlier IOHK treasury proposal).\r\nThere is broad consensus that changing the block rewards to add treasury model is unacceptable.\r\nThe Monetary Policy (ECIP-1017) defines the ETC system and gives multi-decade certainty to all ETC ecosystem participants.\r\n\r\nIf we need to have a discussion of this on ETC Core Developers call then we should.\r\nAnd then Reject it.",
+      "performed_via_github_app": null
+    },
+    "performed_via_github_app": null
   }

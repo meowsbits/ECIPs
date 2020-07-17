@@ -119,6 +119,8 @@
         "diff_url": "https://github.com/ethereumclassic/ECIPs/pull/296.diff",
         "patch_url": "https://github.com/ethereumclassic/ECIPs/pull/296.patch"
       },
-      "body": "The rationale is taken from #295 \r\n\r\n* revert mordor and have a proper phoenix + aztlan hardfork\r\n* keep kotti with ecip-1086 #293 \r\n\r\ncc @meowsbits "
-    }
+      "body": "The rationale is taken from #295 \r\n\r\n* revert mordor and have a proper phoenix + aztlan hardfork\r\n* keep kotti with ecip-1086 #293 \r\n\r\ncc @meowsbits ",
+      "performed_via_github_app": null
+    },
+    "performed_via_github_app": null
   }

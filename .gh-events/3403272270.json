@@ -119,6 +119,8 @@
         "diff_url": "https://github.com/ethereumclassic/ECIPs/pull/323.diff",
         "patch_url": "https://github.com/ethereumclassic/ECIPs/pull/323.patch"
       },
-      "body": "This version of the Ethereum Classic forkid specification corrects Kotti\r\nforkid expectations, superseding [ECIP1082](https://ecips.ethereumclassic.org/ECIPs/ecip-1082). The change removes wrongly configured Ethash specifications\r\nfor the chain configuration, and in doing so removes two invalid forks (2000000, 5000000) from\r\nthe parameterized fork list.\r\n\r\nPlease see Pull Requests referenced below for implementation.\r\n\r\n_EDIT_: This ECIP also documents itself as an \"Active\" ECBP, allowing further edits as necessitated by future network protocol upgrades.\r\n"
-    }
+      "body": "This version of the Ethereum Classic forkid specification corrects Kotti\r\nforkid expectations, superseding [ECIP1082](https://ecips.ethereumclassic.org/ECIPs/ecip-1082). The change removes wrongly configured Ethash specifications\r\nfor the chain configuration, and in doing so removes two invalid forks (2000000, 5000000) from\r\nthe parameterized fork list.\r\n\r\nPlease see Pull Requests referenced below for implementation.\r\n\r\n_EDIT_: This ECIP also documents itself as an \"Active\" ECBP, allowing further edits as necessitated by future network protocol upgrades.\r\n",
+      "performed_via_github_app": null
+    },
+    "performed_via_github_app": null
   }

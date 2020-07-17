@@ -79,6 +79,8 @@
         "diff_url": "https://github.com/ethereumclassic/ECIPs/pull/290.diff",
         "patch_url": "https://github.com/ethereumclassic/ECIPs/pull/290.patch"
       },
-      "body": "It has been in Last Call since October.\r\nPeople are using this standard in the real world.\r\nThe standard is not changing.\r\nThis is a best practice, not consensus."
-    }
+      "body": "It has been in Last Call since October.\r\nPeople are using this standard in the real world.\r\nThe standard is not changing.\r\nThis is a best practice, not consensus.",
+      "performed_via_github_app": null
+    },
+    "performed_via_github_app": null
   }

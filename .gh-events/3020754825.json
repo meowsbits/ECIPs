@@ -118,6 +118,8 @@
         "diff_url": "https://github.com/ethereumclassic/ECIPs/pull/285.diff",
         "patch_url": "https://github.com/ethereumclassic/ECIPs/pull/285.patch"
       },
-      "body": "Move ECIP-1078 (\"fix\") to Last Call.\r\nMove ECIP-1079 (\"redo\") to Withdrawn.\r\nAztlán has activated on the Mordor testnet, so can no longer be withdrawn.\r\nProceeding with \"fix\" appears to be our best option."
-    }
+      "body": "Move ECIP-1078 (\"fix\") to Last Call.\r\nMove ECIP-1079 (\"redo\") to Withdrawn.\r\nAztlán has activated on the Mordor testnet, so can no longer be withdrawn.\r\nProceeding with \"fix\" appears to be our best option.",
+      "performed_via_github_app": null
+    },
+    "performed_via_github_app": null
   }

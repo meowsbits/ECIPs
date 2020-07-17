@@ -77,6 +77,8 @@
       "closed_at": null,
       "author_association": "CONTRIBUTOR",
       "active_lock_reason": null,
-      "body": "The proposal was submitted as an [EIP](https://github.com/ethereum/EIPs/pull/2427) because it would make sense for either network to get this done."
-    }
+      "body": "The proposal was submitted as an [EIP](https://github.com/ethereum/EIPs/pull/2427) because it would make sense for either network to get this done.",
+      "performed_via_github_app": null
+    },
+    "performed_via_github_app": null
   }

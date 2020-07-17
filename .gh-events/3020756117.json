@@ -150,6 +150,8 @@
       "closed_at": "2020-01-31T21:18:46Z",
       "author_association": "MEMBER",
       "active_lock_reason": null,
-      "body": "Discussion for https://github.com/ethereumclassic/ECIPs/pull/263"
-    }
+      "body": "Discussion for https://github.com/ethereumclassic/ECIPs/pull/263",
+      "performed_via_github_app": null
+    },
+    "performed_via_github_app": null
   }

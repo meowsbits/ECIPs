@@ -79,6 +79,8 @@
         "diff_url": "https://github.com/ethereumclassic/ECIPs/pull/311.diff",
         "patch_url": "https://github.com/ethereumclassic/ECIPs/pull/311.patch"
       },
-      "body": "It has been at least 2 weeks since this doc has been at\r\nLast Call (https://github.com/ethereumclassic/ECIPs/pull/291).\r\n\r\nSigned-off-by: meows <b5c6@protonmail.com>"
-    }
+      "body": "It has been at least 2 weeks since this doc has been at\r\nLast Call (https://github.com/ethereumclassic/ECIPs/pull/291).\r\n\r\nSigned-off-by: meows <b5c6@protonmail.com>",
+      "performed_via_github_app": null
+    },
+    "performed_via_github_app": null
   }

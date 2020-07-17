@@ -87,6 +87,8 @@
         "diff_url": "https://github.com/ethereumclassic/ECIPs/pull/211.diff",
         "patch_url": "https://github.com/ethereumclassic/ECIPs/pull/211.patch"
       },
-      "body": "For important ECIP issues, core developers regularly hold meetings to gather rough consensus from the community. Those meetings may be conducted by ECIP editors, ECIP coordinators, or anyone else in the community who might be willing to volunteer. Coordinators of a meeting should:\r\n\r\n* Decide on a meeting date, time and location that is available to as many community members as possible.\r\n* Provide an acceptable meeting agenda, and on the call, drive the meeting agenda forward for participants.\r\n* Record the meeting notes and make it available to the public.\r\n\r\nMeeting coordinators should be rotating, in order to offload the burden, and to avoid abuse of the meeting process.\r\n\r\nFor this PR, I'm adding the initial ECIP Coordinators list as https://github.com/ethereumclassic/ECIPs/issues/209 grows (excluding already-assigned ECIP editors, as I assume they're already coordinators)."
-    }
+      "body": "For important ECIP issues, core developers regularly hold meetings to gather rough consensus from the community. Those meetings may be conducted by ECIP editors, ECIP coordinators, or anyone else in the community who might be willing to volunteer. Coordinators of a meeting should:\r\n\r\n* Decide on a meeting date, time and location that is available to as many community members as possible.\r\n* Provide an acceptable meeting agenda, and on the call, drive the meeting agenda forward for participants.\r\n* Record the meeting notes and make it available to the public.\r\n\r\nMeeting coordinators should be rotating, in order to offload the burden, and to avoid abuse of the meeting process.\r\n\r\nFor this PR, I'm adding the initial ECIP Coordinators list as https://github.com/ethereumclassic/ECIPs/issues/209 grows (excluding already-assigned ECIP editors, as I assume they're already coordinators).",
+      "performed_via_github_app": null
+    },
+    "performed_via_github_app": null
   }

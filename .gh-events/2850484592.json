@@ -79,6 +79,8 @@
         "diff_url": "https://github.com/ethereumclassic/ECIPs/pull/230.diff",
         "patch_url": "https://github.com/ethereumclassic/ECIPs/pull/230.patch"
       },
-      "body": "Other than Dexaran himself, there is no support for this proposal with the ETC ecosystem.\r\nProposals of this kind (like PoolTogether on ETH - https://www.pooltogether.com/) can happen just fine with no need for consensus across the ecosystem.\r\n\r\nI propose we Reject this proposal.   It could be passed as Informational, I suppose, but there is really no need for there to be an ECIP for this application level proposal.\r\n\r\nEven at application level, you would not need/want an ECIP for this until there were multiple implementations and this was become an architectural best practice.\r\n\r\nBest, I think, to reject.    A new ECBP could be written which generalized the pattern and that might be accepted."
-    }
+      "body": "Other than Dexaran himself, there is no support for this proposal with the ETC ecosystem.\r\nProposals of this kind (like PoolTogether on ETH - https://www.pooltogether.com/) can happen just fine with no need for consensus across the ecosystem.\r\n\r\nI propose we Reject this proposal.   It could be passed as Informational, I suppose, but there is really no need for there to be an ECIP for this application level proposal.\r\n\r\nEven at application level, you would not need/want an ECIP for this until there were multiple implementations and this was become an architectural best practice.\r\n\r\nBest, I think, to reject.    A new ECBP could be written which generalized the pattern and that might be accepted.",
+      "performed_via_github_app": null
+    },
+    "performed_via_github_app": null
   }

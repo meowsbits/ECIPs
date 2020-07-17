@@ -91,6 +91,8 @@
         "diff_url": "https://github.com/ethereumclassic/ECIPs/pull/239.diff",
         "patch_url": "https://github.com/ethereumclassic/ECIPs/pull/239.patch"
       },
-      "body": "Issue for discussion to the Code of Conduct ticket is here: https://github.com/ethereumclassic/ECIPs/issues/238"
-    }
+      "body": "Issue for discussion to the Code of Conduct ticket is here: https://github.com/ethereumclassic/ECIPs/issues/238",
+      "performed_via_github_app": null
+    },
+    "performed_via_github_app": null
   }

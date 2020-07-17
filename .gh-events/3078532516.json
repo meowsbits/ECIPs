@@ -79,6 +79,8 @@
         "diff_url": "https://github.com/ethereumclassic/ECIPs/pull/302.diff",
         "patch_url": "https://github.com/ethereumclassic/ECIPs/pull/302.patch"
       },
-      "body": "Should resolve reported vulnerability with nokogiri < 1.10.8\r\n\r\nSigned-off-by: meows <b5c6@protonmail.com>"
-    }
+      "body": "Should resolve reported vulnerability with nokogiri < 1.10.8\r\n\r\nSigned-off-by: meows <b5c6@protonmail.com>",
+      "performed_via_github_app": null
+    },
+    "performed_via_github_app": null
   }

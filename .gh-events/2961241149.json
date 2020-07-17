@@ -157,6 +157,8 @@
         "diff_url": "https://github.com/ethereumclassic/ECIPs/pull/269.diff",
         "patch_url": "https://github.com/ethereumclassic/ECIPs/pull/269.patch"
       },
-      "body": "It was implemented a long time ago, but the ECIP was never updated.\r\nWe have to move it to Final Call first and then after is has been in that status, we can move it to Accepted, and then on to Final.\r\nThis is just house-keeping."
-    }
+      "body": "It was implemented a long time ago, but the ECIP was never updated.\r\nWe have to move it to Final Call first and then after is has been in that status, we can move it to Accepted, and then on to Final.\r\nThis is just house-keeping.",
+      "performed_via_github_app": null
+    },
+    "performed_via_github_app": null
   }

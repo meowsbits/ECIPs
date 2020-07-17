@@ -79,6 +79,8 @@
         "diff_url": "https://github.com/ethereumclassic/ECIPs/pull/197.diff",
         "patch_url": "https://github.com/ethereumclassic/ECIPs/pull/197.patch"
       },
-      "body": "This enables 44-VERTXN extension for EIP-1702, so that ecosystem tooling remains backward compatible."
-    }
+      "body": "This enables 44-VERTXN extension for EIP-1702, so that ecosystem tooling remains backward compatible.",
+      "performed_via_github_app": null
+    },
+    "performed_via_github_app": null
   }

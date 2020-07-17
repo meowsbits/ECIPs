@@ -79,6 +79,8 @@
         "diff_url": "https://github.com/ethereumclassic/ECIPs/pull/250.diff",
         "patch_url": "https://github.com/ethereumclassic/ECIPs/pull/250.patch"
       },
-      "body": "Allow authors to move ECIPs from Accepted to Draft if flaws in the specification are discovered prior to inclusion in a hardfork."
-    }
+      "body": "Allow authors to move ECIPs from Accepted to Draft if flaws in the specification are discovered prior to inclusion in a hardfork.",
+      "performed_via_github_app": null
+    },
+    "performed_via_github_app": null
   }

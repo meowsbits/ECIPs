@@ -118,6 +118,8 @@
         "diff_url": "https://github.com/ethereumclassic/ECIPs/pull/297.diff",
         "patch_url": "https://github.com/ethereumclassic/ECIPs/pull/297.patch"
       },
-      "body": "due to the multiple issues disclosed with aztlan and phoenix not being a sufficient fix and both testnets being broken, this pull request proposes to reject ecips-1061, 1078, 1086 due to security and stability concerns and to move on with writing a phoenix proposal from scratch. \r\n\r\naccepting this pull request requires community consensus in a publicly announced call."
-    }
+      "body": "due to the multiple issues disclosed with aztlan and phoenix not being a sufficient fix and both testnets being broken, this pull request proposes to reject ecips-1061, 1078, 1086 due to security and stability concerns and to move on with writing a phoenix proposal from scratch. \r\n\r\naccepting this pull request requires community consensus in a publicly announced call.",
+      "performed_via_github_app": null
+    },
+    "performed_via_github_app": null
   }

@@ -77,6 +77,8 @@
       "closed_at": null,
       "author_association": "NONE",
       "active_lock_reason": null,
-      "body": "Use CHAINID=0"
-    }
+      "body": "Use CHAINID=0",
+      "performed_via_github_app": null
+    },
+    "performed_via_github_app": null
   }

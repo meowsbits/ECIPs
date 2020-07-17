@@ -79,6 +79,8 @@
         "diff_url": "https://github.com/ethereumclassic/ECIPs/pull/315.diff",
         "patch_url": "https://github.com/ethereumclassic/ECIPs/pull/315.patch"
       },
-      "body": "Closes #314\r\n\r\nCloses #298\r\n\r\nCloses #262\r\n\r\nCloses #227\r\n"
-    }
+      "body": "Closes #314\r\n\r\nCloses #298\r\n\r\nCloses #262\r\n\r\nCloses #227\r\n",
+      "performed_via_github_app": null
+    },
+    "performed_via_github_app": null
   }

@@ -79,6 +79,8 @@
         "diff_url": "https://github.com/ethereumclassic/ECIPs/pull/202.diff",
         "patch_url": "https://github.com/ethereumclassic/ECIPs/pull/202.patch"
       },
-      "body": "ECIP-1019 (to withdrawn, was obsoleted by other ECIPs)\r\nECIP-1045 (to withdrawn, was obsoleted by other ECIPs)\r\nECIP-1048 (to last call, because we already implemented it with Kotti)"
-    }
+      "body": "ECIP-1019 (to withdrawn, was obsoleted by other ECIPs)\r\nECIP-1045 (to withdrawn, was obsoleted by other ECIPs)\r\nECIP-1048 (to last call, because we already implemented it with Kotti)",
+      "performed_via_github_app": null
+    },
+    "performed_via_github_app": null
   }

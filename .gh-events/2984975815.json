@@ -83,6 +83,8 @@
         "diff_url": "https://github.com/ethereumclassic/ECIPs/pull/247.diff",
         "patch_url": "https://github.com/ethereumclassic/ECIPs/pull/247.patch"
       },
-      "body": "EIP-2124 (`forkid`) and EIP-2364 (`eth/64`) propose discovery protocol modifications which depend on lists of fork values. In case these changes are adopted and implemented on Ethereum Classic networks, this ECIP defines canonical lists of forks numbers for inclusion in the generation and validation steps of these \"ForkID\" schemes.\r\n\r\n- https://eips.ethereum.org/EIPS/eip-2124\r\n- https://eips.ethereum.org/EIPS/eip-2364\r\n\r\nThis specification describes a set of forks which exclude TheDAO fork event block(s) from `forkid` calculations, as well as excluding all forthcoming `blockNumber % 5000000 == 0` blocks that, according to the algorithmdescribed in ECIP-1017 and enabled on ETC Mainnet and some testnets, will see reduced block reward values.\r\n\r\n"
-    }
+      "body": "EIP-2124 (`forkid`) and EIP-2364 (`eth/64`) propose discovery protocol modifications which depend on lists of fork values. In case these changes are adopted and implemented on Ethereum Classic networks, this ECIP defines canonical lists of forks numbers for inclusion in the generation and validation steps of these \"ForkID\" schemes.\r\n\r\n- https://eips.ethereum.org/EIPS/eip-2124\r\n- https://eips.ethereum.org/EIPS/eip-2364\r\n\r\nThis specification describes a set of forks which exclude TheDAO fork event block(s) from `forkid` calculations, as well as excluding all forthcoming `blockNumber % 5000000 == 0` blocks that, according to the algorithmdescribed in ECIP-1017 and enabled on ETC Mainnet and some testnets, will see reduced block reward values.\r\n\r\n",
+      "performed_via_github_app": null
+    },
+    "performed_via_github_app": null
   }

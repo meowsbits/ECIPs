@@ -119,6 +119,8 @@
         "diff_url": "https://github.com/ethereumclassic/ECIPs/pull/258.diff",
         "patch_url": "https://github.com/ethereumclassic/ECIPs/pull/258.patch"
       },
-      "body": "Although I oppose ECIP-1001, after some deliberation with other ETC participants ,I propose this minimal **ECIP Process Code of Conduct** to be integrated into ECIP-1000, as described in this PR, to help protect the process while maintaining the most openness to competent devs, and other participants on a global level.\r\n\r\nIf this PR is merged, then ECIP-1001 should not be necessary."
-    }
+      "body": "Although I oppose ECIP-1001, after some deliberation with other ETC participants ,I propose this minimal **ECIP Process Code of Conduct** to be integrated into ECIP-1000, as described in this PR, to help protect the process while maintaining the most openness to competent devs, and other participants on a global level.\r\n\r\nIf this PR is merged, then ECIP-1001 should not be necessary.",
+      "performed_via_github_app": null
+    },
+    "performed_via_github_app": null
   }

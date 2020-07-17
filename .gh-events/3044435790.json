@@ -91,6 +91,8 @@
         "diff_url": "https://github.com/ethereumclassic/ECIPs/pull/291.diff",
         "patch_url": "https://github.com/ethereumclassic/ECIPs/pull/291.patch"
       },
-      "body": "Original document here: https://github.com/ethereumclassic/ECIPs/blob/master/_specs/ecip-1082.md\r\nRevised document rendered: https://github.com/ethereumclassic/ECIPs/blob/ad181baeb6361873d5e77bd3eaa945d63b1ad904/_specs/ecip-1082.md\r\n"
-    }
+      "body": "Original document here: https://github.com/ethereumclassic/ECIPs/blob/master/_specs/ecip-1082.md\r\nRevised document rendered: https://github.com/ethereumclassic/ECIPs/blob/ad181baeb6361873d5e77bd3eaa945d63b1ad904/_specs/ecip-1082.md\r\n",
+      "performed_via_github_app": null
+    },
+    "performed_via_github_app": null
   }

@@ -119,6 +119,8 @@
         "diff_url": "https://github.com/ethereumclassic/ECIPs/pull/309.diff",
         "patch_url": "https://github.com/ethereumclassic/ECIPs/pull/309.patch"
       },
-      "body": "update to pass validator"
-    }
+      "body": "update to pass validator",
+      "performed_via_github_app": null
+    },
+    "performed_via_github_app": null
   }

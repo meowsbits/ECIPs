@@ -79,6 +79,8 @@
         "diff_url": "https://github.com/ethereumclassic/ECIPs/pull/241.diff",
         "patch_url": "https://github.com/ethereumclassic/ECIPs/pull/241.patch"
       },
-      "body": "Rel #235 \r\n\r\n:rabbit2: :tornado:  https://github.com/meowsbits/ECIPs/commit/7c3048010e8b609d30e634b9c2bb601f2a185970"
-    }
+      "body": "Rel #235 \r\n\r\n:rabbit2: :tornado:  https://github.com/meowsbits/ECIPs/commit/7c3048010e8b609d30e634b9c2bb601f2a185970",
+      "performed_via_github_app": null
+    },
+    "performed_via_github_app": null
   }

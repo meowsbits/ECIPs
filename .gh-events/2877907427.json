@@ -136,6 +136,8 @@
         "diff_url": "https://github.com/ethereumclassic/ECIPs/pull/245.diff",
         "patch_url": "https://github.com/ethereumclassic/ECIPs/pull/245.patch"
       },
-      "body": "as agreed on the call today:\r\n\r\n- add `review-period-end: 2019-12-19` meta data\r\n- update block number to `9_573_000` on Ethereum Classic Mainnet (January 15, 2020)\r\n\r\ncloses #175 \r\n\r\nnote: agharta will be moved to accepted after the review period ends without any subsequent call unless the spec will be openly disputed."
-    }
+      "body": "as agreed on the call today:\r\n\r\n- add `review-period-end: 2019-12-19` meta data\r\n- update block number to `9_573_000` on Ethereum Classic Mainnet (January 15, 2020)\r\n\r\ncloses #175 \r\n\r\nnote: agharta will be moved to accepted after the review period ends without any subsequent call unless the spec will be openly disputed.",
+      "performed_via_github_app": null
+    },
+    "performed_via_github_app": null
   }

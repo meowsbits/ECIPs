@@ -109,6 +109,8 @@
       "closed_at": "2020-04-03T13:50:53Z",
       "author_association": "MEMBER",
       "active_lock_reason": null,
-      "body": "So how do we handle that?\r\n\r\nThe ETC Coop has asked ChainSafe for a statement of work analyzing the last 100K blocks in both ETC and ETH to look at frequency of opcodes and actual execution times of those within Hyperledger Besu.\r\n\r\nMaybe that is even two separate work items?\r\n\r\nHoped for outcome:\r\n\r\n1. Identification of places where client optimization is essential to avoid DOS vectors and actually making those optimizations in Besu (disaster averted)\r\n\r\n2. Identification of ways in which the current gasprices are sub-optimal and could be tweaked to be better (EVM optimization - no disaster variant)\r\n\r\nAnd it would also be helpful to do the same systemic \"essential optimizations\" pass for Parity-Ethereum and Multi-Geth, and I would love that to happen, but the ETC Coop does not have spare money hanging around for that work."
-    }
+      "body": "So how do we handle that?\r\n\r\nThe ETC Coop has asked ChainSafe for a statement of work analyzing the last 100K blocks in both ETC and ETH to look at frequency of opcodes and actual execution times of those within Hyperledger Besu.\r\n\r\nMaybe that is even two separate work items?\r\n\r\nHoped for outcome:\r\n\r\n1. Identification of places where client optimization is essential to avoid DOS vectors and actually making those optimizations in Besu (disaster averted)\r\n\r\n2. Identification of ways in which the current gasprices are sub-optimal and could be tweaked to be better (EVM optimization - no disaster variant)\r\n\r\nAnd it would also be helpful to do the same systemic \"essential optimizations\" pass for Parity-Ethereum and Multi-Geth, and I would love that to happen, but the ETC Coop does not have spare money hanging around for that work.",
+      "performed_via_github_app": null
+    },
+    "performed_via_github_app": null
   }

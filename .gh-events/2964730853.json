@@ -83,6 +83,8 @@
         "diff_url": "https://github.com/ethereumclassic/ECIPs/pull/274.diff",
         "patch_url": "https://github.com/ethereumclassic/ECIPs/pull/274.patch"
       },
-      "body": "Proposal to remove Wei Tang (@sorpaas) from internal functions in the Ethereum Classic repository."
-    }
+      "body": "Proposal to remove Wei Tang (@sorpaas) from internal functions in the Ethereum Classic repository.",
+      "performed_via_github_app": null
+    },
+    "performed_via_github_app": null
   }

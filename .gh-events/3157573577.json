@@ -79,6 +79,8 @@
         "diff_url": "https://github.com/ethereumclassic/ECIPs/pull/307.diff",
         "patch_url": "https://github.com/ethereumclassic/ECIPs/pull/307.patch"
       },
-      "body": "format clean up"
-    }
+      "body": "format clean up",
+      "performed_via_github_app": null
+    },
+    "performed_via_github_app": null
   }

@@ -119,6 +119,8 @@
         "diff_url": "https://github.com/ethereumclassic/ECIPs/pull/295.diff",
         "patch_url": "https://github.com/ethereumclassic/ECIPs/pull/295.patch"
       },
-      "body": "### Abstract\r\n\r\nDon't touch Kotti; allow ECIP1061, ECIP1078, and ECIP1086 (EIP2200, EIP2200Disable) to continue as specified and implemented there.\r\n\r\nSet Mordor ECIP1078 activation to 778507 (equivalent to ECIP1061), and rollback to 750000.\r\n\r\n### Rationale\r\n\r\nKotti is a PoA network, so it doesn't simulate (ie test) ETC mainnet in the first place (at least not well) since it uses different consensus rules. If it is a public simulation and test of ETC mainnet, it isn't a good one. So we can follow the logic of A: Testnets-as-service.\r\n\r\nMordor is a PoW network, so is is a pretty good simulator of ETC mainnet. We can follow the logic of B: Testnets-as-test, and not only resolve the issue of EIP2200 correction, but improve the network's simulation of mainnet activation for ECIP1061 and ECIP1078.\r\n\r\n---\r\n\r\nRendered: https://github.com/meowsbits/ECIPs/blob/feat/ecip1087/_specs/ecip-1087.md"
-    }
+      "body": "### Abstract\r\n\r\nDon't touch Kotti; allow ECIP1061, ECIP1078, and ECIP1086 (EIP2200, EIP2200Disable) to continue as specified and implemented there.\r\n\r\nSet Mordor ECIP1078 activation to 778507 (equivalent to ECIP1061), and rollback to 750000.\r\n\r\n### Rationale\r\n\r\nKotti is a PoA network, so it doesn't simulate (ie test) ETC mainnet in the first place (at least not well) since it uses different consensus rules. If it is a public simulation and test of ETC mainnet, it isn't a good one. So we can follow the logic of A: Testnets-as-service.\r\n\r\nMordor is a PoW network, so is is a pretty good simulator of ETC mainnet. We can follow the logic of B: Testnets-as-test, and not only resolve the issue of EIP2200 correction, but improve the network's simulation of mainnet activation for ECIP1061 and ECIP1078.\r\n\r\n---\r\n\r\nRendered: https://github.com/meowsbits/ECIPs/blob/feat/ecip1087/_specs/ecip-1087.md",
+      "performed_via_github_app": null
+    },
+    "performed_via_github_app": null
   }

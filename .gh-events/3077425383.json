@@ -113,6 +113,8 @@
         "diff_url": "https://github.com/ethereumclassic/ECIPs/pull/304.diff",
         "patch_url": "https://github.com/ethereumclassic/ECIPs/pull/304.patch"
       },
-      "body": "- broken: https://github.com/meowsbits/ECIPs/runs/470695379?check_suite_focus=true\r\n- fixed: https://github.com/meowsbits/ECIPs/runs/472177250?check_suite_focus=true\r\n"
-    }
+      "body": "- broken: https://github.com/meowsbits/ECIPs/runs/470695379?check_suite_focus=true\r\n- fixed: https://github.com/meowsbits/ECIPs/runs/472177250?check_suite_focus=true\r\n",
+      "performed_via_github_app": null
+    },
+    "performed_via_github_app": null
   }

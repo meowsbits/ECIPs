@@ -79,6 +79,8 @@
         "diff_url": "https://github.com/ethereumclassic/ECIPs/pull/305.diff",
         "patch_url": "https://github.com/ethereumclassic/ECIPs/pull/305.patch"
       },
-      "body": "(Branch is based on and includes changes from #302's nokogiri vulnerability fix)\r\n\r\nI made a fork of the `eip_validator` tool at https://github.com/meowsbits/ecip_validator that handles ECIP frontmatter validation. Happy to transfer that project to ethereumclassic if there's interest in continuing development there, just let me know.\r\n\r\nAnyways this change set\r\n- revises workflow names to separate Jekyll build from the ECIP validation \r\n- creates ECIP validation workflow.\r\n\r\nYou can see what these look like at https://github.com/meowsbits/ECIPs/actions\r\n\r\nCurrently the ECIP validation is failing because quite a few specs aren't up to snuff.  Fixing those can be a later job.\r\n\r\n"
-    }
+      "body": "(Branch is based on and includes changes from #302's nokogiri vulnerability fix)\r\n\r\nI made a fork of the `eip_validator` tool at https://github.com/meowsbits/ecip_validator that handles ECIP frontmatter validation. Happy to transfer that project to ethereumclassic if there's interest in continuing development there, just let me know.\r\n\r\nAnyways this change set\r\n- revises workflow names to separate Jekyll build from the ECIP validation \r\n- creates ECIP validation workflow.\r\n\r\nYou can see what these look like at https://github.com/meowsbits/ECIPs/actions\r\n\r\nCurrently the ECIP validation is failing because quite a few specs aren't up to snuff.  Fixing those can be a later job.\r\n\r\n",
+      "performed_via_github_app": null
+    },
+    "performed_via_github_app": null
   }

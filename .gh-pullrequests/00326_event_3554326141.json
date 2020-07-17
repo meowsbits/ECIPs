@@ -59,5 +59,6 @@
       "repositories_url": "https://api.github.com/organizations/20468622/team/3612959/repos",
       "permission": "pull",
       "parent": null
-    }
+    },
+    "performed_via_github_app": null
   }

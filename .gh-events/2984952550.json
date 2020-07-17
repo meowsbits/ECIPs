@@ -118,6 +118,8 @@
         "diff_url": "https://github.com/ethereumclassic/ECIPs/pull/280.diff",
         "patch_url": "https://github.com/ethereumclassic/ECIPs/pull/280.patch"
       },
-      "body": "open for discussion: a vanilla istanbul on classic.\r\n\r\nbenefits:\r\n* no side effects or edge cases\r\n* all clients support it out of the box\r\n* we can stick to the original schedule\r\n* phoenix day on march 25"
-    }
+      "body": "open for discussion: a vanilla istanbul on classic.\r\n\r\nbenefits:\r\n* no side effects or edge cases\r\n* all clients support it out of the box\r\n* we can stick to the original schedule\r\n* phoenix day on march 25",
+      "performed_via_github_app": null
+    },
+    "performed_via_github_app": null
   }

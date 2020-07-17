@@ -100,6 +100,8 @@
         "diff_url": "https://github.com/ethereumclassic/ECIPs/pull/314.diff",
         "patch_url": "https://github.com/ethereumclassic/ECIPs/pull/314.patch"
       },
-      "body": "The review period ended yesterday on March 31st, 2020.\r\n\r\nI don't see enough community support and step down championing this protocol upgrade."
-    }
+      "body": "The review period ended yesterday on March 31st, 2020.\r\n\r\nI don't see enough community support and step down championing this protocol upgrade.",
+      "performed_via_github_app": null
+    },
+    "performed_via_github_app": null
   }

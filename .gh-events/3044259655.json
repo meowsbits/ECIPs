@@ -94,6 +94,8 @@
       "closed_at": null,
       "author_association": "CONTRIBUTOR",
       "active_lock_reason": null,
-      "body": "This is the discussion page for ECIP-0001 draft."
-    }
+      "body": "This is the discussion page for ECIP-0001 draft.",
+      "performed_via_github_app": null
+    },
+    "performed_via_github_app": null
   }

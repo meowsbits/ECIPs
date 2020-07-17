@@ -91,6 +91,8 @@
         "diff_url": "https://github.com/ethereumclassic/ECIPs/pull/279.diff",
         "patch_url": "https://github.com/ethereumclassic/ECIPs/pull/279.patch"
       },
-      "body": "create basic event driven build pipeline"
-    }
+      "body": "create basic event driven build pipeline",
+      "performed_via_github_app": null
+    },
+    "performed_via_github_app": null
   }
