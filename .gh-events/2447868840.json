@@ -119,6 +119,8 @@
         "diff_url": "https://github.com/ethereumclassic/ECIPs/pull/96.diff",
         "patch_url": "https://github.com/ethereumclassic/ECIPs/pull/96.patch"
       },
-      "body": "• fixed titles\r\n• fixed bold and shaded terms\r\n• fixed process.png image\r\n• migrated from mediawiki format to markdown"
-    }
+      "body": "• fixed titles\r\n• fixed bold and shaded terms\r\n• fixed process.png image\r\n• migrated from mediawiki format to markdown",
+      "performed_via_github_app": null
+    },
+    "performed_via_github_app": null
   }

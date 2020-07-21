@@ -119,6 +119,8 @@
         "diff_url": "https://github.com/ethereumclassic/ECIPs/pull/128.diff",
         "patch_url": "https://github.com/ethereumclassic/ECIPs/pull/128.patch"
       },
-      "body": "Some were on ethereumproject, updated to point to correct repo."
-    }
+      "body": "Some were on ethereumproject, updated to point to correct repo.",
+      "performed_via_github_app": null
+    },
+    "performed_via_github_app": null
   }

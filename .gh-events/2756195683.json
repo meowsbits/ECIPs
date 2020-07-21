@@ -79,6 +79,8 @@
         "diff_url": "https://github.com/ethereumclassic/ECIPs/pull/159.diff",
         "patch_url": "https://github.com/ethereumclassic/ECIPs/pull/159.patch"
       },
-      "body": "Last Call doesn't show up on our website even if some ECIPs have Last Calls. @TokenHash pointed me to the statuses.yml and I noticed the status for it is called \"Last call\" when everywhere else it is \"Last Call\".\r\n\r\nEven on Ethereum EIP, it's called \"Last Call\" on the same file: https://github.com/ethereum/EIPs/blob/master/_data/statuses.yaml#L1\r\n\r\nI think this is why when it parses that status, it doesn't display it as \"Last call\" is a different string than \"Last Call\".\r\n\r\nHaven't tested it, figured I'd get this fix in a PR and we can all discuss if necessary."
-    }
+      "body": "Last Call doesn't show up on our website even if some ECIPs have Last Calls. @TokenHash pointed me to the statuses.yml and I noticed the status for it is called \"Last call\" when everywhere else it is \"Last Call\".\r\n\r\nEven on Ethereum EIP, it's called \"Last Call\" on the same file: https://github.com/ethereum/EIPs/blob/master/_data/statuses.yaml#L1\r\n\r\nI think this is why when it parses that status, it doesn't display it as \"Last call\" is a different string than \"Last Call\".\r\n\r\nHaven't tested it, figured I'd get this fix in a PR and we can all discuss if necessary.",
+      "performed_via_github_app": null
+    },
+    "performed_via_github_app": null
   }

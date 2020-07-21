@@ -96,6 +96,8 @@
         "diff_url": "https://github.com/ethereumclassic/ECIPs/pull/141.diff",
         "patch_url": "https://github.com/ethereumclassic/ECIPs/pull/141.patch"
       },
-      "body": "This protocol upgrade provides a backward compatibility foundation to enable future protocol upgrades to be applied with significantly lower chance of breaking existing contracts.\r\n\r\nSee discussions section for details of impacts for the changes listed here."
-    }
+      "body": "This protocol upgrade provides a backward compatibility foundation to enable future protocol upgrades to be applied with significantly lower chance of breaking existing contracts.\r\n\r\nSee discussions section for details of impacts for the changes listed here.",
+      "performed_via_github_app": null
+    },
+    "performed_via_github_app": null
   }

@@ -79,6 +79,8 @@
         "diff_url": "https://github.com/ethereumclassic/ECIPs/pull/207.diff",
         "patch_url": "https://github.com/ethereumclassic/ECIPs/pull/207.patch"
       },
-      "body": "As mentioned in ECIP-1061's \"summay section\":\r\n\r\n> The _Yingchun_ Edition refers to the preferred variant of _Aztlán_ without any repricing of state-trie \t\r\ndependent opcodes as previously proposed in [ECIP-1072](https://ecips.ethereumclassic.org/ECIPs/ecip-1072).\r\n\r\nThis clearly marks ECIP-1061 to be a duplication of ECIP-1072. As mentioned in https://github.com/ethereumclassic/ECIPs/pull/199#pullrequestreview-323755348 and echoed by https://github.com/ethereumclassic/ECIPs/pull/199#issuecomment-559185183, it's better to move this to withdrawn status to avoid unnecessary duplication.\r\n\r\nI believe I have the rights to propose the withdrawn status because I'm listed as an author of this ECIP. :)"
-    }
+      "body": "As mentioned in ECIP-1061's \"summay section\":\r\n\r\n> The _Yingchun_ Edition refers to the preferred variant of _Aztlán_ without any repricing of state-trie \t\r\ndependent opcodes as previously proposed in [ECIP-1072](https://ecips.ethereumclassic.org/ECIPs/ecip-1072).\r\n\r\nThis clearly marks ECIP-1061 to be a duplication of ECIP-1072. As mentioned in https://github.com/ethereumclassic/ECIPs/pull/199#pullrequestreview-323755348 and echoed by https://github.com/ethereumclassic/ECIPs/pull/199#issuecomment-559185183, it's better to move this to withdrawn status to avoid unnecessary duplication.\r\n\r\nI believe I have the rights to propose the withdrawn status because I'm listed as an author of this ECIP. :)",
+      "performed_via_github_app": null
+    },
+    "performed_via_github_app": null
   }

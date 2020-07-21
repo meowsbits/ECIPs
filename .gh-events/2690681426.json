@@ -79,6 +79,8 @@
         "diff_url": "https://github.com/ethereumclassic/ECIPs/pull/142.diff",
         "patch_url": "https://github.com/ethereumclassic/ECIPs/pull/142.patch"
       },
-      "body": "This creates an ECIP for the current active network description of Ethereum Classic mainnet. This will be the second ECIP document with the \"active\" status along with ECIP-1000."
-    }
+      "body": "This creates an ECIP for the current active network description of Ethereum Classic mainnet. This will be the second ECIP document with the \"active\" status along with ECIP-1000.",
+      "performed_via_github_app": null
+    },
+    "performed_via_github_app": null
   }

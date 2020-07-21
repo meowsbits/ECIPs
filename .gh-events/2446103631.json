@@ -79,6 +79,8 @@
         "diff_url": "https://github.com/ethereumclassic/ECIPs/pull/95.diff",
         "patch_url": "https://github.com/ethereumclassic/ECIPs/pull/95.patch"
       },
-      "body": "• corrected some spelling\r\n• adjusted grammar\r\n• added step numbers to workflows\r\n• added formatting for clarity\r\n• corrected some links\r\n• added some subtitles for clarity"
-    }
+      "body": "• corrected some spelling\r\n• adjusted grammar\r\n• added step numbers to workflows\r\n• added formatting for clarity\r\n• corrected some links\r\n• added some subtitles for clarity",
+      "performed_via_github_app": null
+    },
+    "performed_via_github_app": null
   }

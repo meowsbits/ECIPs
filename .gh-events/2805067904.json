@@ -83,6 +83,8 @@
         "diff_url": "https://github.com/ethereumclassic/ECIPs/pull/187.diff",
         "patch_url": "https://github.com/ethereumclassic/ECIPs/pull/187.patch"
       },
-      "body": "This meta document is agnostic to any mining algorithm. Its sole purpose is specifying a process how to openly determine and select a mining algorithm for Ethereum Classic.\r\n\r\nref #174 "
-    }
+      "body": "This meta document is agnostic to any mining algorithm. Its sole purpose is specifying a process how to openly determine and select a mining algorithm for Ethereum Classic.\r\n\r\nref #174 ",
+      "performed_via_github_app": null
+    },
+    "performed_via_github_app": null
   }

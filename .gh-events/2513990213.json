@@ -79,6 +79,8 @@
         "diff_url": "https://github.com/ethereumclassic/ECIPs/pull/120.diff",
         "patch_url": "https://github.com/ethereumclassic/ECIPs/pull/120.patch"
       },
-      "body": "Changed string:\r\n\r\n`<h4><a href=\"{{\"erc\"|relative_url}}\">ERC</a> ({{site.specs|where:\"lang\",\"en\"|where:\"type\",\"Standards Track\"|where:\"category\",\"ERC\"|size}})</h4>`\r\n\r\nto:\r\n\r\n`<h4><a href=\"{{\"ecbp\"|relative_url}}\">ECBP</a> ({{site.specs|where:\"lang\",\"en\"|where:\"type\",\"Standards Track\"|where:\"category\",\"ECBP\"|size}})</h4>`\r\n\r\nNote: I am adding also a string for `networking` but I don't know if that will break the site. Please check before merging.\r\n\r\nThis is the new string I added (2 lines):\r\n\r\n`<h4><a href=\"{{\"networking\"|relative_url}}\">Networking</a> ({{site.specs|where:\"lang\",\"en\"|where:\"type\",\"Standards Track\"|where:\"category\",\"Networking\"|size}})</h4>\r\n<p>Improvements to networking protocol specifications.</p>`"
-    }
+      "body": "Changed string:\r\n\r\n`<h4><a href=\"{{\"erc\"|relative_url}}\">ERC</a> ({{site.specs|where:\"lang\",\"en\"|where:\"type\",\"Standards Track\"|where:\"category\",\"ERC\"|size}})</h4>`\r\n\r\nto:\r\n\r\n`<h4><a href=\"{{\"ecbp\"|relative_url}}\">ECBP</a> ({{site.specs|where:\"lang\",\"en\"|where:\"type\",\"Standards Track\"|where:\"category\",\"ECBP\"|size}})</h4>`\r\n\r\nNote: I am adding also a string for `networking` but I don't know if that will break the site. Please check before merging.\r\n\r\nThis is the new string I added (2 lines):\r\n\r\n`<h4><a href=\"{{\"networking\"|relative_url}}\">Networking</a> ({{site.specs|where:\"lang\",\"en\"|where:\"type\",\"Standards Track\"|where:\"category\",\"Networking\"|size}})</h4>\r\n<p>Improvements to networking protocol specifications.</p>`",
+      "performed_via_github_app": null
+    },
+    "performed_via_github_app": null
   }

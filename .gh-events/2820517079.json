@@ -73,6 +73,8 @@
       "closed_at": "2020-02-03T10:46:15Z",
       "author_association": "CONTRIBUTOR",
       "active_lock_reason": null,
-      "body": "* When: To be decided.\r\n* Where: **Ethereum Classic Discord** https://discord.gg/dwxb6nf `#ecips` channel. Will use/create a voice channel _ad hoc._\r\n\r\nDiscuss several signaling proposals, as this is not resolved since last call. cc @soc1c "
-    }
+      "body": "* When: To be decided.\r\n* Where: **Ethereum Classic Discord** https://discord.gg/dwxb6nf `#ecips` channel. Will use/create a voice channel _ad hoc._\r\n\r\nDiscuss several signaling proposals, as this is not resolved since last call. cc @soc1c ",
+      "performed_via_github_app": null
+    },
+    "performed_via_github_app": null
   }

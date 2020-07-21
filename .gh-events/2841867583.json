@@ -128,6 +128,8 @@
         "diff_url": "https://github.com/ethereumclassic/ECIPs/pull/198.diff",
         "patch_url": "https://github.com/ethereumclassic/ECIPs/pull/198.patch"
       },
-      "body": "This moves ECIP-1072 into last call status, with review period of 3 weeks, as discussed on the call."
-    }
+      "body": "This moves ECIP-1072 into last call status, with review period of 3 weeks, as discussed on the call.",
+      "performed_via_github_app": null
+    },
+    "performed_via_github_app": null
   }

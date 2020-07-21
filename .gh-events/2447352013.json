@@ -79,6 +79,8 @@
         "diff_url": "https://github.com/ethereumclassic/ECIPs/pull/92.diff",
         "patch_url": "https://github.com/ethereumclassic/ECIPs/pull/92.patch"
       },
-      "body": "images go in the \"assets\" folder according to README.md instructions:\r\n\r\n`If your ECIP requires images, the image files should be included in a subdirectory of the `assets` folder for that ECIP as follow: `assets/ecip-X`. When linking to an image in the ECIP, use the related links such as `./assets/ecip-X/image.png`.`"
-    }
+      "body": "images go in the \"assets\" folder according to README.md instructions:\r\n\r\n`If your ECIP requires images, the image files should be included in a subdirectory of the `assets` folder for that ECIP as follow: `assets/ecip-X`. When linking to an image in the ECIP, use the related links such as `./assets/ecip-X/image.png`.`",
+      "performed_via_github_app": null
+    },
+    "performed_via_github_app": null
   }

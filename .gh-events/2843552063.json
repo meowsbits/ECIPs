@@ -87,6 +87,8 @@
         "diff_url": "https://github.com/ethereumclassic/ECIPs/pull/221.diff",
         "patch_url": "https://github.com/ethereumclassic/ECIPs/pull/221.patch"
       },
-      "body": "These changes propose only updating 1 ecip per hard fork as it is very confusing for the community to follow `n` many identical documents."
-    }
+      "body": "These changes propose only updating 1 ecip per hard fork as it is very confusing for the community to follow `n` many identical documents.",
+      "performed_via_github_app": null
+    },
+    "performed_via_github_app": null
   }

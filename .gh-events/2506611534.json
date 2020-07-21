@@ -79,6 +79,8 @@
         "diff_url": "https://github.com/ethereumclassic/ECIPs/pull/111.diff",
         "patch_url": "https://github.com/ethereumclassic/ECIPs/pull/111.patch"
       },
-      "body": "To adjust to the new ecips.ethereumclassic.org website:\r\n\r\nI changed the old ECIP types which were \"Standard Track\", \"Process\" and \"Informational\" to the new ones which are:\r\n\r\n• Standard Track\r\n   -- Core\r\n   -- Networking\r\n   -- Interface\r\n   -- ECBP (analogous to \"ERC\" in Ethereum)\r\n• Meta\r\n• Informational\r\n\r\nI also added status terms `WIP` and `Active` to adjust them to our ECIP status reality, e.g. ECIP-1000 is `Active`."
-    }
+      "body": "To adjust to the new ecips.ethereumclassic.org website:\r\n\r\nI changed the old ECIP types which were \"Standard Track\", \"Process\" and \"Informational\" to the new ones which are:\r\n\r\n• Standard Track\r\n   -- Core\r\n   -- Networking\r\n   -- Interface\r\n   -- ECBP (analogous to \"ERC\" in Ethereum)\r\n• Meta\r\n• Informational\r\n\r\nI also added status terms `WIP` and `Active` to adjust them to our ECIP status reality, e.g. ECIP-1000 is `Active`.",
+      "performed_via_github_app": null
+    },
+    "performed_via_github_app": null
   }

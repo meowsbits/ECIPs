@@ -79,6 +79,8 @@
         "diff_url": "https://github.com/ethereumclassic/ECIPs/pull/161.diff",
         "patch_url": "https://github.com/ethereumclassic/ECIPs/pull/161.patch"
       },
-      "body": "Rename Aztlán as Asgard, which is a better known fictional place, easier to remember and has no ambiguity of spelling.\r\n\r\nTwitter poll:\r\nhttps://twitter.com/BobSummerwill/status/1188479134533484545"
-    }
+      "body": "Rename Aztlán as Asgard, which is a better known fictional place, easier to remember and has no ambiguity of spelling.\r\n\r\nTwitter poll:\r\nhttps://twitter.com/BobSummerwill/status/1188479134533484545",
+      "performed_via_github_app": null
+    },
+    "performed_via_github_app": null
   }

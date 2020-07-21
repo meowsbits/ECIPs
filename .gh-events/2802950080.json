@@ -87,6 +87,8 @@
         "diff_url": "https://github.com/ethereumclassic/ECIPs/pull/184.diff",
         "patch_url": "https://github.com/ethereumclassic/ECIPs/pull/184.patch"
       },
-      "body": "This adds three new hard fork meta, with different options to apply the Istanbul upgrade in a backward compatible way:\r\n\r\n* ECIP-1072: Apply Istanbul directly, but remove the offending EIP-1884.\r\n* ECIP-1073: Apply Istanbul with account versioning ECIP-1040 / EIP-1702. Currently both Parity and Geth have the implementation required. However, the drawback, as discussed last time, is that this will require a new account version for every hard fork.\r\n* ECIP-1074: Apply Istanbul with account versioning, and with forward-compatible EVM changes. Currently no client has implemented 39-UNGAS and 40-UNUSED yet, so this will require more work, and we will need to maintain our own ecosystem tools. However, it gives us a good future foundation for modifying EVMs further. This is basically combination of ECIP-1065 Kunming hard fork with Istanbul."
-    }
+      "body": "This adds three new hard fork meta, with different options to apply the Istanbul upgrade in a backward compatible way:\r\n\r\n* ECIP-1072: Apply Istanbul directly, but remove the offending EIP-1884.\r\n* ECIP-1073: Apply Istanbul with account versioning ECIP-1040 / EIP-1702. Currently both Parity and Geth have the implementation required. However, the drawback, as discussed last time, is that this will require a new account version for every hard fork.\r\n* ECIP-1074: Apply Istanbul with account versioning, and with forward-compatible EVM changes. Currently no client has implemented 39-UNGAS and 40-UNUSED yet, so this will require more work, and we will need to maintain our own ecosystem tools. However, it gives us a good future foundation for modifying EVMs further. This is basically combination of ECIP-1065 Kunming hard fork with Istanbul.",
+      "performed_via_github_app": null
+    },
+    "performed_via_github_app": null
   }

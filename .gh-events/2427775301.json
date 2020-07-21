@@ -73,6 +73,8 @@
       "closed_at": "2019-06-20T15:23:51Z",
       "author_association": "CONTRIBUTOR",
       "active_lock_reason": null,
-      "body": "### ETC Core Devs Call - Finalization of the Atlantis Finalization\r\n\r\nWhen: **Thursday, June 20, 2019, 3pm UTC**.\r\n\r\nWhere: **Ethereum Classic Discord** `#ecips` channel.\r\n\r\n### Agenda\r\n\r\n- Quick client teams check-in\r\n  - Multi-Geth \r\n  - Parity Ethereum\r\n  - IOHK Mantis\r\n  - Classic Geth\r\n- Testnet status\r\n  - Kensington \r\n  - Kotti Hardfork\r\n  - Morden Outlook\r\n- Discussion about the hard fork block\r\n"
-    }
+      "body": "### ETC Core Devs Call - Finalization of the Atlantis Finalization\r\n\r\nWhen: **Thursday, June 20, 2019, 3pm UTC**.\r\n\r\nWhere: **Ethereum Classic Discord** `#ecips` channel.\r\n\r\n### Agenda\r\n\r\n- Quick client teams check-in\r\n  - Multi-Geth \r\n  - Parity Ethereum\r\n  - IOHK Mantis\r\n  - Classic Geth\r\n- Testnet status\r\n  - Kensington \r\n  - Kotti Hardfork\r\n  - Morden Outlook\r\n- Discussion about the hard fork block\r\n",
+      "performed_via_github_app": null
+    },
+    "performed_via_github_app": null
   }

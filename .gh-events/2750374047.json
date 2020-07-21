@@ -96,6 +96,8 @@
         "diff_url": "https://github.com/ethereumclassic/ECIPs/pull/154.diff",
         "patch_url": "https://github.com/ethereumclassic/ECIPs/pull/154.patch"
       },
-      "body": "Im looking into defining a spec to specifically invoke a user’s preferred wallet app for signing (a tx or arbitrary data)\r\n\r\nI think it's time for a standard that can accommodate the user to use a hardware wallet from a desktop browser dapp or open a separate wallet app from a mobile browser dapp etc...\r\n\r\nDiscussions to here please 👉: https://github.com/ethereumclassic/ECIPs/issues/147"
-    }
+      "body": "Im looking into defining a spec to specifically invoke a user’s preferred wallet app for signing (a tx or arbitrary data)\r\n\r\nI think it's time for a standard that can accommodate the user to use a hardware wallet from a desktop browser dapp or open a separate wallet app from a mobile browser dapp etc...\r\n\r\nDiscussions to here please 👉: https://github.com/ethereumclassic/ECIPs/issues/147",
+      "performed_via_github_app": null
+    },
+    "performed_via_github_app": null
   }

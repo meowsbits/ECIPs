@@ -3,22 +3,22 @@
     "node_id": "MDE0Ok1lbnRpb25lZEV2ZW50Mjg0MDA4OTgzOQ==",
     "url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/events/2840089839",
     "actor": {
-      "login": "bitcoinheartless",
+      "login": "befeni-machine",
       "id": 58289654,
       "node_id": "MDQ6VXNlcjU4Mjg5NjU0",
       "avatar_url": "https://avatars2.githubusercontent.com/u/58289654?v=4",
       "gravatar_id": "",
-      "url": "https://api.github.com/users/bitcoinheartless",
-      "html_url": "https://github.com/bitcoinheartless",
-      "followers_url": "https://api.github.com/users/bitcoinheartless/followers",
-      "following_url": "https://api.github.com/users/bitcoinheartless/following{/other_user}",
-      "gists_url": "https://api.github.com/users/bitcoinheartless/gists{/gist_id}",
-      "starred_url": "https://api.github.com/users/bitcoinheartless/starred{/owner}{/repo}",
-      "subscriptions_url": "https://api.github.com/users/bitcoinheartless/subscriptions",
-      "organizations_url": "https://api.github.com/users/bitcoinheartless/orgs",
-      "repos_url": "https://api.github.com/users/bitcoinheartless/repos",
-      "events_url": "https://api.github.com/users/bitcoinheartless/events{/privacy}",
-      "received_events_url": "https://api.github.com/users/bitcoinheartless/received_events",
+      "url": "https://api.github.com/users/befeni-machine",
+      "html_url": "https://github.com/befeni-machine",
+      "followers_url": "https://api.github.com/users/befeni-machine/followers",
+      "following_url": "https://api.github.com/users/befeni-machine/following{/other_user}",
+      "gists_url": "https://api.github.com/users/befeni-machine/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/befeni-machine/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/befeni-machine/subscriptions",
+      "organizations_url": "https://api.github.com/users/befeni-machine/orgs",
+      "repos_url": "https://api.github.com/users/befeni-machine/repos",
+      "events_url": "https://api.github.com/users/befeni-machine/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/befeni-machine/received_events",
       "type": "User",
       "site_admin": false
     },
@@ -73,6 +73,8 @@
       "closed_at": "2020-02-03T10:47:05Z",
       "author_association": "CONTRIBUTOR",
       "active_lock_reason": null,
-      "body": "The current core dev meeting coordinator is informally Afri. Afri has said we \"can replace me anytime\". Given recent actions that Afri were not exactly following the \"protocol\" and were not exactly \"neutral\" in his position, I think it would be important to have some coordinator name list ready, in case we want to appoint a new one for all of our meetings.\r\n\r\nPlease feel free to propose names or propose yourself. Current list:\r\n\r\n@YazzyYaz \r\n@phyro \r\n@TokenHash \r\n@developerkevin \r\n@mikeyb"
-    }
+      "body": "The current core dev meeting coordinator is informally Afri. Afri has said we \"can replace me anytime\". Given recent actions that Afri were not exactly following the \"protocol\" and were not exactly \"neutral\" in his position, I think it would be important to have some coordinator name list ready, in case we want to appoint a new one for all of our meetings.\r\n\r\nPlease feel free to propose names or propose yourself. Current list:\r\n\r\n@YazzyYaz \r\n@phyro \r\n@TokenHash \r\n@developerkevin \r\n@mikeyb",
+      "performed_via_github_app": null
+    },
+    "performed_via_github_app": null
   }

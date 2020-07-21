@@ -96,6 +96,8 @@
         "diff_url": "https://github.com/ethereumclassic/ECIPs/pull/170.diff",
         "patch_url": "https://github.com/ethereumclassic/ECIPs/pull/170.patch"
       },
-      "body": "This adds the following specifications to ECIPs repo:\r\n\r\n* ECIP-1040: The base layer of account versioning. The current rough consensus.\r\n* ECIP-1068: Extension of ECIP-1040 to allow transaction to deploy multiple versions.\r\n* ECIP-1069: Extension of ECIP-1040 to allow CREATE/CREATE2 to deploy multiple versions."
-    }
+      "body": "This adds the following specifications to ECIPs repo:\r\n\r\n* ECIP-1040: The base layer of account versioning. The current rough consensus.\r\n* ECIP-1068: Extension of ECIP-1040 to allow transaction to deploy multiple versions.\r\n* ECIP-1069: Extension of ECIP-1040 to allow CREATE/CREATE2 to deploy multiple versions.",
+      "performed_via_github_app": null
+    },
+    "performed_via_github_app": null
   }

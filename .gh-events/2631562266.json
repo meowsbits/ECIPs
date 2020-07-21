@@ -81,6 +81,8 @@
       "closed_at": "2019-09-13T08:22:52Z",
       "author_association": "CONTRIBUTOR",
       "active_lock_reason": null,
-      "body": "ref https://github.com/etclabscore/ECIPs/issues/29\r\n\r\n### ETC Core Devs Call - Atlantis Hardfork Hands-On\r\n\r\nWhen: **Thursday, September 12, 2019, 2:00 pm UTC, during the expected hardfork**, 120 minutes max.\r\n\r\nlatest prediction: `2:50:07 pm UTC  |  Thursday, September 12, 2019`\r\n\r\nWhere: **Ethereum Classic Discord** `#ecips` channel. Will use/create a voice channel _ad hoc._ Ask for an invite here if you are not on that discord.\r\n\r\nThis will be an _informal_ call for core developers and everyone else interested to monitor the hardfork and discuss progress, eventually, act if necessary. "
-    }
+      "body": "ref https://github.com/etclabscore/ECIPs/issues/29\r\n\r\n### ETC Core Devs Call - Atlantis Hardfork Hands-On\r\n\r\nWhen: **Thursday, September 12, 2019, 2:00 pm UTC, during the expected hardfork**, 120 minutes max.\r\n\r\nlatest prediction: `2:50:07 pm UTC  |  Thursday, September 12, 2019`\r\n\r\nWhere: **Ethereum Classic Discord** `#ecips` channel. Will use/create a voice channel _ad hoc._ Ask for an invite here if you are not on that discord.\r\n\r\nThis will be an _informal_ call for core developers and everyone else interested to monitor the hardfork and discuss progress, eventually, act if necessary. ",
+      "performed_via_github_app": null
+    },
+    "performed_via_github_app": null
   }

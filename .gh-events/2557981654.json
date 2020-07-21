@@ -79,6 +79,8 @@
         "diff_url": "https://github.com/ethereumclassic/ECIPs/pull/112.diff",
         "patch_url": "https://github.com/ethereumclassic/ECIPs/pull/112.patch"
       },
-      "body": "What do you guys think of this idea? I like the idea of having decentralized oracles and smart contracts for Ethereum Classic."
-    }
+      "body": "What do you guys think of this idea? I like the idea of having decentralized oracles and smart contracts for Ethereum Classic.",
+      "performed_via_github_app": null
+    },
+    "performed_via_github_app": null
   }

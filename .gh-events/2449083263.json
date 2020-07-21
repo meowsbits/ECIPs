@@ -113,6 +113,8 @@
         "diff_url": "https://github.com/ethereumclassic/ECIPs/pull/105.diff",
         "patch_url": "https://github.com/ethereumclassic/ECIPs/pull/105.patch"
       },
-      "body": "This exports all metadata of specs into a json file, which will be accessible from `https://ecips.ethereumclassic.org/.well-known/ecips/specs.json`, once this PR is merged.\r\n\r\n`ecips` well-known location is registered in the [Well-Known URIs](https://www.iana.org/assignments/well-known-uris/well-known-uris.xhtml) registry, and its definitions comply to [24-ECIPURI](https://ecips.that.world/24-ecipuri/)."
-    }
+      "body": "This exports all metadata of specs into a json file, which will be accessible from `https://ecips.ethereumclassic.org/.well-known/ecips/specs.json`, once this PR is merged.\r\n\r\n`ecips` well-known location is registered in the [Well-Known URIs](https://www.iana.org/assignments/well-known-uris/well-known-uris.xhtml) registry, and its definitions comply to [24-ECIPURI](https://ecips.that.world/24-ecipuri/).",
+      "performed_via_github_app": null
+    },
+    "performed_via_github_app": null
   }

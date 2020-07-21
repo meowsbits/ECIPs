@@ -119,6 +119,8 @@
         "diff_url": "https://github.com/ethereumclassic/ECIPs/pull/139.diff",
         "patch_url": "https://github.com/ethereumclassic/ECIPs/pull/139.patch"
       },
-      "body": "Adding Discussion-to link to ECIP-1043 about fixing DAG: https://github.com/ethereumclassic/ECIPs/issues/138"
-    }
+      "body": "Adding Discussion-to link to ECIP-1043 about fixing DAG: https://github.com/ethereumclassic/ECIPs/issues/138",
+      "performed_via_github_app": null
+    },
+    "performed_via_github_app": null
   }

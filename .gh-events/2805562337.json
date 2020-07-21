@@ -119,6 +119,8 @@
         "diff_url": "https://github.com/ethereumclassic/ECIPs/pull/191.diff",
         "patch_url": "https://github.com/ethereumclassic/ECIPs/pull/191.patch"
       },
-      "body": "Some minor wording updates I think need to be made.  You be the judge :)"
-    }
+      "body": "Some minor wording updates I think need to be made.  You be the judge :)",
+      "performed_via_github_app": null
+    },
+    "performed_via_github_app": null
   }

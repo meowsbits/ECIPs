@@ -79,6 +79,8 @@
         "diff_url": "https://github.com/ethereumclassic/ECIPs/pull/125.diff",
         "patch_url": "https://github.com/ethereumclassic/ECIPs/pull/125.patch"
       },
-      "body": "It was a file missing to complete ECIP types."
-    }
+      "body": "It was a file missing to complete ECIP types.",
+      "performed_via_github_app": null
+    },
+    "performed_via_github_app": null
   }

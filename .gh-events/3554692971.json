@@ -68,7 +68,7 @@
           "description": "Accepted best practices"
         }
       ],
-      "state": "open",
+      "state": "closed",
       "locked": false,
       "assignee": null,
       "assignees": [
@@ -77,8 +77,8 @@
       "milestone": null,
       "comments": 2,
       "created_at": "2020-07-16T17:25:29Z",
-      "updated_at": "2020-07-20T23:38:47Z",
-      "closed_at": null,
+      "updated_at": "2020-07-21T16:13:13Z",
+      "closed_at": "2020-07-21T16:13:06Z",
       "author_association": "MEMBER",
       "active_lock_reason": null,
       "pull_request": {

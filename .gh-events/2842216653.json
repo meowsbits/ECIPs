@@ -79,6 +79,8 @@
         "diff_url": "https://github.com/ethereumclassic/ECIPs/pull/218.diff",
         "patch_url": "https://github.com/ethereumclassic/ECIPs/pull/218.patch"
       },
-      "body": "ECIP-1702 is now being used by Wei to push an \"Ethereum Classic Classic\" fork."
-    }
+      "body": "ECIP-1702 is now being used by Wei to push an \"Ethereum Classic Classic\" fork.",
+      "performed_via_github_app": null
+    },
+    "performed_via_github_app": null
   }

@@ -85,6 +85,8 @@
       "closed_at": "2019-11-07T19:45:15Z",
       "author_association": "MEMBER",
       "active_lock_reason": null,
-      "body": "the contents of: https://ecips.ethereumclassic.org should be published using GH pages."
-    }
+      "body": "the contents of: https://ecips.ethereumclassic.org should be published using GH pages.",
+      "performed_via_github_app": null
+    },
+    "performed_via_github_app": null
   }

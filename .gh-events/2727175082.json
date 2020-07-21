@@ -105,6 +105,8 @@
         "diff_url": "https://github.com/ethereumclassic/ECIPs/pull/145.diff",
         "patch_url": "https://github.com/ethereumclassic/ECIPs/pull/145.patch"
       },
-      "body": "With author consent, transporting Flyclient ECLIP to ECIP in this repo.\r\n\r\nAdded \"Flyclient\" term in title as it is the common name for this kind of change."
-    }
+      "body": "With author consent, transporting Flyclient ECLIP to ECIP in this repo.\r\n\r\nAdded \"Flyclient\" term in title as it is the common name for this kind of change.",
+      "performed_via_github_app": null
+    },
+    "performed_via_github_app": null
   }

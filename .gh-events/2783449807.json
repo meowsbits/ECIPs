@@ -79,6 +79,8 @@
         "diff_url": "https://github.com/ethereumclassic/ECIPs/pull/178.diff",
         "patch_url": "https://github.com/ethereumclassic/ECIPs/pull/178.patch"
       },
-      "body": "This adds [MulanPSL](https://license.coscl.org.cn/MulanPSL/) into the \"recommended license\" section in ECIP-1000. From an initial look it fulfills most of the criteria we want for a specification license:\r\n\r\n1. Explicit patent protection, similar to Apache-2.0.\r\n2. Permissive.\r\n3. It looks like some of the languages used in the license will make it work better in the Chinese jurisdiction, which some contributors might have preferences."
-    }
+      "body": "This adds [MulanPSL](https://license.coscl.org.cn/MulanPSL/) into the \"recommended license\" section in ECIP-1000. From an initial look it fulfills most of the criteria we want for a specification license:\r\n\r\n1. Explicit patent protection, similar to Apache-2.0.\r\n2. Permissive.\r\n3. It looks like some of the languages used in the license will make it work better in the Chinese jurisdiction, which some contributors might have preferences.",
+      "performed_via_github_app": null
+    },
+    "performed_via_github_app": null
   }

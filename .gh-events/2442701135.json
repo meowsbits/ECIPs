@@ -91,6 +91,8 @@
         "diff_url": "https://github.com/ethereumclassic/ECIPs/pull/88.diff",
         "patch_url": "https://github.com/ethereumclassic/ECIPs/pull/88.patch"
       },
-      "body": "For Ethereum Classic to have a more professional profile and to make the ECIP process easier to understand and use, the following changes to README.md are being proposed:\r\n\r\n• Structuring the documentation to include : ECIP Home (this summary), connections the formal ECIP process (ECIP-1000), the proper ECIP-Sample doc, and the proper ECIP-markdown-template when appropriate.\r\n• Added a 'Summary' section with links to the ECIP Process doc to better introduce ECIPs to newcomers.\r\n• Added a 'Types of Participants' section to clarify who, responsibilities, and how each type of participant contributes to the ECIP process. Also to make sure 'Authors\" understand their role.\r\n• Made spelling and grammatical corrections for clarity."
-    }
+      "body": "For Ethereum Classic to have a more professional profile and to make the ECIP process easier to understand and use, the following changes to README.md are being proposed:\r\n\r\n• Structuring the documentation to include : ECIP Home (this summary), connections the formal ECIP process (ECIP-1000), the proper ECIP-Sample doc, and the proper ECIP-markdown-template when appropriate.\r\n• Added a 'Summary' section with links to the ECIP Process doc to better introduce ECIPs to newcomers.\r\n• Added a 'Types of Participants' section to clarify who, responsibilities, and how each type of participant contributes to the ECIP process. Also to make sure 'Authors\" understand their role.\r\n• Made spelling and grammatical corrections for clarity.",
+      "performed_via_github_app": null
+    },
+    "performed_via_github_app": null
   }

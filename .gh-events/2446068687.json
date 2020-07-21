@@ -113,6 +113,8 @@
         "diff_url": "https://github.com/ethereumclassic/ECIPs/pull/94.diff",
         "patch_url": "https://github.com/ethereumclassic/ECIPs/pull/94.patch"
       },
-      "body": "This adds the proposed initial list of ECIP editors. Please feel free to propose yourself or recommend others by commenting on this PR or make a pull request to master branch."
-    }
+      "body": "This adds the proposed initial list of ECIP editors. Please feel free to propose yourself or recommend others by commenting on this PR or make a pull request to master branch.",
+      "performed_via_github_app": null
+    },
+    "performed_via_github_app": null
   }

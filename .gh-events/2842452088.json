@@ -79,6 +79,8 @@
         "diff_url": "https://github.com/ethereumclassic/ECIPs/pull/212.diff",
         "patch_url": "https://github.com/ethereumclassic/ECIPs/pull/212.patch"
       },
-      "body": "Reverts #198 and move ECIP-1072 to withdrawn status.\r\n\r\nCloses #207.\r\n\r\nWe already have ECIP-1061 that specifies the hardfork. Stop messing around with Ethereum Classic."
-    }
+      "body": "Reverts #198 and move ECIP-1072 to withdrawn status.\r\n\r\nCloses #207.\r\n\r\nWe already have ECIP-1061 that specifies the hardfork. Stop messing around with Ethereum Classic.",
+      "performed_via_github_app": null
+    },
+    "performed_via_github_app": null
   }

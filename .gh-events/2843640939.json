@@ -87,6 +87,8 @@
         "diff_url": "https://github.com/ethereumclassic/ECIPs/pull/203.diff",
         "patch_url": "https://github.com/ethereumclassic/ECIPs/pull/203.patch"
       },
-      "body": "This is just a bad idea, and is never going to happen.\r\nSorry, Jesse.\r\nBut we should reject this and clear out cognitive load."
-    }
+      "body": "This is just a bad idea, and is never going to happen.\r\nSorry, Jesse.\r\nBut we should reject this and clear out cognitive load.",
+      "performed_via_github_app": null
+    },
+    "performed_via_github_app": null
   }

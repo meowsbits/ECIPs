@@ -113,6 +113,8 @@
         "diff_url": "https://github.com/ethereumclassic/ECIPs/pull/102.diff",
         "patch_url": "https://github.com/ethereumclassic/ECIPs/pull/102.patch"
       },
-      "body": "* Lowercased spec filenames -- this fits better with the rest of folder structure and generated permalink is lowercased anyway.\r\n* Add `lang` item to all specs."
-    }
+      "body": "* Lowercased spec filenames -- this fits better with the rest of folder structure and generated permalink is lowercased anyway.\r\n* Add `lang` item to all specs.",
+      "performed_via_github_app": null
+    },
+    "performed_via_github_app": null
   }

@@ -118,6 +118,8 @@
         "diff_url": "https://github.com/ethereumclassic/ECIPs/pull/214.diff",
         "patch_url": "https://github.com/ethereumclassic/ECIPs/pull/214.patch"
       },
-      "body": "There is significant confusion around ECIP-1061 and ECIP-1072.\r\nWe need to go around the loop again on consensus / consent.\r\n\r\nI am listed as an author of ECIP-1072, for example, but did not author it, did not give my consent to be listed as an author and actively oppose ECIP-1072 given the way it has been pushed through."
-    }
+      "body": "There is significant confusion around ECIP-1061 and ECIP-1072.\r\nWe need to go around the loop again on consensus / consent.\r\n\r\nI am listed as an author of ECIP-1072, for example, but did not author it, did not give my consent to be listed as an author and actively oppose ECIP-1072 given the way it has been pushed through.",
+      "performed_via_github_app": null
+    },
+    "performed_via_github_app": null
   }

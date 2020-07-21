@@ -79,6 +79,8 @@
         "diff_url": "https://github.com/ethereumclassic/ECIPs/pull/162.diff",
         "patch_url": "https://github.com/ethereumclassic/ECIPs/pull/162.patch"
       },
-      "body": "Defined a new IP protection process for ECIPs.\r\nMandatory use of Apache 2.0 for ECIPs, plus optional use of various copyleft license for the source code.\r\nMandatory DCOs for contributions with real name requirement.\r\nOption for ECIP editors to override the real name requirement if they feel a contribution is exceptional."
-    }
+      "body": "Defined a new IP protection process for ECIPs.\r\nMandatory use of Apache 2.0 for ECIPs, plus optional use of various copyleft license for the source code.\r\nMandatory DCOs for contributions with real name requirement.\r\nOption for ECIP editors to override the real name requirement if they feel a contribution is exceptional.",
+      "performed_via_github_app": null
+    },
+    "performed_via_github_app": null
   }

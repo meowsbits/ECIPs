@@ -113,6 +113,8 @@
         "diff_url": "https://github.com/ethereumclassic/ECIPs/pull/101.diff",
         "patch_url": "https://github.com/ethereumclassic/ECIPs/pull/101.patch"
       },
-      "body": "This restores links to Github master. However, IMO we should only preserve permalinks to `ecips.ethereumclassic.org`, and if people are linking to Github directly, they should link towards particular revisions.\r\n\r\nNote that because we're not using collections, additional attribute `lang: en` is required for all ECIP files."
-    }
+      "body": "This restores links to Github master. However, IMO we should only preserve permalinks to `ecips.ethereumclassic.org`, and if people are linking to Github directly, they should link towards particular revisions.\r\n\r\nNote that because we're not using collections, additional attribute `lang: en` is required for all ECIP files.",
+      "performed_via_github_app": null
+    },
+    "performed_via_github_app": null
   }

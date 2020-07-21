@@ -73,6 +73,8 @@
       "closed_at": "2019-11-07T16:49:48Z",
       "author_association": "CONTRIBUTOR",
       "active_lock_reason": null,
-      "body": "Discussion page for ECIP 1043: Fixed DAG limit restriction."
-    }
+      "body": "Discussion page for ECIP 1043: Fixed DAG limit restriction.",
+      "performed_via_github_app": null
+    },
+    "performed_via_github_app": null
   }

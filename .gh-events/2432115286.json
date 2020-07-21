@@ -130,6 +130,8 @@
         "diff_url": "https://github.com/ethereumclassic/ECIPs/pull/86.diff",
         "patch_url": "https://github.com/ethereumclassic/ECIPs/pull/86.patch"
       },
-      "body": "This uses account versioning for Agharta hard fork, as defined in EIP-1702. All three features enabled at Constantinople are new opcodes, thus they cannot be used by existing contracts anyway. By using account versioning, we can preserve a much stronger guarantee of immutability and backward compatibility."
-    }
+      "body": "This uses account versioning for Agharta hard fork, as defined in EIP-1702. All three features enabled at Constantinople are new opcodes, thus they cannot be used by existing contracts anyway. By using account versioning, we can preserve a much stronger guarantee of immutability and backward compatibility.",
+      "performed_via_github_app": null
+    },
+    "performed_via_github_app": null
   }

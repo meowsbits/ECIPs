@@ -79,6 +79,8 @@
         "diff_url": "https://github.com/ethereumclassic/ECIPs/pull/114.diff",
         "patch_url": "https://github.com/ethereumclassic/ECIPs/pull/114.patch"
       },
-      "body": "From ERC to ECBP."
-    }
+      "body": "From ERC to ECBP.",
+      "performed_via_github_app": null
+    },
+    "performed_via_github_app": null
   }

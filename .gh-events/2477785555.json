@@ -87,6 +87,8 @@
         "diff_url": "https://github.com/ethereumclassic/ECIPs/pull/108.diff",
         "patch_url": "https://github.com/ethereumclassic/ECIPs/pull/108.patch"
       },
-      "body": "Fixed links to ECIP-1000 and markdown template in the \"Contributing\" section.\r\n\r\nAdded status terms:\r\n\r\n• \"WIP\" for early stage ECIPs with a lot of activity.\r\n• \"Active\" for \"Informational\" and \"Process\" ECIPs which do not go to \"Final\" status because they are generally always works in progress.\r\n\r\nIf these changes are merged, then I will correct the \"process.png\" and ECIP-1000."
-    }
+      "body": "Fixed links to ECIP-1000 and markdown template in the \"Contributing\" section.\r\n\r\nAdded status terms:\r\n\r\n• \"WIP\" for early stage ECIPs with a lot of activity.\r\n• \"Active\" for \"Informational\" and \"Process\" ECIPs which do not go to \"Final\" status because they are generally always works in progress.\r\n\r\nIf these changes are merged, then I will correct the \"process.png\" and ECIP-1000.",
+      "performed_via_github_app": null
+    },
+    "performed_via_github_app": null
   }

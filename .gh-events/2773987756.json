@@ -100,6 +100,8 @@
         "diff_url": "https://github.com/ethereumclassic/ECIPs/pull/166.diff",
         "patch_url": "https://github.com/ethereumclassic/ECIPs/pull/166.patch"
       },
-      "body": "With author consent, moving this ECIP to withdrawn as its contents are largely included and covered in ECIP-1000."
-    }
+      "body": "With author consent, moving this ECIP to withdrawn as its contents are largely included and covered in ECIP-1000.",
+      "performed_via_github_app": null
+    },
+    "performed_via_github_app": null
   }

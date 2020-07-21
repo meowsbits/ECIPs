@@ -92,6 +92,8 @@
         "diff_url": "https://github.com/ethereumclassic/ECIPs/pull/127.diff",
         "patch_url": "https://github.com/ethereumclassic/ECIPs/pull/127.patch"
       },
-      "body": "This proposal is a framework for 3rd party communications in decentralized systems"
-    }
+      "body": "This proposal is a framework for 3rd party communications in decentralized systems",
+      "performed_via_github_app": null
+    },
+    "performed_via_github_app": null
   }

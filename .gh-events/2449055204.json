@@ -91,6 +91,8 @@
         "diff_url": "https://github.com/ethereumclassic/ECIPs/pull/81.diff",
         "patch_url": "https://github.com/ethereumclassic/ECIPs/pull/81.patch"
       },
-      "body": "### Atzlán Hardfork Meta\r\n\r\nEnable the outstanding Ethereum Foundation _Istanbul_ network protocol upgrades on the Ethereum\r\nClassic network in a hard-fork code-named _Atzlán_ to enable maximum compatibility across these networks.\r\n\r\n![Aztlan-Legendary-Aztec-Land](https://user-images.githubusercontent.com/47772477/59256364-14671a00-8c34-11e9-90e7-610186e268cc.jpg)\r\n\r\n"
-    }
+      "body": "### Atzlán Hardfork Meta\r\n\r\nEnable the outstanding Ethereum Foundation _Istanbul_ network protocol upgrades on the Ethereum\r\nClassic network in a hard-fork code-named _Atzlán_ to enable maximum compatibility across these networks.\r\n\r\n![Aztlan-Legendary-Aztec-Land](https://user-images.githubusercontent.com/47772477/59256364-14671a00-8c34-11e9-90e7-610186e268cc.jpg)\r\n\r\n",
+      "performed_via_github_app": null
+    },
+    "performed_via_github_app": null
   }

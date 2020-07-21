@@ -113,6 +113,8 @@
         "diff_url": "https://github.com/ethereumclassic/ECIPs/pull/97.diff",
         "patch_url": "https://github.com/ethereumclassic/ECIPs/pull/97.patch"
       },
-      "body": "This prepares the repo to be served as a website under ecips.ethereumclassic.org."
-    }
+      "body": "This prepares the repo to be served as a website under ecips.ethereumclassic.org.",
+      "performed_via_github_app": null
+    },
+    "performed_via_github_app": null
   }

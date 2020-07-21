@@ -126,6 +126,8 @@
         "diff_url": "https://github.com/ethereumclassic/ECIPs/pull/156.diff",
         "patch_url": "https://github.com/ethereumclassic/ECIPs/pull/156.patch"
       },
-      "body": "ref #135"
-    }
+      "body": "ref #135",
+      "performed_via_github_app": null
+    },
+    "performed_via_github_app": null
   }

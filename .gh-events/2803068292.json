@@ -91,6 +91,8 @@
         "diff_url": "https://github.com/ethereumclassic/ECIPs/pull/185.diff",
         "patch_url": "https://github.com/ethereumclassic/ECIPs/pull/185.patch"
       },
-      "body": "Rename so that Aztlan ECIPs clearly shows four different options:\r\n\r\n- ECIP-1061 as ECIP-1061A\r\n- ECIP-1072 as ECIP-1061B\r\n- ECIP-1073 as ECIP-1061C\r\n- ECIP-1074 as ECIP-1061D\r\n\r\nNote that we cannot yet merge this because names like \"ECIP-1061A\" does not comply to the ECIP-1000 procedure. It's a trivial change, but I'll wait @bobsummerwill to know whether we can just do that (or should go through the whole process of creating another ECIP)."
-    }
+      "body": "Rename so that Aztlan ECIPs clearly shows four different options:\r\n\r\n- ECIP-1061 as ECIP-1061A\r\n- ECIP-1072 as ECIP-1061B\r\n- ECIP-1073 as ECIP-1061C\r\n- ECIP-1074 as ECIP-1061D\r\n\r\nNote that we cannot yet merge this because names like \"ECIP-1061A\" does not comply to the ECIP-1000 procedure. It's a trivial change, but I'll wait @bobsummerwill to know whether we can just do that (or should go through the whole process of creating another ECIP).",
+      "performed_via_github_app": null
+    },
+    "performed_via_github_app": null
   }

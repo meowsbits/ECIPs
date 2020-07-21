@@ -79,6 +79,8 @@
         "diff_url": "https://github.com/ethereumclassic/ECIPs/pull/196.diff",
         "patch_url": "https://github.com/ethereumclassic/ECIPs/pull/196.patch"
       },
-      "body": "I propose demoting wei tang as ecip editor for not stopping to block community efforts on ecbp 1076 in #194 which received rough consensus in the public community call in #174 without stating actual reasons."
-    }
+      "body": "I propose demoting wei tang as ecip editor for not stopping to block community efforts on ecbp 1076 in #194 which received rough consensus in the public community call in #174 without stating actual reasons.",
+      "performed_via_github_app": null
+    },
+    "performed_via_github_app": null
   }

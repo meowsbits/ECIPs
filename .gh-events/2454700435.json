@@ -79,6 +79,8 @@
         "diff_url": "https://github.com/ethereumclassic/ECIPs/pull/106.diff",
         "patch_url": "https://github.com/ethereumclassic/ECIPs/pull/106.patch"
       },
-      "body": "Replacing old one with a new one that has the latest status terms: Draft | Last Call | Accepted | Final | Deferred | Replaced | Rejected | Withdrawn."
-    }
+      "body": "Replacing old one with a new one that has the latest status terms: Draft | Last Call | Accepted | Final | Deferred | Replaced | Rejected | Withdrawn.",
+      "performed_via_github_app": null
+    },
+    "performed_via_github_app": null
   }

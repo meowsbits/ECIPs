@@ -73,6 +73,8 @@
       "closed_at": "2019-06-29T18:31:44Z",
       "author_association": "MEMBER",
       "active_lock_reason": null,
-      "body": "https://github.com/ethereumclassic/ECIPs/search?q=ethereumproject&unscoped_q=ethereumproject"
-    }
+      "body": "https://github.com/ethereumclassic/ECIPs/search?q=ethereumproject&unscoped_q=ethereumproject",
+      "performed_via_github_app": null
+    },
+    "performed_via_github_app": null
   }

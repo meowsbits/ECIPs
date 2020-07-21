@@ -91,6 +91,8 @@
         "diff_url": "https://github.com/ethereumclassic/ECIPs/pull/99.diff",
         "patch_url": "https://github.com/ethereumclassic/ECIPs/pull/99.patch"
       },
-      "body": "Corrected link from ./ECIP-1000.mediawiki to ./ECIP-1000.md."
-    }
+      "body": "Corrected link from ./ECIP-1000.mediawiki to ./ECIP-1000.md.",
+      "performed_via_github_app": null
+    },
+    "performed_via_github_app": null
   }

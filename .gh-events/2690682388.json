@@ -79,6 +79,8 @@
         "diff_url": "https://github.com/ethereumclassic/ECIPs/pull/134.diff",
         "patch_url": "https://github.com/ethereumclassic/ECIPs/pull/134.patch"
       },
-      "body": "Moves Atlantis to FINAL, closes #67 \r\n\r\nAdds missing EIP-684, ref https://github.com/ethereum/EIPs/issues/2220 and https://github.com/ethereum/EIPs/pull/2252"
-    }
+      "body": "Moves Atlantis to FINAL, closes #67 \r\n\r\nAdds missing EIP-684, ref https://github.com/ethereum/EIPs/issues/2220 and https://github.com/ethereum/EIPs/pull/2252",
+      "performed_via_github_app": null
+    },
+    "performed_via_github_app": null
   }

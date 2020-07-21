@@ -79,6 +79,8 @@
         "diff_url": "https://github.com/ethereumclassic/ECIPs/pull/193.diff",
         "patch_url": "https://github.com/ethereumclassic/ECIPs/pull/193.patch"
       },
-      "body": "As per the Mining Call and Issue Link Summary: https://github.com/ethereumclassic/ECIPs/issues/174#issuecomment-557106181\r\n\r\nMoving ECIP-1070: ProgPoW on ETC to Rejected Status with the agreement that someone who wants to champion this proposal can do so on a new ECIP in the future."
-    }
+      "body": "As per the Mining Call and Issue Link Summary: https://github.com/ethereumclassic/ECIPs/issues/174#issuecomment-557106181\r\n\r\nMoving ECIP-1070: ProgPoW on ETC to Rejected Status with the agreement that someone who wants to champion this proposal can do so on a new ECIP in the future.",
+      "performed_via_github_app": null
+    },
+    "performed_via_github_app": null
   }

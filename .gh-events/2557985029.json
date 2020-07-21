@@ -87,6 +87,8 @@
         "diff_url": "https://github.com/ethereumclassic/ECIPs/pull/113.diff",
         "patch_url": "https://github.com/ethereumclassic/ECIPs/pull/113.patch"
       },
-      "body": "Added `WIP` status."
-    }
+      "body": "Added `WIP` status.",
+      "performed_via_github_app": null
+    },
+    "performed_via_github_app": null
   }

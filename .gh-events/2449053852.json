@@ -91,6 +91,8 @@
         "diff_url": "https://github.com/ethereumclassic/ECIPs/pull/103.diff",
         "patch_url": "https://github.com/ethereumclassic/ECIPs/pull/103.patch"
       },
-      "body": "cc @BelfordZ. Originally PR #90. My mistake."
-    }
+      "body": "cc @BelfordZ. Originally PR #90. My mistake.",
+      "performed_via_github_app": null
+    },
+    "performed_via_github_app": null
   }

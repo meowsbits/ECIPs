@@ -125,6 +125,8 @@
         "diff_url": "https://github.com/ethereumclassic/ECIPs/pull/163.diff",
         "patch_url": "https://github.com/ethereumclassic/ECIPs/pull/163.patch"
       },
-      "body": "# THIS PROPOSAL HAS NOTHING TO DO WITH DCO, REAL NAMES, OR ANY RESTRICTIONS ON WHO CAN CONTRIBUTE\r\n\r\nref https://github.com/ethereumclassic/ECIPs/pull/162\r\n\r\nAll ECIP contributors who specified licenses other than apache 2.0 must resubmit their ECIP, removing the license. ( good job everyone, there are no examples of this.)"
-    }
+      "body": "# THIS PROPOSAL HAS NOTHING TO DO WITH DCO, REAL NAMES, OR ANY RESTRICTIONS ON WHO CAN CONTRIBUTE\r\n\r\nref https://github.com/ethereumclassic/ECIPs/pull/162\r\n\r\nAll ECIP contributors who specified licenses other than apache 2.0 must resubmit their ECIP, removing the license. ( good job everyone, there are no examples of this.)",
+      "performed_via_github_app": null
+    },
+    "performed_via_github_app": null
   }

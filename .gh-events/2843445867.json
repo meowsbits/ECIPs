@@ -79,6 +79,8 @@
         "diff_url": "https://github.com/ethereumclassic/ECIPs/pull/223.diff",
         "patch_url": "https://github.com/ethereumclassic/ECIPs/pull/223.patch"
       },
-      "body": "Alternative to #222, here proposing using Changesets (eg Pull Requests) against a shell Forking Meta ECIP as a procedural pattern, as opposed to using distinct ECIP documents.\r\n\r\nBuilds on, conceptually includes, and is intended to supersede #221."
-    }
+      "body": "Alternative to #222, here proposing using Changesets (eg Pull Requests) against a shell Forking Meta ECIP as a procedural pattern, as opposed to using distinct ECIP documents.\r\n\r\nBuilds on, conceptually includes, and is intended to supersede #221.",
+      "performed_via_github_app": null
+    },
+    "performed_via_github_app": null
   }

@@ -113,6 +113,8 @@
         "diff_url": "https://github.com/ethereumclassic/ECIPs/pull/93.diff",
         "patch_url": "https://github.com/ethereumclassic/ECIPs/pull/93.patch"
       },
-      "body": "Fix a broken image in ECIP-1000."
-    }
+      "body": "Fix a broken image in ECIP-1000.",
+      "performed_via_github_app": null
+    },
+    "performed_via_github_app": null
   }

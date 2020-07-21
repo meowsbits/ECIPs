@@ -96,6 +96,8 @@
         "diff_url": "https://github.com/ethereumclassic/ECIPs/pull/2.diff",
         "patch_url": "https://github.com/ethereumclassic/ECIPs/pull/2.patch"
       },
-      "body": "The sputnikVM redirected to ETCDEV repo so I just changed it to link there. There were two that pointed to issues which this repo does not have. I left the links to the old one to not introduce dead links.\r\nResolves https://github.com/ethereumclassic/ECIPs/issues/1"
-    }
+      "body": "The sputnikVM redirected to ETCDEV repo so I just changed it to link there. There were two that pointed to issues which this repo does not have. I left the links to the old one to not introduce dead links.\r\nResolves https://github.com/ethereumclassic/ECIPs/issues/1",
+      "performed_via_github_app": null
+    },
+    "performed_via_github_app": null
   }

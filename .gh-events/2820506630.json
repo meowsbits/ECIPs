@@ -84,6 +84,8 @@
         "diff_url": "https://github.com/ethereumclassic/ECIPs/pull/194.diff",
         "patch_url": "https://github.com/ethereumclassic/ECIPs/pull/194.patch"
       },
-      "body": "activating the ecbp as per call today https://github.com/ethereumclassic/ECIPs/issues/174#issuecomment-557106181"
-    }
+      "body": "activating the ecbp as per call today https://github.com/ethereumclassic/ECIPs/issues/174#issuecomment-557106181",
+      "performed_via_github_app": null
+    },
+    "performed_via_github_app": null
   }

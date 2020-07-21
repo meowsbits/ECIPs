@@ -79,6 +79,8 @@
         "diff_url": "https://github.com/ethereumclassic/ECIPs/pull/107.diff",
         "patch_url": "https://github.com/ethereumclassic/ECIPs/pull/107.patch"
       },
-      "body": "Changed preamble box to a shaded box (in markdown) because it was too wide when seen on Github and included a partial set of lines on ecips.ethereumclassic.org instead of all the lines of the preamble (pls check if it breaks or would be ok on the org site).\r\n\r\nChanged status to `Final` from `Active` as the latter is not a formal status in the ecip process."
-    }
+      "body": "Changed preamble box to a shaded box (in markdown) because it was too wide when seen on Github and included a partial set of lines on ecips.ethereumclassic.org instead of all the lines of the preamble (pls check if it breaks or would be ok on the org site).\r\n\r\nChanged status to `Final` from `Active` as the latter is not a formal status in the ecip process.",
+      "performed_via_github_app": null
+    },
+    "performed_via_github_app": null
   }

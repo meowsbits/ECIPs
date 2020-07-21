@@ -113,6 +113,8 @@
         "diff_url": "https://github.com/ethereumclassic/ECIPs/pull/100.diff",
         "patch_url": "https://github.com/ethereumclassic/ECIPs/pull/100.patch"
       },
-      "body": "This initialize the ECIP website, where it's suitable to be built with Github Pages and is live at https://ecips.ethereumclassic.org\r\n\r\nI will much appreciate that review on this PR can be focused on whether you see any major issue with the overall framework. We can further fix individual ECIPs and fix spellings/typos in future PRs."
-    }
+      "body": "This initialize the ECIP website, where it's suitable to be built with Github Pages and is live at https://ecips.ethereumclassic.org\r\n\r\nI will much appreciate that review on this PR can be focused on whether you see any major issue with the overall framework. We can further fix individual ECIPs and fix spellings/typos in future PRs.",
+      "performed_via_github_app": null
+    },
+    "performed_via_github_app": null
   }

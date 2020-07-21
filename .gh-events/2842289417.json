@@ -79,6 +79,8 @@
         "diff_url": "https://github.com/ethereumclassic/ECIPs/pull/213.diff",
         "patch_url": "https://github.com/ethereumclassic/ECIPs/pull/213.patch"
       },
-      "body": "He did not author this ECIP.\r\nThere was no consent to add him.\r\nHe actively opposes this ECIP, and supports ECIP-1061."
-    }
+      "body": "He did not author this ECIP.\r\nThere was no consent to add him.\r\nHe actively opposes this ECIP, and supports ECIP-1061.",
+      "performed_via_github_app": null
+    },
+    "performed_via_github_app": null
   }

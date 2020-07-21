@@ -91,6 +91,8 @@
         "diff_url": "https://github.com/ethereumclassic/ECIPs/pull/110.diff",
         "patch_url": "https://github.com/ethereumclassic/ECIPs/pull/110.patch"
       },
-      "body": "Corrected EIP to ECIP under `Active` status term."
-    }
+      "body": "Corrected EIP to ECIP under `Active` status term.",
+      "performed_via_github_app": null
+    },
+    "performed_via_github_app": null
   }

@@ -79,6 +79,8 @@
         "diff_url": "https://github.com/ethereumclassic/ECIPs/pull/183.diff",
         "patch_url": "https://github.com/ethereumclassic/ECIPs/pull/183.patch"
       },
-      "body": "Informational ECIP:\r\n\r\n**\"ASIC resistance\" is a myth.  The ETC ecosystem rejects this myth.**\r\n\r\nDiscussion to https://github.com/ethereumclassic/ECIPs/issues/182, please!"
-    }
+      "body": "Informational ECIP:\r\n\r\n**\"ASIC resistance\" is a myth.  The ETC ecosystem rejects this myth.**\r\n\r\nDiscussion to https://github.com/ethereumclassic/ECIPs/issues/182, please!",
+      "performed_via_github_app": null
+    },
+    "performed_via_github_app": null
   }

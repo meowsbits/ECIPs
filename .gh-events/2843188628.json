@@ -79,6 +79,8 @@
         "diff_url": "https://github.com/ethereumclassic/ECIPs/pull/216.diff",
         "patch_url": "https://github.com/ethereumclassic/ECIPs/pull/216.patch"
       },
-      "body": "Update licensing to Apache 2.0, to reflect inclusion of specifications authored by Wei Tang under Apache 2.0 licensing."
-    }
+      "body": "Update licensing to Apache 2.0, to reflect inclusion of specifications authored by Wei Tang under Apache 2.0 licensing.",
+      "performed_via_github_app": null
+    },
+    "performed_via_github_app": null
   }

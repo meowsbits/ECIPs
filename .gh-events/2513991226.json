@@ -79,6 +79,8 @@
         "diff_url": "https://github.com/ethereumclassic/ECIPs/pull/121.diff",
         "patch_url": "https://github.com/ethereumclassic/ECIPs/pull/121.patch"
       },
-      "body": "Added header_pages: \r\n\r\nnetworking.html \r\n\r\nand changed:\r\n\r\nerc.html\r\n\r\nto:\r\n\r\necbp.html"
-    }
+      "body": "Added header_pages: \r\n\r\nnetworking.html \r\n\r\nand changed:\r\n\r\nerc.html\r\n\r\nto:\r\n\r\necbp.html",
+      "performed_via_github_app": null
+    },
+    "performed_via_github_app": null
   }

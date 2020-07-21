@@ -87,6 +87,8 @@
         "diff_url": "https://github.com/ethereumclassic/ECIPs/pull/118.diff",
         "patch_url": "https://github.com/ethereumclassic/ECIPs/pull/118.patch"
       },
-      "body": "Changed file name from `erc.html` to `ecbp.html`\r\n\r\nChanged title from `ERC` to `ECBP`.\r\n\r\nChanged string `where:\"category\",\"ERC\" %}` to `where:\"category\",\"ECBP\" %}`"
-    }
+      "body": "Changed file name from `erc.html` to `ecbp.html`\r\n\r\nChanged title from `ERC` to `ECBP`.\r\n\r\nChanged string `where:\"category\",\"ERC\" %}` to `where:\"category\",\"ECBP\" %}`",
+      "performed_via_github_app": null
+    },
+    "performed_via_github_app": null
   }
