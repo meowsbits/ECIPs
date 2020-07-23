@@ -60,17 +60,17 @@
       "labels": [
 
       ],
-      "state": "open",
+      "state": "closed",
       "locked": false,
       "assignee": null,
       "assignees": [
 
       ],
       "milestone": null,
-      "comments": 2,
+      "comments": 3,
       "created_at": "2020-06-10T23:45:29Z",
-      "updated_at": "2020-06-16T09:22:42Z",
-      "closed_at": null,
+      "updated_at": "2020-07-23T09:48:00Z",
+      "closed_at": "2020-07-23T09:48:00Z",
       "author_association": "CONTRIBUTOR",
       "active_lock_reason": null,
       "body": "# Phoenix Hard-Fork Debrief Meeting\r\n\r\nThe Phoenix hard-fork was successful so let's talk about it! This meeting is to have a reconciliation of the hard-fork. **If you participated in preparing/ and or coordinating Phoenix, then please join!**\r\n\r\n### Location, Date, and Time\r\n\r\n_The location, date, and time of this meeting is to be determined._\r\n\r\n### Agenda:\r\n\r\n- What were we trying to accomplish?\r\n- Where did we hit (or miss) our objectives?\r\n- What caused our results?\r\n- What should we start, stop, or continue doing?\r\n- Anything else...\r\n\r\n### Disclaimer\r\n\r\nThe meeting will be recorded and published on YouTube.\r\n",
