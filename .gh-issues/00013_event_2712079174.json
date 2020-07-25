@@ -29,5 +29,6 @@
     "rename": {
       "from": "ECIP-1049: Change the ETC Proof of Work Algorithm to Keccak256",
       "to": "ECIP-1049: Change the ETC Proof of Work Algorithm to SHA3 (Keccak256)"
-    }
+    },
+    "performed_via_github_app": null
   }

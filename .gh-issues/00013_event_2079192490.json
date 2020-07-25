@@ -29,5 +29,6 @@
     "label": {
       "name": "Draft",
       "color": "ffffff"
-    }
+    },
+    "performed_via_github_app": null
   }
