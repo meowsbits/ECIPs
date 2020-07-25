@@ -119,6 +119,8 @@
         "diff_url": "https://github.com/ethereumclassic/ECIPs/pull/9.diff",
         "patch_url": "https://github.com/ethereumclassic/ECIPs/pull/9.patch"
       },
-      "body": "This completes issue #3 "
-    }
+      "body": "This completes issue #3 ",
+      "performed_via_github_app": null
+    },
+    "performed_via_github_app": null
   }

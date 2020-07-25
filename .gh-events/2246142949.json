@@ -79,6 +79,8 @@
         "diff_url": "https://github.com/ethereumclassic/ECIPs/pull/69.diff",
         "patch_url": "https://github.com/ethereumclassic/ECIPs/pull/69.patch"
       },
-      "body": "ref https://github.com/etclabscore/ECIPs/pull/14 by @Dexaran "
-    }
+      "body": "ref https://github.com/etclabscore/ECIPs/pull/14 by @Dexaran ",
+      "performed_via_github_app": null
+    },
+    "performed_via_github_app": null
   }

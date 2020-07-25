@@ -73,6 +73,8 @@
       "closed_at": "2019-06-13T18:38:33Z",
       "author_association": "CONTRIBUTOR",
       "active_lock_reason": null,
-      "body": "ref https://github.com/etclabscore/ECIPs/issues/25\r\n\r\n### ETC Core Devs Call - Atlantis Finalization\r\n\r\nWhen: **Thursday, June 13, 2019, 3pm UTC**, 60 minutes max.\r\n\r\nWhere: **Ethereum Classic Discord** `#ecips` channel. Will use/create a voice channel _ad hoc._ Ask for invite here if you are not on that discord.\r\n\r\n### Agenda\r\n\r\n- Quick client teams check-in\r\n  - Geth / Multi-Geth \r\n  - Parity Ethereum\r\n  - IOHK Mantis\r\n- Testing updates\r\n  - Kensington Testnet\r\n  - Kotti Testnet\r\n  - Morden Testnet\r\n- Atlantis (ECIP-1054) is in _\"last call\"_ state\r\n  - ECIP-1054 needs to be either **accepted** or _updated_ (or _rejected_)\r\n  - ideally, we agree on how (and when) we accept Atlantis in this call\r\n"
-    }
+      "body": "ref https://github.com/etclabscore/ECIPs/issues/25\r\n\r\n### ETC Core Devs Call - Atlantis Finalization\r\n\r\nWhen: **Thursday, June 13, 2019, 3pm UTC**, 60 minutes max.\r\n\r\nWhere: **Ethereum Classic Discord** `#ecips` channel. Will use/create a voice channel _ad hoc._ Ask for invite here if you are not on that discord.\r\n\r\n### Agenda\r\n\r\n- Quick client teams check-in\r\n  - Geth / Multi-Geth \r\n  - Parity Ethereum\r\n  - IOHK Mantis\r\n- Testing updates\r\n  - Kensington Testnet\r\n  - Kotti Testnet\r\n  - Morden Testnet\r\n- Atlantis (ECIP-1054) is in _\"last call\"_ state\r\n  - ECIP-1054 needs to be either **accepted** or _updated_ (or _rejected_)\r\n  - ideally, we agree on how (and when) we accept Atlantis in this call\r\n",
+      "performed_via_github_app": null
+    },
+    "performed_via_github_app": null
   }

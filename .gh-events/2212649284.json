@@ -79,6 +79,8 @@
         "diff_url": "https://github.com/ethereumclassic/ECIPs/pull/60.diff",
         "patch_url": "https://github.com/ethereumclassic/ECIPs/pull/60.patch"
       },
-      "body": "Those ECIPs have me as author, but I no longer maintain them in this repository. All of them are moved to https://ecips.that.world\r\n\r\n* ECIP-1022 -> 27-MINERVOTE: https://ecips.that.world/27-minervote/\r\n* ECIP-1023 -> 28-CARBONVOTE: https://ecips.that.world/28-carbonvote/\r\n* ECIP-1024 -> 29-CARBONALT: https://ecips.that.world/29-carbonalt/\r\n* ECIP-1029 -> 30-UNCLEGHOST: https://ecips.that.world/30-uncleghost/\r\n* ECIP-1030 -> 31-SYSTEM: https://ecips.that.world/31-system/\r\n* ECIP-1031 -> 32-READADDR: https://ecips.that.world/32-readaddr/\r\n* ECIP-1033 -> 33-MNEMONIC: https://ecips.that.world/33-mnemonic/\r\n* ECIP-1034 -> 34-SIGN: https://ecips.that.world/34-sign/\r\n* ECIP-1038 -> 22-EVMJETS: https://ecips.that.world/22-evmjets/\r\n* ECIP-1040 -> 35-VERALT: https://ecips.that.world/35-veralt/"
-    }
+      "body": "Those ECIPs have me as author, but I no longer maintain them in this repository. All of them are moved to https://ecips.that.world\r\n\r\n* ECIP-1022 -> 27-MINERVOTE: https://ecips.that.world/27-minervote/\r\n* ECIP-1023 -> 28-CARBONVOTE: https://ecips.that.world/28-carbonvote/\r\n* ECIP-1024 -> 29-CARBONALT: https://ecips.that.world/29-carbonalt/\r\n* ECIP-1029 -> 30-UNCLEGHOST: https://ecips.that.world/30-uncleghost/\r\n* ECIP-1030 -> 31-SYSTEM: https://ecips.that.world/31-system/\r\n* ECIP-1031 -> 32-READADDR: https://ecips.that.world/32-readaddr/\r\n* ECIP-1033 -> 33-MNEMONIC: https://ecips.that.world/33-mnemonic/\r\n* ECIP-1034 -> 34-SIGN: https://ecips.that.world/34-sign/\r\n* ECIP-1038 -> 22-EVMJETS: https://ecips.that.world/22-evmjets/\r\n* ECIP-1040 -> 35-VERALT: https://ecips.that.world/35-veralt/",
+      "performed_via_github_app": null
+    },
+    "performed_via_github_app": null
   }

@@ -165,6 +165,8 @@
         "diff_url": "https://github.com/ethereumclassic/ECIPs/pull/12.diff",
         "patch_url": "https://github.com/ethereumclassic/ECIPs/pull/12.patch"
       },
-      "body": "OK, here's a first PR for #10 -- turning this repo into a Jekyll site.\r\n\r\nGH Pages can only build from master, so I've got a preview up on Netlify: https://objective-villani-edc9c9.netlify.com/\r\n\r\nI haven't yet gone through the list of ECIPs and added front matter. Anyone is free to do PRs into this same branch to work on this together -- https://github.com/spadebuilders/ECIPs/tree/jekyll"
-    }
+      "body": "OK, here's a first PR for #10 -- turning this repo into a Jekyll site.\r\n\r\nGH Pages can only build from master, so I've got a preview up on Netlify: https://objective-villani-edc9c9.netlify.com/\r\n\r\nI haven't yet gone through the list of ECIPs and added front matter. Anyone is free to do PRs into this same branch to work on this together -- https://github.com/spadebuilders/ECIPs/tree/jekyll",
+      "performed_via_github_app": null
+    },
+    "performed_via_github_app": null
   }

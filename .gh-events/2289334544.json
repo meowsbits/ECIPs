@@ -119,6 +119,8 @@
         "diff_url": "https://github.com/ethereumclassic/ECIPs/pull/71.diff",
         "patch_url": "https://github.com/ethereumclassic/ECIPs/pull/71.patch"
       },
-      "body": "Reorganize ECIP Status terms for clarity and to make them easier to follow. (Proposed this change both on ethereumclassic ECIPs and etclabscore ECIPs)."
-    }
+      "body": "Reorganize ECIP Status terms for clarity and to make them easier to follow. (Proposed this change both on ethereumclassic ECIPs and etclabscore ECIPs).",
+      "performed_via_github_app": null
+    },
+    "performed_via_github_app": null
   }

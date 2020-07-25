@@ -73,6 +73,8 @@
       "closed_at": "2019-01-28T12:50:59Z",
       "author_association": "CONTRIBUTOR",
       "active_lock_reason": null,
-      "body": "# ⛔️ WARNING ⛔️ : http://github.com/ethereumclassic/ECIPS IS UNOFFICIAL AND SHOULD NOT BE USED.\r\n\r\nUse https://github.com/openether/ecips to participate in decentralized ETC development. "
-    }
+      "body": "# ⛔️ WARNING ⛔️ : http://github.com/ethereumclassic/ECIPS IS UNOFFICIAL AND SHOULD NOT BE USED.\r\n\r\nUse https://github.com/openether/ecips to participate in decentralized ETC development. ",
+      "performed_via_github_app": null
+    },
+    "performed_via_github_app": null
   }

@@ -79,6 +79,8 @@
         "diff_url": "https://github.com/ethereumclassic/ECIPs/pull/73.diff",
         "patch_url": "https://github.com/ethereumclassic/ECIPs/pull/73.patch"
       },
-      "body": "- https://github.com/etclabscore/ECIPs/pull/17\r\n- https://github.com/etclabscore/ECIPs/pull/23"
-    }
+      "body": "- https://github.com/etclabscore/ECIPs/pull/17\r\n- https://github.com/etclabscore/ECIPs/pull/23",
+      "performed_via_github_app": null
+    },
+    "performed_via_github_app": null
   }

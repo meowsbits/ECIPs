@@ -119,6 +119,8 @@
         "diff_url": "https://github.com/ethereumclassic/ECIPs/pull/62.diff",
         "patch_url": "https://github.com/ethereumclassic/ECIPs/pull/62.patch"
       },
-      "body": "### Atlantis Hardfork Meta\r\n\r\nEnable the outstanding Ethereum Foundation _Spurious Dragon_ and _Byzantium_ network protocol upgrades on the Ethereum Classic network in a hard-fork code-named _Atlantis_ to enable maximum compatibility across these networks.\r\n\r\n![etcatlantis_copy](https://user-images.githubusercontent.com/47772477/54919046-11477200-4f00-11e9-84f5-f767085e355b.jpg)\r\n\r\nTo sync with https://github.com/etclabscore/ECIPs/pull/10"
-    }
+      "body": "### Atlantis Hardfork Meta\r\n\r\nEnable the outstanding Ethereum Foundation _Spurious Dragon_ and _Byzantium_ network protocol upgrades on the Ethereum Classic network in a hard-fork code-named _Atlantis_ to enable maximum compatibility across these networks.\r\n\r\n![etcatlantis_copy](https://user-images.githubusercontent.com/47772477/54919046-11477200-4f00-11e9-84f5-f767085e355b.jpg)\r\n\r\nTo sync with https://github.com/etclabscore/ECIPs/pull/10",
+      "performed_via_github_app": null
+    },
+    "performed_via_github_app": null
   }

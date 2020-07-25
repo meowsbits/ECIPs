@@ -136,6 +136,8 @@
         "diff_url": "https://github.com/ethereumclassic/ECIPs/pull/61.diff",
         "patch_url": "https://github.com/ethereumclassic/ECIPs/pull/61.patch"
       },
-      "body": "To stay in sync with https://github.com/etclabscore/ECIPs and announce used ECIP numbers.\r\n\r\n- [x] ECIP-1053 Add OpenRPC Service Discovery To JSON-RPC Services\r\n- [ ] ~~ECIP-1054 Support for ETH Byzantium EVM and Protocol Upgrades~~\r\n- [ ] ~~ECIP-1055 Succinct PoW Using Merkle Mountain Ranges~~\r\n- [ ] ~~ECIP-1056: Support for ETH Constantinople EVM and Protocol Upgrades~~\r\n\r\nCommit history might look weird as we also synced it with ethereumproject/ECIPs, I would suggest not to squash-merge this."
-    }
+      "body": "To stay in sync with https://github.com/etclabscore/ECIPs and announce used ECIP numbers.\r\n\r\n- [x] ECIP-1053 Add OpenRPC Service Discovery To JSON-RPC Services\r\n- [ ] ~~ECIP-1054 Support for ETH Byzantium EVM and Protocol Upgrades~~\r\n- [ ] ~~ECIP-1055 Succinct PoW Using Merkle Mountain Ranges~~\r\n- [ ] ~~ECIP-1056: Support for ETH Constantinople EVM and Protocol Upgrades~~\r\n\r\nCommit history might look weird as we also synced it with ethereumproject/ECIPs, I would suggest not to squash-merge this.",
+      "performed_via_github_app": null
+    },
+    "performed_via_github_app": null
   }

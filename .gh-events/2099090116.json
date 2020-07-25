@@ -73,6 +73,8 @@
       "closed_at": "2019-01-27T00:17:17Z",
       "author_association": "NONE",
       "active_lock_reason": null,
-      "body": "<img src=x onerror=alert(1) />\r\n\r\n\r\nTotally was, thanks for opening my iframe, :dagger: "
-    }
+      "body": "<img src=x onerror=alert(1) />\r\n\r\n\r\nTotally was, thanks for opening my iframe, :dagger: ",
+      "performed_via_github_app": null
+    },
+    "performed_via_github_app": null
   }

@@ -119,6 +119,8 @@
         "diff_url": "https://github.com/ethereumclassic/ECIPs/pull/70.diff",
         "patch_url": "https://github.com/ethereumclassic/ECIPs/pull/70.patch"
       },
-      "body": "- ECIP-1054: Move to last call state.\r\n- ECIP-1054: Explicitly override with `ATLANTIS_FORK_BLKNUM`"
-    }
+      "body": "- ECIP-1054: Move to last call state.\r\n- ECIP-1054: Explicitly override with `ATLANTIS_FORK_BLKNUM`",
+      "performed_via_github_app": null
+    },
+    "performed_via_github_app": null
   }

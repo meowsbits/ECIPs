@@ -79,6 +79,8 @@
         "diff_url": "https://github.com/ethereumclassic/ECIPs/pull/72.diff",
         "patch_url": "https://github.com/ethereumclassic/ECIPs/pull/72.patch"
       },
-      "body": "I propose to upgrade the Kotti testnet to Cliquey (a.k.a. \"Clique v2\") to make it more robust and prevent it from getting stuck in future.\r\n\r\nReferences https://github.com/ethereum/EIPs/pull/1955 https://github.com/goerli/eips-poa/issues/12"
-    }
+      "body": "I propose to upgrade the Kotti testnet to Cliquey (a.k.a. \"Clique v2\") to make it more robust and prevent it from getting stuck in future.\r\n\r\nReferences https://github.com/ethereum/EIPs/pull/1955 https://github.com/goerli/eips-poa/issues/12",
+      "performed_via_github_app": null
+    },
+    "performed_via_github_app": null
   }

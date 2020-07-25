@@ -83,6 +83,8 @@
         "diff_url": "https://github.com/ethereumclassic/ECIPs/pull/75.diff",
         "patch_url": "https://github.com/ethereumclassic/ECIPs/pull/75.patch"
       },
-      "body": "### Agharta Hardfork Meta\r\n\r\nEnable the outstanding Ethereum Foundation _Constaninople_ and _Petersburg_ network protocol upgrades on the Ethereum Classic network in a hard-fork code-named _Agharta_ to enable maximum compatibility across these networks.\r\n\r\n![image0](https://user-images.githubusercontent.com/47772477/55079761-1f7ec500-509d-11e9-994c-6674df5ab885.jpg)\r\n\r\nref https://github.com/etclabscore/ECIPs/pull/13"
-    }
+      "body": "### Agharta Hardfork Meta\r\n\r\nEnable the outstanding Ethereum Foundation _Constaninople_ and _Petersburg_ network protocol upgrades on the Ethereum Classic network in a hard-fork code-named _Agharta_ to enable maximum compatibility across these networks.\r\n\r\n![image0](https://user-images.githubusercontent.com/47772477/55079761-1f7ec500-509d-11e9-994c-6674df5ab885.jpg)\r\n\r\nref https://github.com/etclabscore/ECIPs/pull/13",
+      "performed_via_github_app": null
+    },
+    "performed_via_github_app": null
   }
