@@ -1,9 +1,9 @@
 {
-    "url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/comments/665090965",
-    "html_url": "https://github.com/ethereumclassic/ECIPs/issues/325#issuecomment-665090965",
+    "url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/comments/665093941",
+    "html_url": "https://github.com/ethereumclassic/ECIPs/issues/325#issuecomment-665093941",
     "issue_url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/325",
-    "id": 665090965,
-    "node_id": "MDEyOklzc3VlQ29tbWVudDY2NTA5MDk2NQ==",
+    "id": 665093941,
+    "node_id": "MDEyOklzc3VlQ29tbWVudDY2NTA5Mzk0MQ==",
     "user": {
       "login": "sorpaas",
       "id": 6277322,
@@ -24,12 +24,12 @@
       "type": "User",
       "site_admin": false
     },
-    "created_at": "2020-07-28T14:57:55Z",
-    "updated_at": "2020-07-28T14:59:17Z",
+    "created_at": "2020-07-28T15:02:59Z",
+    "updated_at": "2020-07-28T15:02:59Z",
     "author_association": "CONTRIBUTOR",
-    "body": "@q9f \r\n\r\n> A discord vanity address costs around $1000 per year.\r\n\r\nThat's false. discord.io domains are free unless it's really short. Registration of discord.io/ethereumclassic costed me nothing.",
+    "body": "As I'm not engaged in ETC any more I definitely have no problem giving up the name. I want to ensure it's in the hand of a neutral party, but not those toxic and trouble-making members like @q9f @realcodywburns and @gitr0n1n, nor to any Discord communities that encourages toxicity (like the so-called \"main\" ETC Discord).\r\n\r\nIf you have a suitable community you want to link it to, please PM me and let me know.",
     "reactions": {
-      "url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/comments/665090965/reactions",
+      "url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/comments/665093941/reactions",
       "total_count": 0,
       "+1": 0,
       "-1": 0,
