@@ -25,9 +25,9 @@
       "site_admin": false
     },
     "created_at": "2020-08-02T21:44:53Z",
-    "updated_at": "2020-08-02T21:44:53Z",
+    "updated_at": "2020-08-02T21:46:38Z",
     "author_association": "NONE",
-    "body": "No idea. But lets do the math. That FPGA will run at up 400MHz (maximum) and has sufficient logic elements and routing fabric to accommodate a full 24 stage pipeline, so one hash per clock. That's at most 400MH/sec. a far cry from the advertised 2GHz. Theoretically they could have five such pipelines running in parallel, but I doubt that would fit on said FPGA. So you're right, something doesn't add up!",
+    "body": "No idea. But lets do the math. That FPGA will run at up 400MHz (maximum) and has sufficient logic elements and routing fabric to accommodate a full 24 stage pipeline, so one hash per clock. That's at most 400MH/sec. a far cry from the advertised 2GH/sec. Theoretically they could have five such pipelines running in parallel, but I doubt that would fit on said FPGA. So you're right, something doesn't add up!",
     "reactions": {
       "url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/comments/667728483/reactions",
       "total_count": 0,
