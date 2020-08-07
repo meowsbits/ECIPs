@@ -25,9 +25,9 @@
       "site_admin": false
     },
     "created_at": "2020-08-05T10:47:40Z",
-    "updated_at": "2020-08-05T10:47:40Z",
+    "updated_at": "2020-08-05T10:49:51Z",
     "author_association": "NONE",
-    "body": "@zmitton ETC is less than 1.75% of daily Ethash mining reward. I think the GPU miners might survive if the algo is changed",
+    "body": "@zmitton ETC is less than 1.75% of daily Ethash mining reward. I think the GPU miners might survive if the algo is changed, for the sake of network security.",
     "reactions": {
       "url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/comments/669123277/reactions",
       "total_count": 0,
