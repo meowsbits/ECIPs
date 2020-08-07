@@ -1,0 +1,68 @@
+{
+    "url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/328",
+    "repository_url": "https://api.github.com/repos/ethereumclassic/ECIPs",
+    "labels_url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/328/labels{/name}",
+    "comments_url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/328/comments",
+    "events_url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/328/events",
+    "html_url": "https://github.com/ethereumclassic/ECIPs/pull/328",
+    "id": 675153746,
+    "node_id": "MDExOlB1bGxSZXF1ZXN0NDY0NzIwNzIx",
+    "number": 328,
+    "title": "ECIP-? 51% attack solution: PirlGuard & Callisto implementation",
+    "user": {
+      "login": "Dexaran",
+      "id": 26142412,
+      "node_id": "MDQ6VXNlcjI2MTQyNDEy",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/26142412?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/Dexaran",
+      "html_url": "https://github.com/Dexaran",
+      "followers_url": "https://api.github.com/users/Dexaran/followers",
+      "following_url": "https://api.github.com/users/Dexaran/following{/other_user}",
+      "gists_url": "https://api.github.com/users/Dexaran/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/Dexaran/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/Dexaran/subscriptions",
+      "organizations_url": "https://api.github.com/users/Dexaran/orgs",
+      "repos_url": "https://api.github.com/users/Dexaran/repos",
+      "events_url": "https://api.github.com/users/Dexaran/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/Dexaran/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "labels": [
+
+    ],
+    "state": "open",
+    "locked": false,
+    "assignee": null,
+    "assignees": [
+
+    ],
+    "milestone": null,
+    "comments": 0,
+    "created_at": "2020-08-07T17:07:46Z",
+    "updated_at": "2020-08-07T17:07:46Z",
+    "closed_at": null,
+    "author_association": "MEMBER",
+    "active_lock_reason": null,
+    "pull_request": {
+      "url": "https://api.github.com/repos/ethereumclassic/ECIPs/pulls/328",
+      "html_url": "https://github.com/ethereumclassic/ECIPs/pull/328",
+      "diff_url": "https://github.com/ethereumclassic/ECIPs/pull/328.diff",
+      "patch_url": "https://github.com/ethereumclassic/ECIPs/pull/328.patch"
+    },
+    "body": "",
+    "reactions": {
+      "url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/328/reactions",
+      "total_count": 0,
+      "+1": 0,
+      "-1": 0,
+      "laugh": 0,
+      "hooray": 0,
+      "confused": 0,
+      "heart": 0,
+      "rocket": 0,
+      "eyes": 0
+    },
+    "performed_via_github_app": null
+  }
