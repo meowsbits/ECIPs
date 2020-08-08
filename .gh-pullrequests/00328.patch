@@ -1,7 +1,7 @@
 From 9269436d83d41ca3b9ee617104f676d36319ac10 Mon Sep 17 00:00:00 2001
 From: Dexaran <dexaran820@gmail.com>
 Date: Fri, 7 Aug 2020 21:06:13 +0400
-Subject: [PATCH] Create ecip-51attack-solution.md
+Subject: [PATCH 1/4] Create ecip-51attack-solution.md
 
 ---
  _specs/ecip-51attack-solution.md | 43 ++++++++++++++++++++++++++++++++
@@ -57,3 +57,148 @@ index 00000000..71fd7791
 +# Copyright
 +
 +This ECIP is licensed under [GNU Lesser General Public License v3.0](https://www.gnu.org/licenses/lgpl-3.0.en.html).
+
+From 5834c2e77e424467d31e8244484ea333a323e915 Mon Sep 17 00:00:00 2001
+From: Dexaran <dexaran820@gmail.com>
+Date: Fri, 7 Aug 2020 23:05:28 +0400
+Subject: [PATCH 2/4] Create ecip-51attack-dexarans-solution.sol
+
+---
+ _specs/ecip-51attack-dexarans-solution.sol | 43 ++++++++++++++++++++++
+ 1 file changed, 43 insertions(+)
+ create mode 100644 _specs/ecip-51attack-dexarans-solution.sol
+
+diff --git a/_specs/ecip-51attack-dexarans-solution.sol b/_specs/ecip-51attack-dexarans-solution.sol
+new file mode 100644
+index 00000000..04f317f1
+--- /dev/null
++++ b/_specs/ecip-51attack-dexarans-solution.sol
+@@ -0,0 +1,43 @@
++---
++lang: en
++ecip: ?
++title: 51% attack solution: private mining rejection
++status: Draft
++type: Core
++discussions-to: https://github.com/ethereumclassic/ECIPs/issues/328
++author: Dexaran (dexaran@callisto.network)
++created: 2020-07-08
++license: LGPL-v3
++---
++
++# Abstract
++
++The following describes a method of preventing a 51% attack on Ethash-based POW chains.
++
++# Motivation
++
++Ethereum CLassic suffered a number of 51% attacks already. [Here](https://cointelegraph.com/news/is-etc-102-screwed-after-second-51-attack) you can find an article from Cointelegraph describing the 51% attack on 6 Aug 2020. [Here](https://cointelegraph.com/news/ethereum-classic-51-attack-the-reality-of-proof-of-work) you can find another article describing the 51% attack on 10 Jan 2019. As long as ETC protocol remains unchanged it is susceptible for more 51% attacks.
++
++# Specification
++
++Basically a 51%-attack is a consensus mechanic flaw. Currently the nodes follow a rule of "the longest chain is always the right chain" however this is not what the chain users actually need in reality.
++
++In reality a chain where all the important entities are (i.e. bootnodes, exchange nodes, mining pool nodes, block explorer nodes etc.) remaining in consensus is the right chain. Here we rely on an assumption that this "right chain" is always in a more-or-less consensus state. This means that some independant parties may be lagging slightly (in case these are not yet synced with the whole chain's last block) or outracing the rest of the chain participants slightly (in case they are physically closer to the node which has found the latest block).
++
++
++
++# Rationale
++
++...
++
++# Backwards Compatibility
++
++Requires hardfork.
++
++# Implementations
++
++...
++
++# Copyright
++
++This ECIP is licensed under [GNU Lesser General Public License v3.0](https://www.gnu.org/licenses/lgpl-3.0.en.html).
+
+From 95bbfd0dd1935d4eb9858ef602db90a6c3826c55 Mon Sep 17 00:00:00 2001
+From: Dexaran <dexaran820@gmail.com>
+Date: Fri, 7 Aug 2020 23:20:16 +0400
+Subject: [PATCH 3/4] Withdrawn until the completion of the proposal
+
+---
+ _specs/ecip-51attack-dexarans-solution.sol | 43 ----------------------
+ 1 file changed, 43 deletions(-)
+ delete mode 100644 _specs/ecip-51attack-dexarans-solution.sol
+
+diff --git a/_specs/ecip-51attack-dexarans-solution.sol b/_specs/ecip-51attack-dexarans-solution.sol
+deleted file mode 100644
+index 04f317f1..00000000
+--- a/_specs/ecip-51attack-dexarans-solution.sol
++++ /dev/null
+@@ -1,43 +0,0 @@
+----
+-lang: en
+-ecip: ?
+-title: 51% attack solution: private mining rejection
+-status: Draft
+-type: Core
+-discussions-to: https://github.com/ethereumclassic/ECIPs/issues/328
+-author: Dexaran (dexaran@callisto.network)
+-created: 2020-07-08
+-license: LGPL-v3
+----
+-
+-# Abstract
+-
+-The following describes a method of preventing a 51% attack on Ethash-based POW chains.
+-
+-# Motivation
+-
+-Ethereum CLassic suffered a number of 51% attacks already. [Here](https://cointelegraph.com/news/is-etc-102-screwed-after-second-51-attack) you can find an article from Cointelegraph describing the 51% attack on 6 Aug 2020. [Here](https://cointelegraph.com/news/ethereum-classic-51-attack-the-reality-of-proof-of-work) you can find another article describing the 51% attack on 10 Jan 2019. As long as ETC protocol remains unchanged it is susceptible for more 51% attacks.
+-
+-# Specification
+-
+-Basically a 51%-attack is a consensus mechanic flaw. Currently the nodes follow a rule of "the longest chain is always the right chain" however this is not what the chain users actually need in reality.
+-
+-In reality a chain where all the important entities are (i.e. bootnodes, exchange nodes, mining pool nodes, block explorer nodes etc.) remaining in consensus is the right chain. Here we rely on an assumption that this "right chain" is always in a more-or-less consensus state. This means that some independant parties may be lagging slightly (in case these are not yet synced with the whole chain's last block) or outracing the rest of the chain participants slightly (in case they are physically closer to the node which has found the latest block).
+-
+-
+-
+-# Rationale
+-
+-...
+-
+-# Backwards Compatibility
+-
+-Requires hardfork.
+-
+-# Implementations
+-
+-...
+-
+-# Copyright
+-
+-This ECIP is licensed under [GNU Lesser General Public License v3.0](https://www.gnu.org/licenses/lgpl-3.0.en.html).
+
+From e3714c5e11b5b9bb16519aad16c9fb236f3d1053 Mon Sep 17 00:00:00 2001
+From: Dexaran <dexaran820@gmail.com>
+Date: Sat, 8 Aug 2020 02:14:55 +0400
+Subject: [PATCH 4/4] Amendment regarding "hardforking"
+
+---
+ _specs/ecip-51attack-solution.md | 4 ----
+ 1 file changed, 4 deletions(-)
+
+diff --git a/_specs/ecip-51attack-solution.md b/_specs/ecip-51attack-solution.md
+index 71fd7791..88e343c1 100644
+--- a/_specs/ecip-51attack-solution.md
++++ b/_specs/ecip-51attack-solution.md
+@@ -28,10 +28,6 @@ The description of the protocol states that instead of automatically syncing wit
+ 
+ This protocol is already implemented in Pirl and Callisto Network. The protocol has a working time tested reference implementation. The proposed change requires minimal modifications of the Ethereum CLassic protocol while offers a reliable method of protecting against the recent attacks and the relevant threat of newer similar attacks.
+ 
+-# Backwards Compatibility
+-
+-Requires hardfork.
+-
+ # Implementations
+ 
+ Here is a reference implementation of the protocol in GO lang: https://github.com/EthereumCommonwealth/go-callisto/blob/master/core/pirl_guard.go
