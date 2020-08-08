@@ -1,7 +1,7 @@
 From 12ee665a9f1e2732743a4dad1e047ef1b26cb6d0 Mon Sep 17 00:00:00 2001
 From: Ronin <58588775+gitr0n1n@users.noreply.github.com>
 Date: Fri, 7 Aug 2020 22:46:58 -0600
-Subject: [PATCH] Create ecip-randomX.md
+Subject: [PATCH 1/3] Create ecip-randomX.md
 
 - ECIP to utilize RandomX for ETC
 ---
@@ -196,3 +196,55 @@ index 00000000..6d4152d8
 +845xHUh5GvfHwc2R8DVJCE7BT2sd4YEcmjG8GNSdmeNsP5DTEjXd1CNgxTcjHjiFuthRHAoVEJjM7GyKzQKLJtbd56xbh7V
 +```
 +Total donations received: ~3.86 XMR (as of 30th August 2019). Thanks to all contributors.
+
+From dec64af3737c23b224ce77ee0cdd2a6b016e9ae5 Mon Sep 17 00:00:00 2001
+From: Ronin <58588775+gitr0n1n@users.noreply.github.com>
+Date: Fri, 7 Aug 2020 22:51:31 -0600
+Subject: [PATCH 2/3] Update ecip-randomX.md
+
+date
+---
+ _specs/ecip-randomX.md | 2 +-
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+
+diff --git a/_specs/ecip-randomX.md b/_specs/ecip-randomX.md
+index 6d4152d8..b42f9801 100644
+--- a/_specs/ecip-randomX.md
++++ b/_specs/ecip-randomX.md
+@@ -7,7 +7,7 @@ type: Standards Track
+ category: Core
+ discussions-to: https://github.com/ethereumclassic/ECIPs/issues/329
+ author: r0n1n (gitr0n1n@protonmail.com)
+-created: 2020-07-08
++created: 2020-08-07
+ ---
+ 
+ ### Abstract
+
+From 717246686c8f52691478217cbc011ec0e924e527 Mon Sep 17 00:00:00 2001
+From: Ronin <58588775+gitr0n1n@users.noreply.github.com>
+Date: Fri, 7 Aug 2020 23:45:41 -0600
+Subject: [PATCH 3/3] Update ecip-randomX.md
+
+typos
+---
+ _specs/ecip-randomX.md | 6 ++++--
+ 1 file changed, 4 insertions(+), 2 deletions(-)
+
+diff --git a/_specs/ecip-randomX.md b/_specs/ecip-randomX.md
+index b42f9801..1d47bbd3 100644
+--- a/_specs/ecip-randomX.md
++++ b/_specs/ecip-randomX.md
+@@ -14,8 +14,10 @@ created: 2020-08-07
+ A proposal to replace the current Ethereum Classic proof of work algorithm with RandomX.
+ 
+ ### Motivation
+-Ethereum CLassic suffered a second round of 51% attacks due to dwindling hashrate.
+-* [July 31, 2020](https://blog.bitquery.io/attacker-stole-807k-etc-in-ethereum-classic-51-attack) you can find an article from Cointelegraph describing the 51% attack on 6 Aug 2020. * [August 7, 2020](https://blog.bitquery.io/ethereum-classic-attack-8-august-catch-me-if-you-can). This ECIP is presented to provide an ASIC-resistant option for the discussion of possible solutions.
++Ethereum Classic suffered a second round of 51% attacks due to dwindling hashrate on the Ethash algorithm.
++* [July 31, 2020](https://blog.bitquery.io/attacker-stole-807k-etc-in-ethereum-classic-51-attack) * [August 6, 2020](https://blog.bitquery.io/ethereum-classic-attack-8-august-catch-me-if-you-can).
++
++This ECIP is presented to provide an ASIC-resistant option for the discussion of possible solutions.
+ 
+ # Specification
+ 
