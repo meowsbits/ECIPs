@@ -8,7 +8,7 @@
     "id": 675429017,
     "node_id": "MDExOlB1bGxSZXF1ZXN0NDY0OTUzMzkw",
     "number": 330,
-    "title": "PR to Change the ETC Proof of Work Algorithm to RandomX",
+    "title": "ECIP-xxxx: Change the ETC Proof of Work Algorithm to RandomX",
     "user": {
       "login": "gitr0n1n",
       "id": 58588775,
@@ -41,7 +41,7 @@
     "milestone": null,
     "comments": 0,
     "created_at": "2020-08-08T04:47:47Z",
-    "updated_at": "2020-08-09T06:05:56Z",
+    "updated_at": "2020-08-09T06:11:18Z",
     "closed_at": null,
     "author_association": "MEMBER",
     "active_lock_reason": null,
