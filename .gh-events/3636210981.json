@@ -1,7 +1,7 @@
 {
-    "id": 3635457624,
-    "node_id": "MDE0Ok1lbnRpb25lZEV2ZW50MzYzNTQ1NzYyNA==",
-    "url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/events/3635457624",
+    "id": 3636210981,
+    "node_id": "MDE3OlJlbmFtZWRUaXRsZUV2ZW50MzYzNjIxMDk4MQ==",
+    "url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/events/3636210981",
     "actor": {
       "login": "gitr0n1n",
       "id": 58588775,
@@ -22,10 +22,14 @@
       "type": "User",
       "site_admin": false
     },
-    "event": "mentioned",
+    "event": "renamed",
     "commit_id": null,
     "commit_url": null,
-    "created_at": "2020-08-08T07:49:27Z",
+    "created_at": "2020-08-09T06:06:58Z",
+    "rename": {
+      "from": "ECIP-? Change the ETC Proof of Work Algorithm to RandomX",
+      "to": "Change the ETC Proof of Work Algorithm to RandomX"
+    },
     "issue": {
       "url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/329",
       "repository_url": "https://api.github.com/repos/ethereumclassic/ECIPs",
