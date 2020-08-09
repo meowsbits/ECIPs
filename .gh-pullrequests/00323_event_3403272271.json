@@ -65,5 +65,6 @@
       "received_events_url": "https://api.github.com/users/soc1c/received_events",
       "type": "User",
       "site_admin": false
-    }
+    },
+    "performed_via_github_app": null
   }
