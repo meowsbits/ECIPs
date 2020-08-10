@@ -1,0 +1,39 @@
+{
+    "id": 464353364,
+    "node_id": "MDE3OlB1bGxSZXF1ZXN0UmV2aWV3NDY0MzUzMzY0",
+    "user": {
+      "login": "realcodywburns",
+      "id": 13103499,
+      "node_id": "MDQ6VXNlcjEzMTAzNDk5",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/13103499?u=ae966540a4c44652980f4e599599842cb70919d0&v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/realcodywburns",
+      "html_url": "https://github.com/realcodywburns",
+      "followers_url": "https://api.github.com/users/realcodywburns/followers",
+      "following_url": "https://api.github.com/users/realcodywburns/following{/other_user}",
+      "gists_url": "https://api.github.com/users/realcodywburns/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/realcodywburns/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/realcodywburns/subscriptions",
+      "organizations_url": "https://api.github.com/users/realcodywburns/orgs",
+      "repos_url": "https://api.github.com/users/realcodywburns/repos",
+      "events_url": "https://api.github.com/users/realcodywburns/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/realcodywburns/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "body": "Update to reflect ecip-1092",
+    "state": "COMMENTED",
+    "html_url": "https://github.com/ethereumclassic/ECIPs/pull/328#pullrequestreview-464353364",
+    "pull_request_url": "https://api.github.com/repos/ethereumclassic/ECIPs/pulls/328",
+    "author_association": "MEMBER",
+    "_links": {
+      "html": {
+        "href": "https://github.com/ethereumclassic/ECIPs/pull/328#pullrequestreview-464353364"
+      },
+      "pull_request": {
+        "href": "https://api.github.com/repos/ethereumclassic/ECIPs/pulls/328"
+      }
+    },
+    "submitted_at": "2020-08-10T15:45:16Z",
+    "commit_id": "e3714c5e11b5b9bb16519aad16c9fb236f3d1053"
+  }

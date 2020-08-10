@@ -1,0 +1,49 @@
+{
+    "id": 468003126,
+    "node_id": "MDI0OlB1bGxSZXF1ZXN0UmV2aWV3Q29tbWVudDQ2ODAwMzEyNg==",
+    "url": "https://api.github.com/repos/ethereumclassic/ECIPs/pulls/comments/468003126",
+    "pull_request_review_id": 464354122,
+    "diff_hunk": "@@ -0,0 +1,193 @@\n+---\n+lang: en\n+ecip: To Be Determined",
+    "path": "_specs/ecip-randomX.md",
+    "position": 3,
+    "original_position": 3,
+    "commit_id": "7e15f8c95266fc5d4d19ef900293998a8b08a2d6",
+    "user": {
+      "login": "realcodywburns",
+      "id": 13103499,
+      "node_id": "MDQ6VXNlcjEzMTAzNDk5",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/13103499?u=ae966540a4c44652980f4e599599842cb70919d0&v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/realcodywburns",
+      "html_url": "https://github.com/realcodywburns",
+      "followers_url": "https://api.github.com/users/realcodywburns/followers",
+      "following_url": "https://api.github.com/users/realcodywburns/following{/other_user}",
+      "gists_url": "https://api.github.com/users/realcodywburns/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/realcodywburns/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/realcodywburns/subscriptions",
+      "organizations_url": "https://api.github.com/users/realcodywburns/orgs",
+      "repos_url": "https://api.github.com/users/realcodywburns/repos",
+      "events_url": "https://api.github.com/users/realcodywburns/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/realcodywburns/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "body": "please update to reflect ecip-1093",
+    "created_at": "2020-08-10T15:45:50Z",
+    "updated_at": "2020-08-10T15:46:23Z",
+    "html_url": "https://github.com/ethereumclassic/ECIPs/pull/330#discussion_r468003126",
+    "pull_request_url": "https://api.github.com/repos/ethereumclassic/ECIPs/pulls/330",
+    "author_association": "MEMBER",
+    "_links": {
+      "self": {
+        "href": "https://api.github.com/repos/ethereumclassic/ECIPs/pulls/comments/468003126"
+      },
+      "html": {
+        "href": "https://github.com/ethereumclassic/ECIPs/pull/330#discussion_r468003126"
+      },
+      "pull_request": {
+        "href": "https://api.github.com/repos/ethereumclassic/ECIPs/pulls/330"
+      }
+    },
+    "original_commit_id": "7e15f8c95266fc5d4d19ef900293998a8b08a2d6"
+  }
