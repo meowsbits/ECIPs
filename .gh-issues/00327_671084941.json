@@ -25,9 +25,9 @@
       "site_admin": false
     },
     "created_at": "2020-08-09T18:22:31Z",
-    "updated_at": "2020-08-09T18:22:31Z",
+    "updated_at": "2020-08-09T20:54:21Z",
     "author_association": "MEMBER",
-    "body": "From several days of discussions of this topic in the ETC discord, I summarized the pro and contra arguments, what I could collect:\r\n\r\nPros:\r\n\r\na working solution on the Callisto Network\r\nCan be implemented like a \"copy-paste\"\r\ncould be seen as a temporary solution till a better one is found\r\nContras:\r\n\r\nsome developers have technical doubts till they see security report(s)\r\nit makes possible to have a chain with less PoW to win (PoW rule: a chain with the most PoW wins)\r\n-> violation of the censorship-resistance-principle (because one mined offline it will be penalized)\r\nsome other blockchain principles would be broken, what one can't see at them moment\r\nan attacker is e.g. making 3k+ block reorgs. They have the time and money to check in and then mine 3k more honestly\r\nPlease extend/correct, if you have any suggestions!",
+    "body": "From several days of discussions of this topic in the ETC discord, I summarized the pro and contra arguments, what I could collect:\r\n\r\nPros:\r\n- a working solution on the Callisto Network\r\n- Can be implemented like a \"copy-paste\"\r\n- could be seen as a temporary solution till a better one is found\r\n\r\nContras:\r\n- some developers have technical doubts till they see security report(s)\r\n- it makes possible to have a chain with less PoW to win (PoW rule: a chain with the most PoW wins)\r\n   -> violation of the censorship-resistance-principle (because one mined offline it will be penalized)\r\n- some other blockchain principles would be broken, what one can't see at them moment\r\n- an attacker is e.g. making 3k+ block reorgs. They have the time and money to check in and then mine 3k more honestly\r\n\r\nPlease extend/correct, if you have any suggestions!",
     "reactions": {
       "url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/comments/671084941/reactions",
       "total_count": 0,
