@@ -1,7 +1,7 @@
 From 9269436d83d41ca3b9ee617104f676d36319ac10 Mon Sep 17 00:00:00 2001
 From: Dexaran <dexaran820@gmail.com>
 Date: Fri, 7 Aug 2020 21:06:13 +0400
-Subject: [PATCH 1/4] Create ecip-51attack-solution.md
+Subject: [PATCH 1/5] Create ecip-51attack-solution.md
 
 ---
  _specs/ecip-51attack-solution.md | 43 ++++++++++++++++++++++++++++++++
@@ -61,7 +61,7 @@ index 00000000..71fd7791
 From 5834c2e77e424467d31e8244484ea333a323e915 Mon Sep 17 00:00:00 2001
 From: Dexaran <dexaran820@gmail.com>
 Date: Fri, 7 Aug 2020 23:05:28 +0400
-Subject: [PATCH 2/4] Create ecip-51attack-dexarans-solution.sol
+Subject: [PATCH 2/5] Create ecip-51attack-dexarans-solution.sol
 
 ---
  _specs/ecip-51attack-dexarans-solution.sol | 43 ++++++++++++++++++++++
@@ -121,7 +121,7 @@ index 00000000..04f317f1
 From 95bbfd0dd1935d4eb9858ef602db90a6c3826c55 Mon Sep 17 00:00:00 2001
 From: Dexaran <dexaran820@gmail.com>
 Date: Fri, 7 Aug 2020 23:20:16 +0400
-Subject: [PATCH 3/4] Withdrawn until the completion of the proposal
+Subject: [PATCH 3/5] Withdrawn until the completion of the proposal
 
 ---
  _specs/ecip-51attack-dexarans-solution.sol | 43 ----------------------
@@ -181,7 +181,7 @@ index 04f317f1..00000000
 From e3714c5e11b5b9bb16519aad16c9fb236f3d1053 Mon Sep 17 00:00:00 2001
 From: Dexaran <dexaran820@gmail.com>
 Date: Sat, 8 Aug 2020 02:14:55 +0400
-Subject: [PATCH 4/4] Amendment regarding "hardforking"
+Subject: [PATCH 4/5] Amendment regarding "hardforking"
 
 ---
  _specs/ecip-51attack-solution.md | 4 ----
@@ -202,3 +202,25 @@ index 71fd7791..88e343c1 100644
  # Implementations
  
  Here is a reference implementation of the protocol in GO lang: https://github.com/EthereumCommonwealth/go-callisto/blob/master/core/pirl_guard.go
+
+From 78ca143968f1400d0fb998502ed855575dd13f87 Mon Sep 17 00:00:00 2001
+From: Dexaran <dexaran820@gmail.com>
+Date: Mon, 10 Aug 2020 21:09:45 +0400
+Subject: [PATCH 5/5] ECIP number assigned as requested by Cody Burns
+
+---
+ _specs/ecip-51attack-solution.md | 2 +-
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+
+diff --git a/_specs/ecip-51attack-solution.md b/_specs/ecip-51attack-solution.md
+index 88e343c1..74b2e82d 100644
+--- a/_specs/ecip-51attack-solution.md
++++ b/_specs/ecip-51attack-solution.md
+@@ -1,6 +1,6 @@
+ ---
+ lang: en
+-ecip: ?
++ecip: 1092
+ title: 51% attack solution: PirlGuard & Callisto
+ status: Draft
+ type: Core

@@ -1,0 +1,50 @@
+{
+    "id": 468053553,
+    "node_id": "MDI0OlB1bGxSZXF1ZXN0UmV2aWV3Q29tbWVudDQ2ODA1MzU1Mw==",
+    "url": "https://api.github.com/repos/ethereumclassic/ECIPs/pulls/comments/468053553",
+    "pull_request_review_id": 464418505,
+    "diff_hunk": "@@ -0,0 +1,39 @@\n+---\n+lang: en\n+ecip: ?",
+    "path": "_specs/ecip-51attack-solution.md",
+    "position": null,
+    "original_position": 3,
+    "commit_id": "78ca143968f1400d0fb998502ed855575dd13f87",
+    "user": {
+      "login": "Dexaran",
+      "id": 26142412,
+      "node_id": "MDQ6VXNlcjI2MTQyNDEy",
+      "avatar_url": "https://avatars0.githubusercontent.com/u/26142412?u=d08221e3a98df1cbc5e65edf37e0399b5a8e4c6e&v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/Dexaran",
+      "html_url": "https://github.com/Dexaran",
+      "followers_url": "https://api.github.com/users/Dexaran/followers",
+      "following_url": "https://api.github.com/users/Dexaran/following{/other_user}",
+      "gists_url": "https://api.github.com/users/Dexaran/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/Dexaran/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/Dexaran/subscriptions",
+      "organizations_url": "https://api.github.com/users/Dexaran/orgs",
+      "repos_url": "https://api.github.com/users/Dexaran/repos",
+      "events_url": "https://api.github.com/users/Dexaran/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/Dexaran/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "body": "done",
+    "created_at": "2020-08-10T17:10:15Z",
+    "updated_at": "2020-08-10T17:10:16Z",
+    "html_url": "https://github.com/ethereumclassic/ECIPs/pull/328#discussion_r468053553",
+    "pull_request_url": "https://api.github.com/repos/ethereumclassic/ECIPs/pulls/328",
+    "author_association": "MEMBER",
+    "_links": {
+      "self": {
+        "href": "https://api.github.com/repos/ethereumclassic/ECIPs/pulls/comments/468053553"
+      },
+      "html": {
+        "href": "https://github.com/ethereumclassic/ECIPs/pull/328#discussion_r468053553"
+      },
+      "pull_request": {
+        "href": "https://api.github.com/repos/ethereumclassic/ECIPs/pulls/328"
+      }
+    },
+    "original_commit_id": "e3714c5e11b5b9bb16519aad16c9fb236f3d1053",
+    "in_reply_to_id": 468002425
+  }
