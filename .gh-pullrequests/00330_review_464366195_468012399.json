@@ -1,0 +1,50 @@
+{
+    "id": 468012399,
+    "node_id": "MDI0OlB1bGxSZXF1ZXN0UmV2aWV3Q29tbWVudDQ2ODAxMjM5OQ==",
+    "url": "https://api.github.com/repos/ethereumclassic/ECIPs/pulls/comments/468012399",
+    "pull_request_review_id": 464366195,
+    "diff_hunk": "@@ -0,0 +1,193 @@\n+---\n+lang: en\n+ecip: To Be Determined",
+    "path": "_specs/ecip-randomX.md",
+    "position": null,
+    "original_position": 3,
+    "commit_id": "3eaf28f5628a3d23dbcd6ff78da0f2f22f5437fe",
+    "user": {
+      "login": "gitr0n1n",
+      "id": 58588775,
+      "node_id": "MDQ6VXNlcjU4NTg4Nzc1",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/58588775?u=af50eca2408e83153043b37e3a63641fca94850e&v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/gitr0n1n",
+      "html_url": "https://github.com/gitr0n1n",
+      "followers_url": "https://api.github.com/users/gitr0n1n/followers",
+      "following_url": "https://api.github.com/users/gitr0n1n/following{/other_user}",
+      "gists_url": "https://api.github.com/users/gitr0n1n/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/gitr0n1n/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/gitr0n1n/subscriptions",
+      "organizations_url": "https://api.github.com/users/gitr0n1n/orgs",
+      "repos_url": "https://api.github.com/users/gitr0n1n/repos",
+      "events_url": "https://api.github.com/users/gitr0n1n/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/gitr0n1n/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "body": "Updated.",
+    "created_at": "2020-08-10T16:00:21Z",
+    "updated_at": "2020-08-10T16:00:21Z",
+    "html_url": "https://github.com/ethereumclassic/ECIPs/pull/330#discussion_r468012399",
+    "pull_request_url": "https://api.github.com/repos/ethereumclassic/ECIPs/pulls/330",
+    "author_association": "MEMBER",
+    "_links": {
+      "self": {
+        "href": "https://api.github.com/repos/ethereumclassic/ECIPs/pulls/comments/468012399"
+      },
+      "html": {
+        "href": "https://github.com/ethereumclassic/ECIPs/pull/330#discussion_r468012399"
+      },
+      "pull_request": {
+        "href": "https://api.github.com/repos/ethereumclassic/ECIPs/pulls/330"
+      }
+    },
+    "original_commit_id": "7e15f8c95266fc5d4d19ef900293998a8b08a2d6",
+    "in_reply_to_id": 468003126
+  }
