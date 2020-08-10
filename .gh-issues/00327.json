@@ -8,7 +8,7 @@
     "id": 675150792,
     "node_id": "MDU6SXNzdWU2NzUxNTA3OTI=",
     "number": 327,
-    "title": "ECIP-? 51attack solution: PirlGuard & Callisto proposal",
+    "title": "ECIP-1092 51attack solution: PirlGuard & Callisto proposal",
     "user": {
       "login": "Dexaran",
       "id": 26142412,
@@ -41,7 +41,7 @@
     "milestone": null,
     "comments": 10,
     "created_at": "2020-08-07T17:01:26Z",
-    "updated_at": "2020-08-10T14:30:46Z",
+    "updated_at": "2020-08-10T15:48:23Z",
     "closed_at": null,
     "author_association": "MEMBER",
     "active_lock_reason": null,
