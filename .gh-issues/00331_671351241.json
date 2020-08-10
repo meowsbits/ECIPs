@@ -25,13 +25,13 @@
       "site_admin": false
     },
     "created_at": "2020-08-10T13:22:58Z",
-    "updated_at": "2020-08-10T13:22:58Z",
+    "updated_at": "2020-08-10T13:26:27Z",
     "author_association": "MEMBER",
-    "body": "I would propose to implement PirlGuard first as it can effectively solve the problem right now. The network is barely operational and this needs to be fixed.\r\n\r\nIt should be noted that PirlGuard can be enabled and disabled with minimal efforts which makes it an ideal temporary solution until long-term proposals are carefully evaluated and time-consuming resrach/debates are conducted.",
+    "body": "I would propose to implement PirlGuard first as it can effectively solve the problem right now. The network is barely operational and this needs to be fixed.\r\n\r\nIt should be noted that PirlGuard can be enabled and disabled with minimal efforts which makes it an ideal temporary solution until long-term proposals are carefully evaluated and time-consuming research/debates are conducted.",
     "reactions": {
       "url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/comments/671351241/reactions",
-      "total_count": 0,
-      "+1": 0,
+      "total_count": 2,
+      "+1": 2,
       "-1": 0,
       "laugh": 0,
       "hooray": 0,

@@ -1,10 +1,8 @@
 {
-    "url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/comments/671350206",
-    "html_url": "https://github.com/ethereumclassic/ECIPs/issues/331#issuecomment-671350206",
-    "issue_url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/331",
-    "id": 671350206,
-    "node_id": "MDEyOklzc3VlQ29tbWVudDY3MTM1MDIwNg==",
-    "user": {
+    "id": 3638759471,
+    "node_id": "MDE0Ok1lbnRpb25lZEV2ZW50MzYzODc1OTQ3MQ==",
+    "url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/events/3638759471",
+    "actor": {
       "login": "Dexaran",
       "id": 26142412,
       "node_id": "MDQ6VXNlcjI2MTQyNDEy",
@@ -24,21 +22,9 @@
       "type": "User",
       "site_admin": false
     },
-    "created_at": "2020-08-10T13:20:58Z",
-    "updated_at": "2020-08-10T13:25:44Z",
-    "author_association": "MEMBER",
-    "body": "I'm committing my support for the Treasury model.\r\n\r\nHowever, I think that instead of developing the implementation at a protocol level the Treasury system can be implemented in smart-contract layer with minimal changes to the protocol. I had success with smart-contract layer solutions in past.",
-    "reactions": {
-      "url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/comments/671350206/reactions",
-      "total_count": 0,
-      "+1": 0,
-      "-1": 0,
-      "laugh": 0,
-      "hooray": 0,
-      "confused": 0,
-      "heart": 0,
-      "rocket": 0,
-      "eyes": 0
-    },
+    "event": "mentioned",
+    "commit_id": null,
+    "commit_url": null,
+    "created_at": "2020-08-10T13:26:31Z",
     "performed_via_github_app": null
   }
