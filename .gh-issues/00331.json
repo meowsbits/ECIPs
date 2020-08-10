@@ -1,0 +1,62 @@
+{
+    "url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/331",
+    "repository_url": "https://api.github.com/repos/ethereumclassic/ECIPs",
+    "labels_url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/331/labels{/name}",
+    "comments_url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/331/comments",
+    "events_url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/331/events",
+    "html_url": "https://github.com/ethereumclassic/ECIPs/issues/331",
+    "id": 676119134,
+    "node_id": "MDU6SXNzdWU2NzYxMTkxMzQ=",
+    "number": 331,
+    "title": "IMPORTANT: A propose to include the rough roadmap introduced by Charles Hoskinson from IOHK (decision timeframe: till end the of 14th of Aug'20)",
+    "user": {
+      "login": "TheEnthusiasticAs",
+      "id": 48069525,
+      "node_id": "MDQ6VXNlcjQ4MDY5NTI1",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/48069525?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/TheEnthusiasticAs",
+      "html_url": "https://github.com/TheEnthusiasticAs",
+      "followers_url": "https://api.github.com/users/TheEnthusiasticAs/followers",
+      "following_url": "https://api.github.com/users/TheEnthusiasticAs/following{/other_user}",
+      "gists_url": "https://api.github.com/users/TheEnthusiasticAs/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/TheEnthusiasticAs/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/TheEnthusiasticAs/subscriptions",
+      "organizations_url": "https://api.github.com/users/TheEnthusiasticAs/orgs",
+      "repos_url": "https://api.github.com/users/TheEnthusiasticAs/repos",
+      "events_url": "https://api.github.com/users/TheEnthusiasticAs/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/TheEnthusiasticAs/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "labels": [
+
+    ],
+    "state": "open",
+    "locked": false,
+    "assignee": null,
+    "assignees": [
+
+    ],
+    "milestone": null,
+    "comments": 0,
+    "created_at": "2020-08-10T13:02:33Z",
+    "updated_at": "2020-08-10T13:02:33Z",
+    "closed_at": null,
+    "author_association": "MEMBER",
+    "active_lock_reason": null,
+    "body": "**Include the rough roadmap introduced by Charles Hoskinson from IOHK for the ETC blockchain - partially or fully.**\r\n\r\n\r\nI am asking the ETC participants to watch this video by Charles Hoskinson from IOHK, produced yesterday, on 9th of August 2020, in regards of latest chain reorganization (3rd one). He proposes as well a short term solution as a long term for the ETC blockchain project. The video: https://youtu.be/oHUQuXOwYeU\r\n\r\n**A short summary of the solutions:**\r\nShort term solution:\r\n_Securing Proof-of-Work Ledgers via Checkpointing:\r\nhttps://iohk.io/en/research/library/papers/securing-proof-of-work-ledgers-via-checkpointing/_\r\nLong term solution for the project development:\r\n_A Proposal for An Ethereum Classic Treasury System:\r\nhttps://iohk.io/en/research/library/papers/a-proposal-for-an-ethereum-classic-treasury-system/_\r\n\r\nThe decision should be made till 14th of August 2020. I took a reserve of 2 days. The deadline is 16th of August (1 week. It is mentioned in the video).\r\n\r\nInstead of the checkpointing also e.g. this solution #328 (PirlGuard) can be taken (\"copy-pasteable\") as a short term solution to \"protect\" the network \"against\" reorganizations as with the current provided hashrates the network can be reorganized at any time. The network gets unusable for the network participants.\r\n\r\nPlease comment below. Thank you!",
+    "reactions": {
+      "url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/331/reactions",
+      "total_count": 0,
+      "+1": 0,
+      "-1": 0,
+      "laugh": 0,
+      "hooray": 0,
+      "confused": 0,
+      "heart": 0,
+      "rocket": 0,
+      "eyes": 0
+    },
+    "performed_via_github_app": null
+  }
