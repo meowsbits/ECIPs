@@ -1,0 +1,101 @@
+{
+    "id": 3640314386,
+    "node_id": "MDEyOkxhYmVsZWRFdmVudDM2NDAzMTQzODY=",
+    "url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/events/3640314386",
+    "actor": {
+      "login": "realcodywburns",
+      "id": 13103499,
+      "node_id": "MDQ6VXNlcjEzMTAzNDk5",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/13103499?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/realcodywburns",
+      "html_url": "https://github.com/realcodywburns",
+      "followers_url": "https://api.github.com/users/realcodywburns/followers",
+      "following_url": "https://api.github.com/users/realcodywburns/following{/other_user}",
+      "gists_url": "https://api.github.com/users/realcodywburns/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/realcodywburns/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/realcodywburns/subscriptions",
+      "organizations_url": "https://api.github.com/users/realcodywburns/orgs",
+      "repos_url": "https://api.github.com/users/realcodywburns/repos",
+      "events_url": "https://api.github.com/users/realcodywburns/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/realcodywburns/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "event": "labeled",
+    "commit_id": null,
+    "commit_url": null,
+    "created_at": "2020-08-10T20:11:15Z",
+    "label": {
+      "name": "editor: looks-good",
+      "color": "71ad0a"
+    },
+    "issue": {
+      "url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/332",
+      "repository_url": "https://api.github.com/repos/ethereumclassic/ECIPs",
+      "labels_url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/332/labels{/name}",
+      "comments_url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/332/comments",
+      "events_url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/332/events",
+      "html_url": "https://github.com/ethereumclassic/ECIPs/issues/332",
+      "id": 676386402,
+      "node_id": "MDU6SXNzdWU2NzYzODY0MDI=",
+      "number": 332,
+      "title": "Ethereum Classic Treasury Roadmap Call: Initial Discussions",
+      "user": {
+        "login": "YazzyYaz",
+        "id": 9094204,
+        "node_id": "MDQ6VXNlcjkwOTQyMDQ=",
+        "avatar_url": "https://avatars2.githubusercontent.com/u/9094204?v=4",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/YazzyYaz",
+        "html_url": "https://github.com/YazzyYaz",
+        "followers_url": "https://api.github.com/users/YazzyYaz/followers",
+        "following_url": "https://api.github.com/users/YazzyYaz/following{/other_user}",
+        "gists_url": "https://api.github.com/users/YazzyYaz/gists{/gist_id}",
+        "starred_url": "https://api.github.com/users/YazzyYaz/starred{/owner}{/repo}",
+        "subscriptions_url": "https://api.github.com/users/YazzyYaz/subscriptions",
+        "organizations_url": "https://api.github.com/users/YazzyYaz/orgs",
+        "repos_url": "https://api.github.com/users/YazzyYaz/repos",
+        "events_url": "https://api.github.com/users/YazzyYaz/events{/privacy}",
+        "received_events_url": "https://api.github.com/users/YazzyYaz/received_events",
+        "type": "User",
+        "site_admin": false
+      },
+      "labels": [
+        {
+          "id": 1428838937,
+          "node_id": "MDU6TGFiZWwxNDI4ODM4OTM3",
+          "url": "https://api.github.com/repos/ethereumclassic/ECIPs/labels/editor:%20looks-good",
+          "name": "editor: looks-good",
+          "color": "71ad0a",
+          "default": false,
+          "description": "This PR is generally fine to be merged."
+        },
+        {
+          "id": 1154785129,
+          "node_id": "MDU6TGFiZWwxMTU0Nzg1MTI5",
+          "url": "https://api.github.com/repos/ethereumclassic/ECIPs/labels/type:%20meta",
+          "name": "type: meta",
+          "color": "cfd3d7",
+          "default": false,
+          "description": "Accepted best practices"
+        }
+      ],
+      "state": "open",
+      "locked": false,
+      "assignee": null,
+      "assignees": [
+
+      ],
+      "milestone": null,
+      "comments": 0,
+      "created_at": "2020-08-10T20:09:05Z",
+      "updated_at": "2020-08-10T20:11:15Z",
+      "closed_at": null,
+      "author_association": "MEMBER",
+      "active_lock_reason": null,
+      "body": "# ETC Core Devs Call - Treasury Roadmap Discussions\r\nWhen: Thursday, August 13, 2020, 3pm UTC, 60 minutes max.\r\n\r\nWhere: Ethereum Classic Discord https://discord.gg/dwxb6nf #ecips channel. Will use/create a voice channel ad hoc.\r\n\r\n## Agenda\r\n* Quick client teams check-in\r\n        * Core-Geth - ETC Labs\r\n        * Mantis - IOHK\r\n        * Hyperledger Besu - ETC Coop/ChainSafe\r\n* IOHK Proposal for an Ethereum Classic Treasury\r\n* Gather Community feedback on Proposal via Q&A\r\n* Measure Rough Consensus to Determine if IOHK will move forward with making an ECIP for the ETC Treasury.",
+      "performed_via_github_app": null
+    },
+    "performed_via_github_app": null
+  }
