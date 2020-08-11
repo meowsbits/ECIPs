@@ -7,7 +7,7 @@
     "path": "_specs/ecip-51attack-solution.md",
     "position": null,
     "original_position": 3,
-    "commit_id": "78ca143968f1400d0fb998502ed855575dd13f87",
+    "commit_id": "920719101bd2b19e6eaf506d27533840676aadf2",
     "user": {
       "login": "Dexaran",
       "id": 26142412,
@@ -30,7 +30,7 @@
     },
     "body": "done",
     "created_at": "2020-08-10T17:10:15Z",
-    "updated_at": "2020-08-10T17:10:16Z",
+    "updated_at": "2020-08-11T09:29:39Z",
     "html_url": "https://github.com/ethereumclassic/ECIPs/pull/328#discussion_r468053553",
     "pull_request_url": "https://api.github.com/repos/ethereumclassic/ECIPs/pulls/328",
     "author_association": "MEMBER",
