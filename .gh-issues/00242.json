@@ -32,18 +32,19 @@
     "labels": [
 
     ],
-    "state": "open",
+    "state": "closed",
     "locked": false,
     "assignee": null,
     "assignees": [
 
     ],
     "milestone": null,
-    "comments": 0,
+    "comments": 1,
     "created_at": "2019-12-04T16:48:08Z",
-    "updated_at": "2019-12-04T19:12:37Z",
-    "closed_at": null,
+    "updated_at": "2020-08-12T12:21:18Z",
+    "closed_at": "2020-08-12T12:21:17Z",
     "author_association": "CONTRIBUTOR",
+    "active_lock_reason": null,
     "body": "The proposal was submitted as an [EIP](https://github.com/ethereum/EIPs/pull/2427) because it would make sense for either network to get this done.",
     "reactions": {
       "url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/242/reactions",
@@ -56,5 +57,6 @@
       "heart": 0,
       "rocket": 0,
       "eyes": 0
-    }
+    },
+    "performed_via_github_app": null
   }

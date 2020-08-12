@@ -29,5 +29,6 @@
     "rename": {
       "from": "Discussion for BETTERBLOCKHASH",
       "to": "Discussion for EIP-2427 BLOCKHASH2"
-    }
+    },
+    "performed_via_github_app": null
   }
