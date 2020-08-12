@@ -25,9 +25,9 @@
       "site_admin": false
     },
     "created_at": "2020-08-12T14:21:06Z",
-    "updated_at": "2020-08-12T14:21:06Z",
+    "updated_at": "2020-08-12T15:25:05Z",
     "author_association": "MEMBER",
-    "body": "Topic request: Network security solutions.",
+    "body": "Topic request pulled from `development` channel:\r\n- TOP: Network security solutions. 51% Attack approaches.\r\n- Review Ethereum Berlin for operational parity with Ethereum Classic.\r\n- Mining Algorithm Discussion: Astor SHA3 Change, RandomX Change, Ethash remains but DAG reduction, Ethash with no change, defer discussions to a later date.\r\n- Address the remaining blockers to ETC being considered feature complete, start constructing ETC's long term roadmap.\r\n- Gas Range Discussion: Upper and Lower Bounds\r\n- Gas limit, backwards compatibility, slower blocks (probably won't happen)\r\n- Go over any inactive ECIPs, like chainID=π\r\n- anything else?",
     "reactions": {
       "url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/comments/672901230/reactions",
       "total_count": 0,
