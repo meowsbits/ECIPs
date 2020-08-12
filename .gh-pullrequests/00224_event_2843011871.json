@@ -25,5 +25,6 @@
     "event": "referenced",
     "commit_id": "b9478e610fdf1ae082ec32c0d9d4408ff5ced481",
     "commit_url": "https://api.github.com/repos/ethereumclassic/ECIPs/commits/b9478e610fdf1ae082ec32c0d9d4408ff5ced481",
-    "created_at": "2019-11-30T22:38:16Z"
+    "created_at": "2019-11-30T22:38:16Z",
+    "performed_via_github_app": null
   }

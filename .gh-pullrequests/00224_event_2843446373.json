@@ -29,5 +29,6 @@
     "rename": {
       "from": "Meta Specification Establishing Fork ECIPs (Using Pull Request development pattern)",
       "to": "ECIP-1077: Meta Specification Establishing Fork ECIPs (Using Pull Request development pattern)"
-    }
+    },
+    "performed_via_github_app": null
   }
