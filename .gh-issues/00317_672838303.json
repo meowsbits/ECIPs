@@ -1,8 +1,10 @@
 {
-    "id": 3443896443,
-    "node_id": "MDE1OlN1YnNjcmliZWRFdmVudDM0NDM4OTY0NDM=",
-    "url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/events/3443896443",
-    "actor": {
+    "url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/comments/672838303",
+    "html_url": "https://github.com/ethereumclassic/ECIPs/issues/317#issuecomment-672838303",
+    "issue_url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/317",
+    "id": 672838303,
+    "node_id": "MDEyOklzc3VlQ29tbWVudDY3MjgzODMwMw==",
+    "user": {
       "login": "q9f",
       "id": 58883403,
       "node_id": "MDQ6VXNlcjU4ODgzNDAz",
@@ -22,9 +24,21 @@
       "type": "User",
       "site_admin": false
     },
-    "event": "subscribed",
-    "commit_id": null,
-    "commit_url": null,
-    "created_at": "2020-06-15T11:16:20Z",
+    "created_at": "2020-08-12T12:23:01Z",
+    "updated_at": "2020-08-12T12:23:01Z",
+    "author_association": "MEMBER",
+    "body": "ref #316 ",
+    "reactions": {
+      "url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/comments/672838303/reactions",
+      "total_count": 0,
+      "+1": 0,
+      "-1": 0,
+      "laugh": 0,
+      "hooray": 0,
+      "confused": 0,
+      "heart": 0,
+      "rocket": 0,
+      "eyes": 0
+    },
     "performed_via_github_app": null
   }

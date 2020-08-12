@@ -29,5 +29,6 @@
     "rename": {
       "from": "ECIP-1082: Discussion",
       "to": "ECIP-1082 [Discussion]: Fork identifier (`forkid`) protocol fork list specification"
-    }
+    },
+    "performed_via_github_app": null
   }
