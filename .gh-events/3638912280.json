@@ -64,17 +64,17 @@
       "labels": [
 
       ],
-      "state": "open",
+      "state": "closed",
       "locked": false,
       "assignee": null,
       "assignees": [
 
       ],
       "milestone": null,
-      "comments": 18,
+      "comments": 19,
       "created_at": "2020-08-10T13:02:33Z",
-      "updated_at": "2020-08-10T21:34:22Z",
-      "closed_at": null,
+      "updated_at": "2020-08-12T12:11:05Z",
+      "closed_at": "2020-08-12T12:11:05Z",
       "author_association": "MEMBER",
       "active_lock_reason": null,
       "body": "**Include the rough roadmap introduced by Charles Hoskinson from IOHK for the ETC blockchain into the current roadmap - partially or fully.**\r\n\r\n\r\nI am asking the ETC participants to watch this video by Charles Hoskinson from IOHK, produced yesterday, on 9th of August 2020, in regards of latest chain reorganization (3rd one). He proposes as well a short term solution as a long term for the ETC blockchain project. The video: https://youtu.be/oHUQuXOwYeU\r\n\r\n**A short summary of the solutions:**\r\nShort term solution:\r\n_Securing Proof-of-Work Ledgers via Checkpointing:\r\nhttps://iohk.io/en/research/library/papers/securing-proof-of-work-ledgers-via-checkpointing/_\r\nLong term solution for the project development:\r\n_A Proposal for An Ethereum Classic Treasury System:\r\nhttps://iohk.io/en/research/library/papers/a-proposal-for-an-ethereum-classic-treasury-system/_\r\n\r\nThe decision should be made till 14th of August 2020. I took a reserve of 2 days. The deadline is 16th of August (1 week. It is mentioned in the video).\r\n\r\nInstead of the checkpointing also e.g. this solution #328 (PirlGuard) can be taken (\"copy-pasteable\") as a short term solution to \"protect\" the network \"against\" reorganizations as with the current provided hashrates the network can be reorganized at any time. The network gets unusable for the network participants.\r\n\r\nPlease comment below. Thank you!",
