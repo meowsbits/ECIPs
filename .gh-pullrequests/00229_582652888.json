@@ -25,9 +25,9 @@
       "site_admin": false
     },
     "created_at": "2020-02-05T22:56:19Z",
-    "updated_at": "2020-02-05T22:56:19Z",
+    "updated_at": "2020-08-14T05:13:42Z",
     "author_association": "MEMBER",
-    "body": "@bobsummerwill Could we remove the comment about IOHK. There was never an ECIP drawn up for an IOHK Treasury system, only a technical paper written.",
+    "body": "@bobsummerwill Could we remove the comment about IOHK. There was never an ECIP drawn up for an IOHK Treasury system, only a technical paper written. Advocating or promoting is not the same as going through the ECIP process. ",
     "reactions": {
       "url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/comments/582652888/reactions",
       "total_count": 0,
@@ -39,5 +39,6 @@
       "heart": 0,
       "rocket": 0,
       "eyes": 0
-    }
+    },
+    "performed_via_github_app": null
   }

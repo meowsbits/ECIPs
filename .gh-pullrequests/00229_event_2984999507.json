@@ -29,5 +29,6 @@
     "rename": {
       "from": "Reject ECIP-1051 \"Ethereum Classic Treasury system\"",
       "to": "ECIP-1051: Reject \"Ethereum Classic Treasury system\""
-    }
+    },
+    "performed_via_github_app": null
   }
