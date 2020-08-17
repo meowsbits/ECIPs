@@ -65,9 +65,9 @@
         {
           "id": 1632883313,
           "node_id": "MDU6TGFiZWwxNjMyODgzMzEz",
-          "url": "https://api.github.com/repos/ethereumclassic/ECIPs/labels/dependencies",
-          "name": "dependencies",
-          "color": "0366d6",
+          "url": "https://api.github.com/repos/ethereumclassic/ECIPs/labels/bot:%20dependencies",
+          "name": "bot: dependencies",
+          "color": "fef2c0",
           "default": false,
           "description": "Pull requests that update a dependency file"
         },

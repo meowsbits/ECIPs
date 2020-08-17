@@ -69,7 +69,7 @@
           "name": "status: accepted",
           "color": "d876e3",
           "default": false,
-          "description": "Ecip has been accepted and is awaiting Final status and activation"
+          "description": "ECIP has been accepted and is awaiting Final status and activation."
         },
         {
           "id": 1154785129,

@@ -1,0 +1,14 @@
+From 6376094d5c6ec91cfc9c503fbc5e136370743259 Mon Sep 17 00:00:00 2001
+From: /raw PONG _GHMoaCXLT <58883403+q9f@users.noreply.github.com>
+Date: Mon, 17 Aug 2020 10:17:50 +0200
+Subject: [PATCH] fix path of ecip 1092
+
+---
+ _specs/{ecip-51attack-solution.md => ecip-1092.md} | 0
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+ rename _specs/{ecip-51attack-solution.md => ecip-1092.md} (100%)
+
+diff --git a/_specs/ecip-51attack-solution.md b/_specs/ecip-1092.md
+similarity index 100%
+rename from _specs/ecip-51attack-solution.md
+rename to _specs/ecip-1092.md

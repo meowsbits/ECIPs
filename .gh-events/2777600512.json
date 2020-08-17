@@ -63,15 +63,6 @@
       },
       "labels": [
         {
-          "id": 1662343835,
-          "node_id": "MDU6TGFiZWwxNjYyMzQzODM1",
-          "url": "https://api.github.com/repos/ethereumclassic/ECIPs/labels/GFY",
-          "name": "GFY",
-          "color": "472318",
-          "default": false,
-          "description": "No.  Just say no."
-        },
-        {
           "id": 1154785139,
           "node_id": "MDU6TGFiZWwxMTU0Nzg1MTM5",
           "url": "https://api.github.com/repos/ethereumclassic/ECIPs/labels/status:%20draft",
