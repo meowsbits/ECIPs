@@ -63,11 +63,20 @@
       },
       "labels": [
         {
+          "id": 2281247217,
+          "node_id": "MDU6TGFiZWwyMjgxMjQ3MjE3",
+          "url": "https://api.github.com/repos/ethereumclassic/ECIPs/labels/editor:%201%20needs%20review",
+          "name": "editor: 1 needs review",
+          "color": "ffd92f",
+          "default": false,
+          "description": "This contribution needs a careful review."
+        },
+        {
           "id": 2281210709,
           "node_id": "MDU6TGFiZWwyMjgxMjEwNzA5",
-          "url": "https://api.github.com/repos/ethereumclassic/ECIPs/labels/status:%20final",
-          "name": "status: final",
-          "color": "50c0fc",
+          "url": "https://api.github.com/repos/ethereumclassic/ECIPs/labels/status:%209%20final",
+          "name": "status: 9 final",
+          "color": "252525",
           "default": false,
           "description": "ECIP has been activated on testnet and/or mainnet."
         },
@@ -90,7 +99,7 @@
       "milestone": null,
       "comments": 0,
       "created_at": "2020-08-17T07:54:47Z",
-      "updated_at": "2020-08-17T08:16:23Z",
+      "updated_at": "2020-08-17T08:35:36Z",
       "closed_at": null,
       "author_association": "CONTRIBUTOR",
       "active_lock_reason": null,

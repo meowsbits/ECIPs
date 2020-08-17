@@ -65,18 +65,18 @@
         {
           "id": 1428838937,
           "node_id": "MDU6TGFiZWwxNDI4ODM4OTM3",
-          "url": "https://api.github.com/repos/ethereumclassic/ECIPs/labels/editor:%20looks-good",
-          "name": "editor: looks-good",
-          "color": "71ad0a",
+          "url": "https://api.github.com/repos/ethereumclassic/ECIPs/labels/editor:%207%20looks-good",
+          "name": "editor: 7 looks-good",
+          "color": "a6d854",
           "default": false,
-          "description": "This PR is generally fine to be merged."
+          "description": "This contribution is well reviewed and good to be merged."
         },
         {
           "id": 1702098127,
           "node_id": "MDU6TGFiZWwxNzAyMDk4MTI3",
-          "url": "https://api.github.com/repos/ethereumclassic/ECIPs/labels/status:%20last-call",
-          "name": "status: last-call",
-          "color": "c2e0c6",
+          "url": "https://api.github.com/repos/ethereumclassic/ECIPs/labels/status:%205%20last-call",
+          "name": "status: 5 last-call",
+          "color": "969696",
           "default": false,
           "description": "ECIP has been accepted and is waiting for last-call reviews."
         },

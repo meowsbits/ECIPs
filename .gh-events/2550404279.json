@@ -66,11 +66,11 @@
         {
           "id": 1488234618,
           "node_id": "MDU6TGFiZWwxNDg4MjM0NjE4",
-          "url": "https://api.github.com/repos/ethereumclassic/ECIPs/labels/editor:%20grumble",
-          "name": "editor: grumble",
-          "color": "8fb6d8",
+          "url": "https://api.github.com/repos/ethereumclassic/ECIPs/labels/editor:%203%20grumble",
+          "name": "editor: 3 grumble",
+          "color": "fc8d62",
           "default": false,
-          "description": "This PR has minor issues that should be addressed before merging."
+          "description": "This contribution has minor issues that should be addressed."
         }
       ],
       "state": "closed",

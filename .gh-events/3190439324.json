@@ -65,18 +65,18 @@
         {
           "id": 1658195407,
           "node_id": "MDU6TGFiZWwxNjU4MTk1NDA3",
-          "url": "https://api.github.com/repos/ethereumclassic/ECIPs/labels/status:%20wip",
-          "name": "status: wip",
-          "color": "e99695",
+          "url": "https://api.github.com/repos/ethereumclassic/ECIPs/labels/status:%200%20wip",
+          "name": "status: 0 wip",
+          "color": "f0f0f0",
           "default": false,
           "description": "ECIP is still work in progress and shall not be merged."
         },
         {
           "id": 1705353145,
           "node_id": "MDU6TGFiZWwxNzA1MzUzMTQ1",
-          "url": "https://api.github.com/repos/ethereumclassic/ECIPs/labels/status:%20withdrawn",
-          "name": "status: withdrawn",
-          "color": "c2e0c6",
+          "url": "https://api.github.com/repos/ethereumclassic/ECIPs/labels/status:%207%20withdrawn",
+          "name": "status: 7 withdrawn",
+          "color": "737373",
           "default": false,
           "description": "ECIP has been withdrawn by the author."
         }

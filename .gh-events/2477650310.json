@@ -65,11 +65,11 @@
         {
           "id": 1428838937,
           "node_id": "MDU6TGFiZWwxNDI4ODM4OTM3",
-          "url": "https://api.github.com/repos/ethereumclassic/ECIPs/labels/editor:%20looks-good",
-          "name": "editor: looks-good",
-          "color": "71ad0a",
+          "url": "https://api.github.com/repos/ethereumclassic/ECIPs/labels/editor:%207%20looks-good",
+          "name": "editor: 7 looks-good",
+          "color": "a6d854",
           "default": false,
-          "description": "This PR is generally fine to be merged."
+          "description": "This contribution is well reviewed and good to be merged."
         }
       ],
       "state": "closed",
