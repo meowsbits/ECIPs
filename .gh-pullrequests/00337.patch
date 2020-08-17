@@ -1,7 +1,7 @@
 From 6376094d5c6ec91cfc9c503fbc5e136370743259 Mon Sep 17 00:00:00 2001
 From: /raw PONG _GHMoaCXLT <58883403+q9f@users.noreply.github.com>
 Date: Mon, 17 Aug 2020 10:17:50 +0200
-Subject: [PATCH] fix path of ecip 1092
+Subject: [PATCH 1/2] fix path of ecip 1092
 
 ---
  _specs/{ecip-51attack-solution.md => ecip-1092.md} | 0
@@ -12,3 +12,40 @@ diff --git a/_specs/ecip-51attack-solution.md b/_specs/ecip-1092.md
 similarity index 100%
 rename from _specs/ecip-51attack-solution.md
 rename to _specs/ecip-1092.md
+
+From 82de3625484ca4d3f8a1ac81aaf15ba2b9d93b44 Mon Sep 17 00:00:00 2001
+From: /raw PONG _GHMoaCXLT <58883403+q9f@users.noreply.github.com>
+Date: Mon, 17 Aug 2020 11:12:35 +0200
+Subject: [PATCH 2/2] fix 1092 header
+
+---
+ _specs/ecip-1092.md | 6 +++---
+ 1 file changed, 3 insertions(+), 3 deletions(-)
+
+diff --git a/_specs/ecip-1092.md b/_specs/ecip-1092.md
+index ff325eba..990702e1 100644
+--- a/_specs/ecip-1092.md
++++ b/_specs/ecip-1092.md
+@@ -3,11 +3,11 @@ lang: en
+ ecip: 1092
+ title: 51% attack solution: PirlGuard & Callisto
+ status: Draft
+-type: Core
++type: Standards Track
++category: Core
+ discussions-to: https://github.com/ethereumclassic/ECIPs/issues/327
+ author: dexaran (@dexaran)
+ created: 2020-07-08
+-license: LGPL-v3
+ ---
+ 
+ # Abstract
+@@ -20,7 +20,7 @@ Ethereum CLassic suffered a number of 51% attacks already. [Here](https://cointe
+ 
+ # Specification
+ 
+-The proposed solution refers to the [PirlGuard protocol](https://pirl.io/en/pirlguard-innovative-solution-against-51-attacks/). 
++The proposed solution refers to the [PirlGuard protocol](https://pirl.io/en/pirlguard-innovative-solution-against-51-attacks/).
+ 
+ The description of the protocol states that instead of automatically syncing with any privately-mined chain branch the new protocol should require the peer proposing the privately-chain (and the reversal of the publicly mined and synced blocks) to mine  a number of "penalty" blocks. The number of penalty blocks must depend on the number of the original blocks that would be reverted if the chain will reorganize and sync to the proposed (privately-mined) branch. Thus the cost of the 51% attack will dramatically increase as the attacker will not be able to mine his private branch and then broadcast it to the network thus reverting all the transactions from the "main" branch.
+ 
