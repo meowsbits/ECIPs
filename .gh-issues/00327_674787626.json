@@ -25,13 +25,13 @@
       "site_admin": false
     },
     "created_at": "2020-08-17T10:02:40Z",
-    "updated_at": "2020-08-17T10:02:40Z",
+    "updated_at": "2020-08-17T10:23:54Z",
     "author_association": "MEMBER",
-    "body": "@Dexaran thanks for the answer.\r\n\r\n> The attacker can not add more than PenaltyCheckLength blocks however so this is another reason to set it to the lowest possible value.\r\n\r\nFrom my understanding, It can _after_ the blocks have been reorged.\r\n\r\n> Block mining is very random and will greatly vary in time. You can't just generate a block at a given point in time unless you have 99,99% hashrate advantage.\r\n\r\nYes, but this problem can be bypassed if you just mine 80 blocks and then you have 20 windows from 60 to 80 you can try to hit.\r\n\r\n> For each of kth chains you need to pay for another 51% (at the very least and in practice for even more) hashpower.\r\n\r\nYou can actually be smarter than I described. Mine 59 blocks and then split them. This way you can create `K` split by adding just a few blocks to each chain that shares most of the blocks.\r\n\r\nI do agree that this can't really hurt 51%, but it open the attack vector for splitting the network and if the adversary wants to damage the network, they can do so with relatively little cost.",
+    "body": "@Dexaran thanks for the answer.\r\n\r\n> The attacker can not add more than PenaltyCheckLength blocks however so this is another reason to set it to the lowest possible value.\r\n\r\nFrom my understanding, It can _after_ the blocks have been reorged.\r\n\r\n> Block mining is very random and will greatly vary in time. You can't just generate a block at a given point in time unless you have 99,99% hashrate advantage.\r\n\r\nYes, but this problem can be bypassed if you just mine 80 blocks and then you have 20 windows from 60 to 80 you can try to hit.\r\n\r\n> For each of kth chains you need to pay for another 51% (at the very least and in practice for even more) hashpower.\r\n\r\nYou can actually be smarter than I described. Mine 59 blocks and then split them. This way you can create `K` split by adding just a few blocks to each chain that shares most of the blocks.\r\n\r\nI do agree that this can't really hurt 51%, but it opens the attack vector for splitting the network and if the adversary wants to damage the network, they can do so with relatively little cost.",
     "reactions": {
       "url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/comments/674787626/reactions",
-      "total_count": 0,
-      "+1": 0,
+      "total_count": 1,
+      "+1": 1,
       "-1": 0,
       "laugh": 0,
       "hooray": 0,
