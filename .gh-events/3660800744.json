@@ -72,13 +72,13 @@
           "description": "ECIP is still work in progress and shall not be merged."
         },
         {
-          "id": 2281227491,
-          "node_id": "MDU6TGFiZWwyMjgxMjI3NDkx",
-          "url": "https://api.github.com/repos/ethereumclassic/ECIPs/labels/type:%20informational",
-          "name": "type: informational",
-          "color": "b3cde3",
+          "id": 1154785129,
+          "node_id": "MDU6TGFiZWwxMTU0Nzg1MTI5",
+          "url": "https://api.github.com/repos/ethereumclassic/ECIPs/labels/type:%20meta",
+          "name": "type: meta",
+          "color": "cfd3d7",
           "default": false,
-          "description": "ECIPs of the type \"Informational\" - no strong consensus required."
+          "description": "ECIPs of type \"Meta\" - bundling proposals for upgrades."
         }
       ],
       "state": "open",
@@ -90,7 +90,7 @@
       "milestone": null,
       "comments": 0,
       "created_at": "2019-05-13T17:27:44Z",
-      "updated_at": "2020-08-17T08:37:02Z",
+      "updated_at": "2020-08-17T08:37:43Z",
       "closed_at": null,
       "author_association": "MEMBER",
       "active_lock_reason": null,
