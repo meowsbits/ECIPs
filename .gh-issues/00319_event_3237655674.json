@@ -29,5 +29,6 @@
     "rename": {
       "from": "Jekyl build failing",
       "to": "Jekyll build failing"
-    }
+    },
+    "performed_via_github_app": null
   }

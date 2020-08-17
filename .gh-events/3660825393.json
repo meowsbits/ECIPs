@@ -1,0 +1,101 @@
+{
+    "id": 3660825393,
+    "node_id": "MDEyOkxhYmVsZWRFdmVudDM2NjA4MjUzOTM=",
+    "url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/events/3660825393",
+    "actor": {
+      "login": "q9f",
+      "id": 58883403,
+      "node_id": "MDQ6VXNlcjU4ODgzNDAz",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/58883403?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/q9f",
+      "html_url": "https://github.com/q9f",
+      "followers_url": "https://api.github.com/users/q9f/followers",
+      "following_url": "https://api.github.com/users/q9f/following{/other_user}",
+      "gists_url": "https://api.github.com/users/q9f/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/q9f/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/q9f/subscriptions",
+      "organizations_url": "https://api.github.com/users/q9f/orgs",
+      "repos_url": "https://api.github.com/users/q9f/repos",
+      "events_url": "https://api.github.com/users/q9f/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/q9f/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "event": "labeled",
+    "commit_id": null,
+    "commit_url": null,
+    "created_at": "2020-08-17T08:43:36Z",
+    "label": {
+      "name": "status: 0 wip",
+      "color": "f0f0f0"
+    },
+    "issue": {
+      "url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/325",
+      "repository_url": "https://api.github.com/repos/ethereumclassic/ECIPs",
+      "labels_url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/325/labels{/name}",
+      "comments_url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/325/comments",
+      "events_url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/325/events",
+      "html_url": "https://github.com/ethereumclassic/ECIPs/issues/325",
+      "id": 638159764,
+      "node_id": "MDU6SXNzdWU2MzgxNTk3NjQ=",
+      "number": 325,
+      "title": "Housekeeping: Review Systemic Permissioned Roles",
+      "user": {
+        "login": "gitr0n1n",
+        "id": 58588775,
+        "node_id": "MDQ6VXNlcjU4NTg4Nzc1",
+        "avatar_url": "https://avatars2.githubusercontent.com/u/58588775?v=4",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/gitr0n1n",
+        "html_url": "https://github.com/gitr0n1n",
+        "followers_url": "https://api.github.com/users/gitr0n1n/followers",
+        "following_url": "https://api.github.com/users/gitr0n1n/following{/other_user}",
+        "gists_url": "https://api.github.com/users/gitr0n1n/gists{/gist_id}",
+        "starred_url": "https://api.github.com/users/gitr0n1n/starred{/owner}{/repo}",
+        "subscriptions_url": "https://api.github.com/users/gitr0n1n/subscriptions",
+        "organizations_url": "https://api.github.com/users/gitr0n1n/orgs",
+        "repos_url": "https://api.github.com/users/gitr0n1n/repos",
+        "events_url": "https://api.github.com/users/gitr0n1n/events{/privacy}",
+        "received_events_url": "https://api.github.com/users/gitr0n1n/received_events",
+        "type": "User",
+        "site_admin": false
+      },
+      "labels": [
+        {
+          "id": 1658195407,
+          "node_id": "MDU6TGFiZWwxNjU4MTk1NDA3",
+          "url": "https://api.github.com/repos/ethereumclassic/ECIPs/labels/status:%200%20wip",
+          "name": "status: 0 wip",
+          "color": "f0f0f0",
+          "default": false,
+          "description": "ECIP is still work in progress and shall not be merged."
+        },
+        {
+          "id": 1154785129,
+          "node_id": "MDU6TGFiZWwxMTU0Nzg1MTI5",
+          "url": "https://api.github.com/repos/ethereumclassic/ECIPs/labels/type:%20meta",
+          "name": "type: meta",
+          "color": "cfd3d7",
+          "default": false,
+          "description": "ECIPs of type \"Meta\" - bundling proposals for upgrades."
+        }
+      ],
+      "state": "open",
+      "locked": false,
+      "assignee": null,
+      "assignees": [
+
+      ],
+      "milestone": null,
+      "comments": 23,
+      "created_at": "2020-06-13T13:11:07Z",
+      "updated_at": "2020-08-17T08:43:36Z",
+      "closed_at": null,
+      "author_association": "MEMBER",
+      "active_lock_reason": null,
+      "body": "Housekeeping Task:\r\n- Review people's systemic roles and clean out inactive/departed project participants by removing their permissions.\r\n- Where oversight is needed or centralization is occurring, address the issues by decentralizing process power by adding participants that segregate process duties e.g. 2 approvals needed from different members of teams/independent parties.\r\n\r\n\r\nWe need to be honest about decentralizing processes to prevent take overs or attacks. Thanks!",
+      "performed_via_github_app": null
+    },
+    "performed_via_github_app": null
+  }
