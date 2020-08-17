@@ -1,0 +1,22 @@
+From f1bb761a80bcaae10c7b5e0c39e4a62062b1c023 Mon Sep 17 00:00:00 2001
+From: Raw Pong Ghmoa <58883403+q9f@users.noreply.github.com>
+Date: Mon, 17 Aug 2020 09:54:17 +0200
+Subject: [PATCH] Move ECIP-1088 "Phoenix" to Final.
+
+---
+ _specs/ecip-1088.md | 2 +-
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+
+diff --git a/_specs/ecip-1088.md b/_specs/ecip-1088.md
+index dca1b082..d47c6714 100644
+--- a/_specs/ecip-1088.md
++++ b/_specs/ecip-1088.md
+@@ -2,7 +2,7 @@
+ lang: en
+ ecip: 1088
+ title: Phoenix EVM and Protocol Upgrades
+-status: Accepted
++status: Final
+ type: Meta
+ author: /raw PONG _GHMoaCXLT (@q9f)
+ created: 2020-02-24
