@@ -108,7 +108,7 @@
           "name": "type: core",
           "color": "d73a4a",
           "default": false,
-          "description": "Requires consensus consideration"
+          "description": "ECIPs of the type \"Core\" - changing the Classic protocol."
         }
       ],
       "state": "closed",

@@ -105,7 +105,7 @@
           "name": "status: last-call",
           "color": "c2e0c6",
           "default": false,
-          "description": ""
+          "description": "ECIP has been accepted and is waiting for last-call reviews."
         }
       ],
       "state": "closed",

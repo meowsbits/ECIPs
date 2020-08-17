@@ -65,7 +65,7 @@
           "name": "status: last-call",
           "color": "c2e0c6",
           "default": false,
-          "description": ""
+          "description": "ECIP has been accepted and is waiting for last-call reviews."
         },
         {
           "id": 1154785129,
@@ -74,7 +74,7 @@
           "name": "type: meta",
           "color": "cfd3d7",
           "default": false,
-          "description": "Accepted best practices"
+          "description": "ECIPs of type \"Meta\" - bundling proposals for upgrades."
         }
       ],
       "state": "closed",

@@ -65,7 +65,7 @@
           "name": "status: withdrawn",
           "color": "c2e0c6",
           "default": false,
-          "description": ""
+          "description": "ECIP has been withdrawn by the author."
         },
         {
           "id": 1154785127,
@@ -74,7 +74,7 @@
           "name": "type: core",
           "color": "d73a4a",
           "default": false,
-          "description": "Requires consensus consideration"
+          "description": "ECIPs of the type \"Core\" - changing the Classic protocol."
         }
       ],
       "state": "open",

@@ -87,7 +87,7 @@
           "name": "type: interface",
           "color": "7057ff",
           "default": false,
-          "description": "Inter client communications"
+          "description": "ECIPs of the type \"Interface - inter-client communications."
         }
       ],
       "state": "closed",

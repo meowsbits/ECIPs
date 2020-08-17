@@ -69,7 +69,7 @@
           "name": "status: final",
           "color": "50c0fc",
           "default": false,
-          "description": ""
+          "description": "ECIP has been activated on testnet and/or mainnet."
         },
         {
           "id": 1154785129,
@@ -78,7 +78,7 @@
           "name": "type: meta",
           "color": "cfd3d7",
           "default": false,
-          "description": "Accepted best practices"
+          "description": "ECIPs of type \"Meta\" - bundling proposals for upgrades."
         }
       ],
       "state": "open",
