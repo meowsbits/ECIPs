@@ -1,0 +1,23 @@
+From cd757c3ded3b3369e94645b316ab62fbc487fb04 Mon Sep 17 00:00:00 2001
+From: Raw Pong Ghmoa <58883403+q9f@users.noreply.github.com>
+Date: Mon, 17 Aug 2020 10:07:25 +0200
+Subject: [PATCH] withdraw ECIP-1080
+
+---
+ _specs/ecip-1080.md | 3 +--
+ 1 file changed, 1 insertion(+), 2 deletions(-)
+
+diff --git a/_specs/ecip-1080.md b/_specs/ecip-1080.md
+index 90f08078..1772aae8 100644
+--- a/_specs/ecip-1080.md
++++ b/_specs/ecip-1080.md
+@@ -3,8 +3,7 @@ lang: en
+ ecip: 1080
+ title: SELFBALANCE opcode
+ author: Bob Summerwill (@bobsummerwill)
+-status: Last Call
+-review-period-end: 2020-03-30
++status: Withdrawn
+ type: Standards Track
+ category: Core
+ created: 2020-01-19
