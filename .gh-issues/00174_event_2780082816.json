@@ -29,5 +29,6 @@
     "rename": {
       "from": "Core Devs Call: Mining Algorithm Upgrade sha3",
       "to": "Core Devs Call: Mining Algorithm Upgrade"
-    }
+    },
+    "performed_via_github_app": null
   }

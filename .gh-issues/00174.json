@@ -35,12 +35,12 @@
         "node_id": "MDU6TGFiZWwxMTU0Nzg1MTI3",
         "url": "https://api.github.com/repos/ethereumclassic/ECIPs/labels/type:%20core",
         "name": "type: core",
-        "color": "d73a4a",
+        "color": "fbb4ae",
         "default": false,
-        "description": "Requires consensus consideration"
+        "description": "ECIPs of the type \"Core\" - changing the Classic protocol."
       }
     ],
-    "state": "closed",
+    "state": "open",
     "locked": false,
     "assignee": null,
     "assignees": [
@@ -49,9 +49,10 @@
     "milestone": null,
     "comments": 25,
     "created_at": "2019-11-07T16:52:20Z",
-    "updated_at": "2019-11-22T06:16:33Z",
-    "closed_at": "2019-11-21T14:21:38Z",
+    "updated_at": "2020-08-17T11:34:13Z",
+    "closed_at": null,
     "author_association": "MEMBER",
+    "active_lock_reason": null,
     "body": "### ETC Core Devs Call - Mining Algorithm Upgrade\r\n\r\nWhen: **Thursday, November 21, 2019, 1pm UTC**, 60 minutes max.\r\n\r\nWhere: **Ethereum Classic Discord** https://discord.gg/dwxb6nf `#ecips` channel. Will use/create a voice channel _ad hoc._\r\n\r\n### Agenda\r\n\r\n- Quick client teams check-in\r\n  - Parity Ethereum / Parity Tech\r\n  - Geth Classic / ChainSafe, ETC Labs Core\r\n  - Multi-Geth / Multi-Geth, ETCLabs Core \r\n  - Hyperledger Besu / ChainSafe, PegaSys\r\n- Defining a process\r\n  - keeping the call technical?\r\n  - ECBP-1076 \"algo change process\" ref #187\r\n- Discuss options for mining algorithms\r\n  - ECIP-1049 \"SHA-3\" @p3c-bot ref #8 #13\r\n  - ECIP-1070 \"ProgPOW\" @YazzyYaz ref #171 #172 \r\n  - Status Quo: \"Ethash\" ...\r\n- Agree on a joint way forward on the three proposals above\r\n- Commit to a timeline\r\n- Focus on a testnet\r\n- Discuss anything else related to Mining\r\n- Bonus: \r\n  - ECIP-1043 \"DAG Size Limit\" @realcodywburns @Wolf-Linzhi ref #11 #138\r\n  - ECIP-1047 \"Block Gas Limit\" @pyskell @zmitton ref #6 #14\r\n\r\nPlease comment to add items to the agenda",
     "reactions": {
       "url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/174/reactions",
@@ -64,5 +65,6 @@
       "heart": 0,
       "rocket": 0,
       "eyes": 0
-    }
+    },
+    "performed_via_github_app": null
   }
