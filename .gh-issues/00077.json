@@ -30,7 +30,24 @@
       "site_admin": false
     },
     "labels": [
-
+      {
+        "id": 1658195407,
+        "node_id": "MDU6TGFiZWwxNjU4MTk1NDA3",
+        "url": "https://api.github.com/repos/ethereumclassic/ECIPs/labels/status:%200%20wip",
+        "name": "status: 0 wip",
+        "color": "f0f0f0",
+        "default": false,
+        "description": "ECIP is still work in progress and shall not be merged."
+      },
+      {
+        "id": 2281227491,
+        "node_id": "MDU6TGFiZWwyMjgxMjI3NDkx",
+        "url": "https://api.github.com/repos/ethereumclassic/ECIPs/labels/type:%20informational",
+        "name": "type: informational",
+        "color": "b3cde3",
+        "default": false,
+        "description": "ECIPs of the type \"Informational\" - no strong consensus required."
+      }
     ],
     "state": "open",
     "locked": false,
@@ -41,14 +58,15 @@
     "milestone": null,
     "comments": 0,
     "created_at": "2019-05-13T17:27:44Z",
-    "updated_at": "2019-05-13T17:27:44Z",
+    "updated_at": "2020-08-17T08:37:02Z",
     "closed_at": null,
     "author_association": "MEMBER",
+    "active_lock_reason": null,
     "body": "",
     "reactions": {
       "url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/77/reactions",
-      "total_count": 0,
-      "+1": 0,
+      "total_count": 1,
+      "+1": 1,
       "-1": 0,
       "laugh": 0,
       "hooray": 0,
@@ -56,5 +74,6 @@
       "heart": 0,
       "rocket": 0,
       "eyes": 0
-    }
+    },
+    "performed_via_github_app": null
   }

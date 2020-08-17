@@ -30,7 +30,24 @@
       "site_admin": false
     },
     "labels": [
-
+      {
+        "id": 1658195407,
+        "node_id": "MDU6TGFiZWwxNjU4MTk1NDA3",
+        "url": "https://api.github.com/repos/ethereumclassic/ECIPs/labels/status:%200%20wip",
+        "name": "status: 0 wip",
+        "color": "f0f0f0",
+        "default": false,
+        "description": "ECIP is still work in progress and shall not be merged."
+      },
+      {
+        "id": 1154785132,
+        "node_id": "MDU6TGFiZWwxMTU0Nzg1MTMy",
+        "url": "https://api.github.com/repos/ethereumclassic/ECIPs/labels/type:%20ecbp",
+        "name": "type: ecbp",
+        "color": "ccebc5",
+        "default": false,
+        "description": "ECIPs of the type \"ECBP\" - describing processes rather than protocols."
+      }
     ],
     "state": "open",
     "locked": false,
@@ -41,9 +58,10 @@
     "milestone": null,
     "comments": 11,
     "created_at": "2019-06-19T18:49:48Z",
-    "updated_at": "2020-02-11T19:14:30Z",
+    "updated_at": "2020-08-17T08:37:31Z",
     "closed_at": null,
     "author_association": "MEMBER",
+    "active_lock_reason": null,
     "body": ":construction: :tropical_fish: I would like to see and help work toward describing plans and accountable standards for\r\n\r\n#### A. Test network testing protocol\r\n\r\nAs [cody speaks to](https://github.com/ethereumclassic/ECIPs/issues/83#issuecomment-502648849), testnet outcomes are only as meaningful as the rigors they are subjected to. We ought to be clear and collaborative about the design and implementation of these **\"live\" testnet protocols**. Who will participate in this? Who will take responsibility, and for which aspects? What are standards that we expect for these protocols? ... reproducability? ... regression-readiness? \r\n\r\n- Kensington\r\n- Kotti\r\n- Morden\r\n\r\n#### B. Cross client integration tests\r\n\r\nLike establishing a shared and meaningful idea of what \"not breaking\" means above, there are clear limitations to the implications of even successful testnet behavior (for example https://github.com/eth-classic/go-ethereum/issues/67 would not have been caught). \r\n\r\nThis points to the value of shared **cross-client test suites**, which can prove out edge cases and other important simulations that may not be possible or practical on a test network. [ethereum/tests](https://github.com/ethereum/tests) is an example of this, albeit in a very one-trick-pony kind of way. \r\n\r\n---\r\n\r\n> Since the teams \"owning\" client development are either independent and/or volunteer-based, and that participation in the network is entirely in the hands of the client operator in the first place, the standards that might be developed here could not be considered with any more earnest than suggested guidelines for client software and operator review, albeit developed with common aims and shared skin in the game.",
     "reactions": {
       "url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/84/reactions",
@@ -56,5 +74,6 @@
       "heart": 0,
       "rocket": 0,
       "eyes": 0
-    }
+    },
+    "performed_via_github_app": null
   }

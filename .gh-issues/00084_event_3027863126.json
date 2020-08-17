@@ -29,5 +29,6 @@
     "rename": {
       "from": "discussion: x-client Atlantis (ECIP 1054) prep and testing protocols ",
       "to": "discussion: x-client fork prep and test patterns "
-    }
+    },
+    "performed_via_github_app": null
   }
