@@ -1,0 +1,22 @@
+From 758b6346d51f6e45b33438f5a07efaf91043714a Mon Sep 17 00:00:00 2001
+From: Raw Pong Ghmoa <58883403+q9f@users.noreply.github.com>
+Date: Mon, 17 Aug 2020 10:50:06 +0200
+Subject: [PATCH] bump jeykill
+
+---
+ Gemfile | 2 +-
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+
+diff --git a/Gemfile b/Gemfile
+index 5bd75575..fde90f00 100644
+--- a/Gemfile
++++ b/Gemfile
+@@ -8,7 +8,7 @@ source "https://rubygems.org"
+ #
+ # This will help ensure the proper Jekyll version is running.
+ # Happy Jekylling!
+-gem "jekyll", "~> 3.6.2"
++gem "jekyll", "~> 3.6.3"
+ gem "nokogiri", ">= 1.10.8"
+ 
+ # This is the default theme for new Jekyll sites. You may change this to anything you like.
