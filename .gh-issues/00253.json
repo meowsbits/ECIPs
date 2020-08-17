@@ -31,13 +31,22 @@
     },
     "labels": [
       {
+        "id": 1658195407,
+        "node_id": "MDU6TGFiZWwxNjU4MTk1NDA3",
+        "url": "https://api.github.com/repos/ethereumclassic/ECIPs/labels/status:%200%20wip",
+        "name": "status: 0 wip",
+        "color": "f0f0f0",
+        "default": false,
+        "description": "ECIP is still work in progress and shall not be merged."
+      },
+      {
         "id": 1154785127,
         "node_id": "MDU6TGFiZWwxMTU0Nzg1MTI3",
         "url": "https://api.github.com/repos/ethereumclassic/ECIPs/labels/type:%20core",
         "name": "type: core",
-        "color": "d73a4a",
+        "color": "fbb4ae",
         "default": false,
-        "description": "Requires consensus consideration"
+        "description": "ECIPs of the type \"Core\" - changing the Classic protocol."
       }
     ],
     "state": "open",
@@ -49,9 +58,10 @@
     "milestone": null,
     "comments": 2,
     "created_at": "2019-12-25T17:37:48Z",
-    "updated_at": "2019-12-27T20:29:43Z",
+    "updated_at": "2020-08-17T08:42:17Z",
     "closed_at": null,
     "author_association": "MEMBER",
+    "active_lock_reason": null,
     "body": "A place to discuss possible countermeasures against rapidly growing ETC blockchain size. \r\nOne of the solutions was already proposed here #14 by Anthony back in january 2019.\r\n\r\n",
     "reactions": {
       "url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/253/reactions",
@@ -64,5 +74,6 @@
       "heart": 0,
       "rocket": 0,
       "eyes": 0
-    }
+    },
+    "performed_via_github_app": null
   }

@@ -29,5 +29,6 @@
     "rename": {
       "from": "Gastoken countermeasures ",
       "to": "Gastoken countermeasures due to rapidly growing blockchain size"
-    }
+    },
+    "performed_via_github_app": null
   }
