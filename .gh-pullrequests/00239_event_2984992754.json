@@ -29,5 +29,6 @@
     "rename": {
       "from": "feat: Create ECIP-1001: ECIP Code of Conduct",
       "to": "ECIP-1001: ECIP Code of Conduct"
-    }
+    },
+    "performed_via_github_app": null
   }

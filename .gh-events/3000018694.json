@@ -66,6 +66,15 @@
           "color": "f0f0f0",
           "default": false,
           "description": "ECIP is still work in progress and shall not be merged."
+        },
+        {
+          "id": 1154785129,
+          "node_id": "MDU6TGFiZWwxMTU0Nzg1MTI5",
+          "url": "https://api.github.com/repos/ethereumclassic/ECIPs/labels/type:%20meta",
+          "name": "type: meta",
+          "color": "cfd3d7",
+          "default": false,
+          "description": "ECIPs of type \"Meta\" - bundling proposals for upgrades."
         }
       ],
       "state": "closed",
@@ -77,7 +86,7 @@
       "milestone": null,
       "comments": 14,
       "created_at": "2019-12-03T21:03:11Z",
-      "updated_at": "2020-02-03T10:35:43Z",
+      "updated_at": "2020-08-17T08:40:59Z",
       "closed_at": "2020-02-02T13:15:22Z",
       "author_association": "MEMBER",
       "active_lock_reason": null,

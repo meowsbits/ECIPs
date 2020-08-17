@@ -1,0 +1,107 @@
+{
+    "id": 3660815369,
+    "node_id": "MDEyOkxhYmVsZWRFdmVudDM2NjA4MTUzNjk=",
+    "url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/events/3660815369",
+    "actor": {
+      "login": "q9f",
+      "id": 58883403,
+      "node_id": "MDQ6VXNlcjU4ODgzNDAz",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/58883403?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/q9f",
+      "html_url": "https://github.com/q9f",
+      "followers_url": "https://api.github.com/users/q9f/followers",
+      "following_url": "https://api.github.com/users/q9f/following{/other_user}",
+      "gists_url": "https://api.github.com/users/q9f/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/q9f/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/q9f/subscriptions",
+      "organizations_url": "https://api.github.com/users/q9f/orgs",
+      "repos_url": "https://api.github.com/users/q9f/repos",
+      "events_url": "https://api.github.com/users/q9f/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/q9f/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "event": "labeled",
+    "commit_id": null,
+    "commit_url": null,
+    "created_at": "2020-08-17T08:40:59Z",
+    "label": {
+      "name": "type: meta",
+      "color": "cfd3d7"
+    },
+    "issue": {
+      "url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/239",
+      "repository_url": "https://api.github.com/repos/ethereumclassic/ECIPs",
+      "labels_url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/239/labels{/name}",
+      "comments_url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/239/comments",
+      "events_url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/239/events",
+      "html_url": "https://github.com/ethereumclassic/ECIPs/pull/239",
+      "id": 532264235,
+      "node_id": "MDExOlB1bGxSZXF1ZXN0MzQ4NTQ5OTg1",
+      "number": 239,
+      "title": "ECIP-1001: ECIP Code of Conduct",
+      "user": {
+        "login": "YazzyYaz",
+        "id": 9094204,
+        "node_id": "MDQ6VXNlcjkwOTQyMDQ=",
+        "avatar_url": "https://avatars2.githubusercontent.com/u/9094204?v=4",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/YazzyYaz",
+        "html_url": "https://github.com/YazzyYaz",
+        "followers_url": "https://api.github.com/users/YazzyYaz/followers",
+        "following_url": "https://api.github.com/users/YazzyYaz/following{/other_user}",
+        "gists_url": "https://api.github.com/users/YazzyYaz/gists{/gist_id}",
+        "starred_url": "https://api.github.com/users/YazzyYaz/starred{/owner}{/repo}",
+        "subscriptions_url": "https://api.github.com/users/YazzyYaz/subscriptions",
+        "organizations_url": "https://api.github.com/users/YazzyYaz/orgs",
+        "repos_url": "https://api.github.com/users/YazzyYaz/repos",
+        "events_url": "https://api.github.com/users/YazzyYaz/events{/privacy}",
+        "received_events_url": "https://api.github.com/users/YazzyYaz/received_events",
+        "type": "User",
+        "site_admin": false
+      },
+      "labels": [
+        {
+          "id": 1658195407,
+          "node_id": "MDU6TGFiZWwxNjU4MTk1NDA3",
+          "url": "https://api.github.com/repos/ethereumclassic/ECIPs/labels/status:%200%20wip",
+          "name": "status: 0 wip",
+          "color": "f0f0f0",
+          "default": false,
+          "description": "ECIP is still work in progress and shall not be merged."
+        },
+        {
+          "id": 1154785129,
+          "node_id": "MDU6TGFiZWwxMTU0Nzg1MTI5",
+          "url": "https://api.github.com/repos/ethereumclassic/ECIPs/labels/type:%20meta",
+          "name": "type: meta",
+          "color": "cfd3d7",
+          "default": false,
+          "description": "ECIPs of type \"Meta\" - bundling proposals for upgrades."
+        }
+      ],
+      "state": "closed",
+      "locked": false,
+      "assignee": null,
+      "assignees": [
+
+      ],
+      "milestone": null,
+      "comments": 14,
+      "created_at": "2019-12-03T21:03:11Z",
+      "updated_at": "2020-08-17T08:40:59Z",
+      "closed_at": "2020-02-02T13:15:22Z",
+      "author_association": "MEMBER",
+      "active_lock_reason": null,
+      "pull_request": {
+        "url": "https://api.github.com/repos/ethereumclassic/ECIPs/pulls/239",
+        "html_url": "https://github.com/ethereumclassic/ECIPs/pull/239",
+        "diff_url": "https://github.com/ethereumclassic/ECIPs/pull/239.diff",
+        "patch_url": "https://github.com/ethereumclassic/ECIPs/pull/239.patch"
+      },
+      "body": "Issue for discussion to the Code of Conduct ticket is here: https://github.com/ethereumclassic/ECIPs/issues/238",
+      "performed_via_github_app": null
+    },
+    "performed_via_github_app": null
+  }
