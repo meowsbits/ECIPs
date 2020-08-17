@@ -1,7 +1,7 @@
 {
-    "id": 3660724940,
-    "node_id": "MDEyOkxhYmVsZWRFdmVudDM2NjA3MjQ5NDA=",
-    "url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/events/3660724940",
+    "id": 3661462895,
+    "node_id": "MDE0OlVubGFiZWxlZEV2ZW50MzY2MTQ2Mjg5NQ==",
+    "url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/events/3661462895",
     "actor": {
       "login": "q9f",
       "id": 58883403,
@@ -22,25 +22,25 @@
       "type": "User",
       "site_admin": false
     },
-    "event": "labeled",
+    "event": "unlabeled",
     "commit_id": null,
     "commit_url": null,
-    "created_at": "2020-08-17T08:16:23Z",
+    "created_at": "2020-08-17T11:39:55Z",
     "label": {
-      "name": "status: final",
-      "color": "50c0fc"
+      "name": "editor: 1 needs review",
+      "color": "ffd92f"
     },
     "issue": {
-      "url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/334",
+      "url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/338",
       "repository_url": "https://api.github.com/repos/ethereumclassic/ECIPs",
-      "labels_url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/334/labels{/name}",
-      "comments_url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/334/comments",
-      "events_url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/334/events",
-      "html_url": "https://github.com/ethereumclassic/ECIPs/pull/334",
-      "id": 680027716,
-      "node_id": "MDExOlB1bGxSZXF1ZXN0NDY4NjYwNTMx",
-      "number": 334,
-      "title": "Move ECIP-1088 \"Phoenix\" to Final.",
+      "labels_url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/338/labels{/name}",
+      "comments_url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/338/comments",
+      "events_url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/338/events",
+      "html_url": "https://github.com/ethereumclassic/ECIPs/pull/338",
+      "id": 680061673,
+      "node_id": "MDExOlB1bGxSZXF1ZXN0NDY4Njg4NDg0",
+      "number": 338,
+      "title": "Bump jeykill and kramdown",
       "user": {
         "login": "q9f",
         "id": 58883403,
@@ -63,31 +63,22 @@
       },
       "labels": [
         {
-          "id": 2281247217,
-          "node_id": "MDU6TGFiZWwyMjgxMjQ3MjE3",
-          "url": "https://api.github.com/repos/ethereumclassic/ECIPs/labels/editor:%201%20needs%20review",
-          "name": "editor: 1 needs review",
-          "color": "ffd92f",
+          "id": 1632883313,
+          "node_id": "MDU6TGFiZWwxNjMyODgzMzEz",
+          "url": "https://api.github.com/repos/ethereumclassic/ECIPs/labels/bot:%20dependencies",
+          "name": "bot: dependencies",
+          "color": "ffffff",
           "default": false,
-          "description": "This contribution needs a careful review."
+          "description": "Pull requests that update a dependency file"
         },
         {
-          "id": 2281210709,
-          "node_id": "MDU6TGFiZWwyMjgxMjEwNzA5",
-          "url": "https://api.github.com/repos/ethereumclassic/ECIPs/labels/status:%209%20final",
-          "name": "status: 9 final",
-          "color": "252525",
+          "id": 1428838937,
+          "node_id": "MDU6TGFiZWwxNDI4ODM4OTM3",
+          "url": "https://api.github.com/repos/ethereumclassic/ECIPs/labels/editor:%207%20looks-good",
+          "name": "editor: 7 looks-good",
+          "color": "a6d854",
           "default": false,
-          "description": "ECIP has been activated on testnet and/or mainnet."
-        },
-        {
-          "id": 1154785129,
-          "node_id": "MDU6TGFiZWwxMTU0Nzg1MTI5",
-          "url": "https://api.github.com/repos/ethereumclassic/ECIPs/labels/type:%20meta",
-          "name": "type: meta",
-          "color": "cfd3d7",
-          "default": false,
-          "description": "ECIPs of type \"Meta\" - bundling proposals for upgrades."
+          "description": "This contribution is well reviewed and good to be merged."
         }
       ],
       "state": "open",
@@ -98,18 +89,18 @@
       ],
       "milestone": null,
       "comments": 0,
-      "created_at": "2020-08-17T07:54:47Z",
-      "updated_at": "2020-08-17T11:40:35Z",
+      "created_at": "2020-08-17T08:50:22Z",
+      "updated_at": "2020-08-17T11:39:56Z",
       "closed_at": null,
       "author_association": "CONTRIBUTOR",
       "active_lock_reason": null,
       "pull_request": {
-        "url": "https://api.github.com/repos/ethereumclassic/ECIPs/pulls/334",
-        "html_url": "https://github.com/ethereumclassic/ECIPs/pull/334",
-        "diff_url": "https://github.com/ethereumclassic/ECIPs/pull/334.diff",
-        "patch_url": "https://github.com/ethereumclassic/ECIPs/pull/334.patch"
+        "url": "https://api.github.com/repos/ethereumclassic/ECIPs/pulls/338",
+        "html_url": "https://github.com/ethereumclassic/ECIPs/pull/338",
+        "diff_url": "https://github.com/ethereumclassic/ECIPs/pull/338.diff",
+        "patch_url": "https://github.com/ethereumclassic/ECIPs/pull/338.patch"
       },
-      "body": "It's live on mainnet.",
+      "body": "",
       "performed_via_github_app": null
     },
     "performed_via_github_app": null
