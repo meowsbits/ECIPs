@@ -1,0 +1,32 @@
+From b501a2f4bdd5f96dac5844ad3ffb52844ca52443 Mon Sep 17 00:00:00 2001
+From: /raw PONG _GHMoaCXLT <58883403+q9f@users.noreply.github.com>
+Date: Mon, 17 Aug 2020 10:14:33 +0200
+Subject: [PATCH] fix number and path of ecip 1093
+
+---
+ _specs/{ecip-randomX.md => ecip-1093.md} | 4 ++--
+ 1 file changed, 2 insertions(+), 2 deletions(-)
+ rename _specs/{ecip-randomX.md => ecip-1093.md} (99%)
+
+diff --git a/_specs/ecip-randomX.md b/_specs/ecip-1093.md
+similarity index 99%
+rename from _specs/ecip-randomX.md
+rename to _specs/ecip-1093.md
+index 7202bf4d..aece6d68 100644
+--- a/_specs/ecip-randomX.md
++++ b/_specs/ecip-1093.md
+@@ -1,12 +1,12 @@
+ ---
+ lang: en
+-ecip: ECIP-1093
++ecip: 1093
+ title: Change the ETC Proof of Work Algorithm to RandomX
+ status: Draft
+ type: Standards Track
+ category: Core
+ discussions-to: https://github.com/ethereumclassic/ECIPs/issues/329
+-author: r0n1n (gitr0n1n@protonmail.com)
++author: r0n1n (@gitr0n1n)
+ created: 2020-08-07
+ ---
+ 
