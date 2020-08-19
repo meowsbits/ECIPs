@@ -25,9 +25,9 @@
       "site_admin": false
     },
     "created_at": "2020-08-19T01:39:01Z",
-    "updated_at": "2020-08-19T01:39:27Z",
+    "updated_at": "2020-08-19T01:39:54Z",
     "author_association": "CONTRIBUTOR",
-    "body": "Thanks @gitr0n1n for redirecting me here.\r\n\r\nRepeating what I wrote on the ECIP discussion page:\r\n\r\n``I think Keccak256 is the way to go for ETC. I support this ECIP-1049 100%.\r\n\r\nJust to clarify: The change to SHA3 is not \"because ETC wants ASICs\". It is a) for ETC to be in a unique mining algo niche and b) to have a clean and proven algo.\r\n\r\nWhether machines of several sorts or not can freely compete and win blocks is a different matter.``",
+    "body": "Thanks @gitr0n1n for redirecting me here.\r\n\r\nRepeating what I wrote on the ECIP discussion page:\r\n\r\n```\r\nI think Keccak256 is the way to go for ETC. I support this ECIP-1049 100%.\r\n\r\nJust to clarify: The change to SHA3 is not \"because ETC wants ASICs\". It is a) for ETC to be in a unique mining algo niche and b) to have a clean and proven algo.\r\n\r\nWhether machines of several sorts or not can freely compete and win blocks is a different matter.\r\n```",
     "reactions": {
       "url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/comments/675801998/reactions",
       "total_count": 0,
