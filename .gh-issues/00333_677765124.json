@@ -25,9 +25,9 @@
       "site_admin": false
     },
     "created_at": "2020-08-20T16:22:09Z",
-    "updated_at": "2020-08-20T16:22:09Z",
+    "updated_at": "2020-08-20T16:28:28Z",
     "author_association": "MEMBER",
-    "body": "Documentation of the meeting: https://docs.google.com/document/d/1f0a0sqb0OW3n4ki6nM3q9hvJ91HeZoj9Rpjp2fDCZIQ\r\n\r\nSome Feedback on this meeting and how it was held: https://youtu.be/F0lR_u7BVho",
+    "body": "Noting that the recording of the meeting had techincal issues, which is not ideal for such big decisions.\r\n\r\nDocumentation of the meeting's minutes: https://docs.google.com/document/d/1f0a0sqb0OW3n4ki6nM3q9hvJ91HeZoj9Rpjp2fDCZIQ\r\n\r\nIt appears there was low turnout and low participation in this meeting. It was scheduled very early for many participants. Topics were rushed, many ideas lacked present champions. IOHK appears to have been prepared for the meeting and had some constructive feedback for consensus building moving forward: https://youtu.be/F0lR_u7BVho",
     "reactions": {
       "url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/comments/677765124/reactions",
       "total_count": 0,
