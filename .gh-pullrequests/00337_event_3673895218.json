@@ -1,0 +1,30 @@
+{
+    "id": 3673895218,
+    "node_id": "MDE1OlN1YnNjcmliZWRFdmVudDM2NzM4OTUyMTg=",
+    "url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/events/3673895218",
+    "actor": {
+      "login": "vanhalendlrband",
+      "id": 29420803,
+      "node_id": "MDQ6VXNlcjI5NDIwODAz",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/29420803?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/vanhalendlrband",
+      "html_url": "https://github.com/vanhalendlrband",
+      "followers_url": "https://api.github.com/users/vanhalendlrband/followers",
+      "following_url": "https://api.github.com/users/vanhalendlrband/following{/other_user}",
+      "gists_url": "https://api.github.com/users/vanhalendlrband/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/vanhalendlrband/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/vanhalendlrband/subscriptions",
+      "organizations_url": "https://api.github.com/users/vanhalendlrband/orgs",
+      "repos_url": "https://api.github.com/users/vanhalendlrband/repos",
+      "events_url": "https://api.github.com/users/vanhalendlrband/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/vanhalendlrband/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "event": "subscribed",
+    "commit_id": null,
+    "commit_url": null,
+    "created_at": "2020-08-20T07:34:00Z",
+    "performed_via_github_app": null
+  }
