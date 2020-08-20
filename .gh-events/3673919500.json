@@ -40,7 +40,7 @@
       "id": 682456001,
       "node_id": "MDExOlB1bGxSZXF1ZXN0NDcwNjk0NjI0",
       "number": 340,
-      "title": "Propose Integration of VeriBlock Proof-of-Proof into Ethereum Classic to Secure Against 51% Attacks",
+      "title": "ECIP-1094: Integration of VeriBlock Proof-of-Proof into Ethereum Classic",
       "user": {
         "login": "max-sanchez",
         "id": 1361464,
@@ -99,7 +99,7 @@
       "milestone": null,
       "comments": 0,
       "created_at": "2020-08-20T06:29:51Z",
-      "updated_at": "2020-08-20T07:40:07Z",
+      "updated_at": "2020-08-20T07:40:37Z",
       "closed_at": null,
       "author_association": "NONE",
       "active_lock_reason": null,
