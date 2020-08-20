@@ -1,0 +1,68 @@
+{
+    "url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/340",
+    "repository_url": "https://api.github.com/repos/ethereumclassic/ECIPs",
+    "labels_url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/340/labels{/name}",
+    "comments_url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/340/comments",
+    "events_url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/340/events",
+    "html_url": "https://github.com/ethereumclassic/ECIPs/pull/340",
+    "id": 682456001,
+    "node_id": "MDExOlB1bGxSZXF1ZXN0NDcwNjk0NjI0",
+    "number": 340,
+    "title": "Propose Integration of VeriBlock Proof-of-Proof into Ethereum Classic to Secure Against 51% Attacks",
+    "user": {
+      "login": "max-sanchez",
+      "id": 1361464,
+      "node_id": "MDQ6VXNlcjEzNjE0NjQ=",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/1361464?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/max-sanchez",
+      "html_url": "https://github.com/max-sanchez",
+      "followers_url": "https://api.github.com/users/max-sanchez/followers",
+      "following_url": "https://api.github.com/users/max-sanchez/following{/other_user}",
+      "gists_url": "https://api.github.com/users/max-sanchez/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/max-sanchez/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/max-sanchez/subscriptions",
+      "organizations_url": "https://api.github.com/users/max-sanchez/orgs",
+      "repos_url": "https://api.github.com/users/max-sanchez/repos",
+      "events_url": "https://api.github.com/users/max-sanchez/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/max-sanchez/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "labels": [
+
+    ],
+    "state": "open",
+    "locked": false,
+    "assignee": null,
+    "assignees": [
+
+    ],
+    "milestone": null,
+    "comments": 0,
+    "created_at": "2020-08-20T06:29:51Z",
+    "updated_at": "2020-08-20T06:29:51Z",
+    "closed_at": null,
+    "author_association": "FIRST_TIME_CONTRIBUTOR",
+    "active_lock_reason": null,
+    "pull_request": {
+      "url": "https://api.github.com/repos/ethereumclassic/ECIPs/pulls/340",
+      "html_url": "https://github.com/ethereumclassic/ECIPs/pull/340",
+      "diff_url": "https://github.com/ethereumclassic/ECIPs/pull/340.diff",
+      "patch_url": "https://github.com/ethereumclassic/ECIPs/pull/340.patch"
+    },
+    "body": "This ECIP proposes the integration of VeriBlock PoP security to protect Ethereum Classic from long-range 51% reorganizations and 51% attack censorship attacks against smart contract protocols.",
+    "reactions": {
+      "url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/340/reactions",
+      "total_count": 0,
+      "+1": 0,
+      "-1": 0,
+      "laugh": 0,
+      "hooray": 0,
+      "confused": 0,
+      "heart": 0,
+      "rocket": 0,
+      "eyes": 0
+    },
+    "performed_via_github_app": null
+  }
