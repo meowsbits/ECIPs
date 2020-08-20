@@ -1,0 +1,30 @@
+{
+    "id": 3676558485,
+    "node_id": "MDE0Ok1lbnRpb25lZEV2ZW50MzY3NjU1ODQ4NQ==",
+    "url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/events/3676558485",
+    "actor": {
+      "login": "masterdubs",
+      "id": 3204905,
+      "node_id": "MDQ6VXNlcjMyMDQ5MDU=",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/3204905?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/masterdubs",
+      "html_url": "https://github.com/masterdubs",
+      "followers_url": "https://api.github.com/users/masterdubs/followers",
+      "following_url": "https://api.github.com/users/masterdubs/following{/other_user}",
+      "gists_url": "https://api.github.com/users/masterdubs/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/masterdubs/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/masterdubs/subscriptions",
+      "organizations_url": "https://api.github.com/users/masterdubs/orgs",
+      "repos_url": "https://api.github.com/users/masterdubs/repos",
+      "events_url": "https://api.github.com/users/masterdubs/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/masterdubs/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "event": "mentioned",
+    "commit_id": null,
+    "commit_url": null,
+    "created_at": "2020-08-20T18:22:13Z",
+    "performed_via_github_app": null
+  }
