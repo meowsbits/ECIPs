@@ -1,9 +1,9 @@
 {
-    "url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/comments/677787751",
-    "html_url": "https://github.com/ethereumclassic/ECIPs/issues/329#issuecomment-677787751",
-    "issue_url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/329",
-    "id": 677787751,
-    "node_id": "MDEyOklzc3VlQ29tbWVudDY3Nzc4Nzc1MQ==",
+    "url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/comments/677814272",
+    "html_url": "https://github.com/ethereumclassic/ECIPs/issues/327#issuecomment-677814272",
+    "issue_url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/327",
+    "id": 677814272,
+    "node_id": "MDEyOklzc3VlQ29tbWVudDY3NzgxNDI3Mg==",
     "user": {
       "login": "gitr0n1n",
       "id": 58588775,
@@ -24,12 +24,12 @@
       "type": "User",
       "site_admin": false
     },
-    "created_at": "2020-08-20T17:05:47Z",
-    "updated_at": "2020-08-20T17:31:36Z",
+    "created_at": "2020-08-20T18:01:14Z",
+    "updated_at": "2020-08-20T18:01:14Z",
     "author_association": "MEMBER",
-    "body": "IOHK commentary on RandomX / SHA3 philosphical debate and considerations:\r\n\r\nhttps://youtu.be/F0lR_u7BVho?t=490",
+    "body": "IOHK Commentary on desire to have technical demostrations and Q&A with the PirlGuard team:\r\nhttps://youtu.be/F0lR_u7BVho?t=1804\r\n\r\nPerhaps these teams can setup a YouTube live meeting and explain their approaches to each other. Seems like a productive conversation to have between development teams and a great recording for vested parties to observe.",
     "reactions": {
-      "url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/comments/677787751/reactions",
+      "url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/comments/677814272/reactions",
       "total_count": 0,
       "+1": 0,
       "-1": 0,
