@@ -1,0 +1,50 @@
+{
+    "id": 473700537,
+    "node_id": "MDI0OlB1bGxSZXF1ZXN0UmV2aWV3Q29tbWVudDQ3MzcwMDUzNw==",
+    "url": "https://api.github.com/repos/ethereumclassic/ECIPs/pulls/comments/473700537",
+    "pull_request_review_id": 471338114,
+    "diff_hunk": "@@ -0,0 +1,569 @@\n+---\n+lang: en\n+ecip: ECIP ????",
+    "path": "ECIP-VeriBlock-PoP-51%-Protection.md",
+    "position": 3,
+    "original_position": 3,
+    "commit_id": "171fae30667b5b64ad43cdb33230eac9219d3c13",
+    "user": {
+      "login": "q9f",
+      "id": 58883403,
+      "node_id": "MDQ6VXNlcjU4ODgzNDAz",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/58883403?u=72563674ea84909432bf249ab92fb936dffa313d&v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/q9f",
+      "html_url": "https://github.com/q9f",
+      "followers_url": "https://api.github.com/users/q9f/followers",
+      "following_url": "https://api.github.com/users/q9f/following{/other_user}",
+      "gists_url": "https://api.github.com/users/q9f/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/q9f/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/q9f/subscriptions",
+      "organizations_url": "https://api.github.com/users/q9f/orgs",
+      "repos_url": "https://api.github.com/users/q9f/repos",
+      "events_url": "https://api.github.com/users/q9f/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/q9f/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "body": "please rename the file to ecip-1094.md",
+    "created_at": "2020-08-20T07:35:48Z",
+    "updated_at": "2020-08-20T07:38:26Z",
+    "html_url": "https://github.com/ethereumclassic/ECIPs/pull/340#discussion_r473700537",
+    "pull_request_url": "https://api.github.com/repos/ethereumclassic/ECIPs/pulls/340",
+    "author_association": "MEMBER",
+    "_links": {
+      "self": {
+        "href": "https://api.github.com/repos/ethereumclassic/ECIPs/pulls/comments/473700537"
+      },
+      "html": {
+        "href": "https://github.com/ethereumclassic/ECIPs/pull/340#discussion_r473700537"
+      },
+      "pull_request": {
+        "href": "https://api.github.com/repos/ethereumclassic/ECIPs/pulls/340"
+      }
+    },
+    "original_commit_id": "171fae30667b5b64ad43cdb33230eac9219d3c13",
+    "in_reply_to_id": 473700315
+  }
