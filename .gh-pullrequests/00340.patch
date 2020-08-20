@@ -1,7 +1,7 @@
 From 4352c9c3bc037b37fc81538b76b9afe1b24f2e29 Mon Sep 17 00:00:00 2001
 From: Maxwell Sanchez <macbymax@gmail.com>
 Date: Thu, 20 Aug 2020 02:22:19 -0400
-Subject: [PATCH 1/3] Images Upload
+Subject: [PATCH 1/7] Images Upload
 
 ---
  assets/ecip-vbkpop/etc_header_hash_format.png  | Bin 0 -> 43010 bytes
@@ -4893,7 +4893,7 @@ HcmV?d00001
 From a95d1812a402cda4657cd5d43a462f7ae233106c Mon Sep 17 00:00:00 2001
 From: Maxwell Sanchez <max@veriblock.com>
 Date: Thu, 20 Aug 2020 02:24:14 -0400
-Subject: [PATCH 2/3] Create ECIP-VeriBlock-PoP-51%-Protection.md
+Subject: [PATCH 2/7] Create ECIP-VeriBlock-PoP-51%-Protection.md
 
 Pushing VeriBlock PoP ECIP Draft
 ---
@@ -5480,7 +5480,7 @@ index 00000000..46fe9fd6
 From 171fae30667b5b64ad43cdb33230eac9219d3c13 Mon Sep 17 00:00:00 2001
 From: Maxwell Sanchez <max@veriblock.com>
 Date: Thu, 20 Aug 2020 02:28:21 -0400
-Subject: [PATCH 3/3] Update ECIP-VeriBlock-PoP-51%-Protection.md
+Subject: [PATCH 3/7] Update ECIP-VeriBlock-PoP-51%-Protection.md
 
 Updated ECIP Status to `draft`
 ---
@@ -5500,3 +5500,99 @@ index 46fe9fd6..60d4227f 100644
  type: Standards Track
  discussions-to: https://github.com/max-sanchez/ECIPs-1/issues/?
  author: Max Sanchez (@max-sanchez)
+
+From 6ec333f07218c0edf3edd0170e5a544f9089b8d7 Mon Sep 17 00:00:00 2001
+From: Maxwell Sanchez <max@veriblock.com>
+Date: Thu, 20 Aug 2020 11:16:02 -0400
+Subject: [PATCH 4/7] Update ECIP-VeriBlock-PoP-51%-Protection.md
+
+ECIP Number Assigned
+
+Co-authored-by: Raw Pong Ghmoa <58883403+q9f@users.noreply.github.com>
+---
+ ECIP-VeriBlock-PoP-51%-Protection.md | 2 +-
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+
+diff --git a/ECIP-VeriBlock-PoP-51%-Protection.md b/ECIP-VeriBlock-PoP-51%-Protection.md
+index 60d4227f..583b6822 100644
+--- a/ECIP-VeriBlock-PoP-51%-Protection.md
++++ b/ECIP-VeriBlock-PoP-51%-Protection.md
+@@ -1,6 +1,6 @@
+ ---
+ lang: en
+-ecip: ECIP ????
++ecip: ECIP 1094
+ title: Proof-of-Proof 51% Attack Prevention
+ status: Draft
+ type: Standards Track
+
+From 2967bf2687d6507fbe093650d21b28fc0016d4cd Mon Sep 17 00:00:00 2001
+From: Maxwell Sanchez <max@veriblock.com>
+Date: Thu, 20 Aug 2020 11:16:24 -0400
+Subject: [PATCH 5/7] Update ECIP-VeriBlock-PoP-51%-Protection.md
+
+Updated title per suggestion
+
+Co-authored-by: Raw Pong Ghmoa <58883403+q9f@users.noreply.github.com>
+---
+ ECIP-VeriBlock-PoP-51%-Protection.md | 2 +-
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+
+diff --git a/ECIP-VeriBlock-PoP-51%-Protection.md b/ECIP-VeriBlock-PoP-51%-Protection.md
+index 583b6822..ffbd936c 100644
+--- a/ECIP-VeriBlock-PoP-51%-Protection.md
++++ b/ECIP-VeriBlock-PoP-51%-Protection.md
+@@ -1,7 +1,7 @@
+ ---
+ lang: en
+ ecip: ECIP 1094
+-title: Proof-of-Proof 51% Attack Prevention
++title: VeriBlock Proof-of-Proof 51%-Attack Prevention
+ status: Draft
+ type: Standards Track
+ discussions-to: https://github.com/max-sanchez/ECIPs-1/issues/?
+
+From 433c36f7652481bad675d91f23ff853b9839e449 Mon Sep 17 00:00:00 2001
+From: Maxwell Sanchez <max@veriblock.com>
+Date: Thu, 20 Aug 2020 11:21:23 -0400
+Subject: [PATCH 6/7] Update ECIP-VeriBlock-PoP-51%-Protection.md
+
+---
+ ECIP-VeriBlock-PoP-51%-Protection.md | 1 +
+ 1 file changed, 1 insertion(+)
+
+diff --git a/ECIP-VeriBlock-PoP-51%-Protection.md b/ECIP-VeriBlock-PoP-51%-Protection.md
+index ffbd936c..346eb62d 100644
+--- a/ECIP-VeriBlock-PoP-51%-Protection.md
++++ b/ECIP-VeriBlock-PoP-51%-Protection.md
+@@ -2,6 +2,7 @@
+ lang: en
+ ecip: ECIP 1094
+ title: VeriBlock Proof-of-Proof 51%-Attack Prevention
++category: core
+ status: Draft
+ type: Standards Track
+ discussions-to: https://github.com/max-sanchez/ECIPs-1/issues/?
+
+From 33b7f37b67cab0e3d75f1b3c0ccee4f3633ddfc4 Mon Sep 17 00:00:00 2001
+From: Maxwell Sanchez <max@veriblock.com>
+Date: Thu, 20 Aug 2020 11:57:48 -0400
+Subject: [PATCH 7/7] Update ECIP-VeriBlock-PoP-51%-Protection.md
+
+---
+ ECIP-VeriBlock-PoP-51%-Protection.md | 5 +++++
+ 1 file changed, 5 insertions(+)
+
+diff --git a/ECIP-VeriBlock-PoP-51%-Protection.md b/ECIP-VeriBlock-PoP-51%-Protection.md
+index 346eb62d..34adcf46 100644
+--- a/ECIP-VeriBlock-PoP-51%-Protection.md
++++ b/ECIP-VeriBlock-PoP-51%-Protection.md
+@@ -568,3 +568,8 @@ Additionally, the anti-censorship capabilities that VeriBlock introduces through
+ Proof-of-Proof doesn’t replace Ethereum Classic’s existing Proof-of-Work algorithm but provides reinforcement of it based on Bitcoin, and doesn’t introduce any centralized system or modify the blockchain’s governance system (adoption of hard forks, etc. is still done by consensus amongst PoW miners).
+ 
+ Adjustments can be made to how Proof-of-Proof is integrated into Ethereum Classic based on tradeoffs between backwards compatibility with existing software, ease of implementation, data size, and tolerable levels of introduced complexity. As well, some parts of the VeriBlock integration can be skipped; the transaction offloading system that provides protection against 51% censorship attacks could be removed while still integrating Proof-of-Proof to provide security against surprise long-range reorganizations, and the integration of the `BITCOINFINALITY` opcode can be skipped to reduce the amount of data required to be stored directly on-chain (versus acquired by only nodes wanting to access Bitcoin finality statistics) if desired. 
++
++## Copyright
++
++This work is licensed under [Apache License, Version
++2.0](http://www.apache.org/licenses/).

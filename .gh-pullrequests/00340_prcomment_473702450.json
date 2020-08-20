@@ -5,9 +5,9 @@
     "node_id": "MDI0OlB1bGxSZXF1ZXN0UmV2aWV3Q29tbWVudDQ3MzcwMjQ1MA==",
     "diff_hunk": "@@ -0,0 +1,569 @@\n+---\n+lang: en\n+ecip: ECIP ????\n+title: Proof-of-Proof 51% Attack Prevention\n+status: Draft\n+type: Standards Track",
     "path": "ECIP-VeriBlock-PoP-51%-Protection.md",
-    "position": 6,
+    "position": 7,
     "original_position": 6,
-    "commit_id": "171fae30667b5b64ad43cdb33230eac9219d3c13",
+    "commit_id": "33b7f37b67cab0e3d75f1b3c0ccee4f3633ddfc4",
     "original_commit_id": "171fae30667b5b64ad43cdb33230eac9219d3c13",
     "user": {
       "login": "q9f",
@@ -31,7 +31,7 @@
     },
     "body": "please add `category: core`",
     "created_at": "2020-08-20T07:37:22Z",
-    "updated_at": "2020-08-20T07:38:26Z",
+    "updated_at": "2020-08-20T15:57:50Z",
     "html_url": "https://github.com/ethereumclassic/ECIPs/pull/340#discussion_r473702450",
     "pull_request_url": "https://api.github.com/repos/ethereumclassic/ECIPs/pulls/340",
     "author_association": "MEMBER",
@@ -49,7 +49,7 @@
     "start_line": null,
     "original_start_line": null,
     "start_side": null,
-    "line": 6,
+    "line": 7,
     "original_line": 6,
     "side": "RIGHT"
   }
