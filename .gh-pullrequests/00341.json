@@ -41,7 +41,7 @@
     "milestone": null,
     "comments": 2,
     "created_at": "2020-08-20T20:41:28Z",
-    "updated_at": "2020-08-21T22:06:24Z",
+    "updated_at": "2020-08-21T22:07:44Z",
     "closed_at": null,
     "author_association": "MEMBER",
     "active_lock_reason": null,
@@ -51,7 +51,7 @@
       "diff_url": "https://github.com/ethereumclassic/ECIPs/pull/341.diff",
       "patch_url": "https://github.com/ethereumclassic/ECIPs/pull/341.patch"
     },
-    "body": "Discussion to https://github.com/ethereumclassic/ECIPs/issues/342\r\nView draft at https://github.com/ethereumclassic/ECIPs/blob/070adc64e17a9796ce0d75f16d4faaea949224ac/_specs/ecip-vanilla-sha-3.md",
+    "body": "#### Discussion: https://github.com/ethereumclassic/ECIPs/issues/342\r\n\r\n#### View draft: https://github.com/ethereumclassic/ECIPs/blob/8790db36f475a5e29d1c3ea5a22b5e16c60251bf/_specs/ecip-vanilla-sha-3.md",
     "reactions": {
       "url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/341/reactions",
       "total_count": 0,
