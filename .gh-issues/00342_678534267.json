@@ -1,14 +1,9 @@
 {
-    "url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/342",
-    "repository_url": "https://api.github.com/repos/ethereumclassic/ECIPs",
-    "labels_url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/342/labels{/name}",
-    "comments_url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/342/comments",
-    "events_url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/342/events",
-    "html_url": "https://github.com/ethereumclassic/ECIPs/issues/342",
-    "id": 683084101,
-    "node_id": "MDU6SXNzdWU2ODMwODQxMDE=",
-    "number": 342,
-    "title": "Change ETC PoW to \"vanilla\" Sha-3 Discussion",
+    "url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/comments/678534267",
+    "html_url": "https://github.com/ethereumclassic/ECIPs/issues/342#issuecomment-678534267",
+    "issue_url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/342",
+    "id": 678534267,
+    "node_id": "MDEyOklzc3VlQ29tbWVudDY3ODUzNDI2Nw==",
     "user": {
       "login": "stevanlohja",
       "id": 10556209,
@@ -29,25 +24,12 @@
       "type": "User",
       "site_admin": false
     },
-    "labels": [
-
-    ],
-    "state": "open",
-    "locked": false,
-    "assignee": null,
-    "assignees": [
-
-    ],
-    "milestone": null,
-    "comments": 1,
-    "created_at": "2020-08-20T20:43:40Z",
+    "created_at": "2020-08-21T21:59:56Z",
     "updated_at": "2020-08-21T22:01:32Z",
-    "closed_at": null,
     "author_association": "MEMBER",
-    "active_lock_reason": null,
-    "body": "This issue if the discussion for ECIP https://github.com/ethereumclassic/ECIPs/pull/341",
+    "body": "https://github.com/ethereumclassic/ECIPs/pull/341#issuecomment-678419847\r\n@developerkevin To my understanding I'm waiting for an ECIP editor to assign an ECIP number, then the document would be ECIP-#### (assigned number).\r\n\r\n_Vanilla_  is often used in programming and other computing systems to simply mean a \"non-customized\" version or \"original\". Another way to say \"vanilla Sha-3\" would be \"Sha-3 standard\". For example, Keccak-256 produces different hashes than the official Sha-3 algorithm so Keccak-256 would not be vanilla Sha-3 or standard Sha-3.",
     "reactions": {
-      "url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/342/reactions",
+      "url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/comments/678534267/reactions",
       "total_count": 0,
       "+1": 0,
       "-1": 0,
