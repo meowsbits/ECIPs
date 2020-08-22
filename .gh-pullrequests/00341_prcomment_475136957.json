@@ -1,0 +1,55 @@
+{
+    "url": "https://api.github.com/repos/ethereumclassic/ECIPs/pulls/comments/475136957",
+    "pull_request_review_id": 472961212,
+    "id": 475136957,
+    "node_id": "MDI0OlB1bGxSZXF1ZXN0UmV2aWV3Q29tbWVudDQ3NTEzNjk1Nw==",
+    "diff_hunk": "@@ -0,0 +1,73 @@\n+```\n+ECIP: TBD\n+Title: Change the ETC Proof of Work Algorithm to _vanilla_ Sha-3\n+Status: Draft\n+Type: Network\n+Discussion: TBD",
+    "path": "_specs/ecip-vanilla-sha-3.md",
+    "position": 6,
+    "original_position": 6,
+    "commit_id": "8790db36f475a5e29d1c3ea5a22b5e16c60251bf",
+    "original_commit_id": "8790db36f475a5e29d1c3ea5a22b5e16c60251bf",
+    "user": {
+      "login": "realcodywburns",
+      "id": 13103499,
+      "node_id": "MDQ6VXNlcjEzMTAzNDk5",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/13103499?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/realcodywburns",
+      "html_url": "https://github.com/realcodywburns",
+      "followers_url": "https://api.github.com/users/realcodywburns/followers",
+      "following_url": "https://api.github.com/users/realcodywburns/following{/other_user}",
+      "gists_url": "https://api.github.com/users/realcodywburns/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/realcodywburns/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/realcodywburns/subscriptions",
+      "organizations_url": "https://api.github.com/users/realcodywburns/orgs",
+      "repos_url": "https://api.github.com/users/realcodywburns/repos",
+      "events_url": "https://api.github.com/users/realcodywburns/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/realcodywburns/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "body": "update to #342 ",
+    "created_at": "2020-08-22T20:47:20Z",
+    "updated_at": "2020-08-22T20:47:20Z",
+    "html_url": "https://github.com/ethereumclassic/ECIPs/pull/341#discussion_r475136957",
+    "pull_request_url": "https://api.github.com/repos/ethereumclassic/ECIPs/pulls/341",
+    "author_association": "MEMBER",
+    "_links": {
+      "self": {
+        "href": "https://api.github.com/repos/ethereumclassic/ECIPs/pulls/comments/475136957"
+      },
+      "html": {
+        "href": "https://github.com/ethereumclassic/ECIPs/pull/341#discussion_r475136957"
+      },
+      "pull_request": {
+        "href": "https://api.github.com/repos/ethereumclassic/ECIPs/pulls/341"
+      }
+    },
+    "start_line": null,
+    "original_start_line": null,
+    "start_side": null,
+    "line": 6,
+    "original_line": 6,
+    "side": "RIGHT"
+  }
