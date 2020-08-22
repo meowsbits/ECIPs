@@ -25,13 +25,13 @@
       "site_admin": false
     },
     "created_at": "2020-08-22T18:28:31Z",
-    "updated_at": "2020-08-22T18:29:17Z",
+    "updated_at": "2020-08-22T19:52:47Z",
     "author_association": "MEMBER",
-    "body": "> Haven't you considered reducing the DAG epochs? In about a month, DAG epochs will be too big for a 4GB GPU.\r\n> This will result in (in my opinion) a fairly sharp drop in the hashrate for ETC.\r\n> \r\n> An article with a plan was recently published, stating that security against 51% of the attack should take place in 3 months. But a big drop in hashrat will be in a month.\r\n> \r\n> If the DAG complexity could be technically reduced, the hashrate would not decrease. If this fails or does not happen for some other reason, it could lead to another potential attack on the ETC network.\r\n> \r\n> If this were possible, I think that if ETH goes to POS, then anyway the power from ETH will be redirected to ETC, because ETC will probably be the most profitable coin for ethash.\r\n> \r\n> But until that happens, it would be a good idea to customize the DAG for a GPU with less memory and thus keep the hashrate at least in some better numbers.\r\n> \r\n> I'm not technically proficient here in this field, please just take it as an idea.\r\n\r\nI am in favor of doing something in regards of the DAG reduction",
+    "body": "> Haven't you considered reducing the DAG epochs? In about a month, DAG epochs will be too big for a 4GB GPU.\r\n> This will result in (in my opinion) a fairly sharp drop in the hashrate for ETC.\r\n> \r\n> An article with a plan was recently published, stating that security against 51% of the attack should take place in 3 months. But a big drop in hashrat will be in a month.\r\n> \r\n> If the DAG complexity could be technically reduced, the hashrate would not decrease. If this fails or does not happen for some other reason, it could lead to another potential attack on the ETC network.\r\n> \r\n> If this were possible, I think that if ETH goes to POS, then anyway the power from ETH will be redirected to ETC, because ETC will probably be the most profitable coin for ethash.\r\n> \r\n> But until that happens, it would be a good idea to customize the DAG for a GPU with less memory and thus keep the hashrate at least in some better numbers.\r\n> \r\n> I'm not technically proficient here in this field, please just take it as an idea.\r\n\r\nI am in favor of doing something in regards of the DAG reduction.\r\n\r\nUpdate:\r\nThe reason is, because it will contribute for more decentralization of the network and e. g. 4GB cards will also have further use cases.",
     "reactions": {
       "url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/comments/678675440/reactions",
-      "total_count": 0,
-      "+1": 0,
+      "total_count": 1,
+      "+1": 1,
       "-1": 0,
       "laugh": 0,
       "hooray": 0,
