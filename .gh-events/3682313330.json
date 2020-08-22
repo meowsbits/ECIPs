@@ -1,7 +1,7 @@
 {
-    "id": 3682309784,
-    "node_id": "MDEyOkxhYmVsZWRFdmVudDM2ODIzMDk3ODQ=",
-    "url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/events/3682309784",
+    "id": 3682313330,
+    "node_id": "MDE3OlJlbmFtZWRUaXRsZUV2ZW50MzY4MjMxMzMzMA==",
+    "url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/events/3682313330",
     "actor": {
       "login": "realcodywburns",
       "id": 13103499,
@@ -22,13 +22,13 @@
       "type": "User",
       "site_admin": false
     },
-    "event": "labeled",
+    "event": "renamed",
     "commit_id": null,
     "commit_url": null,
-    "created_at": "2020-08-22T20:37:39Z",
-    "label": {
-      "name": "status: 1 draft",
-      "color": "d9d9d9"
+    "created_at": "2020-08-22T20:44:15Z",
+    "rename": {
+      "from": "feat: add vanilla sha-3 ecip draft",
+      "to": "ECIP-1095:feat: add vanilla sha-3 ecip draft"
     },
     "issue": {
       "url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/341",

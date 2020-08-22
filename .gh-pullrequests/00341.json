@@ -8,7 +8,7 @@
     "id": 683082956,
     "node_id": "MDExOlB1bGxSZXF1ZXN0NDcxMjMwNDY1",
     "number": 341,
-    "title": "feat: add vanilla sha-3 ecip draft",
+    "title": "ECIP-1095:feat: add vanilla sha-3 ecip draft",
     "user": {
       "login": "stevanlohja",
       "id": 10556209,
@@ -30,6 +30,15 @@
       "site_admin": false
     },
     "labels": [
+      {
+        "id": 1488234618,
+        "node_id": "MDU6TGFiZWwxNDg4MjM0NjE4",
+        "url": "https://api.github.com/repos/ethereumclassic/ECIPs/labels/editor:%203%20grumble",
+        "name": "editor: 3 grumble",
+        "color": "fc8d62",
+        "default": false,
+        "description": "This contribution has minor issues that should be addressed."
+      },
       {
         "id": 1154785139,
         "node_id": "MDU6TGFiZWwxMTU0Nzg1MTM5",
@@ -58,7 +67,7 @@
     "milestone": null,
     "comments": 2,
     "created_at": "2020-08-20T20:41:28Z",
-    "updated_at": "2020-08-22T20:37:39Z",
+    "updated_at": "2020-08-22T20:44:29Z",
     "closed_at": null,
     "author_association": "MEMBER",
     "active_lock_reason": null,
