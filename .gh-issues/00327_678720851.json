@@ -25,9 +25,9 @@
       "site_admin": false
     },
     "created_at": "2020-08-23T02:31:16Z",
-    "updated_at": "2020-08-23T02:31:16Z",
+    "updated_at": "2020-08-23T02:33:03Z",
     "author_association": "NONE",
-    "body": "I have created a simple powerpoint to reinforce this proposal. Please feel free to reuse or request changes.\r\n[http://padenmoss.com/public/ECIP-1092_proposal.pdf](url)",
+    "body": "I have created a simple powerpoint to reinforce this proposal. Please feel free to reuse or request changes.\r\n[http://padenmoss.com/public/ECIP-1092_proposal.pdf](http://padenmoss.com/public/ECIP-1092_proposal.pdf)",
     "reactions": {
       "url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/comments/678720851/reactions",
       "total_count": 0,

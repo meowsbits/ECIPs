@@ -1,7 +1,7 @@
 From 84a351ebbddb92690dc3e01876fed92e717cb7f8 Mon Sep 17 00:00:00 2001
 From: Martin Medina <martinmedina@users.noreply.github.com>
 Date: Sat, 22 Aug 2020 21:03:43 -0300
-Subject: [PATCH] Create ecip-51-attack-protection-system.md
+Subject: [PATCH 1/2] Create ecip-51-attack-protection-system.md
 
 ---
  _specs/ecip-51-attack-protection-system.md | 155 +++++++++++++++++++++
@@ -169,3 +169,42 @@ index 00000000..d1d23311
 +[GNU Lesser General Public License v3.0](https://www.gnu.org/licenses/lgpl-3.0.en.html).
 +
 +
+
+From 8137b6c7291bc9b675eb00b69d81b7b94dfbde27 Mon Sep 17 00:00:00 2001
+From: =?UTF-8?q?Marti=CC=81n=20Medina?= <tinnmedina@gmail.com>
+Date: Sun, 23 Aug 2020 00:14:02 -0300
+Subject: [PATCH 2/2] add small format changes
+
+---
+ _specs/ecip-51-attack-protection-system.md | 4 +++-
+ 1 file changed, 3 insertions(+), 1 deletion(-)
+
+diff --git a/_specs/ecip-51-attack-protection-system.md b/_specs/ecip-51-attack-protection-system.md
+index d1d23311..a3a0ebb5 100644
+--- a/_specs/ecip-51-attack-protection-system.md
++++ b/_specs/ecip-51-attack-protection-system.md
+@@ -6,7 +6,7 @@ status: Draft
+ type: Standards Track
+ category: Core
+ discussions-to: https://github.com/ethereumclassic/ECIPs/issues/343
+-author: Sergio Lerner (@SergioDemianLerner) and Martin Medina  (@martinmedina) 
++author: Sergio Lerner (@SergioDemianLerner) and Martin Medina (@martinmedina) 
+ created: 2020-08-22
+ ---
+ 
+@@ -54,6 +54,7 @@ Hit Confirmations can prove not to contain the merge-mining tag and merge-mining
+ 
+ The format of a VisibilityProof message is the following:
+ 
++```
+ VisibilityProof = { Payload , Signature } 
+ Payload = { ETC-Block-Height, list of Merge-Mining-Proof [, ETC-Address] }
+ Merge-Mining-Proof = {Bitcoin-Header, Transaction-Membership-Proof,Coinbase-Tail, SHA256-Mid-State [,MM-Proof] [,Armadillo-Data] }
+@@ -71,6 +72,7 @@ Terminal-Hash = Array[0..19] of Byte
+ Armadillo-Data = Commit-To-Parents-Vector, Total-Difficulty-Compressed
+ Commits-To-Parent-Vector = Array[0..7] of Uint16
+ Total-Difficulty-Compressed = Uint64
++```
+ 
+ For Membership Proofs("RSKBLOCK:"):
+ Terminal-Hash = Keccack(ChainID | ETC-Block-Hash | ETC-Address | Armadillo-Data)[0..11]
