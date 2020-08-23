@@ -8,7 +8,7 @@
     "id": 684087898,
     "node_id": "MDExOlB1bGxSZXF1ZXN0NDcyMDU0MTky",
     "number": 344,
-    "title": "Create ecip-51-attack-protection-system.md",
+    "title": "ECIP: 51% Attack protection system based on Bitcoin Merged Mining",
     "user": {
       "login": "martinmedina",
       "id": 2243458,
@@ -41,7 +41,7 @@
     "milestone": null,
     "comments": 0,
     "created_at": "2020-08-23T00:04:26Z",
-    "updated_at": "2020-08-23T00:04:26Z",
+    "updated_at": "2020-08-23T00:16:54Z",
     "closed_at": null,
     "author_association": "FIRST_TIME_CONTRIBUTOR",
     "active_lock_reason": null,
@@ -51,7 +51,7 @@
       "diff_url": "https://github.com/ethereumclassic/ECIPs/pull/344.diff",
       "patch_url": "https://github.com/ethereumclassic/ECIPs/pull/344.patch"
     },
-    "body": "",
+    "body": "**Draft.** [51% Attack protection system based on Bitcoin Merged Mining](https://github.com/martinmedina/ECIPs/blob/patch-1/_specs/ecip-51-attack-protection-system.md) \r\n**Discussion.** https://github.com/ethereumclassic/ECIPs/issues/343\r\n",
     "reactions": {
       "url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/344/reactions",
       "total_count": 0,
