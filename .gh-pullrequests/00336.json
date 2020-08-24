@@ -31,13 +31,13 @@
     },
     "labels": [
       {
-        "id": 2281247217,
-        "node_id": "MDU6TGFiZWwyMjgxMjQ3MjE3",
-        "url": "https://api.github.com/repos/ethereumclassic/ECIPs/labels/editor:%201%20needs%20review",
-        "name": "editor: 1 needs review",
-        "color": "ffd92f",
+        "id": 1428838937,
+        "node_id": "MDU6TGFiZWwxNDI4ODM4OTM3",
+        "url": "https://api.github.com/repos/ethereumclassic/ECIPs/labels/editor:%207%20looks-good",
+        "name": "editor: 7 looks-good",
+        "color": "a6d854",
         "default": false,
-        "description": "This contribution needs a careful review."
+        "description": "This contribution is well reviewed and good to be merged."
       },
       {
         "id": 1154785139,
@@ -58,7 +58,7 @@
         "description": "ECIPs of the type \"Core\" - changing the Classic protocol."
       }
     ],
-    "state": "open",
+    "state": "closed",
     "locked": false,
     "assignee": null,
     "assignees": [
@@ -67,8 +67,8 @@
     "milestone": null,
     "comments": 0,
     "created_at": "2020-08-17T08:15:04Z",
-    "updated_at": "2020-08-23T12:49:24Z",
-    "closed_at": null,
+    "updated_at": "2020-08-24T08:46:08Z",
+    "closed_at": "2020-08-24T08:46:05Z",
     "author_association": "MEMBER",
     "active_lock_reason": null,
     "pull_request": {
