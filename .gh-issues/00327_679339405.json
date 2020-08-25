@@ -25,9 +25,9 @@
       "site_admin": false
     },
     "created_at": "2020-08-24T20:08:00Z",
-    "updated_at": "2020-08-24T20:08:00Z",
+    "updated_at": "2020-08-25T19:32:03Z",
     "author_association": "NONE",
-    "body": "Suggestion: Change the title to \"Mining Penalty for Deep Reorganization\" to avoid the shade thrown on Pirl and Callisto by community members.",
+    "body": "Suggestion: Change the title to \"Mining Penalty for Deep Reorganization\" as the special characters in the title and author field are preventing table population at https://ecips.ethereumclassic.org/core",
     "reactions": {
       "url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/comments/679339405/reactions",
       "total_count": 0,
