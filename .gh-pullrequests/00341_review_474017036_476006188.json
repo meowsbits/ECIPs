@@ -1,0 +1,50 @@
+{
+    "id": 476006188,
+    "node_id": "MDI0OlB1bGxSZXF1ZXN0UmV2aWV3Q29tbWVudDQ3NjAwNjE4OA==",
+    "url": "https://api.github.com/repos/ethereumclassic/ECIPs/pulls/comments/476006188",
+    "pull_request_review_id": 474017036,
+    "diff_hunk": "@@ -0,0 +1,73 @@\n+```\n+ECIP: TBD\n+Title: Change the ETC Proof of Work Algorithm to _vanilla_ Sha-3\n+Status: Draft\n+Type: Network\n+Discussion: TBD",
+    "path": "_specs/ecip-vanilla-sha-3.md",
+    "position": null,
+    "original_position": 6,
+    "commit_id": "62103bdb33a54f57d8ac5769aa1360ecdc9d5bb6",
+    "user": {
+      "login": "stevanlohja",
+      "id": 10556209,
+      "node_id": "MDQ6VXNlcjEwNTU2MjA5",
+      "avatar_url": "https://avatars0.githubusercontent.com/u/10556209?u=3fb408c3802839ea6faa1ca91678470bab7657f7&v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/stevanlohja",
+      "html_url": "https://github.com/stevanlohja",
+      "followers_url": "https://api.github.com/users/stevanlohja/followers",
+      "following_url": "https://api.github.com/users/stevanlohja/following{/other_user}",
+      "gists_url": "https://api.github.com/users/stevanlohja/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/stevanlohja/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/stevanlohja/subscriptions",
+      "organizations_url": "https://api.github.com/users/stevanlohja/orgs",
+      "repos_url": "https://api.github.com/users/stevanlohja/repos",
+      "events_url": "https://api.github.com/users/stevanlohja/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/stevanlohja/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "body": "Added the discussion url.",
+    "created_at": "2020-08-25T00:38:59Z",
+    "updated_at": "2020-08-25T00:38:59Z",
+    "html_url": "https://github.com/ethereumclassic/ECIPs/pull/341#discussion_r476006188",
+    "pull_request_url": "https://api.github.com/repos/ethereumclassic/ECIPs/pulls/341",
+    "author_association": "MEMBER",
+    "_links": {
+      "self": {
+        "href": "https://api.github.com/repos/ethereumclassic/ECIPs/pulls/comments/476006188"
+      },
+      "html": {
+        "href": "https://github.com/ethereumclassic/ECIPs/pull/341#discussion_r476006188"
+      },
+      "pull_request": {
+        "href": "https://api.github.com/repos/ethereumclassic/ECIPs/pulls/341"
+      }
+    },
+    "original_commit_id": "8790db36f475a5e29d1c3ea5a22b5e16c60251bf",
+    "in_reply_to_id": 475136957
+  }

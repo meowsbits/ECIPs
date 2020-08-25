@@ -1,0 +1,39 @@
+{
+    "id": 474017116,
+    "node_id": "MDE3OlB1bGxSZXF1ZXN0UmV2aWV3NDc0MDE3MTE2",
+    "user": {
+      "login": "stevanlohja",
+      "id": 10556209,
+      "node_id": "MDQ6VXNlcjEwNTU2MjA5",
+      "avatar_url": "https://avatars0.githubusercontent.com/u/10556209?u=3fb408c3802839ea6faa1ca91678470bab7657f7&v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/stevanlohja",
+      "html_url": "https://github.com/stevanlohja",
+      "followers_url": "https://api.github.com/users/stevanlohja/followers",
+      "following_url": "https://api.github.com/users/stevanlohja/following{/other_user}",
+      "gists_url": "https://api.github.com/users/stevanlohja/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/stevanlohja/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/stevanlohja/subscriptions",
+      "organizations_url": "https://api.github.com/users/stevanlohja/orgs",
+      "repos_url": "https://api.github.com/users/stevanlohja/repos",
+      "events_url": "https://api.github.com/users/stevanlohja/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/stevanlohja/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "body": "",
+    "state": "COMMENTED",
+    "html_url": "https://github.com/ethereumclassic/ECIPs/pull/341#pullrequestreview-474017116",
+    "pull_request_url": "https://api.github.com/repos/ethereumclassic/ECIPs/pulls/341",
+    "author_association": "MEMBER",
+    "_links": {
+      "html": {
+        "href": "https://github.com/ethereumclassic/ECIPs/pull/341#pullrequestreview-474017116"
+      },
+      "pull_request": {
+        "href": "https://api.github.com/repos/ethereumclassic/ECIPs/pulls/341"
+      }
+    },
+    "submitted_at": "2020-08-25T00:39:14Z",
+    "commit_id": "62103bdb33a54f57d8ac5769aa1360ecdc9d5bb6"
+  }
