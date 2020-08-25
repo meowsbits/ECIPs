@@ -1,0 +1,76 @@
+{
+    "url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/346",
+    "repository_url": "https://api.github.com/repos/ethereumclassic/ECIPs",
+    "labels_url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/346/labels{/name}",
+    "comments_url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/346/comments",
+    "events_url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/346/events",
+    "html_url": "https://github.com/ethereumclassic/ECIPs/pull/346",
+    "id": 685471833,
+    "node_id": "MDExOlB1bGxSZXF1ZXN0NDczMTkyMTY4",
+    "number": 346,
+    "title": "Update ecip-1092.md",
+    "user": {
+      "login": "realcodywburns",
+      "id": 13103499,
+      "node_id": "MDQ6VXNlcjEzMTAzNDk5",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/13103499?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/realcodywburns",
+      "html_url": "https://github.com/realcodywburns",
+      "followers_url": "https://api.github.com/users/realcodywburns/followers",
+      "following_url": "https://api.github.com/users/realcodywburns/following{/other_user}",
+      "gists_url": "https://api.github.com/users/realcodywburns/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/realcodywburns/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/realcodywburns/subscriptions",
+      "organizations_url": "https://api.github.com/users/realcodywburns/orgs",
+      "repos_url": "https://api.github.com/users/realcodywburns/repos",
+      "events_url": "https://api.github.com/users/realcodywburns/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/realcodywburns/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "labels": [
+      {
+        "id": 2281247217,
+        "node_id": "MDU6TGFiZWwyMjgxMjQ3MjE3",
+        "url": "https://api.github.com/repos/ethereumclassic/ECIPs/labels/editor:%201%20needs%20review",
+        "name": "editor: 1 needs review",
+        "color": "ffd92f",
+        "default": false,
+        "description": "This contribution needs a careful review."
+      }
+    ],
+    "state": "open",
+    "locked": false,
+    "assignee": null,
+    "assignees": [
+
+    ],
+    "milestone": null,
+    "comments": 0,
+    "created_at": "2020-08-25T13:08:05Z",
+    "updated_at": "2020-08-25T13:08:05Z",
+    "closed_at": null,
+    "author_association": "MEMBER",
+    "active_lock_reason": null,
+    "pull_request": {
+      "url": "https://api.github.com/repos/ethereumclassic/ECIPs/pulls/346",
+      "html_url": "https://github.com/ethereumclassic/ECIPs/pull/346",
+      "diff_url": "https://github.com/ethereumclassic/ECIPs/pull/346.diff",
+      "patch_url": "https://github.com/ethereumclassic/ECIPs/pull/346.patch"
+    },
+    "body": "#345 removed colon in title to properly render",
+    "reactions": {
+      "url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/346/reactions",
+      "total_count": 0,
+      "+1": 0,
+      "-1": 0,
+      "laugh": 0,
+      "hooray": 0,
+      "confused": 0,
+      "heart": 0,
+      "rocket": 0,
+      "eyes": 0
+    },
+    "performed_via_github_app": null
+  }

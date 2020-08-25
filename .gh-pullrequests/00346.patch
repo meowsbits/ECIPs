@@ -1,0 +1,23 @@
+From 843f24f7035d6cfbd88c639e12e80aad69e9eae6 Mon Sep 17 00:00:00 2001
+From: Cody Burns <cody.w.burns@gmail.com>
+Date: Tue, 25 Aug 2020 08:07:21 -0500
+Subject: [PATCH] Update ecip-1092.md
+
+#345 removed colon in title to properly render
+---
+ _specs/ecip-1092.md | 2 +-
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+
+diff --git a/_specs/ecip-1092.md b/_specs/ecip-1092.md
+index 713a0524..7364ea1b 100644
+--- a/_specs/ecip-1092.md
++++ b/_specs/ecip-1092.md
+@@ -1,7 +1,7 @@
+ ---
+ lang: en
+ ecip: 1092
+-title: 51-percent attack solution: PirlGuard & Callisto
++title: 51-percent attack solution PirlGuard & Callisto
+ status: Draft
+ type: Standards Track
+ category: Core
