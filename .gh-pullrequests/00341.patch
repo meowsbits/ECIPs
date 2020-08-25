@@ -1,7 +1,7 @@
 From 070adc64e17a9796ce0d75f16d4faaea949224ac Mon Sep 17 00:00:00 2001
 From: Stevan Lohja <stevanio@protonmail.com>
 Date: Thu, 20 Aug 2020 15:39:16 -0500
-Subject: [PATCH 1/2] feat: add vanilla sha-3 ecip draft
+Subject: [PATCH 1/3] feat: add vanilla sha-3 ecip draft
 
 ---
  _specs/ecip-vanilla-sha-3.md | 73 ++++++++++++++++++++++++++++++++++++
@@ -91,7 +91,7 @@ index 00000000..6bff5a1f
 From 8790db36f475a5e29d1c3ea5a22b5e16c60251bf Mon Sep 17 00:00:00 2001
 From: Stevan Lohja <stevanio@protonmail.com>
 Date: Thu, 20 Aug 2020 16:08:13 -0500
-Subject: [PATCH 2/2] fix: grammar correction for vanilla-sha-3 draft
+Subject: [PATCH 2/3] fix: grammar correction for vanilla-sha-3 draft
 
 ---
  _specs/ecip-vanilla-sha-3.md | 12 ++++++------
@@ -137,3 +137,47 @@ index 6bff5a1f..47786ee8 100644
  
  - __Client implementation__: All major Ethereum Classic protocol providing clients such as Core-geth and Besu need a Sha-3 implementation.
  - __Mining-pool software__: A mining pool tool will allow anyone to contribute a mining pool to the Etherem Classic network.
+
+From 62103bdb33a54f57d8ac5769aa1360ecdc9d5bb6 Mon Sep 17 00:00:00 2001
+From: Stevan Lohja <stevanio@protonmail.com>
+Date: Mon, 24 Aug 2020 19:36:10 -0500
+Subject: [PATCH 3/3] fix: add suggested format changes from ecip-editor
+
+- change doc to ecip-1095.md https://github.com/ethereumclassic/ECIPs/pull/341#r475136592
+- change "type" to "standards track/core" https://github.com/ethereumclassic/ECIPs/pull/341#r475461033
+- added discussion link https://github.com/ethereumclassic/ECIPs/pull/341#r475136957
+- added license to footer https://github.com/ethereumclassic/ECIPs/pull/341#r475136668
+---
+ _specs/{ecip-vanilla-sha-3.md => ecip-1095.md} | 10 +++++-----
+ 1 file changed, 5 insertions(+), 5 deletions(-)
+ rename _specs/{ecip-vanilla-sha-3.md => ecip-1095.md} (97%)
+
+diff --git a/_specs/ecip-vanilla-sha-3.md b/_specs/ecip-1095.md
+similarity index 97%
+rename from _specs/ecip-vanilla-sha-3.md
+rename to _specs/ecip-1095.md
+index 47786ee8..f46a915d 100644
+--- a/_specs/ecip-vanilla-sha-3.md
++++ b/_specs/ecip-1095.md
+@@ -1,9 +1,9 @@
+ ```
+-ECIP: TBD
++ECIP: ECIP-1095
+ Title: Change the ETC Proof of Work Algorithm to _vanilla_ Sha-3
+ Status: Draft
+-Type: Network
+-Discussion: TBD
++Type: Standards Track / Core
++Discussion: https://github.com/ethereumclassic/ECIPs/issues/342
+ Author: Stevan Lohja (stevanio@protonmail.com)
+ License: Apache-2.0
+ Created: 2020-08-20
+@@ -68,6 +68,6 @@ References:
+ 2. Federal Information Processing Standards (FIPS). PUB 202. 2015. URL: https://nvlpubs.nist.gov/nistpubs/FIPS/NIST.FIPS.202.pdf 
+ 3. NIST. Approved Algorithms. URL: https://csrc.nist.gov/projects/hash-functions
+ 
++__License.__
+ 
+-
+-
++Apache 2.0
