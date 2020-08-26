@@ -7,7 +7,7 @@
     "path": "_specs/ecip-vanilla-sha-3.md",
     "position": null,
     "original_position": 6,
-    "commit_id": "62103bdb33a54f57d8ac5769aa1360ecdc9d5bb6",
+    "commit_id": "97719fdddaa310ed60c93fa5c0c9c4ce250bd863",
     "user": {
       "login": "stevanlohja",
       "id": 10556209,
@@ -30,7 +30,7 @@
     },
     "body": "Added the discussion url.",
     "created_at": "2020-08-25T00:38:59Z",
-    "updated_at": "2020-08-25T00:38:59Z",
+    "updated_at": "2020-08-26T15:05:11Z",
     "html_url": "https://github.com/ethereumclassic/ECIPs/pull/341#discussion_r476006188",
     "pull_request_url": "https://api.github.com/repos/ethereumclassic/ECIPs/pulls/341",
     "author_association": "MEMBER",
