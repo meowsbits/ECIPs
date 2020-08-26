@@ -7,7 +7,7 @@
     "path": "_specs/ecip-vanilla-sha-3.md",
     "position": null,
     "original_position": 6,
-    "commit_id": "97719fdddaa310ed60c93fa5c0c9c4ce250bd863",
+    "commit_id": "bd7ac4cb88abf52b5448fcc051d4c74b4082d18f",
     "original_commit_id": "8790db36f475a5e29d1c3ea5a22b5e16c60251bf",
     "user": {
       "login": "realcodywburns",
@@ -31,7 +31,7 @@
     },
     "body": "update to #342 ",
     "created_at": "2020-08-22T20:47:20Z",
-    "updated_at": "2020-08-26T15:05:11Z",
+    "updated_at": "2020-08-26T18:44:29Z",
     "html_url": "https://github.com/ethereumclassic/ECIPs/pull/341#discussion_r475136957",
     "pull_request_url": "https://api.github.com/repos/ethereumclassic/ECIPs/pulls/341",
     "author_association": "MEMBER",

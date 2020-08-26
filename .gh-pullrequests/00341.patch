@@ -1,7 +1,7 @@
 From 070adc64e17a9796ce0d75f16d4faaea949224ac Mon Sep 17 00:00:00 2001
 From: Stevan Lohja <stevanio@protonmail.com>
 Date: Thu, 20 Aug 2020 15:39:16 -0500
-Subject: [PATCH 1/5] feat: add vanilla sha-3 ecip draft
+Subject: [PATCH 1/6] feat: add vanilla sha-3 ecip draft
 
 ---
  _specs/ecip-vanilla-sha-3.md | 73 ++++++++++++++++++++++++++++++++++++
@@ -91,7 +91,7 @@ index 00000000..6bff5a1f
 From 8790db36f475a5e29d1c3ea5a22b5e16c60251bf Mon Sep 17 00:00:00 2001
 From: Stevan Lohja <stevanio@protonmail.com>
 Date: Thu, 20 Aug 2020 16:08:13 -0500
-Subject: [PATCH 2/5] fix: grammar correction for vanilla-sha-3 draft
+Subject: [PATCH 2/6] fix: grammar correction for vanilla-sha-3 draft
 
 ---
  _specs/ecip-vanilla-sha-3.md | 12 ++++++------
@@ -141,7 +141,7 @@ index 6bff5a1f..47786ee8 100644
 From 62103bdb33a54f57d8ac5769aa1360ecdc9d5bb6 Mon Sep 17 00:00:00 2001
 From: Stevan Lohja <stevanio@protonmail.com>
 Date: Mon, 24 Aug 2020 19:36:10 -0500
-Subject: [PATCH 3/5] fix: add suggested format changes from ecip-editor
+Subject: [PATCH 3/6] fix: add suggested format changes from ecip-editor
 
 - change doc to ecip-1095.md https://github.com/ethereumclassic/ECIPs/pull/341#r475136592
 - change "type" to "standards track/core" https://github.com/ethereumclassic/ECIPs/pull/341#r475461033
@@ -185,7 +185,7 @@ index 47786ee8..f46a915d 100644
 From 0859798a616f192f4d63090708af9ad4dfbc596b Mon Sep 17 00:00:00 2001
 From: Stevan Lohja <stevanio@protonmail.com>
 Date: Wed, 26 Aug 2020 10:04:49 -0500
-Subject: [PATCH 4/5] Update _specs/ecip-1095.md
+Subject: [PATCH 4/6] Update _specs/ecip-1095.md
 
 Co-authored-by: Raw Pong Ghmoa <58883403+q9f@users.noreply.github.com>
 ---
@@ -207,7 +207,7 @@ index f46a915d..71e501d6 100644
 From 97719fdddaa310ed60c93fa5c0c9c4ce250bd863 Mon Sep 17 00:00:00 2001
 From: Stevan Lohja <stevanio@protonmail.com>
 Date: Wed, 26 Aug 2020 10:05:10 -0500
-Subject: [PATCH 5/5] Update _specs/ecip-1095.md
+Subject: [PATCH 5/6] Update _specs/ecip-1095.md
 
 Co-authored-by: Raw Pong Ghmoa <58883403+q9f@users.noreply.github.com>
 ---
@@ -228,3 +228,44 @@ index 71e501d6..cad3eaca 100644
  Discussion: https://github.com/ethereumclassic/ECIPs/issues/342
  Author: Stevan Lohja (stevanio@protonmail.com)
  License: Apache-2.0
+
+From bd7ac4cb88abf52b5448fcc051d4c74b4082d18f Mon Sep 17 00:00:00 2001
+From: Stevan Lohja <stevanio@protonmail.com>
+Date: Wed, 26 Aug 2020 13:44:27 -0500
+Subject: [PATCH 6/6] fix: header format changes
+
+- formatted header based on ecip-editor suggestion https://github.com/ethereumclassic/ECIPs/pull/341#pullrequestreview-475368501
+---
+ _specs/ecip-1095.md | 18 +++++++++---------
+ 1 file changed, 9 insertions(+), 9 deletions(-)
+
+diff --git a/_specs/ecip-1095.md b/_specs/ecip-1095.md
+index cad3eaca..7732c8f9 100644
+--- a/_specs/ecip-1095.md
++++ b/_specs/ecip-1095.md
+@@ -1,16 +1,16 @@
+-```
++---
++lang: en
+ ecip: 1095
+-Title: Change the ETC Proof of Work Algorithm to _vanilla_ Sha-3
+-Status: Draft
++title: Change the ETC Proof of Work Algorithm to Sha-3-256
++status: Draft
+ type: Standards Track
+ category: Core
+-Discussion: https://github.com/ethereumclassic/ECIPs/issues/342
+-Author: Stevan Lohja (stevanio@protonmail.com)
+-License: Apache-2.0
+-Created: 2020-08-20
+-```
++discussions-to: https://github.com/ethereumclassic/ECIPs/issues/342
++author: Stevan Lohja (stevanio@protonmail.com)
++created: 2020-08-20
++---
+ 
+-# Change the ETC Proof of Work Algorithm to _vanilla_ Sha-3
++# Change the ETC Proof of Work Algorithm to Sha-3-256 (vanilla Sha-3)
+ 
+ __Abstract.__ Make Sha-3-256 Standard the Proof of Work algorithm for Ethereum Classic. Ethereum’s development coincided with the development of the Sha-3 standard, but the Sha-3 standard was finalized shortly after Ethereum launched. So, Ethereum was left with a variant of Sha-3 that did not produce standard Sha-3 hashes. This variant of Sha-3 utilized in Ethereum was named Keccak-256 to avoid confusion. Keccak-256 is utilized in the EVM, but the Proof of Work algorithm is Ethash. Ethash is a combination of Keccak256 & Daggerhashimoto which contributes to the memory-intensive feature (Dag). The Dag was added due to the premise of ASIC resistance, but that premise is flase since Ethash ASICs exist. So, Ethash’s Dag is built on the false premise of ASIC resistance and not utilizing the official Sha-3 Standard algorithm.
+ 
