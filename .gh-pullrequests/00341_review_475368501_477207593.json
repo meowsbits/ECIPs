@@ -1,0 +1,49 @@
+{
+    "id": 477207593,
+    "node_id": "MDI0OlB1bGxSZXF1ZXN0UmV2aWV3Q29tbWVudDQ3NzIwNzU5Mw==",
+    "url": "https://api.github.com/repos/ethereumclassic/ECIPs/pulls/comments/477207593",
+    "pull_request_review_id": 475368501,
+    "diff_hunk": "@@ -0,0 +1,73 @@\n+```\n+ECIP: ECIP-1095\n+Title: Change the ETC Proof of Work Algorithm to _vanilla_ Sha-3\n+Status: Draft\n+Type: Standards Track / Core",
+    "path": "_specs/ecip-1095.md",
+    "position": 5,
+    "original_position": 5,
+    "commit_id": "62103bdb33a54f57d8ac5769aa1360ecdc9d5bb6",
+    "user": {
+      "login": "q9f",
+      "id": 58883403,
+      "node_id": "MDQ6VXNlcjU4ODgzNDAz",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/58883403?u=72563674ea84909432bf249ab92fb936dffa313d&v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/q9f",
+      "html_url": "https://github.com/q9f",
+      "followers_url": "https://api.github.com/users/q9f/followers",
+      "following_url": "https://api.github.com/users/q9f/following{/other_user}",
+      "gists_url": "https://api.github.com/users/q9f/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/q9f/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/q9f/subscriptions",
+      "organizations_url": "https://api.github.com/users/q9f/orgs",
+      "repos_url": "https://api.github.com/users/q9f/repos",
+      "events_url": "https://api.github.com/users/q9f/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/q9f/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "body": "```suggestion\r\ntype: Standards Track\r\ncategory: Core\r\n```",
+    "created_at": "2020-08-26T10:45:49Z",
+    "updated_at": "2020-08-26T10:46:20Z",
+    "html_url": "https://github.com/ethereumclassic/ECIPs/pull/341#discussion_r477207593",
+    "pull_request_url": "https://api.github.com/repos/ethereumclassic/ECIPs/pulls/341",
+    "author_association": "MEMBER",
+    "_links": {
+      "self": {
+        "href": "https://api.github.com/repos/ethereumclassic/ECIPs/pulls/comments/477207593"
+      },
+      "html": {
+        "href": "https://github.com/ethereumclassic/ECIPs/pull/341#discussion_r477207593"
+      },
+      "pull_request": {
+        "href": "https://api.github.com/repos/ethereumclassic/ECIPs/pulls/341"
+      }
+    },
+    "original_commit_id": "62103bdb33a54f57d8ac5769aa1360ecdc9d5bb6"
+  }
