@@ -68,7 +68,7 @@
           "description": "This contribution has minor issues that should be addressed."
         }
       ],
-      "state": "open",
+      "state": "closed",
       "locked": false,
       "assignee": {
         "login": "Dexaran",
@@ -115,8 +115,8 @@
       "milestone": null,
       "comments": 0,
       "created_at": "2020-08-25T05:08:02Z",
-      "updated_at": "2020-08-25T05:08:44Z",
-      "closed_at": null,
+      "updated_at": "2020-08-26T10:55:15Z",
+      "closed_at": "2020-08-26T10:55:15Z",
       "author_association": "MEMBER",
       "active_lock_reason": null,
       "body": "Something is wrong with the formatting on the header section of ecip 1092 which is causing it to not render as a table. The text appears to be correctly formatted and identical to other ecips. \r\n\r\nAssigning to @Dexaran \r\n\r\n\r\nhttps://github.com/ethereumclassic/ECIPs/blob/master/_specs/ecip-1092.md\r\n\r\nhttps://ecips.ethereumclassic.org/ECIPs/ecip-1092",
