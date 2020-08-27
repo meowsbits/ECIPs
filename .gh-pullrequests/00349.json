@@ -41,7 +41,7 @@
     "milestone": null,
     "comments": 0,
     "created_at": "2020-08-26T22:22:51Z",
-    "updated_at": "2020-08-26T22:30:19Z",
+    "updated_at": "2020-08-27T11:39:59Z",
     "closed_at": null,
     "author_association": "FIRST_TIME_CONTRIBUTOR",
     "active_lock_reason": null,
@@ -51,11 +51,11 @@
       "diff_url": "https://github.com/ethereumclassic/ECIPs/pull/349.diff",
       "patch_url": "https://github.com/ethereumclassic/ECIPs/pull/349.patch"
     },
-    "body": "Draft. https://github.com/input-output-hk/ECIPs/blob/ecip-proto-treasury/_specs/ecip-proto-treasury-system.md\r\nDiscussion. https://github.com/ethereumclassic/ECIPs/issues/350",
+    "body": "Draft. https://github.com/input-output-hk/ECIPs/blob/ecip-proto-treasury/_specs/ecip-proto-treasury-system.md\r\nDiscussion. https://github.com/ethereumclassic/ECIPs/issues/350 | https://github.com/input-output-hk/ECIPs/issues/2",
     "reactions": {
       "url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/349/reactions",
-      "total_count": 0,
-      "+1": 0,
+      "total_count": 1,
+      "+1": 1,
       "-1": 0,
       "laugh": 0,
       "hooray": 0,

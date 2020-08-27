@@ -1,7 +1,7 @@
 From e9e5ba99e9080ed25241382fa9ae3430cdea5373 Mon Sep 17 00:00:00 2001
 From: "Brian P. McKenna" <bpmckenna@gmail.com>
 Date: Wed, 26 Aug 2020 18:57:19 -0300
-Subject: [PATCH] Proto-treasury system proposal
+Subject: [PATCH 1/2] Proto-treasury system proposal
 
 ---
  _specs/ecip-proto-treasury-system.md | 450 +++++++++++++++++++++++++++
@@ -464,3 +464,26 @@ index 00000000..217cdb2f
 +[3] https://solidity.readthedocs.io/en/v0.6.12/introduction-to-smart-contracts.html#deactivate-and-self-destruct
 +
 +
+
+From fe5fe9e05a7cdb49ec4be090aea0d5f63470fd8b Mon Sep 17 00:00:00 2001
+From: "Brian P. McKenna" <bpmckenna@gmail.com>
+Date: Thu, 27 Aug 2020 08:33:12 -0300
+Subject: [PATCH 2/2] Discussion links added
+
+---
+ _specs/ecip-proto-treasury-system.md | 2 +-
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+
+diff --git a/_specs/ecip-proto-treasury-system.md b/_specs/ecip-proto-treasury-system.md
+index 217cdb2f..b99ed400 100644
+--- a/_specs/ecip-proto-treasury-system.md
++++ b/_specs/ecip-proto-treasury-system.md
+@@ -3,7 +3,7 @@ lang: en
+ ECIP: ECIP-XXX
+ Title: Proto Treasury System 
+ Author: Julian Mendiola, Nicolas Tallar, Brian McKenna 
+-Discussions-To: TBD
++Discussions-To: https://github.com/ethereumclassic/ECIPs/issues/350 | https://github.com/input-output-hk/ECIPs/issues/2
+ Status: Draft
+ Type: Standards Track
+ Category: Core
