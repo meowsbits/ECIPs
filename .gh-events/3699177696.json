@@ -1,7 +1,7 @@
 {
-    "id": 3696810134,
-    "node_id": "MDIzOkhlYWRSZWZGb3JjZVB1c2hlZEV2ZW50MzY5NjgxMDEzNA==",
-    "url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/events/3696810134",
+    "id": 3699177696,
+    "node_id": "MDIzOkhlYWRSZWZGb3JjZVB1c2hlZEV2ZW50MzY5OTE3NzY5Ng==",
+    "url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/events/3699177696",
     "actor": {
       "login": "bpmckenna",
       "id": 31481997,
@@ -25,7 +25,7 @@
     "event": "head_ref_force_pushed",
     "commit_id": null,
     "commit_url": null,
-    "created_at": "2020-08-26T22:15:44Z",
+    "created_at": "2020-08-27T11:29:37Z",
     "issue": {
       "url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/347",
       "repository_url": "https://api.github.com/repos/ethereumclassic/ECIPs",

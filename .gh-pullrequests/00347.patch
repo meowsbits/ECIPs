@@ -1,7 +1,7 @@
 From 7708e7347e3e91f69c65149a095c88258b06acf6 Mon Sep 17 00:00:00 2001
 From: "Brian P. McKenna" <brian.p.mckenna@iohk.io>
 Date: Wed, 26 Aug 2020 18:12:47 -0300
-Subject: [PATCH] 51% Attack resistance proposal
+Subject: [PATCH 1/2] 51% Attack resistance proposal
 
 ---
  _specs/51_attack_resistance.md | 282 +++++++++++++++++++++++++++++++++
@@ -297,3 +297,26 @@ index 00000000..1a33851f
 +
 +[^NIPOPOW]: Aggelos Kiayias, Andrew Miller, and Dionysis Zindros: Non-Interactive Proofs of Proof-of-Work https://eprint.iacr.org/2017/963.pdf
 \ No newline at end of file
+
+From b23eaf1c24c12e23769450cbcc16c0b0eef64132 Mon Sep 17 00:00:00 2001
+From: "Brian P. McKenna" <bpmckenna@gmail.com>
+Date: Thu, 27 Aug 2020 08:21:49 -0300
+Subject: [PATCH 2/2] Discussion link added
+
+---
+ _specs/51_attack_resistance.md | 2 +-
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+
+diff --git a/_specs/51_attack_resistance.md b/_specs/51_attack_resistance.md
+index 1a33851f..12fdeb19 100644
+--- a/_specs/51_attack_resistance.md
++++ b/_specs/51_attack_resistance.md
+@@ -3,7 +3,7 @@ ecip: <ECIP number>
+ title: 51% Attack Resistance 
+ lang: en
+ author: Dimitris Karokostas, Radek Tkaczyk, Romain Pellerin, Brian McKenna
+-discussions-to: LINK_TO_ISSUE 
++discussions-to: https://github.com/ethereumclassic/ECIPs/issues/348 | https://github.com/input-output-hk/ECIPs/issues/1
+ status: Draft
+ type: Standards Track
+ category: Core
