@@ -7,7 +7,7 @@
     "path": "_specs/ecip-51-attack-protection-system.md",
     "position": 139,
     "original_position": 139,
-    "commit_id": "8137b6c7291bc9b675eb00b69d81b7b94dfbde27",
+    "commit_id": "b254e02e4654758d68647da07b75555d25054e1c",
     "user": {
       "login": "SergioDemianLerner",
       "id": 1752347,
@@ -30,7 +30,7 @@
     },
     "body": "The doesn't mean that, in the future, ETC can deploy their own ETC nodes for Bitcoin mining pools. RSK is currently the most cost-efficient way to do it, and it's 100% operational. ",
     "created_at": "2020-08-28T14:32:52Z",
-    "updated_at": "2020-08-28T14:32:53Z",
+    "updated_at": "2020-08-28T15:15:26Z",
     "html_url": "https://github.com/ethereumclassic/ECIPs/pull/344#discussion_r479344945",
     "pull_request_url": "https://api.github.com/repos/ethereumclassic/ECIPs/pulls/344",
     "author_association": "NONE",
