@@ -1,0 +1,39 @@
+{
+    "id": 477568633,
+    "node_id": "MDE3OlB1bGxSZXF1ZXN0UmV2aWV3NDc3NTY4NjMz",
+    "user": {
+      "login": "GregTheGreek",
+      "id": 16929357,
+      "node_id": "MDQ6VXNlcjE2OTI5MzU3",
+      "avatar_url": "https://avatars0.githubusercontent.com/u/16929357?u=744f34804212b4165d8bb0c920104b5c19937000&v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/GregTheGreek",
+      "html_url": "https://github.com/GregTheGreek",
+      "followers_url": "https://api.github.com/users/GregTheGreek/followers",
+      "following_url": "https://api.github.com/users/GregTheGreek/following{/other_user}",
+      "gists_url": "https://api.github.com/users/GregTheGreek/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/GregTheGreek/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/GregTheGreek/subscriptions",
+      "organizations_url": "https://api.github.com/users/GregTheGreek/orgs",
+      "repos_url": "https://api.github.com/users/GregTheGreek/repos",
+      "events_url": "https://api.github.com/users/GregTheGreek/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/GregTheGreek/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "body": "",
+    "state": "COMMENTED",
+    "html_url": "https://github.com/ethereumclassic/ECIPs/pull/349#pullrequestreview-477568633",
+    "pull_request_url": "https://api.github.com/repos/ethereumclassic/ECIPs/pulls/349",
+    "author_association": "NONE",
+    "_links": {
+      "html": {
+        "href": "https://github.com/ethereumclassic/ECIPs/pull/349#pullrequestreview-477568633"
+      },
+      "pull_request": {
+        "href": "https://api.github.com/repos/ethereumclassic/ECIPs/pulls/349"
+      }
+    },
+    "submitted_at": "2020-08-28T09:08:28Z",
+    "commit_id": "fe5fe9e05a7cdb49ec4be090aea0d5f63470fd8b"
+  }

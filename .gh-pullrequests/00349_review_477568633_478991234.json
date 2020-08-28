@@ -1,0 +1,49 @@
+{
+    "id": 478991234,
+    "node_id": "MDI0OlB1bGxSZXF1ZXN0UmV2aWV3Q29tbWVudDQ3ODk5MTIzNA==",
+    "url": "https://api.github.com/repos/ethereumclassic/ECIPs/pulls/comments/478991234",
+    "pull_request_review_id": 477568633,
+    "diff_hunk": "@@ -0,0 +1,450 @@\n+---\n+lang: en\n+ECIP: ECIP-XXX\n+Title: Proto Treasury System \n+Author: Julian Mendiola, Nicolas Tallar, Brian McKenna \n+Discussions-To: https://github.com/ethereumclassic/ECIPs/issues/350 | https://github.com/input-output-hk/ECIPs/issues/2\n+Status: Draft\n+Type: Standards Track\n+Category: Core\n+Created: 2020-08-26\n+---\n+\n+### Abstract\n+This document outlines a proposal for the implementation of a proto-treasury system in Ethereum Classic.  It describes the high-level structure of the **proto-Ethereum Classic Treasury System (p-ECTS**), and its general properties. Detailed specifications for each part of the system, as well as reference implementation, can be found in the [GitHub repository]( https://github.com/input-output-hk/etc_treasury_system).\n+\n+### Motivation\n+The primary motives of the p-ECTS is to establish a stable and reliable funding mechanism for independent teams, each of whom are capable of both maintaining core clients and evolving the development of the Ethereum Classic platform, as well as initiating the funding of a Gitcoin grants pool for wider community development. \n+\n+The current approach of relying on voluntarism and benefactors to support the ETC eco-system has failed. A clear signal needs to be sent to the wider community that ETC means to move forward with confidence with a clear vision to deliver a stable stream of funding that encourages developer engagement.\n+\n+To realise this ambitious vision, innovation must be encouraged and the ETC network must be consistently maintained and continuously improved. Blockchain protocols are highly complex distributed systems that are proven to be expensive to research, develop, and implement while operating within an  increasingly competitive developer market. ETC needs to position itself as a desirable platform for innovation where developers want to invest their time making improvements and building new applications.\n+\n+ETC can gain significant competitive advantage in the medium and long-term outlook by delivering a stable, decentralized and community-driven funding system for protocol development that is backed by a clear technical roadmap. To achieve this goal, stable and reliable funding is required, under the transparent and verifiable control of the Ethereum Classic community, through the ECIP process. With full transparency, proposals can be thoroughly questioned and rigorously examined by fellow community members, with community members themselves making collective funding decisions.\n+\n+ETC needs a vision to inspire developers - particularly those currently outside the ETC ecosystem, to build on the platform, ahead of the many other well-funded competitor platforms in the space. This treasury system is designed to do this quickly and efficiently and having a high value ETC will also mitigate against potential 51% attacks.\n+\n+We recognise this proposal outlines a significant change to the future governance of ETC. For this reason, we are proposing an element of built in obsolescence so the community has the opportunity to directly assess the value of the treasury system and in time, actively vote for its continuation and further development or indeed to allow it to be reversed.\n+\n+This proposal is not designed to deliver an end-state system, but a stepping stone solution on the path to the launch of a fully decentralized treasury system.\n+\n+\n+### Specification\n+\n+#### Solution Overview and Rationale \n+\n+This proposal opts for the most simple solution for the p-ECTS to encourage collaboration and transparency for this first-step treasury system.\n+\n+This specification represents the p-ECTS only, and a best-in-class treasury and governance model, such as outlined in [[1]](https://eprint.iacr.org/2018/435.pdf\n+), can be proposed by the community via the ECIP mechanism in the future.\n+\n+We would also put forward that this treasury system would go through a formal verification process to ensure that it behaves as per the final specification.\n+\n+#### Parameters\n+\n+| Name | Description | Proposed value |\n+|---|---|---|\n+|**FORK_BLKNUM**|Block on which the Hard Fork will take place.|TBD|\n+|**Initial client members addresses**|Collections of all MemberType.Client.|TBD|\n+|**gitcoinAddress**|Gitcoin grant address.|TBD|",
+    "path": "_specs/ecip-proto-treasury-system.md",
+    "position": 49,
+    "original_position": 49,
+    "commit_id": "fe5fe9e05a7cdb49ec4be090aea0d5f63470fd8b",
+    "user": {
+      "login": "GregTheGreek",
+      "id": 16929357,
+      "node_id": "MDQ6VXNlcjE2OTI5MzU3",
+      "avatar_url": "https://avatars0.githubusercontent.com/u/16929357?u=744f34804212b4165d8bb0c920104b5c19937000&v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/GregTheGreek",
+      "html_url": "https://github.com/GregTheGreek",
+      "followers_url": "https://api.github.com/users/GregTheGreek/followers",
+      "following_url": "https://api.github.com/users/GregTheGreek/following{/other_user}",
+      "gists_url": "https://api.github.com/users/GregTheGreek/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/GregTheGreek/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/GregTheGreek/subscriptions",
+      "organizations_url": "https://api.github.com/users/GregTheGreek/orgs",
+      "repos_url": "https://api.github.com/users/GregTheGreek/repos",
+      "events_url": "https://api.github.com/users/GregTheGreek/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/GregTheGreek/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "body": "Who controls this address?",
+    "created_at": "2020-08-28T09:08:28Z",
+    "updated_at": "2020-08-28T09:08:28Z",
+    "html_url": "https://github.com/ethereumclassic/ECIPs/pull/349#discussion_r478991234",
+    "pull_request_url": "https://api.github.com/repos/ethereumclassic/ECIPs/pulls/349",
+    "author_association": "NONE",
+    "_links": {
+      "self": {
+        "href": "https://api.github.com/repos/ethereumclassic/ECIPs/pulls/comments/478991234"
+      },
+      "html": {
+        "href": "https://github.com/ethereumclassic/ECIPs/pull/349#discussion_r478991234"
+      },
+      "pull_request": {
+        "href": "https://api.github.com/repos/ethereumclassic/ECIPs/pulls/349"
+      }
+    },
+    "original_commit_id": "fe5fe9e05a7cdb49ec4be090aea0d5f63470fd8b"
+  }
