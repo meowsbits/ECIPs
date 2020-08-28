@@ -1,0 +1,39 @@
+{
+    "id": 477776323,
+    "node_id": "MDE3OlB1bGxSZXF1ZXN0UmV2aWV3NDc3Nzc2MzIz",
+    "user": {
+      "login": "SergioDemianLerner",
+      "id": 1752347,
+      "node_id": "MDQ6VXNlcjE3NTIzNDc=",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/1752347?u=f52233009451d6489b81666f87a8614416e0e687&v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/SergioDemianLerner",
+      "html_url": "https://github.com/SergioDemianLerner",
+      "followers_url": "https://api.github.com/users/SergioDemianLerner/followers",
+      "following_url": "https://api.github.com/users/SergioDemianLerner/following{/other_user}",
+      "gists_url": "https://api.github.com/users/SergioDemianLerner/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/SergioDemianLerner/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/SergioDemianLerner/subscriptions",
+      "organizations_url": "https://api.github.com/users/SergioDemianLerner/orgs",
+      "repos_url": "https://api.github.com/users/SergioDemianLerner/repos",
+      "events_url": "https://api.github.com/users/SergioDemianLerner/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/SergioDemianLerner/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "body": "",
+    "state": "COMMENTED",
+    "html_url": "https://github.com/ethereumclassic/ECIPs/pull/344#pullrequestreview-477776323",
+    "pull_request_url": "https://api.github.com/repos/ethereumclassic/ECIPs/pulls/344",
+    "author_association": "NONE",
+    "_links": {
+      "html": {
+        "href": "https://github.com/ethereumclassic/ECIPs/pull/344#pullrequestreview-477776323"
+      },
+      "pull_request": {
+        "href": "https://api.github.com/repos/ethereumclassic/ECIPs/pulls/344"
+      }
+    },
+    "submitted_at": "2020-08-28T14:29:17Z",
+    "commit_id": "8137b6c7291bc9b675eb00b69d81b7b94dfbde27"
+  }
