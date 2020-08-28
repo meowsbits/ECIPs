@@ -1,0 +1,55 @@
+{
+    "url": "https://api.github.com/repos/ethereumclassic/ECIPs/pulls/comments/478896148",
+    "pull_request_review_id": 477419405,
+    "id": 478896148,
+    "node_id": "MDI0OlB1bGxSZXF1ZXN0UmV2aWV3Q29tbWVudDQ3ODg5NjE0OA==",
+    "diff_hunk": "@@ -0,0 +1,450 @@\n+---\n+lang: en\n+ECIP: ECIP-XXX\n+Title: Proto Treasury System \n+Author: Julian Mendiola, Nicolas Tallar, Brian McKenna \n+Discussions-To: https://github.com/ethereumclassic/ECIPs/issues/350 | https://github.com/input-output-hk/ECIPs/issues/2",
+    "path": "_specs/ecip-proto-treasury-system.md",
+    "position": 6,
+    "original_position": 6,
+    "commit_id": "fe5fe9e05a7cdb49ec4be090aea0d5f63470fd8b",
+    "original_commit_id": "fe5fe9e05a7cdb49ec4be090aea0d5f63470fd8b",
+    "user": {
+      "login": "q9f",
+      "id": 58883403,
+      "node_id": "MDQ6VXNlcjU4ODgzNDAz",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/58883403?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/q9f",
+      "html_url": "https://github.com/q9f",
+      "followers_url": "https://api.github.com/users/q9f/followers",
+      "following_url": "https://api.github.com/users/q9f/following{/other_user}",
+      "gists_url": "https://api.github.com/users/q9f/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/q9f/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/q9f/subscriptions",
+      "organizations_url": "https://api.github.com/users/q9f/orgs",
+      "repos_url": "https://api.github.com/users/q9f/repos",
+      "events_url": "https://api.github.com/users/q9f/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/q9f/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "body": "I don't think this will render on the ECIPs website. Can you decide which link you prefer? It doesn't really matter on which repository the discussion happens. Important is the reader knows where to go.",
+    "created_at": "2020-08-28T07:42:58Z",
+    "updated_at": "2020-08-28T08:41:49Z",
+    "html_url": "https://github.com/ethereumclassic/ECIPs/pull/349#discussion_r478896148",
+    "pull_request_url": "https://api.github.com/repos/ethereumclassic/ECIPs/pulls/349",
+    "author_association": "MEMBER",
+    "_links": {
+      "self": {
+        "href": "https://api.github.com/repos/ethereumclassic/ECIPs/pulls/comments/478896148"
+      },
+      "html": {
+        "href": "https://github.com/ethereumclassic/ECIPs/pull/349#discussion_r478896148"
+      },
+      "pull_request": {
+        "href": "https://api.github.com/repos/ethereumclassic/ECIPs/pulls/349"
+      }
+    },
+    "start_line": null,
+    "original_start_line": null,
+    "start_side": null,
+    "line": 6,
+    "original_line": 6,
+    "side": "RIGHT"
+  }
