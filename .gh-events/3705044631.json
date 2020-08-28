@@ -99,7 +99,7 @@
       "milestone": null,
       "comments": 0,
       "created_at": "2020-08-28T17:43:11Z",
-      "updated_at": "2020-08-28T17:43:42Z",
+      "updated_at": "2020-08-28T17:45:17Z",
       "closed_at": null,
       "author_association": "CONTRIBUTOR",
       "active_lock_reason": null,
@@ -109,7 +109,7 @@
         "diff_url": "https://github.com/ethereumclassic/ECIPs/pull/354.diff",
         "patch_url": "https://github.com/ethereumclassic/ECIPs/pull/354.patch"
       },
-      "body": "as per #333 \r\n\r\nthere will be a working group for SHA3 and Keccak256 formed asap, action items:\r\n- working group to merge these proposals (Stevan & Alex)\r\n- figure out and specify a proper transition from Ethash to the new algorithm\r\n\r\nalso, specifically, ECIP-1049 needs a lot of text work, please follow the ECIP-X template file.",
+      "body": "as per #333 \r\n\r\ntogether with #355\r\n\r\nthere will be a working group for SHA3 and Keccak256 formed asap, action items:\r\n- working group to merge these proposals (Stevan & Alex)\r\n- figure out and specify a proper transition from Ethash to the new algorithm\r\n\r\nalso, specifically, ECIP-1049 needs a lot of text work, please follow the ECIP-X template file.",
       "performed_via_github_app": null
     },
     "performed_via_github_app": null

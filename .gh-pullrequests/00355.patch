@@ -1,0 +1,23 @@
+From 8feef5dad04b34e00416cabbea0a13ba9cc620ac Mon Sep 17 00:00:00 2001
+From: Raw Pong Ghmoa <58883403+q9f@users.noreply.github.com>
+Date: Fri, 28 Aug 2020 19:44:25 +0200
+Subject: [PATCH] Move ECIP-1095 "SHA-3" to Last Call
+
+---
+ _specs/ecip-1095.md | 3 ++-
+ 1 file changed, 2 insertions(+), 1 deletion(-)
+
+diff --git a/_specs/ecip-1095.md b/_specs/ecip-1095.md
+index 7732c8f9..d19cf3b9 100644
+--- a/_specs/ecip-1095.md
++++ b/_specs/ecip-1095.md
+@@ -2,7 +2,8 @@
+ lang: en
+ ecip: 1095
+ title: Change the ETC Proof of Work Algorithm to Sha-3-256
+-status: Draft
++status: Last Call
++review-period-end: 2020-10-09
+ type: Standards Track
+ category: Core
+ discussions-to: https://github.com/ethereumclassic/ECIPs/issues/342
