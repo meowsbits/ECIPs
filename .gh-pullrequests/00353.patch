@@ -1,0 +1,23 @@
+From 9c313acfd5a43c61c475e287a83fb08291b7f607 Mon Sep 17 00:00:00 2001
+From: Raw Pong Ghmoa <58883403+q9f@users.noreply.github.com>
+Date: Fri, 28 Aug 2020 19:37:34 +0200
+Subject: [PATCH] Move ECIP-1043 DAG-Size Limit to Last Call
+
+---
+ _specs/ecip-1043.md | 3 ++-
+ 1 file changed, 2 insertions(+), 1 deletion(-)
+
+diff --git a/_specs/ecip-1043.md b/_specs/ecip-1043.md
+index 6cd6e377..4dd6537d 100644
+--- a/_specs/ecip-1043.md
++++ b/_specs/ecip-1043.md
+@@ -3,7 +3,8 @@ lang: en
+ ecip: 1043
+ title: Fixed DAG limit restriction 
+ author: Cody Burns <cody.w.burns@gmail.com>, Wolf Spraul <wolf@linzhi.io>
+-status: Draft
++status: Last Call
++review-period-end: 2008-09-18
+ type: Standards Track
+ category: Core
+ discussions-to: https://github.com/ethereumclassic/ECIPs/issues/11

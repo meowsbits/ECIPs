@@ -1,0 +1,94 @@
+{
+    "url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/352",
+    "repository_url": "https://api.github.com/repos/ethereumclassic/ECIPs",
+    "labels_url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/352/labels{/name}",
+    "comments_url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/352/comments",
+    "events_url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/352/events",
+    "html_url": "https://github.com/ethereumclassic/ECIPs/pull/352",
+    "id": 688241779,
+    "node_id": "MDExOlB1bGxSZXF1ZXN0NDc1NTQ1ODI1",
+    "number": 352,
+    "title": "Reject ECIP-1093 \"RandomX\"",
+    "user": {
+      "login": "q9f",
+      "id": 58883403,
+      "node_id": "MDQ6VXNlcjU4ODgzNDAz",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/58883403?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/q9f",
+      "html_url": "https://github.com/q9f",
+      "followers_url": "https://api.github.com/users/q9f/followers",
+      "following_url": "https://api.github.com/users/q9f/following{/other_user}",
+      "gists_url": "https://api.github.com/users/q9f/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/q9f/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/q9f/subscriptions",
+      "organizations_url": "https://api.github.com/users/q9f/orgs",
+      "repos_url": "https://api.github.com/users/q9f/repos",
+      "events_url": "https://api.github.com/users/q9f/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/q9f/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "labels": [
+      {
+        "id": 2281247217,
+        "node_id": "MDU6TGFiZWwyMjgxMjQ3MjE3",
+        "url": "https://api.github.com/repos/ethereumclassic/ECIPs/labels/editor:%201%20needs%20review",
+        "name": "editor: 1 needs review",
+        "color": "ffd92f",
+        "default": false,
+        "description": "This contribution needs a careful review."
+      },
+      {
+        "id": 1154785135,
+        "node_id": "MDU6TGFiZWwxMTU0Nzg1MTM1",
+        "url": "https://api.github.com/repos/ethereumclassic/ECIPs/labels/status:%208%20rejected",
+        "name": "status: 8 rejected",
+        "color": "525252",
+        "default": false,
+        "description": "ECIP has been rejected by the community."
+      },
+      {
+        "id": 1154785127,
+        "node_id": "MDU6TGFiZWwxMTU0Nzg1MTI3",
+        "url": "https://api.github.com/repos/ethereumclassic/ECIPs/labels/type:%20core",
+        "name": "type: core",
+        "color": "fbb4ae",
+        "default": false,
+        "description": "ECIPs of the type \"Core\" - changing the Classic protocol."
+      }
+    ],
+    "state": "open",
+    "locked": false,
+    "assignee": null,
+    "assignees": [
+
+    ],
+    "milestone": null,
+    "comments": 0,
+    "created_at": "2020-08-28T17:35:23Z",
+    "updated_at": "2020-08-28T17:35:23Z",
+    "closed_at": null,
+    "author_association": "MEMBER",
+    "active_lock_reason": null,
+    "pull_request": {
+      "url": "https://api.github.com/repos/ethereumclassic/ECIPs/pulls/352",
+      "html_url": "https://github.com/ethereumclassic/ECIPs/pull/352",
+      "diff_url": "https://github.com/ethereumclassic/ECIPs/pull/352.diff",
+      "patch_url": "https://github.com/ethereumclassic/ECIPs/pull/352.patch"
+    },
+    "body": "as per #333 ",
+    "reactions": {
+      "url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/352/reactions",
+      "total_count": 0,
+      "+1": 0,
+      "-1": 0,
+      "laugh": 0,
+      "hooray": 0,
+      "confused": 0,
+      "heart": 0,
+      "rocket": 0,
+      "eyes": 0
+    },
+    "performed_via_github_app": null
+  }

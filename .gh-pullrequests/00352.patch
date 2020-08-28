@@ -1,0 +1,22 @@
+From e09a0dac1f78504ba3a7e4e67b2460a7d3020d6d Mon Sep 17 00:00:00 2001
+From: Raw Pong Ghmoa <58883403+q9f@users.noreply.github.com>
+Date: Fri, 28 Aug 2020 19:34:53 +0200
+Subject: [PATCH] Reject ECIP-1093 "RandomX"
+
+---
+ _specs/ecip-1093.md | 2 +-
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+
+diff --git a/_specs/ecip-1093.md b/_specs/ecip-1093.md
+index aece6d68..bec63bb7 100644
+--- a/_specs/ecip-1093.md
++++ b/_specs/ecip-1093.md
+@@ -2,7 +2,7 @@
+ lang: en
+ ecip: 1093
+ title: Change the ETC Proof of Work Algorithm to RandomX
+-status: Draft
++status: Rejected
+ type: Standards Track
+ category: Core
+ discussions-to: https://github.com/ethereumclassic/ECIPs/issues/329
