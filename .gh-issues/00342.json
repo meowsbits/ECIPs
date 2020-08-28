@@ -31,13 +31,13 @@
     },
     "labels": [
       {
-        "id": 1154785139,
-        "node_id": "MDU6TGFiZWwxMTU0Nzg1MTM5",
-        "url": "https://api.github.com/repos/ethereumclassic/ECIPs/labels/status:%201%20draft",
-        "name": "status: 1 draft",
-        "color": "d9d9d9",
+        "id": 1658195407,
+        "node_id": "MDU6TGFiZWwxNjU4MTk1NDA3",
+        "url": "https://api.github.com/repos/ethereumclassic/ECIPs/labels/status:%200%20wip",
+        "name": "status: 0 wip",
+        "color": "f0f0f0",
         "default": false,
-        "description": "ECIP is in draft stage an can be assigned ECIP number and merged, but requires community consensus."
+        "description": "ECIP is still work in progress and shall not be merged."
       },
       {
         "id": 1154785127,
@@ -58,7 +58,7 @@
     "milestone": null,
     "comments": 5,
     "created_at": "2020-08-20T20:43:40Z",
-    "updated_at": "2020-08-28T10:35:31Z",
+    "updated_at": "2020-08-28T11:10:24Z",
     "closed_at": null,
     "author_association": "MEMBER",
     "active_lock_reason": null,
