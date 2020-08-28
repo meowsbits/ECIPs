@@ -1,0 +1,116 @@
+{
+    "id": 3705044634,
+    "node_id": "MDEyOkxhYmVsZWRFdmVudDM3MDUwNDQ2MzQ=",
+    "url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/events/3705044634",
+    "actor": {
+      "login": "q9f",
+      "id": 58883403,
+      "node_id": "MDQ6VXNlcjU4ODgzNDAz",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/58883403?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/q9f",
+      "html_url": "https://github.com/q9f",
+      "followers_url": "https://api.github.com/users/q9f/followers",
+      "following_url": "https://api.github.com/users/q9f/following{/other_user}",
+      "gists_url": "https://api.github.com/users/q9f/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/q9f/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/q9f/subscriptions",
+      "organizations_url": "https://api.github.com/users/q9f/orgs",
+      "repos_url": "https://api.github.com/users/q9f/repos",
+      "events_url": "https://api.github.com/users/q9f/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/q9f/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "event": "labeled",
+    "commit_id": null,
+    "commit_url": null,
+    "created_at": "2020-08-28T17:43:12Z",
+    "label": {
+      "name": "editor: 1 needs review",
+      "color": "ffd92f"
+    },
+    "issue": {
+      "url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/354",
+      "repository_url": "https://api.github.com/repos/ethereumclassic/ECIPs",
+      "labels_url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/354/labels{/name}",
+      "comments_url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/354/comments",
+      "events_url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/354/events",
+      "html_url": "https://github.com/ethereumclassic/ECIPs/pull/354",
+      "id": 688246361,
+      "node_id": "MDExOlB1bGxSZXF1ZXN0NDc1NTQ5NjIx",
+      "number": 354,
+      "title": "Move ECIP-1049 \"Keccak256\" to Last Call",
+      "user": {
+        "login": "q9f",
+        "id": 58883403,
+        "node_id": "MDQ6VXNlcjU4ODgzNDAz",
+        "avatar_url": "https://avatars1.githubusercontent.com/u/58883403?v=4",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/q9f",
+        "html_url": "https://github.com/q9f",
+        "followers_url": "https://api.github.com/users/q9f/followers",
+        "following_url": "https://api.github.com/users/q9f/following{/other_user}",
+        "gists_url": "https://api.github.com/users/q9f/gists{/gist_id}",
+        "starred_url": "https://api.github.com/users/q9f/starred{/owner}{/repo}",
+        "subscriptions_url": "https://api.github.com/users/q9f/subscriptions",
+        "organizations_url": "https://api.github.com/users/q9f/orgs",
+        "repos_url": "https://api.github.com/users/q9f/repos",
+        "events_url": "https://api.github.com/users/q9f/events{/privacy}",
+        "received_events_url": "https://api.github.com/users/q9f/received_events",
+        "type": "User",
+        "site_admin": false
+      },
+      "labels": [
+        {
+          "id": 2281247217,
+          "node_id": "MDU6TGFiZWwyMjgxMjQ3MjE3",
+          "url": "https://api.github.com/repos/ethereumclassic/ECIPs/labels/editor:%201%20needs%20review",
+          "name": "editor: 1 needs review",
+          "color": "ffd92f",
+          "default": false,
+          "description": "This contribution needs a careful review."
+        },
+        {
+          "id": 1702098127,
+          "node_id": "MDU6TGFiZWwxNzAyMDk4MTI3",
+          "url": "https://api.github.com/repos/ethereumclassic/ECIPs/labels/status:%205%20last-call",
+          "name": "status: 5 last-call",
+          "color": "969696",
+          "default": false,
+          "description": "ECIP has been accepted and is waiting for last-call reviews."
+        },
+        {
+          "id": 1154785127,
+          "node_id": "MDU6TGFiZWwxMTU0Nzg1MTI3",
+          "url": "https://api.github.com/repos/ethereumclassic/ECIPs/labels/type:%20core",
+          "name": "type: core",
+          "color": "fbb4ae",
+          "default": false,
+          "description": "ECIPs of the type \"Core\" - changing the Classic protocol."
+        }
+      ],
+      "state": "open",
+      "locked": false,
+      "assignee": null,
+      "assignees": [
+
+      ],
+      "milestone": null,
+      "comments": 0,
+      "created_at": "2020-08-28T17:43:11Z",
+      "updated_at": "2020-08-28T17:43:42Z",
+      "closed_at": null,
+      "author_association": "CONTRIBUTOR",
+      "active_lock_reason": null,
+      "pull_request": {
+        "url": "https://api.github.com/repos/ethereumclassic/ECIPs/pulls/354",
+        "html_url": "https://github.com/ethereumclassic/ECIPs/pull/354",
+        "diff_url": "https://github.com/ethereumclassic/ECIPs/pull/354.diff",
+        "patch_url": "https://github.com/ethereumclassic/ECIPs/pull/354.patch"
+      },
+      "body": "as per #333 \r\n\r\nthere will be a working group for SHA3 and Keccak256 formed asap, action items:\r\n- working group to merge these proposals (Stevan & Alex)\r\n- figure out and specify a proper transition from Ethash to the new algorithm\r\n\r\nalso, specifically, ECIP-1049 needs a lot of text work, please follow the ECIP-X template file.",
+      "performed_via_github_app": null
+    },
+    "performed_via_github_app": null
+  }
