@@ -5,9 +5,9 @@
     "node_id": "MDI0OlB1bGxSZXF1ZXN0UmV2aWV3Q29tbWVudDQ3ODg5NjE0OA==",
     "diff_hunk": "@@ -0,0 +1,450 @@\n+---\n+lang: en\n+ECIP: ECIP-XXX\n+Title: Proto Treasury System \n+Author: Julian Mendiola, Nicolas Tallar, Brian McKenna \n+Discussions-To: https://github.com/ethereumclassic/ECIPs/issues/350 | https://github.com/input-output-hk/ECIPs/issues/2",
     "path": "_specs/ecip-proto-treasury-system.md",
-    "position": 6,
+    "position": null,
     "original_position": 6,
-    "commit_id": "fe5fe9e05a7cdb49ec4be090aea0d5f63470fd8b",
+    "commit_id": "5ceffe58467842b93305adbd8007204c76338df0",
     "original_commit_id": "fe5fe9e05a7cdb49ec4be090aea0d5f63470fd8b",
     "user": {
       "login": "q9f",
@@ -31,7 +31,7 @@
     },
     "body": "I don't think this will render on the ECIPs website. Can you decide which link you prefer? It doesn't really matter on which repository the discussion happens. Important is the reader knows where to go.",
     "created_at": "2020-08-28T07:42:58Z",
-    "updated_at": "2020-08-28T08:41:49Z",
+    "updated_at": "2020-08-28T21:41:17Z",
     "html_url": "https://github.com/ethereumclassic/ECIPs/pull/349#discussion_r478896148",
     "pull_request_url": "https://api.github.com/repos/ethereumclassic/ECIPs/pulls/349",
     "author_association": "MEMBER",
@@ -49,7 +49,7 @@
     "start_line": null,
     "original_start_line": null,
     "start_side": null,
-    "line": 6,
+    "line": null,
     "original_line": 6,
     "side": "RIGHT"
   }
