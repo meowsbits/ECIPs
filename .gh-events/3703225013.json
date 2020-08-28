@@ -1,7 +1,7 @@
 {
-    "id": 3702972545,
-    "node_id": "MDEyOkxhYmVsZWRFdmVudDM3MDI5NzI1NDU=",
-    "url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/events/3702972545",
+    "id": 3703225013,
+    "node_id": "MDE3OlJlbmFtZWRUaXRsZUV2ZW50MzcwMzIyNTAxMw==",
+    "url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/events/3703225013",
     "actor": {
       "login": "q9f",
       "id": 58883403,
@@ -22,13 +22,13 @@
       "type": "User",
       "site_admin": false
     },
-    "event": "labeled",
+    "event": "renamed",
     "commit_id": null,
     "commit_url": null,
-    "created_at": "2020-08-28T08:42:01Z",
-    "label": {
-      "name": "type: core",
-      "color": "fbb4ae"
+    "created_at": "2020-08-28T09:53:36Z",
+    "rename": {
+      "from": "Proto-treasury system proposal",
+      "to": "ECIP-1098 proto-Treasury system for ETC"
     },
     "issue": {
       "url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/349",
