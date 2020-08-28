@@ -1,8 +1,10 @@
 {
-    "id": 2843415098,
-    "node_id": "MDE1OlN1YnNjcmliZWRFdmVudDI4NDM0MTUwOTg=",
-    "url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/events/2843415098",
-    "actor": {
+    "url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/comments/682282598",
+    "html_url": "https://github.com/ethereumclassic/ECIPs/issues/333#issuecomment-682282598",
+    "issue_url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/333",
+    "id": 682282598,
+    "node_id": "MDEyOklzc3VlQ29tbWVudDY4MjI4MjU5OA==",
+    "user": {
       "login": "developerkevin",
       "id": 29807183,
       "node_id": "MDQ6VXNlcjI5ODA3MTgz",
@@ -22,9 +24,21 @@
       "type": "User",
       "site_admin": false
     },
-    "event": "subscribed",
-    "commit_id": null,
-    "commit_url": null,
-    "created_at": "2019-12-01T12:43:38Z",
+    "created_at": "2020-08-28T02:02:26Z",
+    "updated_at": "2020-08-28T02:02:26Z",
+    "author_association": "MEMBER",
+    "body": "@q9f do  you know if Alex Tsankov is available or will be in attendance for tomorrow's (your today's) meeting? I think that it might be a bit pointless if we don't have the author there, no?",
+    "reactions": {
+      "url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/comments/682282598/reactions",
+      "total_count": 0,
+      "+1": 0,
+      "-1": 0,
+      "laugh": 0,
+      "hooray": 0,
+      "confused": 0,
+      "heart": 0,
+      "rocket": 0,
+      "eyes": 0
+    },
     "performed_via_github_app": null
   }
