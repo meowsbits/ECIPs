@@ -1,0 +1,39 @@
+{
+    "id": 478041207,
+    "node_id": "MDE3OlB1bGxSZXF1ZXN0UmV2aWV3NDc4MDQxMjA3",
+    "user": {
+      "login": "jmendiola222",
+      "id": 5326111,
+      "node_id": "MDQ6VXNlcjUzMjYxMTE=",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/5326111?u=8c699c302f069dd03d2ed2e66011c66fac95bab9&v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/jmendiola222",
+      "html_url": "https://github.com/jmendiola222",
+      "followers_url": "https://api.github.com/users/jmendiola222/followers",
+      "following_url": "https://api.github.com/users/jmendiola222/following{/other_user}",
+      "gists_url": "https://api.github.com/users/jmendiola222/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/jmendiola222/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/jmendiola222/subscriptions",
+      "organizations_url": "https://api.github.com/users/jmendiola222/orgs",
+      "repos_url": "https://api.github.com/users/jmendiola222/repos",
+      "events_url": "https://api.github.com/users/jmendiola222/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/jmendiola222/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "body": "",
+    "state": "COMMENTED",
+    "html_url": "https://github.com/ethereumclassic/ECIPs/pull/349#pullrequestreview-478041207",
+    "pull_request_url": "https://api.github.com/repos/ethereumclassic/ECIPs/pulls/349",
+    "author_association": "NONE",
+    "_links": {
+      "html": {
+        "href": "https://github.com/ethereumclassic/ECIPs/pull/349#pullrequestreview-478041207"
+      },
+      "pull_request": {
+        "href": "https://api.github.com/repos/ethereumclassic/ECIPs/pulls/349"
+      }
+    },
+    "submitted_at": "2020-08-28T21:43:43Z",
+    "commit_id": "5ceffe58467842b93305adbd8007204c76338df0"
+  }
