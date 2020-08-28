@@ -49,7 +49,7 @@
         "description": "ECIPs of type \"Meta\" - bundling proposals for upgrades."
       }
     ],
-    "state": "open",
+    "state": "closed",
     "locked": false,
     "assignee": null,
     "assignees": [
@@ -58,8 +58,8 @@
     "milestone": null,
     "comments": 40,
     "created_at": "2020-08-12T12:07:28Z",
-    "updated_at": "2020-08-28T17:31:09Z",
-    "closed_at": null,
+    "updated_at": "2020-08-28T17:33:27Z",
+    "closed_at": "2020-08-28T17:33:27Z",
     "author_association": "MEMBER",
     "active_lock_reason": null,
     "body": "Ref https://doodle.com/poll/yutswfi8ngdts87b\r\n\r\nRef https://medium.com/ethereum-classic-labs/etc-network-security-plan-fed70402b727\r\n\r\n# ETC Core Devs Call(s) 2020 Q3: Hardfork\r\n* When: _Thursday, August 20, 2020, 12pm UTC, 60 minutes max -- proposal gathering and discussion only_\r\n* When: **Friday, August 28, 2020, 4pm UTC,** 60 minutes max -- proposal evaluation and **consensus finding**\r\n* Where: Ethereum Classic Discord https://discord.gg/dwxb6nf #ecips channel. Will use/create a voice channel ad hoc.\r\n\r\n## Agenda 08/28 \"Focus session\"\r\n- Teams Check-in\r\n- Overview:\r\n  - Mining Algorithm ECIPs 1043, 1049, 1093, and 1095\r\n  - Checkpointing and Proof-of-Actors ECIP-1097\r\n  - Other 51% proposals, ECIP 1092, 1094, and 1096\r\n- Focus: ECIP-1049 \"Keccak256\" vs. ECIP-1095 \"Vanilla SHA3\"\r\n  - Consider ECIP-1043 DAG-Limit as bridging the gap\r\n  - Reject ECIP-1093 \"RandomX\"\r\n- Focus: ECIP-1097 Checkpointing through Cardano OBFT\r\n- Focus: ECIP-1094 VeriBlock Proof-of-Proof\r\n- Focus: ECIP-1096 Bitcoin Merged Mining on Rootstock RSK\r\n\r\n## Agenda 08/20 \"Overview session\"\r\n- Teams Check-in\r\n  - Byzantine Fault\r\n  - ChainSafe Systems\r\n  - ETC Core (& ETC Labs)\r\n  - ETC Cooperative\r\n  - Input Output HK (IOHK)\r\n- Mining Algorithm Change\r\n  - ECIP 1049 \"Keccak256\"\r\n  - ECIP 1093 \"RandomX\"\r\n  - (_time permitting_) ECBP 1076 \"Miner Signaling\"\r\n- Other Proposals addressing PoW Security\r\n  - ECIP 1092 \"Pirlguard\"\r\n  - ECIP 1094 \"VeriBlock\"\r\n  - (_unpublished_) \"Checkpointing and Timestamping\"\r\n- (_time permitting_) Ethereum Berlin Hardfork\r\n  - (_time permitting_) EIP-2315: Simple Subroutines for the EVM\r\n  - (_time permitting_) EIP-2537: BLS12-381 curve operations\r\n  - (_time permitting_) EIP-2046: Reduced gas cost for static calls made to precompiles\r\n  - (_time permitting_) EIP-2565: Repricing of the EIP-198 ModExp precompile\r\n- (_time permitting_) Other topics that have to be addressed urgently.\r\n  - (_time permitting_) Gas Range Discussion: Upper and Lower Bounds\r\n  - (_time permitting_) Gas limit, backwards compatibility, slower blocks\r\n\r\nPlease post all relevant proposals below that should be discussed and evaludated.",
