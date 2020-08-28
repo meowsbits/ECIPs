@@ -1,0 +1,101 @@
+{
+    "id": 3705054019,
+    "node_id": "MDE0OlVubGFiZWxlZEV2ZW50MzcwNTA1NDAxOQ==",
+    "url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/events/3705054019",
+    "actor": {
+      "login": "q9f",
+      "id": 58883403,
+      "node_id": "MDQ6VXNlcjU4ODgzNDAz",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/58883403?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/q9f",
+      "html_url": "https://github.com/q9f",
+      "followers_url": "https://api.github.com/users/q9f/followers",
+      "following_url": "https://api.github.com/users/q9f/following{/other_user}",
+      "gists_url": "https://api.github.com/users/q9f/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/q9f/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/q9f/subscriptions",
+      "organizations_url": "https://api.github.com/users/q9f/orgs",
+      "repos_url": "https://api.github.com/users/q9f/repos",
+      "events_url": "https://api.github.com/users/q9f/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/q9f/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "event": "unlabeled",
+    "commit_id": null,
+    "commit_url": null,
+    "created_at": "2020-08-28T17:46:28Z",
+    "label": {
+      "name": "status: 1 draft",
+      "color": "d9d9d9"
+    },
+    "issue": {
+      "url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/342",
+      "repository_url": "https://api.github.com/repos/ethereumclassic/ECIPs",
+      "labels_url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/342/labels{/name}",
+      "comments_url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/342/comments",
+      "events_url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/342/events",
+      "html_url": "https://github.com/ethereumclassic/ECIPs/issues/342",
+      "id": 683084101,
+      "node_id": "MDU6SXNzdWU2ODMwODQxMDE=",
+      "number": 342,
+      "title": "ECIP-1095: Change ETC PoW to \"vanilla\" Sha-3 Discussion",
+      "user": {
+        "login": "stevanlohja",
+        "id": 10556209,
+        "node_id": "MDQ6VXNlcjEwNTU2MjA5",
+        "avatar_url": "https://avatars3.githubusercontent.com/u/10556209?v=4",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/stevanlohja",
+        "html_url": "https://github.com/stevanlohja",
+        "followers_url": "https://api.github.com/users/stevanlohja/followers",
+        "following_url": "https://api.github.com/users/stevanlohja/following{/other_user}",
+        "gists_url": "https://api.github.com/users/stevanlohja/gists{/gist_id}",
+        "starred_url": "https://api.github.com/users/stevanlohja/starred{/owner}{/repo}",
+        "subscriptions_url": "https://api.github.com/users/stevanlohja/subscriptions",
+        "organizations_url": "https://api.github.com/users/stevanlohja/orgs",
+        "repos_url": "https://api.github.com/users/stevanlohja/repos",
+        "events_url": "https://api.github.com/users/stevanlohja/events{/privacy}",
+        "received_events_url": "https://api.github.com/users/stevanlohja/received_events",
+        "type": "User",
+        "site_admin": false
+      },
+      "labels": [
+        {
+          "id": 1702098127,
+          "node_id": "MDU6TGFiZWwxNzAyMDk4MTI3",
+          "url": "https://api.github.com/repos/ethereumclassic/ECIPs/labels/status:%205%20last-call",
+          "name": "status: 5 last-call",
+          "color": "969696",
+          "default": false,
+          "description": "ECIP has been accepted and is waiting for last-call reviews."
+        },
+        {
+          "id": 1154785127,
+          "node_id": "MDU6TGFiZWwxMTU0Nzg1MTI3",
+          "url": "https://api.github.com/repos/ethereumclassic/ECIPs/labels/type:%20core",
+          "name": "type: core",
+          "color": "fbb4ae",
+          "default": false,
+          "description": "ECIPs of the type \"Core\" - changing the Classic protocol."
+        }
+      ],
+      "state": "open",
+      "locked": false,
+      "assignee": null,
+      "assignees": [
+
+      ],
+      "milestone": null,
+      "comments": 6,
+      "created_at": "2020-08-20T20:43:40Z",
+      "updated_at": "2020-08-28T17:46:28Z",
+      "closed_at": null,
+      "author_association": "CONTRIBUTOR",
+      "active_lock_reason": null,
+      "body": "This issue is the discussion for ECIP https://github.com/ethereumclassic/ECIPs/pull/341 which proposes to change the PoW to _vanilla_ Sha-3",
+      "performed_via_github_app": null
+    },
+    "performed_via_github_app": null
+  }
