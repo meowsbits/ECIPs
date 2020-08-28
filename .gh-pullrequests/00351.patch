@@ -1,8 +1,8 @@
 From e7b0eae08c925f86f971335fda290bb77773e36e Mon Sep 17 00:00:00 2001
 From: Dexaran <dexaran820@gmail.com>
 Date: Thu, 27 Aug 2020 15:39:11 +0400
-Subject: [PATCH] Fixed author and name to exclude symbols preventing ECIP from
- rendering
+Subject: [PATCH 1/2] Fixed author and name to exclude symbols preventing ECIP
+ from rendering
 
 ---
  _specs/ecip-1092.md | 4 ++--
@@ -24,6 +24,29 @@ index 7364ea1b..47986232 100644
  discussions-to: https://github.com/ethereumclassic/ECIPs/issues/327
 -author: dexaran (@dexaran)
 +author: Dexaran
+ created: 2020-07-08
+ ---
+ 
+
+From 3a997014c43dc3549c751baff1f6cd13c93de21d Mon Sep 17 00:00:00 2001
+From: Raw Pong Ghmoa <58883403+q9f@users.noreply.github.com>
+Date: Fri, 28 Aug 2020 09:38:30 +0200
+Subject: [PATCH 2/2] Update ecip-1092.md
+
+---
+ _specs/ecip-1092.md | 2 +-
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+
+diff --git a/_specs/ecip-1092.md b/_specs/ecip-1092.md
+index 47986232..9a1831c3 100644
+--- a/_specs/ecip-1092.md
++++ b/_specs/ecip-1092.md
+@@ -6,7 +6,7 @@ status: Draft
+ type: Standards Track
+ category: Core
+ discussions-to: https://github.com/ethereumclassic/ECIPs/issues/327
+-author: Dexaran
++author: Dexaran (@Dexaran)
  created: 2020-07-08
  ---
  
