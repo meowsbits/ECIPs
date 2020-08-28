@@ -1,0 +1,55 @@
+{
+    "url": "https://api.github.com/repos/ethereumclassic/ECIPs/pulls/comments/479076507",
+    "pull_request_review_id": 477611915,
+    "id": 479076507,
+    "node_id": "MDI0OlB1bGxSZXF1ZXN0UmV2aWV3Q29tbWVudDQ3OTA3NjUwNw==",
+    "diff_hunk": "@@ -0,0 +1,74 @@\n+---\n+lang: en\n+ecip: 1095\n+title: Change the ETC Proof of Work Algorithm to Sha-3-256\n+status: Draft\n+type: Standards Track\n+category: Core\n+discussions-to: https://github.com/ethereumclassic/ECIPs/issues/342\n+author: Stevan Lohja (stevanio@protonmail.com)\n+created: 2020-08-20\n+---\n+\n+# Change the ETC Proof of Work Algorithm to Sha-3-256 (vanilla Sha-3)\n+\n+__Abstract.__ Make Sha-3-256 Standard the Proof of Work algorithm for Ethereum Classic. Ethereum’s development coincided with the development of the Sha-3 standard, but the Sha-3 standard was finalized shortly after Ethereum launched. So, Ethereum was left with a variant of Sha-3 that did not produce standard Sha-3 hashes. This variant of Sha-3 utilized in Ethereum was named Keccak-256 to avoid confusion. Keccak-256 is utilized in the EVM, but the Proof of Work algorithm is Ethash. Ethash is a combination of Keccak256 & Daggerhashimoto which contributes to the memory-intensive feature (Dag). The Dag was added due to the premise of ASIC resistance, but that premise is flase since Ethash ASICs exist. So, Ethash’s Dag is built on the false premise of ASIC resistance and not utilizing the official Sha-3 Standard algorithm.\n+\n+Ethereum Classic's hash rate is also a minority of Ethereum's and the amount of rentable hash rate is available on the market to 51% attack the Ethereum Classic network. In summary, this proposal seeks to:\n+\n+- Remove Daggerhashimoto (Dag)\n+- Bump Keccak-256 to Sha-3-256 Standard\n+- Become a majority PoW algorithm in the industry",
+    "path": "_specs/ecip-1095.md",
+    "position": 21,
+    "original_position": 21,
+    "commit_id": "bd7ac4cb88abf52b5448fcc051d4c74b4082d18f",
+    "original_commit_id": "bd7ac4cb88abf52b5448fcc051d4c74b4082d18f",
+    "user": {
+      "login": "q9f",
+      "id": 58883403,
+      "node_id": "MDQ6VXNlcjU4ODgzNDAz",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/58883403?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/q9f",
+      "html_url": "https://github.com/q9f",
+      "followers_url": "https://api.github.com/users/q9f/followers",
+      "following_url": "https://api.github.com/users/q9f/following{/other_user}",
+      "gists_url": "https://api.github.com/users/q9f/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/q9f/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/q9f/subscriptions",
+      "organizations_url": "https://api.github.com/users/q9f/orgs",
+      "repos_url": "https://api.github.com/users/q9f/repos",
+      "events_url": "https://api.github.com/users/q9f/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/q9f/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "body": "Why not Keccak256?",
+    "created_at": "2020-08-28T10:14:59Z",
+    "updated_at": "2020-08-28T10:19:02Z",
+    "html_url": "https://github.com/ethereumclassic/ECIPs/pull/341#discussion_r479076507",
+    "pull_request_url": "https://api.github.com/repos/ethereumclassic/ECIPs/pulls/341",
+    "author_association": "MEMBER",
+    "_links": {
+      "self": {
+        "href": "https://api.github.com/repos/ethereumclassic/ECIPs/pulls/comments/479076507"
+      },
+      "html": {
+        "href": "https://github.com/ethereumclassic/ECIPs/pull/341#discussion_r479076507"
+      },
+      "pull_request": {
+        "href": "https://api.github.com/repos/ethereumclassic/ECIPs/pulls/341"
+      }
+    },
+    "start_line": null,
+    "original_start_line": null,
+    "start_side": null,
+    "line": 21,
+    "original_line": 21,
+    "side": "RIGHT"
+  }
