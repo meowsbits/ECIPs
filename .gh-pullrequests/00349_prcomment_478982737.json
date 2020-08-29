@@ -7,7 +7,7 @@
     "path": "_specs/ecip-proto-treasury-system.md",
     "position": null,
     "original_position": 406,
-    "commit_id": "5ceffe58467842b93305adbd8007204c76338df0",
+    "commit_id": "95ae41d860def1d0d312733c61fdbd96603ed6fb",
     "original_commit_id": "fe5fe9e05a7cdb49ec4be090aea0d5f63470fd8b",
     "user": {
       "login": "GregTheGreek",
@@ -31,7 +31,7 @@
     },
     "body": "+1 would probably make sense to either:\r\n1) Pre-determine these members as a part of the ECIP, OR\r\n2) Have this approved without the % structure outside it being an even distribution between n parties, and create a secondary ECIP to approve the members.",
     "created_at": "2020-08-28T09:02:55Z",
-    "updated_at": "2020-08-28T21:41:17Z",
+    "updated_at": "2020-08-29T21:59:31Z",
     "html_url": "https://github.com/ethereumclassic/ECIPs/pull/349#discussion_r478982737",
     "pull_request_url": "https://api.github.com/repos/ethereumclassic/ECIPs/pulls/349",
     "author_association": "NONE",

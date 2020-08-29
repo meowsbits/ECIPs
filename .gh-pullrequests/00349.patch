@@ -1,7 +1,7 @@
 From e9e5ba99e9080ed25241382fa9ae3430cdea5373 Mon Sep 17 00:00:00 2001
 From: "Brian P. McKenna" <bpmckenna@gmail.com>
 Date: Wed, 26 Aug 2020 18:57:19 -0300
-Subject: [PATCH 1/5] Proto-treasury system proposal
+Subject: [PATCH 1/6] Proto-treasury system proposal
 
 ---
  _specs/ecip-proto-treasury-system.md | 450 +++++++++++++++++++++++++++
@@ -468,7 +468,7 @@ index 00000000..217cdb2f
 From fe5fe9e05a7cdb49ec4be090aea0d5f63470fd8b Mon Sep 17 00:00:00 2001
 From: "Brian P. McKenna" <bpmckenna@gmail.com>
 Date: Thu, 27 Aug 2020 08:33:12 -0300
-Subject: [PATCH 2/5] Discussion links added
+Subject: [PATCH 2/6] Discussion links added
 
 ---
  _specs/ecip-proto-treasury-system.md | 2 +-
@@ -491,7 +491,7 @@ index 217cdb2f..b99ed400 100644
 From e06f01693019fb65a999835363d53d9ba418baf7 Mon Sep 17 00:00:00 2001
 From: atix <jmendiola222@gmail.com>
 Date: Fri, 28 Aug 2020 15:52:00 -0300
-Subject: [PATCH 3/5] rename ecip file to ecip-1098
+Subject: [PATCH 3/6] rename ecip file to ecip-1098
 
 ---
  _specs/{ecip-proto-treasury-system.md => ecip-1098.md} | 0
@@ -506,7 +506,7 @@ rename to _specs/ecip-1098.md
 From f4344ef5a3c7df88c97f8c661df1be9d970b0f29 Mon Sep 17 00:00:00 2001
 From: atix <jmendiola222@gmail.com>
 Date: Fri, 28 Aug 2020 18:19:10 -0300
-Subject: [PATCH 4/5] fix header format and info
+Subject: [PATCH 4/6] fix header format and info
 
 ---
  _specs/ecip-1098.md | 16 ++++++++--------
@@ -542,7 +542,7 @@ index b99ed400..29c8c7ae 100644
 From 2cd3b76d08903919579654f3008cd6688115917f Mon Sep 17 00:00:00 2001
 From: atix <jmendiola222@gmail.com>
 Date: Fri, 28 Aug 2020 18:31:38 -0300
-Subject: [PATCH 5/5] fix general minor format issues
+Subject: [PATCH 5/6] fix general minor format issues
 
 ---
  _specs/ecip-1098.md | 102 ++++++++++++++++++++++----------------------
@@ -834,3 +834,26 @@ index 29c8c7ae..797754ed 100644
 +[2] <https://gitcoin.co/grants/>
  
 +[3] <https://solidity.readthedocs.io/en/v0.6.12/introduction-to-smart-contracts.html#deactivate-and-self-destruct>
+
+From ad2982a1be50e318a7c78e3624009db7a8a6383c Mon Sep 17 00:00:00 2001
+From: atix <jmendiola222@gmail.com>
+Date: Sat, 29 Aug 2020 18:41:46 -0300
+Subject: [PATCH 6/6] clarify pre-support event
+
+---
+ _specs/ecip-1098.md | 2 +-
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+
+diff --git a/_specs/ecip-1098.md b/_specs/ecip-1098.md
+index 797754ed..c60c143d 100644
+--- a/_specs/ecip-1098.md
++++ b/_specs/ecip-1098.md
+@@ -128,7 +128,7 @@ A proposal lifecycle for updates to p-ECTS consists of the following phases, del
+ 
+ - **Proposal creation event**: The proposal gets created, its author's stake is registered as a *yes* vote and it immediately enters the *voting phase*.
+ - **Voting phase**: Since creation, and up to *proposalCreationTime* + *proposalDebatePeriod*; the proposal can register new votes, change votes or unvote.
+-- **Proposal pre-support event**: Before the proposal's voting ends, there is a *proposalPreSupportPeriod* in which the *preSupport* flag can be evaluated. If a majority has voted yes and has a quorum, this flag will be activated, which is a pre-condition for the proposal to pass. (See: [Ambush attacks prevention](#ambush-attacks-prevention) Section)
++- **Proposal pre-support event**: *proposalPreSupportPeriod* before the proposal's voting deadline, the *preSupport* flag can be evaluated. If a majority has voted yes and there is enough quorum, this flag will be activated, which is a pre-condition for the proposal to pass. (See: [Ambush attacks prevention](#ambush-attacks-prevention) Section)
+ - **Proposal voting deadline event**: After *proposalCreationTime* + *proposalDebatePeriod*, the proposal no longer accepts votes, meaning that the proposal outcome is settled at this moment.
+ - **Proposal execution phase**: After the deadline event, if the proposal gets approved, it's publicly available to be executed, making the change effective immediately.
+ 
