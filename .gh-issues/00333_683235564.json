@@ -25,9 +25,9 @@
       "site_admin": false
     },
     "created_at": "2020-08-29T04:38:24Z",
-    "updated_at": "2020-08-29T04:38:24Z",
+    "updated_at": "2020-08-29T06:23:36Z",
     "author_association": "NONE",
-    "body": "What are you doing, completely lost your mind? ECIP-1092 only! ",
+    "body": "Are you seriously? Now, in no case should the algorithm be changed, ECIP-1092 only (PirlGuard)! I hope you understand why this should not be done .. In the future, it is necessary to monitor ECIP-1092, I'm sure everything will be fine, and only then, gradually, you can think about changing the algorithm, at least in a year. And I am 90% sure that there will be no need to change the algorithm.",
     "reactions": {
       "url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/comments/683235564/reactions",
       "total_count": 0,
