@@ -25,9 +25,9 @@
       "site_admin": false
     },
     "created_at": "2020-08-29T21:04:27Z",
-    "updated_at": "2020-08-29T21:04:27Z",
+    "updated_at": "2020-08-29T21:05:32Z",
     "author_association": "MEMBER",
-    "body": "> there will be a working group for SHA3 and Keccak256 formed asap, action items:\r\n> \r\n> * working group to merge these proposals (Stevan & Alex)\r\n> * figure out and specify a proper transition from Ethash to the new algorithm\r\n\r\nIs this an open working group? Where can one follow this conversation?",
+    "body": "> there will be a working group for SHA3 and Keccak256 formed asap, action items:\r\n> \r\n> * working group to merge these proposals (Stevan & Alex)\r\n> * figure out and specify a proper transition from Ethash to the new algorithm\r\n\r\nIs this an open working group? Where can one follow this conversation? @stevanlohja @p3c-bot ",
     "reactions": {
       "url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/comments/683341786/reactions",
       "total_count": 0,
