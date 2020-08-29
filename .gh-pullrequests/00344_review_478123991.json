@@ -1,0 +1,39 @@
+{
+    "id": 478123991,
+    "node_id": "MDE3OlB1bGxSZXF1ZXN0UmV2aWV3NDc4MTIzOTkx",
+    "user": {
+      "login": "gtklocker",
+      "id": 732062,
+      "node_id": "MDQ6VXNlcjczMjA2Mg==",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/732062?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/gtklocker",
+      "html_url": "https://github.com/gtklocker",
+      "followers_url": "https://api.github.com/users/gtklocker/followers",
+      "following_url": "https://api.github.com/users/gtklocker/following{/other_user}",
+      "gists_url": "https://api.github.com/users/gtklocker/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/gtklocker/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/gtklocker/subscriptions",
+      "organizations_url": "https://api.github.com/users/gtklocker/orgs",
+      "repos_url": "https://api.github.com/users/gtklocker/repos",
+      "events_url": "https://api.github.com/users/gtklocker/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/gtklocker/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "body": "",
+    "state": "CHANGES_REQUESTED",
+    "html_url": "https://github.com/ethereumclassic/ECIPs/pull/344#pullrequestreview-478123991",
+    "pull_request_url": "https://api.github.com/repos/ethereumclassic/ECIPs/pulls/344",
+    "author_association": "NONE",
+    "_links": {
+      "html": {
+        "href": "https://github.com/ethereumclassic/ECIPs/pull/344#pullrequestreview-478123991"
+      },
+      "pull_request": {
+        "href": "https://api.github.com/repos/ethereumclassic/ECIPs/pulls/344"
+      }
+    },
+    "submitted_at": "2020-08-29T12:18:24Z",
+    "commit_id": "b254e02e4654758d68647da07b75555d25054e1c"
+  }
