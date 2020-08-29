@@ -25,9 +25,9 @@
       "site_admin": false
     },
     "created_at": "2020-08-29T02:06:38Z",
-    "updated_at": "2020-08-29T02:06:38Z",
+    "updated_at": "2020-08-29T02:09:49Z",
     "author_association": "MEMBER",
-    "body": "> This proposal garnered a lot of negativity and unfavorable comments in last week's call. Also, there was nobody from to champion this \"asic resistant\" proposal on the call. We agreed in that meeting it will not be followed up on.\r\n> \r\n> Can we close this ECIP?\r\n\r\nAs the author of this ECIP, I was never contacted regarding the ECIP I submitted a mere 3 weeks ago. Is there any recording of this? I was under the impression the referenced CDC was a disaster. I saw a video where Charles mentioned there wasn't productive conversation about this ECIP in the meeting.\r\nhttps://www.youtube.com/watch?v=F0lR_u7BVho&feature=youtu.be&t=490\r\n\r\nAnd I saw a 2Miners article where they are against the ASIC options:\r\nhttps://2miners.com/blog/ethereum-classic-future-discussing-etc-network-current-state-and-security-plan/",
+    "body": "> This proposal garnered a lot of negativity and unfavorable comments in last week's call. Also, there was nobody from to champion this \"asic resistant\" proposal on the call. We agreed in that meeting it will not be followed up on.\r\n> \r\n> Can we close this ECIP?\r\n\r\n@developerkevin @q9f \r\n\r\nAs the author of this ECIP, I was never contacted regarding the ECIP I submitted a mere 3 weeks ago. Is there any recording of this? I was under the impression the referenced CDC was a disaster. I saw a video where Charles mentioned there wasn't productive conversation about this ECIP in the meeting.\r\nhttps://www.youtube.com/watch?v=F0lR_u7BVho&feature=youtu.be&t=490\r\n\r\nAre any of the questions/concerns that Charles highlights sorted out regarding the ASIC supply chain route?\r\n\r\nAnd I saw a 2Miners article where they are against the ASIC options:\r\nhttps://2miners.com/blog/ethereum-classic-future-discussing-etc-network-current-state-and-security-plan/",
     "reactions": {
       "url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/comments/683219976/reactions",
       "total_count": 0,
