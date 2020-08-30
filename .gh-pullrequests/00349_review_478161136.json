@@ -1,0 +1,39 @@
+{
+    "id": 478161136,
+    "node_id": "MDE3OlB1bGxSZXF1ZXN0UmV2aWV3NDc4MTYxMTM2",
+    "user": {
+      "login": "gitr0n1n",
+      "id": 58588775,
+      "node_id": "MDQ6VXNlcjU4NTg4Nzc1",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/58588775?u=af50eca2408e83153043b37e3a63641fca94850e&v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/gitr0n1n",
+      "html_url": "https://github.com/gitr0n1n",
+      "followers_url": "https://api.github.com/users/gitr0n1n/followers",
+      "following_url": "https://api.github.com/users/gitr0n1n/following{/other_user}",
+      "gists_url": "https://api.github.com/users/gitr0n1n/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/gitr0n1n/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/gitr0n1n/subscriptions",
+      "organizations_url": "https://api.github.com/users/gitr0n1n/orgs",
+      "repos_url": "https://api.github.com/users/gitr0n1n/repos",
+      "events_url": "https://api.github.com/users/gitr0n1n/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/gitr0n1n/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "body": "",
+    "state": "COMMENTED",
+    "html_url": "https://github.com/ethereumclassic/ECIPs/pull/349#pullrequestreview-478161136",
+    "pull_request_url": "https://api.github.com/repos/ethereumclassic/ECIPs/pulls/349",
+    "author_association": "MEMBER",
+    "_links": {
+      "html": {
+        "href": "https://github.com/ethereumclassic/ECIPs/pull/349#pullrequestreview-478161136"
+      },
+      "pull_request": {
+        "href": "https://api.github.com/repos/ethereumclassic/ECIPs/pulls/349"
+      }
+    },
+    "submitted_at": "2020-08-29T23:46:43Z",
+    "commit_id": "95ae41d860def1d0d312733c61fdbd96603ed6fb"
+  }
