@@ -1,0 +1,56 @@
+{
+    "url": "https://api.github.com/repos/ethereumclassic/ECIPs/pulls/comments/480187127",
+    "pull_request_review_id": 478689481,
+    "id": 480187127,
+    "node_id": "MDI0OlB1bGxSZXF1ZXN0UmV2aWV3Q29tbWVudDQ4MDE4NzEyNw==",
+    "diff_hunk": "@@ -0,0 +1,157 @@\n+---\n+lang: en\n+ecip: ECIP-10XX",
+    "path": "_specs/ecip-51-attack-protection-system.md",
+    "position": null,
+    "original_position": 3,
+    "commit_id": "4decf88a721945c54bd38d83b001a7c354f6410a",
+    "original_commit_id": "8137b6c7291bc9b675eb00b69d81b7b94dfbde27",
+    "user": {
+      "login": "martinmedina",
+      "id": 2243458,
+      "node_id": "MDQ6VXNlcjIyNDM0NTg=",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/2243458?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/martinmedina",
+      "html_url": "https://github.com/martinmedina",
+      "followers_url": "https://api.github.com/users/martinmedina/followers",
+      "following_url": "https://api.github.com/users/martinmedina/following{/other_user}",
+      "gists_url": "https://api.github.com/users/martinmedina/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/martinmedina/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/martinmedina/subscriptions",
+      "organizations_url": "https://api.github.com/users/martinmedina/orgs",
+      "repos_url": "https://api.github.com/users/martinmedina/repos",
+      "events_url": "https://api.github.com/users/martinmedina/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/martinmedina/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "body": "Done",
+    "created_at": "2020-08-31T14:57:00Z",
+    "updated_at": "2020-08-31T14:57:00Z",
+    "html_url": "https://github.com/ethereumclassic/ECIPs/pull/344#discussion_r480187127",
+    "pull_request_url": "https://api.github.com/repos/ethereumclassic/ECIPs/pulls/344",
+    "author_association": "NONE",
+    "_links": {
+      "self": {
+        "href": "https://api.github.com/repos/ethereumclassic/ECIPs/pulls/comments/480187127"
+      },
+      "html": {
+        "href": "https://github.com/ethereumclassic/ECIPs/pull/344#discussion_r480187127"
+      },
+      "pull_request": {
+        "href": "https://api.github.com/repos/ethereumclassic/ECIPs/pulls/344"
+      }
+    },
+    "start_line": null,
+    "original_start_line": null,
+    "start_side": null,
+    "line": null,
+    "original_line": 3,
+    "side": "RIGHT",
+    "in_reply_to_id": 479101617
+  }
