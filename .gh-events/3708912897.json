@@ -1,7 +1,7 @@
 {
-    "id": 3707577928,
-    "node_id": "MDE0Ok1lbnRpb25lZEV2ZW50MzcwNzU3NzkyOA==",
-    "url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/events/3707577928",
+    "id": 3708912897,
+    "node_id": "MDE5OkhlYWRSZWZEZWxldGVkRXZlbnQzNzA4OTEyODk3",
+    "url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/events/3708912897",
     "actor": {
       "login": "q9f",
       "id": 58883403,
@@ -22,20 +22,20 @@
       "type": "User",
       "site_admin": false
     },
-    "event": "mentioned",
+    "event": "head_ref_deleted",
     "commit_id": null,
     "commit_url": null,
-    "created_at": "2020-08-30T19:54:11Z",
+    "created_at": "2020-08-31T08:53:38Z",
     "issue": {
-      "url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/352",
+      "url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/359",
       "repository_url": "https://api.github.com/repos/ethereumclassic/ECIPs",
-      "labels_url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/352/labels{/name}",
-      "comments_url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/352/comments",
-      "events_url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/352/events",
-      "html_url": "https://github.com/ethereumclassic/ECIPs/pull/352",
-      "id": 688241779,
-      "node_id": "MDExOlB1bGxSZXF1ZXN0NDc1NTQ1ODI1",
-      "number": 352,
+      "labels_url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/359/labels{/name}",
+      "comments_url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/359/comments",
+      "events_url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/359/events",
+      "html_url": "https://github.com/ethereumclassic/ECIPs/pull/359",
+      "id": 688988798,
+      "node_id": "MDExOlB1bGxSZXF1ZXN0NDc2MTIxMzY1",
+      "number": 359,
       "title": "Reject ECIP-1093 \"RandomX\"",
       "user": {
         "login": "q9f",
@@ -93,19 +93,19 @@
 
       ],
       "milestone": null,
-      "comments": 7,
-      "created_at": "2020-08-28T17:35:23Z",
-      "updated_at": "2020-08-31T08:53:39Z",
-      "closed_at": "2020-08-31T01:26:51Z",
+      "comments": 6,
+      "created_at": "2020-08-31T07:33:41Z",
+      "updated_at": "2020-08-31T08:55:19Z",
+      "closed_at": "2020-08-31T08:52:36Z",
       "author_association": "CONTRIBUTOR",
       "active_lock_reason": null,
       "pull_request": {
-        "url": "https://api.github.com/repos/ethereumclassic/ECIPs/pulls/352",
-        "html_url": "https://github.com/ethereumclassic/ECIPs/pull/352",
-        "diff_url": "https://github.com/ethereumclassic/ECIPs/pull/352.diff",
-        "patch_url": "https://github.com/ethereumclassic/ECIPs/pull/352.patch"
+        "url": "https://api.github.com/repos/ethereumclassic/ECIPs/pulls/359",
+        "html_url": "https://github.com/ethereumclassic/ECIPs/pull/359",
+        "diff_url": "https://github.com/ethereumclassic/ECIPs/pull/359.diff",
+        "patch_url": "https://github.com/ethereumclassic/ECIPs/pull/359.patch"
       },
-      "body": "as per #333 \r\n\r\ncloses #329 ",
+      "body": "reopen #352 \r\n\r\nas per reasoning in #333 \r\n\r\n@gitr0n1n if you want to reiterate this proposal back in draft status, please schedule another call for the sake of process.",
       "performed_via_github_app": null
     },
     "performed_via_github_app": null
