@@ -1,7 +1,7 @@
 From 4352c9c3bc037b37fc81538b76b9afe1b24f2e29 Mon Sep 17 00:00:00 2001
 From: Maxwell Sanchez <macbymax@gmail.com>
 Date: Thu, 20 Aug 2020 02:22:19 -0400
-Subject: [PATCH 1/7] Images Upload
+Subject: [PATCH 1/8] Images Upload
 
 ---
  assets/ecip-vbkpop/etc_header_hash_format.png  | Bin 0 -> 43010 bytes
@@ -4893,7 +4893,7 @@ HcmV?d00001
 From a95d1812a402cda4657cd5d43a462f7ae233106c Mon Sep 17 00:00:00 2001
 From: Maxwell Sanchez <max@veriblock.com>
 Date: Thu, 20 Aug 2020 02:24:14 -0400
-Subject: [PATCH 2/7] Create ECIP-VeriBlock-PoP-51%-Protection.md
+Subject: [PATCH 2/8] Create ECIP-VeriBlock-PoP-51%-Protection.md
 
 Pushing VeriBlock PoP ECIP Draft
 ---
@@ -5480,7 +5480,7 @@ index 00000000..46fe9fd6
 From 171fae30667b5b64ad43cdb33230eac9219d3c13 Mon Sep 17 00:00:00 2001
 From: Maxwell Sanchez <max@veriblock.com>
 Date: Thu, 20 Aug 2020 02:28:21 -0400
-Subject: [PATCH 3/7] Update ECIP-VeriBlock-PoP-51%-Protection.md
+Subject: [PATCH 3/8] Update ECIP-VeriBlock-PoP-51%-Protection.md
 
 Updated ECIP Status to `draft`
 ---
@@ -5504,7 +5504,7 @@ index 46fe9fd6..60d4227f 100644
 From 6ec333f07218c0edf3edd0170e5a544f9089b8d7 Mon Sep 17 00:00:00 2001
 From: Maxwell Sanchez <max@veriblock.com>
 Date: Thu, 20 Aug 2020 11:16:02 -0400
-Subject: [PATCH 4/7] Update ECIP-VeriBlock-PoP-51%-Protection.md
+Subject: [PATCH 4/8] Update ECIP-VeriBlock-PoP-51%-Protection.md
 
 ECIP Number Assigned
 
@@ -5529,7 +5529,7 @@ index 60d4227f..583b6822 100644
 From 2967bf2687d6507fbe093650d21b28fc0016d4cd Mon Sep 17 00:00:00 2001
 From: Maxwell Sanchez <max@veriblock.com>
 Date: Thu, 20 Aug 2020 11:16:24 -0400
-Subject: [PATCH 5/7] Update ECIP-VeriBlock-PoP-51%-Protection.md
+Subject: [PATCH 5/8] Update ECIP-VeriBlock-PoP-51%-Protection.md
 
 Updated title per suggestion
 
@@ -5555,7 +5555,7 @@ index 583b6822..ffbd936c 100644
 From 433c36f7652481bad675d91f23ff853b9839e449 Mon Sep 17 00:00:00 2001
 From: Maxwell Sanchez <max@veriblock.com>
 Date: Thu, 20 Aug 2020 11:21:23 -0400
-Subject: [PATCH 6/7] Update ECIP-VeriBlock-PoP-51%-Protection.md
+Subject: [PATCH 6/8] Update ECIP-VeriBlock-PoP-51%-Protection.md
 
 ---
  ECIP-VeriBlock-PoP-51%-Protection.md | 1 +
@@ -5577,7 +5577,7 @@ index ffbd936c..346eb62d 100644
 From 33b7f37b67cab0e3d75f1b3c0ccee4f3633ddfc4 Mon Sep 17 00:00:00 2001
 From: Maxwell Sanchez <max@veriblock.com>
 Date: Thu, 20 Aug 2020 11:57:48 -0400
-Subject: [PATCH 7/7] Update ECIP-VeriBlock-PoP-51%-Protection.md
+Subject: [PATCH 7/8] Update ECIP-VeriBlock-PoP-51%-Protection.md
 
 ---
  ECIP-VeriBlock-PoP-51%-Protection.md | 5 +++++
@@ -5596,3 +5596,26 @@ index 346eb62d..34adcf46 100644
 +
 +This work is licensed under [Apache License, Version
 +2.0](http://www.apache.org/licenses/).
+
+From 48a55d7fddd87fc696f71e8ee90bab074dc861ab Mon Sep 17 00:00:00 2001
+From: Maxwell Sanchez <max@veriblock.com>
+Date: Mon, 31 Aug 2020 08:42:52 -0700
+Subject: [PATCH 8/8] Update ECIP-VeriBlock-PoP-51%-Protection.md
+
+Co-authored-by: Raw Pong Ghmoa <58883403+q9f@users.noreply.github.com>
+---
+ ECIP-VeriBlock-PoP-51%-Protection.md | 2 +-
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+
+diff --git a/ECIP-VeriBlock-PoP-51%-Protection.md b/ECIP-VeriBlock-PoP-51%-Protection.md
+index 34adcf46..96e70a2e 100644
+--- a/ECIP-VeriBlock-PoP-51%-Protection.md
++++ b/ECIP-VeriBlock-PoP-51%-Protection.md
+@@ -1,6 +1,6 @@
+ ---
+ lang: en
+-ecip: ECIP 1094
++ecip: 1094
+ title: VeriBlock Proof-of-Proof 51%-Attack Prevention
+ category: core
+ status: Draft

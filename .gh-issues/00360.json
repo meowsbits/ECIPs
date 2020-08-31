@@ -1,0 +1,62 @@
+{
+    "url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/360",
+    "repository_url": "https://api.github.com/repos/ethereumclassic/ECIPs",
+    "labels_url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/360/labels{/name}",
+    "comments_url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/360/comments",
+    "events_url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/360/events",
+    "html_url": "https://github.com/ethereumclassic/ECIPs/issues/360",
+    "id": 689308378,
+    "node_id": "MDU6SXNzdWU2ODkzMDgzNzg=",
+    "number": 360,
+    "title": "ECIP-1094: Integration of VeriBlock Proof-of-Proof into Ethereum Classic [51% Attack Prevention]",
+    "user": {
+      "login": "max-sanchez",
+      "id": 1361464,
+      "node_id": "MDQ6VXNlcjEzNjE0NjQ=",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/1361464?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/max-sanchez",
+      "html_url": "https://github.com/max-sanchez",
+      "followers_url": "https://api.github.com/users/max-sanchez/followers",
+      "following_url": "https://api.github.com/users/max-sanchez/following{/other_user}",
+      "gists_url": "https://api.github.com/users/max-sanchez/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/max-sanchez/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/max-sanchez/subscriptions",
+      "organizations_url": "https://api.github.com/users/max-sanchez/orgs",
+      "repos_url": "https://api.github.com/users/max-sanchez/repos",
+      "events_url": "https://api.github.com/users/max-sanchez/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/max-sanchez/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "labels": [
+
+    ],
+    "state": "open",
+    "locked": false,
+    "assignee": null,
+    "assignees": [
+
+    ],
+    "milestone": null,
+    "comments": 0,
+    "created_at": "2020-08-31T15:47:38Z",
+    "updated_at": "2020-08-31T15:47:38Z",
+    "closed_at": null,
+    "author_association": "NONE",
+    "active_lock_reason": null,
+    "body": "The issue is the discussion for ECIP #340 which proposes to integrate VeriBlock Proof-of-Proof into Ethereum Classic for 51% attack prevention.",
+    "reactions": {
+      "url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/360/reactions",
+      "total_count": 0,
+      "+1": 0,
+      "-1": 0,
+      "laugh": 0,
+      "hooray": 0,
+      "confused": 0,
+      "heart": 0,
+      "rocket": 0,
+      "eyes": 0
+    },
+    "performed_via_github_app": null
+  }
