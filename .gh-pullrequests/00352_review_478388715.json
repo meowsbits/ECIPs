@@ -21,7 +21,7 @@
       "type": "User",
       "site_admin": false
     },
-    "body": "I request this ECIP sit in `Draft` status do to the reasons stated above. The ECIP process for this is rushed. If you would prefer, you can put the ECIP in `WIP` status, as it in not even 4 weeks old and a proposal to change the consensus algorithm of the network.",
+    "body": "I request this ECIP sit in `Draft` status due to the reasons stated above. The ECIP process for this is rushed. If you would prefer, you can put the ECIP in `WIP` status, as it in not even 4 weeks old and a proposal to change the consensus algorithm of the network.",
     "state": "COMMENTED",
     "html_url": "https://github.com/ethereumclassic/ECIPs/pull/352#pullrequestreview-478388715",
     "pull_request_url": "https://api.github.com/repos/ethereumclassic/ECIPs/pulls/352",
