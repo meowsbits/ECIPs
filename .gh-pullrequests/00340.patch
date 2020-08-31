@@ -1,7 +1,7 @@
 From 4352c9c3bc037b37fc81538b76b9afe1b24f2e29 Mon Sep 17 00:00:00 2001
 From: Maxwell Sanchez <macbymax@gmail.com>
 Date: Thu, 20 Aug 2020 02:22:19 -0400
-Subject: [PATCH 01/10] Images Upload
+Subject: [PATCH 01/11] Images Upload
 
 ---
  assets/ecip-vbkpop/etc_header_hash_format.png  | Bin 0 -> 43010 bytes
@@ -4893,7 +4893,7 @@ HcmV?d00001
 From a95d1812a402cda4657cd5d43a462f7ae233106c Mon Sep 17 00:00:00 2001
 From: Maxwell Sanchez <max@veriblock.com>
 Date: Thu, 20 Aug 2020 02:24:14 -0400
-Subject: [PATCH 02/10] Create ECIP-VeriBlock-PoP-51%-Protection.md
+Subject: [PATCH 02/11] Create ECIP-VeriBlock-PoP-51%-Protection.md
 
 Pushing VeriBlock PoP ECIP Draft
 ---
@@ -5480,7 +5480,7 @@ index 00000000..46fe9fd6
 From 171fae30667b5b64ad43cdb33230eac9219d3c13 Mon Sep 17 00:00:00 2001
 From: Maxwell Sanchez <max@veriblock.com>
 Date: Thu, 20 Aug 2020 02:28:21 -0400
-Subject: [PATCH 03/10] Update ECIP-VeriBlock-PoP-51%-Protection.md
+Subject: [PATCH 03/11] Update ECIP-VeriBlock-PoP-51%-Protection.md
 
 Updated ECIP Status to `draft`
 ---
@@ -5504,7 +5504,7 @@ index 46fe9fd6..60d4227f 100644
 From 6ec333f07218c0edf3edd0170e5a544f9089b8d7 Mon Sep 17 00:00:00 2001
 From: Maxwell Sanchez <max@veriblock.com>
 Date: Thu, 20 Aug 2020 11:16:02 -0400
-Subject: [PATCH 04/10] Update ECIP-VeriBlock-PoP-51%-Protection.md
+Subject: [PATCH 04/11] Update ECIP-VeriBlock-PoP-51%-Protection.md
 
 ECIP Number Assigned
 
@@ -5529,7 +5529,7 @@ index 60d4227f..583b6822 100644
 From 2967bf2687d6507fbe093650d21b28fc0016d4cd Mon Sep 17 00:00:00 2001
 From: Maxwell Sanchez <max@veriblock.com>
 Date: Thu, 20 Aug 2020 11:16:24 -0400
-Subject: [PATCH 05/10] Update ECIP-VeriBlock-PoP-51%-Protection.md
+Subject: [PATCH 05/11] Update ECIP-VeriBlock-PoP-51%-Protection.md
 
 Updated title per suggestion
 
@@ -5555,7 +5555,7 @@ index 583b6822..ffbd936c 100644
 From 433c36f7652481bad675d91f23ff853b9839e449 Mon Sep 17 00:00:00 2001
 From: Maxwell Sanchez <max@veriblock.com>
 Date: Thu, 20 Aug 2020 11:21:23 -0400
-Subject: [PATCH 06/10] Update ECIP-VeriBlock-PoP-51%-Protection.md
+Subject: [PATCH 06/11] Update ECIP-VeriBlock-PoP-51%-Protection.md
 
 ---
  ECIP-VeriBlock-PoP-51%-Protection.md | 1 +
@@ -5577,7 +5577,7 @@ index ffbd936c..346eb62d 100644
 From 33b7f37b67cab0e3d75f1b3c0ccee4f3633ddfc4 Mon Sep 17 00:00:00 2001
 From: Maxwell Sanchez <max@veriblock.com>
 Date: Thu, 20 Aug 2020 11:57:48 -0400
-Subject: [PATCH 07/10] Update ECIP-VeriBlock-PoP-51%-Protection.md
+Subject: [PATCH 07/11] Update ECIP-VeriBlock-PoP-51%-Protection.md
 
 ---
  ECIP-VeriBlock-PoP-51%-Protection.md | 5 +++++
@@ -5600,7 +5600,7 @@ index 346eb62d..34adcf46 100644
 From 48a55d7fddd87fc696f71e8ee90bab074dc861ab Mon Sep 17 00:00:00 2001
 From: Maxwell Sanchez <max@veriblock.com>
 Date: Mon, 31 Aug 2020 08:42:52 -0700
-Subject: [PATCH 08/10] Update ECIP-VeriBlock-PoP-51%-Protection.md
+Subject: [PATCH 08/11] Update ECIP-VeriBlock-PoP-51%-Protection.md
 
 Co-authored-by: Raw Pong Ghmoa <58883403+q9f@users.noreply.github.com>
 ---
@@ -5623,7 +5623,7 @@ index 34adcf46..96e70a2e 100644
 From 842e60b5a50f7817301cf1d3b655cc256b3b1a4a Mon Sep 17 00:00:00 2001
 From: Maxwell Sanchez <max@veriblock.com>
 Date: Mon, 31 Aug 2020 08:47:57 -0700
-Subject: [PATCH 09/10] Update ECIP-VeriBlock-PoP-51%-Protection.md
+Subject: [PATCH 09/11] Update ECIP-VeriBlock-PoP-51%-Protection.md
 
 ---
  ECIP-VeriBlock-PoP-51%-Protection.md | 2 +-
@@ -5646,7 +5646,7 @@ index 96e70a2e..8dd9bdb9 100644
 From 0319ec85abb68bcfef8e2aab74524e719eabe966 Mon Sep 17 00:00:00 2001
 From: Max Sanchez <max@veriblock.com>
 Date: Mon, 31 Aug 2020 08:51:54 -0700
-Subject: [PATCH 10/10] Renamed to ECIP-1094, Moved ECIP to _specs
+Subject: [PATCH 10/11] Renamed to ECIP-1094, Moved ECIP to _specs
 
 ---
  .../ecip-1094.md                                    |  10 +++++-----
@@ -5727,3 +5727,26 @@ diff --git a/assets/ecip-vbkpop/si_inheriting_no_competition.png b/assets/ecip-1
 similarity index 100%
 rename from assets/ecip-vbkpop/si_inheriting_no_competition.png
 rename to assets/ecip-1094/si_inheriting_no_competition.png
+
+From 6a7766899a4eeb1112d5e9e2cccfae6b4ea5f464 Mon Sep 17 00:00:00 2001
+From: Max Sanchez <max@veriblock.com>
+Date: Mon, 31 Aug 2020 09:08:22 -0700
+Subject: [PATCH 11/11] Fixed Capitalization of Category
+
+---
+ _specs/ecip-1094.md | 2 +-
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+
+diff --git a/_specs/ecip-1094.md b/_specs/ecip-1094.md
+index 4e6ff871..826a304b 100644
+--- a/_specs/ecip-1094.md
++++ b/_specs/ecip-1094.md
+@@ -2,7 +2,7 @@
+ lang: en
+ ecip: 1094
+ title: VeriBlock Proof-of-Proof 51%-Attack Prevention
+-category: core
++category: Core
+ status: Draft
+ type: Standards Track
+ discussions-to: https://github.com/ethereumclassic/ECIPs/issues/360
