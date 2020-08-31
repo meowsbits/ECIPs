@@ -25,9 +25,9 @@
       "site_admin": false
     },
     "created_at": "2020-08-31T02:38:58Z",
-    "updated_at": "2020-08-31T02:38:58Z",
+    "updated_at": "2020-08-31T02:49:08Z",
     "author_association": "MEMBER",
-    "body": "> @gitr0n1n Are you joking? Have you seen the increased difficulty after switching Monero to RandomX?\r\n\r\nDoesn't an increased difficulty help secure the Ethereum Classic network? Currenly Ethash is at a very low difficultly and we have experienced three 51% attacks in one month.",
+    "body": "> @gitr0n1n Are you joking? Have you seen the increased difficulty after switching Monero to RandomX?\r\n\r\nDoesn't an increased difficulty help secure the Ethereum Classic network? Currenly Ethash is at a very low difficultly and we have experienced three 51% attacks in one month.\r\n\r\nMy opinon is that an ASIC-friendly option (SHA3) will result in less hashrate than Ethash (GPU) and more centralization. And, far less hashrate than CPU algos like RandomX.\r\n\r\nWith more available hashrate comes the risk of the more opportunity for malicious rental hashrate market which is crippling the network under Ethash.\r\n\r\nWould available CPU hash be as hostile as Ethash hash? I'm not sure.\r\n\r\nThat is why this proposal is being opened for public discussion and a compliment to the ECIP-1049 discussion.",
     "reactions": {
       "url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/comments/683520008/reactions",
       "total_count": 0,

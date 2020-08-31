@@ -1,9 +1,9 @@
 {
-    "url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/comments/677787751",
-    "html_url": "https://github.com/ethereumclassic/ECIPs/issues/329#issuecomment-677787751",
-    "issue_url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/329",
-    "id": 677787751,
-    "node_id": "MDEyOklzc3VlQ29tbWVudDY3Nzc4Nzc1MQ==",
+    "url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/comments/683522997",
+    "html_url": "https://github.com/ethereumclassic/ECIPs/issues/342#issuecomment-683522997",
+    "issue_url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/342",
+    "id": 683522997,
+    "node_id": "MDEyOklzc3VlQ29tbWVudDY4MzUyMjk5Nw==",
     "user": {
       "login": "gitr0n1n",
       "id": 58588775,
@@ -24,12 +24,12 @@
       "type": "User",
       "site_admin": false
     },
-    "created_at": "2020-08-20T17:05:47Z",
-    "updated_at": "2020-08-31T02:43:45Z",
+    "created_at": "2020-08-31T02:53:05Z",
+    "updated_at": "2020-08-31T02:53:05Z",
     "author_association": "MEMBER",
-    "body": "Charles at IOG commentary on RandomX / SHA3 philosphical debate and considerations. This is the spirit of conversation this proposal is meant to stimulate. I'm glad he understood why I submitted this proposal.\r\n\r\nhttps://youtu.be/F0lR_u7BVho?t=490",
+    "body": "> there will be a working group for SHA3 and Keccak256 formed asap, action items:\r\n> \r\n> * working group to merge these proposals (Stevan & Alex)\r\n> * figure out and specify a proper transition from Ethash to the new algorithm\r\n> \r\n> This is now in **last call** (6 weeks) as per #333 see also #355\r\n\r\nWhere can we follow this working group? I assume it will be an open process. Correct me if I'm wrong.",
     "reactions": {
-      "url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/comments/677787751/reactions",
+      "url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/comments/683522997/reactions",
       "total_count": 0,
       "+1": 0,
       "-1": 0,
