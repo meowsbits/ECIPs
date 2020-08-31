@@ -1,9 +1,9 @@
 {
-    "url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/comments/683631567",
-    "html_url": "https://github.com/ethereumclassic/ECIPs/pull/359#issuecomment-683631567",
+    "url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/comments/683653279",
+    "html_url": "https://github.com/ethereumclassic/ECIPs/pull/359#issuecomment-683653279",
     "issue_url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/359",
-    "id": 683631567,
-    "node_id": "MDEyOklzc3VlQ29tbWVudDY4MzYzMTU2Nw==",
+    "id": 683653279,
+    "node_id": "MDEyOklzc3VlQ29tbWVudDY4MzY1MzI3OQ==",
     "user": {
       "login": "gitr0n1n",
       "id": 58588775,
@@ -24,12 +24,12 @@
       "type": "User",
       "site_admin": false
     },
-    "created_at": "2020-08-31T08:05:42Z",
-    "updated_at": "2020-08-31T08:35:58Z",
+    "created_at": "2020-08-31T08:50:49Z",
+    "updated_at": "2020-08-31T08:50:49Z",
     "author_association": "MEMBER",
-    "body": "> please schedule another call for the sake of process.\r\n\r\nI'm happy to schedule this call for right now in Discord where I will read: https://github.com/ethereumclassic/ECIPs/pull/352#issuecomment-683462765\r\n\r\nI am sitting in the Discord discussion channel now and will read this message at 8:35 AM UTC. Please attend. Thank you.",
+    "body": "This call has concluded. I am sorry if you could not make the scheduled call.\r\n\r\nHere is a brief recap of the ECIP-1093 call just held in the Discussion Calls channel for anyone that missed it:\r\n- I read this comment out loud: https://github.com/ethereumclassic/ECIPs/pull/352#issuecomment-683462765\r\n- I asked the room if anyone objected to restoring ECIP-1093 back to Draft status.\r\n- No one objected to this action.\r\n- I concluded that the call reached rough consensus on the topic with everyone present for the scheduled call.\r\n\r\nThank you to all those who attended.",
     "reactions": {
-      "url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/comments/683631567/reactions",
+      "url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/comments/683653279/reactions",
       "total_count": 0,
       "+1": 0,
       "-1": 0,
