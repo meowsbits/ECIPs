@@ -1,0 +1,39 @@
+{
+    "id": 478393996,
+    "node_id": "MDE3OlB1bGxSZXF1ZXN0UmV2aWV3NDc4MzkzOTk2",
+    "user": {
+      "login": "gitr0n1n",
+      "id": 58588775,
+      "node_id": "MDQ6VXNlcjU4NTg4Nzc1",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/58588775?u=af50eca2408e83153043b37e3a63641fca94850e&v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/gitr0n1n",
+      "html_url": "https://github.com/gitr0n1n",
+      "followers_url": "https://api.github.com/users/gitr0n1n/followers",
+      "following_url": "https://api.github.com/users/gitr0n1n/following{/other_user}",
+      "gists_url": "https://api.github.com/users/gitr0n1n/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/gitr0n1n/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/gitr0n1n/subscriptions",
+      "organizations_url": "https://api.github.com/users/gitr0n1n/orgs",
+      "repos_url": "https://api.github.com/users/gitr0n1n/repos",
+      "events_url": "https://api.github.com/users/gitr0n1n/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/gitr0n1n/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "body": "An accepted request from https://github.com/ethereumclassic/ECIPs/pull/352:\r\n\r\nPlease consider leaving this proposal in `Draft` status as it is my opinion as the author that it never got a fair shake in the ECIP process.\r\n\r\nIt was rushed through with minimal communication to vested parties. 14 days from inception to reject. Thank you.\r\n\r\nThere is no harm in leaving it in `Draft` status for adequate time for discussion. And should ECIP-1049 become contenious, this ECIP will be sitting in the `Draft` status as an option. If ECIP-1049 is implemented and accept by the network without contention, this proposal will likely be dated and could be rejected at that time. This is the most logical approach as the contra ECIP-1049 sat in draft status for over a year to let the community digest the implications of it.",
+    "state": "CHANGES_REQUESTED",
+    "html_url": "https://github.com/ethereumclassic/ECIPs/pull/359#pullrequestreview-478393996",
+    "pull_request_url": "https://api.github.com/repos/ethereumclassic/ECIPs/pulls/359",
+    "author_association": "MEMBER",
+    "_links": {
+      "html": {
+        "href": "https://github.com/ethereumclassic/ECIPs/pull/359#pullrequestreview-478393996"
+      },
+      "pull_request": {
+        "href": "https://api.github.com/repos/ethereumclassic/ECIPs/pulls/359"
+      }
+    },
+    "submitted_at": "2020-08-31T07:50:29Z",
+    "commit_id": "e09a0dac1f78504ba3a7e4e67b2460a7d3020d6d"
+  }
