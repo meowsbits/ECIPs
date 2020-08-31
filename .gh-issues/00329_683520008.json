@@ -1,9 +1,9 @@
 {
-    "url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/comments/683504504",
-    "html_url": "https://github.com/ethereumclassic/ECIPs/issues/329#issuecomment-683504504",
+    "url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/comments/683520008",
+    "html_url": "https://github.com/ethereumclassic/ECIPs/issues/329#issuecomment-683520008",
     "issue_url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/329",
-    "id": 683504504,
-    "node_id": "MDEyOklzc3VlQ29tbWVudDY4MzUwNDUwNA==",
+    "id": 683520008,
+    "node_id": "MDEyOklzc3VlQ29tbWVudDY4MzUyMDAwOA==",
     "user": {
       "login": "gitr0n1n",
       "id": 58588775,
@@ -24,12 +24,12 @@
       "type": "User",
       "site_admin": false
     },
-    "created_at": "2020-08-31T01:23:52Z",
-    "updated_at": "2020-08-31T02:33:51Z",
+    "created_at": "2020-08-31T02:38:58Z",
+    "updated_at": "2020-08-31T02:38:58Z",
     "author_association": "MEMBER",
-    "body": "Rejection response from the author: https://github.com/ethereumclassic/ECIPs/pull/352#pullrequestreview-478236764\r\n\r\nThank you to the ECIP particpants for keeping this poposal in the `Draft` status. This should allow a proper amount of discussion to be had opposed to an auto-rejection, especially as news of ECIP-1049 \"SHA3\" has reached accepted status and the veted parties are increasing their engagement in the ECIP process.\r\nhttps://github.com/ethereumclassic/ECIPs/pull/352#issuecomment-683505334",
+    "body": "> @gitr0n1n Are you joking? Have you seen the increased difficulty after switching Monero to RandomX?\r\n\r\nDoesn't an increased difficulty help secure the Ethereum Classic network? Currenly Ethash is at a very low difficultly and we have experienced three 51% attacks in one month.",
     "reactions": {
-      "url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/comments/683504504/reactions",
+      "url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/comments/683520008/reactions",
       "total_count": 0,
       "+1": 0,
       "-1": 0,

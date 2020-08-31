@@ -25,9 +25,9 @@
       "site_admin": false
     },
     "created_at": "2020-08-31T02:26:18Z",
-    "updated_at": "2020-08-31T02:26:18Z",
+    "updated_at": "2020-08-31T02:37:12Z",
     "author_association": "MEMBER",
-    "body": "> RandomX is CPU mining, so botnets will take over the network, do you want that?\r\n\r\n`Does RandomX facilitate botnets/malware mining or web mining?\r\nDue to the way the algorithm works, mining malware is much easier to detect. RandomX Sniffer is a proof of concept tool that can detect illicit mining activity on Windows.\r\n\r\nEfficient mining requires more than 2 GiB of memory, which also disqualifies many low-end machines such as IoT devices, which are often parts of large botnets.\r\n\r\nWeb mining is infeasible due to the large memory requirement and the lack of directed rounding support for floating point operations in both Javascript and WebAssembly.`\r\n\r\nLinking a section of the proposal that references this botnets concern for RandomX.",
+    "body": "> RandomX is CPU mining, so botnets will take over the network, do you want that?\r\n\r\n>> Does RandomX facilitate botnets/malware mining or web mining?\r\nDue to the way the algorithm works, mining malware is much easier to detect. RandomX Sniffer is a proof of concept tool that can detect illicit mining activity on Windows.\r\n\r\n>> Efficient mining requires more than 2 GiB of memory, which also disqualifies many low-end machines such as IoT devices, which are often parts of large botnets.\r\n\r\n>> Web mining is infeasible due to the large memory requirement and the lack of directed rounding support for floating point operations in both Javascript and WebAssembly.`\r\n\r\nLinking a section of the proposal that references this botnets concern for RandomX.",
     "reactions": {
       "url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/comments/683517364/reactions",
       "total_count": 0,
