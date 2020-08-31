@@ -25,9 +25,9 @@
       "site_admin": false
     },
     "created_at": "2020-08-31T20:28:25Z",
-    "updated_at": "2020-08-31T20:29:10Z",
+    "updated_at": "2020-08-31T20:31:03Z",
     "author_association": "MEMBER",
-    "body": "Some great discussion happened in the #mining channel today in the discord between The author of this proposal and myself, the author of ECIP-1093. I highly recommend back reading that discussion on the centralization and supply chain concerns of this proposal.\r\n\r\n> Good & crucial discussion to have guys\r\n@OmniEdge#4303 Thanks. I agree, now is the time for good spirited debate.\r\n\r\n`Last Call` - An ECIP that is done with its initial iteration and ready for review by a wider audience.\r\n`Accepted` - An ECIP that has been in Last Call for at least 2 weeks and any technical changes that were requested have been addressed by the author.",
+    "body": "Some great discussion happened in the #mining channel today in the discord between The author of this proposal and myself, the author of ECIP-1093. I highly recommend back reading that discussion on the centralization and supply chain concerns of this proposal. Here the conclusion for anyone to search in the discord to read for themsleves.\r\n> Good & crucial discussion to have guys\r\n@OmniEdge#4303 Thanks. I agree, now is the time for good spirited debate.\r\n\r\n`Last Call` - An ECIP that is done with its initial iteration and ready for review by a wider audience.\r\n`Accepted` - An ECIP that has been in Last Call for at least 2 weeks and any technical changes that were requested have been addressed by the author.",
     "reactions": {
       "url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/comments/684020025/reactions",
       "total_count": 0,
