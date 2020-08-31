@@ -30,26 +30,34 @@
       "site_admin": false
     },
     "labels": [
-
+      {
+        "id": 1705353570,
+        "node_id": "MDU6TGFiZWwxNzA1MzUzNTcw",
+        "url": "https://api.github.com/repos/ethereumclassic/ECIPs/labels/editor:%200%20invalid",
+        "name": "editor: 0 invalid",
+        "color": "e78ac3",
+        "default": false,
+        "description": "This contribution has major issues."
+      }
     ],
-    "state": "open",
+    "state": "closed",
     "locked": false,
     "assignee": null,
     "assignees": [
 
     ],
     "milestone": null,
-    "comments": 1,
+    "comments": 2,
     "created_at": "2020-08-29T06:45:12Z",
-    "updated_at": "2020-08-30T19:02:49Z",
-    "closed_at": null,
+    "updated_at": "2020-08-31T07:59:36Z",
+    "closed_at": "2020-08-31T07:59:09Z",
     "author_association": "NONE",
     "active_lock_reason": null,
     "body": "Are you seriously? Now, in no case should the algorithm be changed, ECIP-1092 only (PirlGuard)! I hope you understand why this should not be done .. In the future, it is necessary to monitor ECIP-1092, I'm sure everything will be fine, and only then, gradually, you can think about changing the algorithm, at least in a year. And I am 90% sure that there will be no need to change the algorithm.",
     "reactions": {
       "url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/357/reactions",
-      "total_count": 11,
-      "+1": 11,
+      "total_count": 12,
+      "+1": 12,
       "-1": 0,
       "laugh": 0,
       "hooray": 0,
