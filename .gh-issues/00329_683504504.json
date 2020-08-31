@@ -25,9 +25,9 @@
       "site_admin": false
     },
     "created_at": "2020-08-31T01:23:52Z",
-    "updated_at": "2020-08-31T01:24:08Z",
+    "updated_at": "2020-08-31T02:27:42Z",
     "author_association": "MEMBER",
-    "body": "Rejection response from the author: https://github.com/ethereumclassic/ECIPs/pull/352#pullrequestreview-478236764",
+    "body": "Rejection response from the author: https://github.com/ethereumclassic/ECIPs/pull/352#pullrequestreview-478236764\r\n\r\nThank you to the ECIP particpants for keeping this poposal in the `Draft` status. This should allow a proper amount of discussion to be had opposed to an auto-rejection.\r\nhttps://github.com/ethereumclassic/ECIPs/pull/352#issuecomment-683505334",
     "reactions": {
       "url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/comments/683504504/reactions",
       "total_count": 0,
