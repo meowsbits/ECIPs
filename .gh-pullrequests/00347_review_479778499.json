@@ -1,0 +1,39 @@
+{
+    "id": 479778499,
+    "node_id": "MDE3OlB1bGxSZXF1ZXN0UmV2aWV3NDc5Nzc4NDk5",
+    "user": {
+      "login": "dimkarakostas",
+      "id": 8135971,
+      "node_id": "MDQ6VXNlcjgxMzU5NzE=",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/8135971?u=04c7dcf010e24dcb9faabf342502f754944525ff&v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/dimkarakostas",
+      "html_url": "https://github.com/dimkarakostas",
+      "followers_url": "https://api.github.com/users/dimkarakostas/followers",
+      "following_url": "https://api.github.com/users/dimkarakostas/following{/other_user}",
+      "gists_url": "https://api.github.com/users/dimkarakostas/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/dimkarakostas/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/dimkarakostas/subscriptions",
+      "organizations_url": "https://api.github.com/users/dimkarakostas/orgs",
+      "repos_url": "https://api.github.com/users/dimkarakostas/repos",
+      "events_url": "https://api.github.com/users/dimkarakostas/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/dimkarakostas/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "body": "",
+    "state": "COMMENTED",
+    "html_url": "https://github.com/ethereumclassic/ECIPs/pull/347#pullrequestreview-479778499",
+    "pull_request_url": "https://api.github.com/repos/ethereumclassic/ECIPs/pulls/347",
+    "author_association": "NONE",
+    "_links": {
+      "html": {
+        "href": "https://github.com/ethereumclassic/ECIPs/pull/347#pullrequestreview-479778499"
+      },
+      "pull_request": {
+        "href": "https://api.github.com/repos/ethereumclassic/ECIPs/pulls/347"
+      }
+    },
+    "submitted_at": "2020-09-01T14:08:42Z",
+    "commit_id": "76e582838ec48b3248e4264a562c0e53cee6e95b"
+  }
