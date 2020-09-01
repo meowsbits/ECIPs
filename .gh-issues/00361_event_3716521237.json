@@ -1,0 +1,30 @@
+{
+    "id": 3716521237,
+    "node_id": "MDE1OlN1YnNjcmliZWRFdmVudDM3MTY1MjEyMzc=",
+    "url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/events/3716521237",
+    "actor": {
+      "login": "max-sanchez",
+      "id": 1361464,
+      "node_id": "MDQ6VXNlcjEzNjE0NjQ=",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/1361464?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/max-sanchez",
+      "html_url": "https://github.com/max-sanchez",
+      "followers_url": "https://api.github.com/users/max-sanchez/followers",
+      "following_url": "https://api.github.com/users/max-sanchez/following{/other_user}",
+      "gists_url": "https://api.github.com/users/max-sanchez/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/max-sanchez/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/max-sanchez/subscriptions",
+      "organizations_url": "https://api.github.com/users/max-sanchez/orgs",
+      "repos_url": "https://api.github.com/users/max-sanchez/repos",
+      "events_url": "https://api.github.com/users/max-sanchez/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/max-sanchez/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "event": "subscribed",
+    "commit_id": null,
+    "commit_url": null,
+    "created_at": "2020-09-01T19:35:34Z",
+    "performed_via_github_app": null
+  }
