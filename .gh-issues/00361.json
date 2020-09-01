@@ -1,0 +1,62 @@
+{
+    "url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/361",
+    "repository_url": "https://api.github.com/repos/ethereumclassic/ECIPs",
+    "labels_url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/361/labels{/name}",
+    "comments_url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/361/comments",
+    "events_url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/361/events",
+    "html_url": "https://github.com/ethereumclassic/ECIPs/issues/361",
+    "id": 690382708,
+    "node_id": "MDU6SXNzdWU2OTAzODI3MDg=",
+    "number": 361,
+    "title": "PRESENTATION - IOG (IOHK) Checkpointing (ECIP-1097)",
+    "user": {
+      "login": "developerkevin",
+      "id": 29807183,
+      "node_id": "MDQ6VXNlcjI5ODA3MTgz",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/29807183?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/developerkevin",
+      "html_url": "https://github.com/developerkevin",
+      "followers_url": "https://api.github.com/users/developerkevin/followers",
+      "following_url": "https://api.github.com/users/developerkevin/following{/other_user}",
+      "gists_url": "https://api.github.com/users/developerkevin/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/developerkevin/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/developerkevin/subscriptions",
+      "organizations_url": "https://api.github.com/users/developerkevin/orgs",
+      "repos_url": "https://api.github.com/users/developerkevin/repos",
+      "events_url": "https://api.github.com/users/developerkevin/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/developerkevin/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "labels": [
+
+    ],
+    "state": "open",
+    "locked": false,
+    "assignee": null,
+    "assignees": [
+
+    ],
+    "milestone": null,
+    "comments": 0,
+    "created_at": "2020-09-01T19:15:58Z",
+    "updated_at": "2020-09-01T19:15:58Z",
+    "closed_at": null,
+    "author_association": "MEMBER",
+    "active_lock_reason": null,
+    "body": "# IOHK Checkpointing Presentation and Q&A\r\n\r\n---\r\n\r\n## Checkpointing Presentation\r\n\r\nIOHK (IOG) has released ECIP-1097 #347 which covers their proposed \"Checkpointing\" system which aims to prevent 51% attacks on ETC. They'll explain the proposal and conduct a presentation, followed by a community Q&A.\r\n\r\nThe goal of this call is simply to get contributors, community members, and stakeholders to properly understand this proposal. More details to come.\r\n\r\n- When: Date/Time TBD; 30 minute presentation followed by Q&A\r\n\r\n- Where: ETC Discord https://discord.gg/bGtG4PY #Presentation Calls channel. (Be advised: When joining the ETC Discord there is a 10 minute wait before one can join the server)\r\n\r\n## Q&A\r\n\r\nQuestions will be submitted via https://www.sli.do/ (Slido meeting code will be posted when date/time is confirmed)\r\n\r\n## References\r\n\r\n- Checkpointing Explanation Video: https://youtu.be/aasUIB1W81E\r\n- Securing Ethereum Classic via Checkpointing:  https://youtu.be/1JeL4pAjmXM \r\n- Securing PoW Ledgers via Checkpointing Paper: https://iohk.io/en/research/library/papers/securing-proof-of-work-ledgers-via-checkpointing/\r\n",
+    "reactions": {
+      "url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/361/reactions",
+      "total_count": 0,
+      "+1": 0,
+      "-1": 0,
+      "laugh": 0,
+      "hooray": 0,
+      "confused": 0,
+      "heart": 0,
+      "rocket": 0,
+      "eyes": 0
+    },
+    "performed_via_github_app": null
+  }
