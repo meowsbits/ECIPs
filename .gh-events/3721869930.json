@@ -1,0 +1,112 @@
+{
+    "id": 3721869930,
+    "node_id": "MDE1OlJlZmVyZW5jZWRFdmVudDM3MjE4Njk5MzA=",
+    "url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/events/3721869930",
+    "actor": {
+      "login": "realcodywburns",
+      "id": 13103499,
+      "node_id": "MDQ6VXNlcjEzMTAzNDk5",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/13103499?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/realcodywburns",
+      "html_url": "https://github.com/realcodywburns",
+      "followers_url": "https://api.github.com/users/realcodywburns/followers",
+      "following_url": "https://api.github.com/users/realcodywburns/following{/other_user}",
+      "gists_url": "https://api.github.com/users/realcodywburns/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/realcodywburns/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/realcodywburns/subscriptions",
+      "organizations_url": "https://api.github.com/users/realcodywburns/orgs",
+      "repos_url": "https://api.github.com/users/realcodywburns/repos",
+      "events_url": "https://api.github.com/users/realcodywburns/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/realcodywburns/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "event": "referenced",
+    "commit_id": "b3af122953c27e4fd898c9bcd953188aa345b9f3",
+    "commit_url": "https://api.github.com/repos/ethereumclassic/ECIPs/commits/b3af122953c27e4fd898c9bcd953188aa345b9f3",
+    "created_at": "2020-09-02T21:37:08Z",
+    "issue": {
+      "url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/349",
+      "repository_url": "https://api.github.com/repos/ethereumclassic/ECIPs",
+      "labels_url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/349/labels{/name}",
+      "comments_url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/349/comments",
+      "events_url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/349/events",
+      "html_url": "https://github.com/ethereumclassic/ECIPs/pull/349",
+      "id": 686703501,
+      "node_id": "MDExOlB1bGxSZXF1ZXN0NDc0MjM0NjE5",
+      "number": 349,
+      "title": "ECIP-1098 proto-Treasury system for ETC",
+      "user": {
+        "login": "bpmckenna",
+        "id": 31481997,
+        "node_id": "MDQ6VXNlcjMxNDgxOTk3",
+        "avatar_url": "https://avatars3.githubusercontent.com/u/31481997?v=4",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/bpmckenna",
+        "html_url": "https://github.com/bpmckenna",
+        "followers_url": "https://api.github.com/users/bpmckenna/followers",
+        "following_url": "https://api.github.com/users/bpmckenna/following{/other_user}",
+        "gists_url": "https://api.github.com/users/bpmckenna/gists{/gist_id}",
+        "starred_url": "https://api.github.com/users/bpmckenna/starred{/owner}{/repo}",
+        "subscriptions_url": "https://api.github.com/users/bpmckenna/subscriptions",
+        "organizations_url": "https://api.github.com/users/bpmckenna/orgs",
+        "repos_url": "https://api.github.com/users/bpmckenna/repos",
+        "events_url": "https://api.github.com/users/bpmckenna/events{/privacy}",
+        "received_events_url": "https://api.github.com/users/bpmckenna/received_events",
+        "type": "User",
+        "site_admin": false
+      },
+      "labels": [
+        {
+          "id": 2281247217,
+          "node_id": "MDU6TGFiZWwyMjgxMjQ3MjE3",
+          "url": "https://api.github.com/repos/ethereumclassic/ECIPs/labels/editor:%201%20needs%20review",
+          "name": "editor: 1 needs review",
+          "color": "ffd92f",
+          "default": false,
+          "description": "This contribution needs a careful review."
+        },
+        {
+          "id": 1658195407,
+          "node_id": "MDU6TGFiZWwxNjU4MTk1NDA3",
+          "url": "https://api.github.com/repos/ethereumclassic/ECIPs/labels/status:%200%20wip",
+          "name": "status: 0 wip",
+          "color": "f0f0f0",
+          "default": false,
+          "description": "ECIP is still work in progress and shall not be merged."
+        },
+        {
+          "id": 1154785127,
+          "node_id": "MDU6TGFiZWwxMTU0Nzg1MTI3",
+          "url": "https://api.github.com/repos/ethereumclassic/ECIPs/labels/type:%20core",
+          "name": "type: core",
+          "color": "fbb4ae",
+          "default": false,
+          "description": "ECIPs of the type \"Core\" - changing the Classic protocol."
+        }
+      ],
+      "state": "closed",
+      "locked": false,
+      "assignee": null,
+      "assignees": [
+
+      ],
+      "milestone": null,
+      "comments": 2,
+      "created_at": "2020-08-26T22:22:51Z",
+      "updated_at": "2020-09-02T21:37:09Z",
+      "closed_at": "2020-09-02T21:37:09Z",
+      "author_association": "CONTRIBUTOR",
+      "active_lock_reason": null,
+      "pull_request": {
+        "url": "https://api.github.com/repos/ethereumclassic/ECIPs/pulls/349",
+        "html_url": "https://github.com/ethereumclassic/ECIPs/pull/349",
+        "diff_url": "https://github.com/ethereumclassic/ECIPs/pull/349.diff",
+        "patch_url": "https://github.com/ethereumclassic/ECIPs/pull/349.patch"
+      },
+      "body": "Draft. https://github.com/input-output-hk/ECIPs/blob/ecip-proto-treasury/_specs/ecip-proto-treasury-system.md\r\nDiscussion. https://github.com/ethereumclassic/ECIPs/issues/350 | https://github.com/input-output-hk/ECIPs/issues/2",
+      "performed_via_github_app": null
+    },
+    "performed_via_github_app": null
+  }

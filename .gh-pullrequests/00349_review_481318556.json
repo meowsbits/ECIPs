@@ -1,0 +1,39 @@
+{
+    "id": 481318556,
+    "node_id": "MDE3OlB1bGxSZXF1ZXN0UmV2aWV3NDgxMzE4NTU2",
+    "user": {
+      "login": "realcodywburns",
+      "id": 13103499,
+      "node_id": "MDQ6VXNlcjEzMTAzNDk5",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/13103499?u=ae966540a4c44652980f4e599599842cb70919d0&v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/realcodywburns",
+      "html_url": "https://github.com/realcodywburns",
+      "followers_url": "https://api.github.com/users/realcodywburns/followers",
+      "following_url": "https://api.github.com/users/realcodywburns/following{/other_user}",
+      "gists_url": "https://api.github.com/users/realcodywburns/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/realcodywburns/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/realcodywburns/subscriptions",
+      "organizations_url": "https://api.github.com/users/realcodywburns/orgs",
+      "repos_url": "https://api.github.com/users/realcodywburns/repos",
+      "events_url": "https://api.github.com/users/realcodywburns/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/realcodywburns/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "body": "lgtm",
+    "state": "APPROVED",
+    "html_url": "https://github.com/ethereumclassic/ECIPs/pull/349#pullrequestreview-481318556",
+    "pull_request_url": "https://api.github.com/repos/ethereumclassic/ECIPs/pulls/349",
+    "author_association": "MEMBER",
+    "_links": {
+      "html": {
+        "href": "https://github.com/ethereumclassic/ECIPs/pull/349#pullrequestreview-481318556"
+      },
+      "pull_request": {
+        "href": "https://api.github.com/repos/ethereumclassic/ECIPs/pulls/349"
+      }
+    },
+    "submitted_at": "2020-09-02T21:36:48Z",
+    "commit_id": "95ae41d860def1d0d312733c61fdbd96603ed6fb"
+  }

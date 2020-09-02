@@ -90,18 +90,18 @@
           "description": "ECIPs of the type \"Core\" - changing the Classic protocol."
         }
       ],
-      "state": "open",
+      "state": "closed",
       "locked": false,
       "assignee": null,
       "assignees": [
 
       ],
       "milestone": null,
-      "comments": 2,
+      "comments": 3,
       "created_at": "2020-08-26T22:11:19Z",
-      "updated_at": "2020-09-01T19:31:09Z",
-      "closed_at": null,
-      "author_association": "NONE",
+      "updated_at": "2020-09-02T22:02:25Z",
+      "closed_at": "2020-09-02T22:02:25Z",
+      "author_association": "CONTRIBUTOR",
       "active_lock_reason": null,
       "pull_request": {
         "url": "https://api.github.com/repos/ethereumclassic/ECIPs/pulls/347",
