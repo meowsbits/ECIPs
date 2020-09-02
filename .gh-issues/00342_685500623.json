@@ -25,9 +25,9 @@
       "site_admin": false
     },
     "created_at": "2020-09-02T09:34:32Z",
-    "updated_at": "2020-09-02T09:34:32Z",
+    "updated_at": "2020-09-02T09:51:17Z",
     "author_association": "NONE",
-    "body": "It seems like ETC would be missing out on all the GPU miners looking for a home after ETH moves to PoS. If ECIP-1043 is implemented then this resource becomes even bigger/more distributed. \r\n\r\nMoving to a more ASIC-friendly algoritm seems to be a knee-jerk reaction to the recent 51% attacks and will cost decentralisation. As [previously raised](https://github.com/ethereumclassic/ECIPs/issues/342#issuecomment-685322135), 100% attacks are theroetically possible if control of PoW is left in the hands of ASIC manufaturers.",
+    "body": "It seems like ETC would be missing out on all the GPU miners looking for a home after ETH moves to PoS. If ECIP-1043 is implemented then this resource becomes even bigger/more distributed. \r\n\r\nMoving to a more ASIC-friendly algoritm seems to be a knee-jerk reaction to the recent 51% attacks and will cost decentralisation. As [previously raised](https://github.com/ethereumclassic/ECIPs/issues/342#issuecomment-685322135), 100% attacks are theroetically possible if control of PoW is left in the hands of ASIC manufacturers.",
     "reactions": {
       "url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/comments/685500623/reactions",
       "total_count": 0,
