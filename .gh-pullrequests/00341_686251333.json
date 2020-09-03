@@ -25,9 +25,9 @@
       "site_admin": false
     },
     "created_at": "2020-09-03T04:52:24Z",
-    "updated_at": "2020-09-03T04:52:24Z",
+    "updated_at": "2020-09-03T05:00:30Z",
     "author_association": "NONE",
-    "body": "See my comments here - https://github.com/ethereumclassic/ECIPs/issues/13 - This ECIP should make it clear that only Ethash is being replaced, and that the difficulty calculation remains a contamination of the mixHash and nonce, where the hash result is converted to a 256 integer and compared against the difficulty values.  Otherwise it should be rejected on technical grounds as it would impose an unacceptable risk because of the engineering teams implementing the changes.",
+    "body": "See my comments here - https://github.com/ethereumclassic/ECIPs/issues/13 - This ECIP should make it clear that only Ethash is being replaced, and that the difficulty calculation remains a concatination of the mixHash and nonce, where the hash result is converted to a 256 integer and compared against the difficulty values.  Otherwise it should be rejected on technical grounds as it would impose an unacceptable risk because of the engineering teams implementing the changes.",
     "reactions": {
       "url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/comments/686251333/reactions",
       "total_count": 0,
