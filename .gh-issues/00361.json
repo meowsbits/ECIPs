@@ -30,7 +30,15 @@
       "site_admin": false
     },
     "labels": [
-
+      {
+        "id": 1154785129,
+        "node_id": "MDU6TGFiZWwxMTU0Nzg1MTI5",
+        "url": "https://api.github.com/repos/ethereumclassic/ECIPs/labels/type:%20meta",
+        "name": "type: meta",
+        "color": "cfd3d7",
+        "default": false,
+        "description": "ECIPs of type \"Meta\" - bundling proposals for upgrades."
+      }
     ],
     "state": "open",
     "locked": false,
@@ -41,7 +49,7 @@
     "milestone": null,
     "comments": 0,
     "created_at": "2020-09-01T19:15:58Z",
-    "updated_at": "2020-09-03T01:26:09Z",
+    "updated_at": "2020-09-03T12:59:13Z",
     "closed_at": null,
     "author_association": "MEMBER",
     "active_lock_reason": null,
