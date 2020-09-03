@@ -1,7 +1,7 @@
 {
-    "id": 3705030271,
-    "node_id": "MDEyOkxhYmVsZWRFdmVudDM3MDUwMzAyNzE=",
-    "url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/events/3705030271",
+    "id": 3724605972,
+    "node_id": "MDE0OlVubGFiZWxlZEV2ZW50MzcyNDYwNTk3Mg==",
+    "url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/events/3724605972",
     "actor": {
       "login": "q9f",
       "id": 58883403,
@@ -22,25 +22,25 @@
       "type": "User",
       "site_admin": false
     },
-    "event": "labeled",
+    "event": "unlabeled",
     "commit_id": null,
     "commit_url": null,
-    "created_at": "2020-08-28T17:38:34Z",
+    "created_at": "2020-09-03T13:02:31Z",
     "label": {
       "name": "editor: 1 needs review",
       "color": "ffd92f"
     },
     "issue": {
-      "url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/353",
+      "url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/354",
       "repository_url": "https://api.github.com/repos/ethereumclassic/ECIPs",
-      "labels_url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/353/labels{/name}",
-      "comments_url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/353/comments",
-      "events_url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/353/events",
-      "html_url": "https://github.com/ethereumclassic/ECIPs/pull/353",
-      "id": 688243542,
-      "node_id": "MDExOlB1bGxSZXF1ZXN0NDc1NTQ3Mjgw",
-      "number": 353,
-      "title": "Move ECIP-1043 DAG-Size Limit to Last Call",
+      "labels_url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/354/labels{/name}",
+      "comments_url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/354/comments",
+      "events_url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/354/events",
+      "html_url": "https://github.com/ethereumclassic/ECIPs/pull/354",
+      "id": 688246361,
+      "node_id": "MDExOlB1bGxSZXF1ZXN0NDc1NTQ5NjIx",
+      "number": 354,
+      "title": "Move ECIP-1049 \"Keccak256\" to Last Call",
       "user": {
         "login": "q9f",
         "id": 58883403,
@@ -98,18 +98,18 @@
       ],
       "milestone": null,
       "comments": 0,
-      "created_at": "2020-08-28T17:38:34Z",
-      "updated_at": "2020-09-03T13:02:13Z",
-      "closed_at": "2020-08-30T06:57:02Z",
+      "created_at": "2020-08-28T17:43:11Z",
+      "updated_at": "2020-09-03T13:02:31Z",
+      "closed_at": "2020-08-30T06:59:03Z",
       "author_association": "CONTRIBUTOR",
       "active_lock_reason": null,
       "pull_request": {
-        "url": "https://api.github.com/repos/ethereumclassic/ECIPs/pulls/353",
-        "html_url": "https://github.com/ethereumclassic/ECIPs/pull/353",
-        "diff_url": "https://github.com/ethereumclassic/ECIPs/pull/353.diff",
-        "patch_url": "https://github.com/ethereumclassic/ECIPs/pull/353.patch"
+        "url": "https://api.github.com/repos/ethereumclassic/ECIPs/pulls/354",
+        "html_url": "https://github.com/ethereumclassic/ECIPs/pull/354",
+        "diff_url": "https://github.com/ethereumclassic/ECIPs/pull/354.diff",
+        "patch_url": "https://github.com/ethereumclassic/ECIPs/pull/354.patch"
       },
-      "body": "as per #333 \r\n\r\nplease note, that this also requires the following action items to be worked on in the next 3 weeks:\r\n- instead of freezing the DAG, just freeze the size and rotate parameters (Cody, James?)\r\n- research current DAG size, project future DAG size, find suitable block number\r\n",
+      "body": "as per #333 \r\n\r\ntogether with #355\r\n\r\nthere will be a working group for SHA3 and Keccak256 formed asap, action items:\r\n- working group to merge these proposals (Stevan & Alex)\r\n- figure out and specify a proper transition from Ethash to the new algorithm\r\n\r\nalso, specifically, ECIP-1049 needs a lot of text work, please follow the ECIP-X template file.",
       "performed_via_github_app": null
     },
     "performed_via_github_app": null
