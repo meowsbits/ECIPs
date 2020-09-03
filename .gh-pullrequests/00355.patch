@@ -8,7 +8,7 @@ Subject: [PATCH] Move ECIP-1095 "SHA-3" to Last Call
  1 file changed, 2 insertions(+), 1 deletion(-)
 
 diff --git a/_specs/ecip-1095.md b/_specs/ecip-1095.md
-index 7732c8f9..d19cf3b9 100644
+index 7732c8f93..d19cf3b97 100644
 --- a/_specs/ecip-1095.md
 +++ b/_specs/ecip-1095.md
 @@ -2,7 +2,8 @@
