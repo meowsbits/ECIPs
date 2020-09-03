@@ -1,0 +1,30 @@
+{
+    "id": 3725570578,
+    "node_id": "MDE1OlN1YnNjcmliZWRFdmVudDM3MjU1NzA1Nzg=",
+    "url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/events/3725570578",
+    "actor": {
+      "login": "block-head",
+      "id": 65371198,
+      "node_id": "MDQ6VXNlcjY1MzcxMTk4",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/65371198?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/block-head",
+      "html_url": "https://github.com/block-head",
+      "followers_url": "https://api.github.com/users/block-head/followers",
+      "following_url": "https://api.github.com/users/block-head/following{/other_user}",
+      "gists_url": "https://api.github.com/users/block-head/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/block-head/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/block-head/subscriptions",
+      "organizations_url": "https://api.github.com/users/block-head/orgs",
+      "repos_url": "https://api.github.com/users/block-head/repos",
+      "events_url": "https://api.github.com/users/block-head/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/block-head/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "event": "subscribed",
+    "commit_id": null,
+    "commit_url": null,
+    "created_at": "2020-09-03T16:24:16Z",
+    "performed_via_github_app": null
+  }
