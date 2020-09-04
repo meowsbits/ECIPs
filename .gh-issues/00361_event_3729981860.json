@@ -1,0 +1,30 @@
+{
+    "id": 3729981860,
+    "node_id": "MDE1OlN1YnNjcmliZWRFdmVudDM3Mjk5ODE4NjA=",
+    "url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/events/3729981860",
+    "actor": {
+      "login": "creepas",
+      "id": 19569172,
+      "node_id": "MDQ6VXNlcjE5NTY5MTcy",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/19569172?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/creepas",
+      "html_url": "https://github.com/creepas",
+      "followers_url": "https://api.github.com/users/creepas/followers",
+      "following_url": "https://api.github.com/users/creepas/following{/other_user}",
+      "gists_url": "https://api.github.com/users/creepas/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/creepas/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/creepas/subscriptions",
+      "organizations_url": "https://api.github.com/users/creepas/orgs",
+      "repos_url": "https://api.github.com/users/creepas/repos",
+      "events_url": "https://api.github.com/users/creepas/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/creepas/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "event": "subscribed",
+    "commit_id": null,
+    "commit_url": null,
+    "created_at": "2020-09-04T14:16:18Z",
+    "performed_via_github_app": null
+  }

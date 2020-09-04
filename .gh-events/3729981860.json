@@ -1,7 +1,7 @@
 {
-    "id": 3726028437,
-    "node_id": "MDE1OlN1YnNjcmliZWRFdmVudDM3MjYwMjg0Mzc=",
-    "url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/events/3726028437",
+    "id": 3729981860,
+    "node_id": "MDE1OlN1YnNjcmliZWRFdmVudDM3Mjk5ODE4NjA=",
+    "url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/events/3729981860",
     "actor": {
       "login": "creepas",
       "id": 19569172,
@@ -25,7 +25,7 @@
     "event": "subscribed",
     "commit_id": null,
     "commit_url": null,
-    "created_at": "2020-09-03T18:26:50Z",
+    "created_at": "2020-09-04T14:16:18Z",
     "issue": {
       "url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/361",
       "repository_url": "https://api.github.com/repos/ethereumclassic/ECIPs",
