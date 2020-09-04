@@ -25,9 +25,9 @@
       "site_admin": false
     },
     "created_at": "2020-09-04T12:52:44Z",
-    "updated_at": "2020-09-04T12:52:44Z",
+    "updated_at": "2020-09-04T12:54:22Z",
     "author_association": "NONE",
-    "body": "The new opcode's implementation for SHA3-256 would identical to the existing KECCAK-256 opcode, except for a single byte of padding difference. Other than that, exactly the same algorithms.",
+    "body": "The new opcode's implementation for SHA3-256 would be identical to the existing KECCAK-256 opcode, except for a single byte of padding difference. Other than that, exactly the same algorithms.",
     "reactions": {
       "url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/comments/687124852/reactions",
       "total_count": 0,
