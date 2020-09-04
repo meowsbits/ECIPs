@@ -25,9 +25,9 @@
       "site_admin": false
     },
     "created_at": "2020-09-04T12:43:52Z",
-    "updated_at": "2020-09-04T12:43:52Z",
+    "updated_at": "2020-09-04T12:50:03Z",
     "author_association": "CONTRIBUTOR",
-    "body": "Ok, I would have went the other way. Keep in mind that if we use sha3 standard, we need also another new Opcode to compute sha3 within the EVM otherwise we'll be missing tons of verification features that almost every blockchain has",
+    "body": "Ok, I would have went the other way. Wish that \"working group\" woud have included me. Keep in mind that if we use sha3 standard, we need also another new Opcode to compute sha3 within the EVM otherwise we'll be missing tons of verification features that almost every blockchain has\r\n\r\nAlso: we will be unable to interoperate natively with other ethereum based chains until we get each one to individually add this opcode. Might as well propose one for ETH chain now as they usually take quite some time to add opcodes and chances are low that they will do so.\r\n\r\nAlso worth mentioning that there is exactly zero chance ETC will be profitable to mine on cellphones and internet of things devices. See [comments above](https://github.com/ethereumclassic/ECIPs/issues/13#issuecomment-664717331) on current hashrates for keccak/sha3 - already much much higher that achievable on single threaded CPUs ",
     "reactions": {
       "url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/comments/687119970/reactions",
       "total_count": 0,
