@@ -75,13 +75,13 @@
 
       ],
       "milestone": null,
-      "comments": 2,
+      "comments": 3,
       "created_at": "2020-09-03T12:51:09Z",
-      "updated_at": "2020-09-04T08:50:33Z",
+      "updated_at": "2020-09-04T09:35:21Z",
       "closed_at": null,
       "author_association": "CONTRIBUTOR",
       "active_lock_reason": null,
-      "body": "# ETC Core Devs Call 13\r\n* When: **Friday, September 11, 2020, 4pm UTC,** 90 minutes max\r\n* Where: Jitsi link will be published ahead of the call.\r\n* Focus: Mining Algorithm, Last-Call Proposals, and 51%-Attack Solutions.\r\n\r\n### Agenda\r\n* _TBD_\r\n\r\n_Please post all relevant proposals below that should be discussed and evaluated._",
+      "body": "# ETC Core Devs Call 13\r\n* When: **Friday, September 25, 2020, 4pm UTC,** 180 minutes max\r\n* Where: Jitsi link will be published ahead of the call.\r\n* Focus: Mining Algorithm, Last-Call Proposals, and 51%-Attack Solutions.\r\n\r\n### Agenda\r\n* _TBD_\r\n\r\n_Please post all relevant proposals below that should be discussed and evaluated._",
       "performed_via_github_app": null
     },
     "performed_via_github_app": null
