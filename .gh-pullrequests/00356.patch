@@ -9,7 +9,7 @@ Added Recommended Implementation to clarify implementation
  1 file changed, 21 insertions(+)
 
 diff --git a/_specs/ecip-1043.md b/_specs/ecip-1043.md
-index 6cd6e377..29fff250 100644
+index 6cd6e377f..29fff250b 100644
 --- a/_specs/ecip-1043.md
 +++ b/_specs/ecip-1043.md
 @@ -35,6 +35,27 @@ The only modification is to stop the increase of DAG size and cache size.
@@ -52,7 +52,7 @@ add 64 for dao fork
  1 file changed, 2 insertions(+), 2 deletions(-)
 
 diff --git a/_specs/ecip-1043.md b/_specs/ecip-1043.md
-index 29fff250..35838a1e 100644
+index 29fff250b..35838a1e8 100644
 --- a/_specs/ecip-1043.md
 +++ b/_specs/ecip-1043.md
 @@ -43,13 +43,13 @@ Two variables directly control the dag size growth cacheSize and datasetSize
