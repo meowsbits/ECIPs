@@ -10,7 +10,7 @@ Subject: [PATCH 1/6] Proto-treasury system proposal
 
 diff --git a/_specs/ecip-proto-treasury-system.md b/_specs/ecip-proto-treasury-system.md
 new file mode 100644
-index 00000000..217cdb2f
+index 000000000..217cdb2fd
 --- /dev/null
 +++ b/_specs/ecip-proto-treasury-system.md
 @@ -0,0 +1,450 @@
@@ -475,7 +475,7 @@ Subject: [PATCH 2/6] Discussion links added
  1 file changed, 1 insertion(+), 1 deletion(-)
 
 diff --git a/_specs/ecip-proto-treasury-system.md b/_specs/ecip-proto-treasury-system.md
-index 217cdb2f..b99ed400 100644
+index 217cdb2fd..b99ed4002 100644
 --- a/_specs/ecip-proto-treasury-system.md
 +++ b/_specs/ecip-proto-treasury-system.md
 @@ -3,7 +3,7 @@ lang: en
@@ -513,7 +513,7 @@ Subject: [PATCH 4/6] fix header format and info
  1 file changed, 8 insertions(+), 8 deletions(-)
 
 diff --git a/_specs/ecip-1098.md b/_specs/ecip-1098.md
-index b99ed400..29c8c7ae 100644
+index b99ed4002..29c8c7aeb 100644
 --- a/_specs/ecip-1098.md
 +++ b/_specs/ecip-1098.md
 @@ -1,13 +1,13 @@
@@ -549,7 +549,7 @@ Subject: [PATCH 5/6] fix general minor format issues
  1 file changed, 50 insertions(+), 52 deletions(-)
 
 diff --git a/_specs/ecip-1098.md b/_specs/ecip-1098.md
-index 29c8c7ae..797754ed 100644
+index 29c8c7aeb..797754edf 100644
 --- a/_specs/ecip-1098.md
 +++ b/_specs/ecip-1098.md
 @@ -11,10 +11,12 @@ created: 2020-08-26
@@ -845,7 +845,7 @@ Subject: [PATCH 6/6] clarify pre-support event
  1 file changed, 1 insertion(+), 1 deletion(-)
 
 diff --git a/_specs/ecip-1098.md b/_specs/ecip-1098.md
-index 797754ed..c60c143d 100644
+index 797754edf..c60c143d3 100644
 --- a/_specs/ecip-1098.md
 +++ b/_specs/ecip-1098.md
 @@ -128,7 +128,7 @@ A proposal lifecycle for updates to p-ECTS consists of the following phases, del
