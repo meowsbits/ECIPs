@@ -25,13 +25,13 @@
       "site_admin": false
     },
     "created_at": "2020-09-05T05:23:59Z",
-    "updated_at": "2020-09-05T06:38:02Z",
+    "updated_at": "2020-09-05T16:36:06Z",
     "author_association": "MEMBER",
-    "body": "> As this ECIP was rejected on proper grounds, following the ECIP process to a \"T\", the author, Ronin, must draft a new ECIP while this one stays rejected. Its crucial we don't give one group or individual preferential treatment just because they are incessantly harassing you here and in discord. All he has to do is draft either the same one or make some changes if he wants but it must be a new ECIP to follow the process. Once rejected, an ECIP **cannot** magically be un-rejected.\r\n\r\nI spent a night reviving this ECIP following the instructions from the call moderator. I'm happy to redraft the proposal and submit this proposal again. That is a simply copy and paste effort for me. So, I have no issue resubmitting this proposal again. Thanks for informing me of the proper ECIP process @developerkevin. It is appreciated.\r\n\r\nHere is the PR to resubmit this proposal: https://github.com/ethereumclassic/ECIPs/pull/363",
+    "body": "> As this ECIP was rejected on proper grounds, following the ECIP process to a \"T\", the author, Ronin, must draft a new ECIP while this one stays rejected. Its crucial we don't give one group or individual preferential treatment just because they are incessantly harassing you here and in discord. All he has to do is draft either the same one or make some changes if he wants but it must be a new ECIP to follow the process. Once rejected, an ECIP **cannot** magically be un-rejected.\r\n\r\nI spent a night reviving this ECIP following the instructions from the call moderator. I'm happy to redraft the proposal and submit this proposal again. That is a simply copy and paste effort for me. Actually less effort than having to hold a 60 minute call in the discord that night. So, I have no issue resubmitting this proposal again. Thanks for informing me of the proper ECIP process @developerkevin. It is appreciated.\r\n\r\nHere is the PR to resubmit this proposal: https://github.com/ethereumclassic/ECIPs/pull/363",
     "reactions": {
       "url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/comments/687553608/reactions",
-      "total_count": 0,
-      "+1": 0,
+      "total_count": 1,
+      "+1": 1,
       "-1": 0,
       "laugh": 0,
       "hooray": 0,
