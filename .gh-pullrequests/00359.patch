@@ -8,7 +8,7 @@ Subject: [PATCH] Reject ECIP-1093 "RandomX"
  1 file changed, 1 insertion(+), 1 deletion(-)
 
 diff --git a/_specs/ecip-1093.md b/_specs/ecip-1093.md
-index aece6d68..bec63bb7 100644
+index aece6d68a..bec63bb77 100644
 --- a/_specs/ecip-1093.md
 +++ b/_specs/ecip-1093.md
 @@ -2,7 +2,7 @@
