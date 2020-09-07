@@ -1,0 +1,39 @@
+{
+    "id": 483536142,
+    "node_id": "MDE3OlB1bGxSZXF1ZXN0UmV2aWV3NDgzNTM2MTQy",
+    "user": {
+      "login": "YazzyYaz",
+      "id": 9094204,
+      "node_id": "MDQ6VXNlcjkwOTQyMDQ=",
+      "avatar_url": "https://avatars0.githubusercontent.com/u/9094204?u=4f4e25ef405e7227f1e8c5d6139b738e6f26edf9&v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/YazzyYaz",
+      "html_url": "https://github.com/YazzyYaz",
+      "followers_url": "https://api.github.com/users/YazzyYaz/followers",
+      "following_url": "https://api.github.com/users/YazzyYaz/following{/other_user}",
+      "gists_url": "https://api.github.com/users/YazzyYaz/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/YazzyYaz/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/YazzyYaz/subscriptions",
+      "organizations_url": "https://api.github.com/users/YazzyYaz/orgs",
+      "repos_url": "https://api.github.com/users/YazzyYaz/repos",
+      "events_url": "https://api.github.com/users/YazzyYaz/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/YazzyYaz/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "body": "Rejecting this as you shouldn't be changing the entire proposal once it's in last call for historical reasons.\r\n\r\nIf you want to go with SHA-3, you should follow the existing proposal by Stev and Defer this ECIP, just for historical reasons.\r\n\r\nOtherwise we will have two duplicate ECIPs and the history tied to Keccak256 disappears.",
+    "state": "CHANGES_REQUESTED",
+    "html_url": "https://github.com/ethereumclassic/ECIPs/pull/365#pullrequestreview-483536142",
+    "pull_request_url": "https://api.github.com/repos/ethereumclassic/ECIPs/pulls/365",
+    "author_association": "MEMBER",
+    "_links": {
+      "html": {
+        "href": "https://github.com/ethereumclassic/ECIPs/pull/365#pullrequestreview-483536142"
+      },
+      "pull_request": {
+        "href": "https://api.github.com/repos/ethereumclassic/ECIPs/pulls/365"
+      }
+    },
+    "submitted_at": "2020-09-07T12:57:55Z",
+    "commit_id": "f886e6a7ab8af7ab279bc02feb038de1bd05178a"
+  }
