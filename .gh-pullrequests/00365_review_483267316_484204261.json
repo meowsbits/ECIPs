@@ -1,0 +1,49 @@
+{
+    "id": 484204261,
+    "node_id": "MDI0OlB1bGxSZXF1ZXN0UmV2aWV3Q29tbWVudDQ4NDIwNDI2MQ==",
+    "url": "https://api.github.com/repos/ethereumclassic/ECIPs/pulls/comments/484204261",
+    "pull_request_review_id": 483267316,
+    "diff_hunk": "@@ -1,32 +1,49 @@\n ---\n lang: en\n ecip: 1049\n-title: Change the ETC Proof of Work Algorithm to Keccak256\n+title: Change the ETC Proof of Work Algorithm to the SHA3 Standard\n+author: Alexander Tsankov (alexander.tsankov@colorado.edu)\n status: Last Call\n-review-period-end: 2020-10-09",
+    "path": "_specs/ecip-1049.md",
+    "position": 8,
+    "original_position": 8,
+    "commit_id": "f886e6a7ab8af7ab279bc02feb038de1bd05178a",
+    "user": {
+      "login": "q9f",
+      "id": 58883403,
+      "node_id": "MDQ6VXNlcjU4ODgzNDAz",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/58883403?u=72563674ea84909432bf249ab92fb936dffa313d&v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/q9f",
+      "html_url": "https://github.com/q9f",
+      "followers_url": "https://api.github.com/users/q9f/followers",
+      "following_url": "https://api.github.com/users/q9f/following{/other_user}",
+      "gists_url": "https://api.github.com/users/q9f/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/q9f/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/q9f/subscriptions",
+      "organizations_url": "https://api.github.com/users/q9f/orgs",
+      "repos_url": "https://api.github.com/users/q9f/repos",
+      "events_url": "https://api.github.com/users/q9f/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/q9f/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "body": "Could you restore that?",
+    "created_at": "2020-09-07T06:19:11Z",
+    "updated_at": "2020-09-07T06:21:39Z",
+    "html_url": "https://github.com/ethereumclassic/ECIPs/pull/365#discussion_r484204261",
+    "pull_request_url": "https://api.github.com/repos/ethereumclassic/ECIPs/pulls/365",
+    "author_association": "MEMBER",
+    "_links": {
+      "self": {
+        "href": "https://api.github.com/repos/ethereumclassic/ECIPs/pulls/comments/484204261"
+      },
+      "html": {
+        "href": "https://github.com/ethereumclassic/ECIPs/pull/365#discussion_r484204261"
+      },
+      "pull_request": {
+        "href": "https://api.github.com/repos/ethereumclassic/ECIPs/pulls/365"
+      }
+    },
+    "original_commit_id": "f886e6a7ab8af7ab279bc02feb038de1bd05178a"
+  }
