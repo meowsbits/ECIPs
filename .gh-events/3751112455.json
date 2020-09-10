@@ -1,7 +1,7 @@
 {
-    "id": 3750376623,
-    "node_id": "MDEyOkxhYmVsZWRFdmVudDM3NTAzNzY2MjM=",
-    "url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/events/3750376623",
+    "id": 3751112455,
+    "node_id": "MDE0OlVubGFiZWxlZEV2ZW50Mzc1MTExMjQ1NQ==",
+    "url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/events/3751112455",
     "actor": {
       "login": "q9f",
       "id": 58883403,
@@ -22,10 +22,10 @@
       "type": "User",
       "site_admin": false
     },
-    "event": "labeled",
+    "event": "unlabeled",
     "commit_id": null,
     "commit_url": null,
-    "created_at": "2020-09-10T11:02:16Z",
+    "created_at": "2020-09-10T13:39:52Z",
     "label": {
       "name": "editor: 1 needs review",
       "color": "ffd92f"
