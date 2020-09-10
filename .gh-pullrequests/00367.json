@@ -8,7 +8,7 @@
     "id": 697729424,
     "node_id": "MDExOlB1bGxSZXF1ZXN0NDgzNjQwMjYw",
     "number": 367,
-    "title": "ecip-1099: Calibrate Epoch Duration",
+    "title": "ECIP 1099: Calibrate Epoch Duration",
     "user": {
       "login": "iquidus",
       "id": 1858594,
@@ -41,7 +41,7 @@
     "milestone": null,
     "comments": 0,
     "created_at": "2020-09-10T10:19:51Z",
-    "updated_at": "2020-09-10T10:19:51Z",
+    "updated_at": "2020-09-10T10:20:46Z",
     "closed_at": null,
     "author_association": "FIRST_TIME_CONTRIBUTOR",
     "active_lock_reason": null,
