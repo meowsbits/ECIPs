@@ -1,9 +1,9 @@
 {
-    "url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/comments/690162555",
-    "html_url": "https://github.com/ethereumclassic/ECIPs/issues/368#issuecomment-690162555",
-    "issue_url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/368",
-    "id": 690162555,
-    "node_id": "MDEyOklzc3VlQ29tbWVudDY5MDE2MjU1NQ==",
+    "url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/comments/690186702",
+    "html_url": "https://github.com/ethereumclassic/ECIPs/pull/365#issuecomment-690186702",
+    "issue_url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/365",
+    "id": 690186702,
+    "node_id": "MDEyOklzc3VlQ29tbWVudDY5MDE4NjcwMg==",
     "user": {
       "login": "q9f",
       "id": 58883403,
@@ -24,12 +24,12 @@
       "type": "User",
       "site_admin": false
     },
-    "created_at": "2020-09-10T11:10:36Z",
-    "updated_at": "2020-09-10T11:19:17Z",
+    "created_at": "2020-09-10T11:25:31Z",
+    "updated_at": "2020-09-10T11:25:31Z",
     "author_association": "MEMBER",
-    "body": "Thanks for proposing this. My first thoughts:\r\n\r\nPro: \r\n* :+1: it's a good temporary 51% attack solution as it modifies ethash enough to invalidate hashrate available on nicehash et al.\r\n* :+1: we kind of missed the activation window for ECIP-1043 DAG size limitation (epoch < 350), this is a viable solution even right now or in 2-3 months\r\n* :+1: this will not only maintain long-term compatibility with current 4GB mining cards but also re-enable ~~2GB and~~ 3GB GPU mining for a while\r\n\r\nCon:\r\n*  :warning: needs a hardfork\r\n*  :warning: needs custom miner software",
+    "body": "Can we update this prior to the call tomorrow?",
     "reactions": {
-      "url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/comments/690162555/reactions",
+      "url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/comments/690186702/reactions",
       "total_count": 0,
       "+1": 0,
       "-1": 0,
