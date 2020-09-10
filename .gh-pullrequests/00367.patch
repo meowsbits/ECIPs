@@ -1,0 +1,160 @@
+From e75177939a92f794a807cf685544ebf94a5d205a Mon Sep 17 00:00:00 2001
+From: Luke Williams <luke@iquidus.io>
+Date: Thu, 10 Sep 2020 12:05:48 +0200
+Subject: [PATCH 1/3] add ecip-1099: Calibrate Epoch Duration
+
+---
+ _specs/ecip-1099.md | 85 +++++++++++++++++++++++++++++++++++++++++++++
+ 1 file changed, 85 insertions(+)
+ create mode 100644 _specs/ecip-1099.md
+
+diff --git a/_specs/ecip-1099.md b/_specs/ecip-1099.md
+new file mode 100644
+index 000000000..feb5a986f
+--- /dev/null
++++ b/_specs/ecip-1099.md
+@@ -0,0 +1,85 @@
++---
++lang: en
++ecip: 1099
++title: Calibrate Epoch Duration
++status: Draft
++type: Standards Track
++category: Core
++discussions-to:
++author: Luke Williams (@iquidus)
++created: 2017-06-29
++replaces: 1043
++license: Apache-2
++---
++
++### Abstract
++
++The purpose of this ECIP is to calibrate the epoch length used in DAG calculations.
++
++### Motivation ###
++The original intent of the DAG was to provide ASIC resistance to the mining protocol in order to prevent centralization of mining distributions and thereby provide for an objectively fair distribution of tokens. As evident by ASICs being developed that are capable of matching current GPU miners while being more energy efficient, the DAG has succeeded in leveling the playing field between GPU incumbents and ASIC challengers, avoiding ASIC takeover and domination, and leading to a competitive and large mining ecosystem. However the original parameters are proving too aggressive, resulting in obsoleting support for GPUs still in wide use today by miners.
++
++Calibrating these parameters to better reflect todays hardware markets and mining ecosystem will bring the DAG growth back in sync with commonly used GPUs. Allowing the DAG system to continue to serve it's purpose far into the future.
++
++### Specification ###
++
++```
++const oldEpochLength = 30000
++const newEpochLength = 60000
++const activationBlock = n
++
++// calcEpochLength returns the epoch length for a given block number.
++func calcEpochLength(blockNum uint64) uint64 {
++  if(blockNum < activationBlock) {
++    return oldEpochLength
++  } else {
++    return newEpochLength
++  }
++}
++
++// calcEpoch returns the epoch for a given block number
++func calcEpoch(block uint64) int {
++  epochLength := uint64(calcEpochLength(block))
++  epoch := int(block / epochLength)
++  return epoch
++}
++
++// seedHash is the seed to use for generating a verification cache and the
++// mining dataset.
++func seedHash(block uint64) []byte {
++  seed := make([]byte, 32)
++  if block < epochLength {
++    return seed
++  }
++  // keep using oldEpochLength here so seeds don't overlap
++  keccak256 := makeHasher(sha3.NewLegacyKeccak256())
++  for i := 0; i < int(block/oldEpochLength); i++ {
++    keccak256(seed, seed)
++  }
++  return seed
++}
++```
++The oldEpochLength (30000) changes to newEpochLength (60000) at a given activationBlock (hardfork required).
++
++This will result in the epoch (blockNumber/[old/new]EpochLength) halving upon activation. As the DAG cache and dataset sizes are calculated from epoch, the growth in which they have experienced too will half upon activation. DAG caches and dataset will then continue to grow as intended, however at half of the pre-activation rate. To avoid re-use of seeds oldEpochLength will continue to be used within the seedHash function.
++
++### Rationale ###
++At current epoch (372) the DAG size is 3.91 GB. 4GB GPUs are getting obsoleted while they still make up a significant amount of ethash hashrate. Activating this change at epoch 376 (for example), would reduce the DAG size from 3.94GB to 2.47GB. With the reduced growth rate, 4GB GPUs will remain supported for an additional 3+ years.
++
++### Implementation ###
++Hard fork required for activation.
++Mining software and pool implementations required.  
++
++For the smoothest possible transition activation should occur on a block in which an epoch transition to an even epoch number is occurring.  
++
++* Epoch 374/2 = 187   (good) = block 11220000
++* Epoch 375/2 = 187.5 (bad)  -
++* Epoch 376/2 = 188   (good) = block 11280000
++
++#### Clients ####
++* core-geth
++* besu
++#### Pools ####
++* open-ethereum-pool
++#### Mining Software ####
++* ethminer
+
+From 8f776bd343e999ed8e47d41e6832d8c212bd2813 Mon Sep 17 00:00:00 2001
+From: Luke Williams <luke@iquidus.io>
+Date: Thu, 10 Sep 2020 12:14:03 +0200
+Subject: [PATCH 2/3] add references
+
+---
+ _specs/ecip-1099.md | 14 ++++++++++----
+ 1 file changed, 10 insertions(+), 4 deletions(-)
+
+diff --git a/_specs/ecip-1099.md b/_specs/ecip-1099.md
+index feb5a986f..e3a0d9ac4 100644
+--- a/_specs/ecip-1099.md
++++ b/_specs/ecip-1099.md
+@@ -77,9 +77,15 @@ For the smoothest possible transition activation should occur on a block in whic
+ * Epoch 376/2 = 188   (good) = block 11280000
+ 
+ #### Clients ####
+-* core-geth
+-* besu
++* [] core-geth
++* [] besu
+ #### Pools ####
+-* open-ethereum-pool
++* [] open-ethereum-pool
+ #### Mining Software ####
+-* ethminer
++* [] ethminer  
++
++### References
++- [ECIP 1043 - Fixed DAG limit restriction](https://ecips.ethereumclassic.org/ECIPs/ecip-1043)
++- [ECIP-? Limit DAG growth #6](https://github.com/ethereumproject/ECIPs/issues/6)
++- [Ethash Sources](https://github.com/ethereum/ethash)
++- [DAG Size Calculator](https://investoon.com/tools/dag_size)
+
+From 0e3ea4235be35d4d37fc8d021498df67379afe53 Mon Sep 17 00:00:00 2001
+From: Luke Williams <luke@iquidus.io>
+Date: Thu, 10 Sep 2020 12:16:41 +0200
+Subject: [PATCH 3/3] update header info
+
+---
+ _specs/ecip-1099.md | 3 +--
+ 1 file changed, 1 insertion(+), 2 deletions(-)
+
+diff --git a/_specs/ecip-1099.md b/_specs/ecip-1099.md
+index e3a0d9ac4..73f4ad4d8 100644
+--- a/_specs/ecip-1099.md
++++ b/_specs/ecip-1099.md
+@@ -7,9 +7,8 @@ type: Standards Track
+ category: Core
+ discussions-to:
+ author: Luke Williams (@iquidus)
+-created: 2017-06-29
++created: 2020-09-10
+ replaces: 1043
+-license: Apache-2
+ ---
+ 
+ ### Abstract
