@@ -25,9 +25,9 @@
       "site_admin": false
     },
     "created_at": "2020-09-11T16:15:19Z",
-    "updated_at": "2020-09-11T16:15:19Z",
+    "updated_at": "2020-09-11T16:18:30Z",
     "author_association": "CONTRIBUTOR",
-    "body": "meeting was just moved to Discord because of a security flaw in jitsi",
+    "body": "meeting was just moved to Discord because of a security flaw in jitsi https://discord.gg/bNgqUb7",
     "reactions": {
       "url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/comments/691187158/reactions",
       "total_count": 0,
