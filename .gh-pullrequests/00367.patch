@@ -1,7 +1,7 @@
 From e75177939a92f794a807cf685544ebf94a5d205a Mon Sep 17 00:00:00 2001
 From: Luke Williams <luke@iquidus.io>
 Date: Thu, 10 Sep 2020 12:05:48 +0200
-Subject: [PATCH 1/6] add ecip-1099: Calibrate Epoch Duration
+Subject: [PATCH 1/8] add ecip-1099: Calibrate Epoch Duration
 
 ---
  _specs/ecip-1099.md | 85 +++++++++++++++++++++++++++++++++++++++++++++
@@ -103,7 +103,7 @@ index 000000000..feb5a986f
 From 8f776bd343e999ed8e47d41e6832d8c212bd2813 Mon Sep 17 00:00:00 2001
 From: Luke Williams <luke@iquidus.io>
 Date: Thu, 10 Sep 2020 12:14:03 +0200
-Subject: [PATCH 2/6] add references
+Subject: [PATCH 2/8] add references
 
 ---
  _specs/ecip-1099.md | 14 ++++++++++----
@@ -137,7 +137,7 @@ index feb5a986f..e3a0d9ac4 100644
 From 0e3ea4235be35d4d37fc8d021498df67379afe53 Mon Sep 17 00:00:00 2001
 From: Luke Williams <luke@iquidus.io>
 Date: Thu, 10 Sep 2020 12:16:41 +0200
-Subject: [PATCH 3/6] update header info
+Subject: [PATCH 3/8] update header info
 
 ---
  _specs/ecip-1099.md | 3 +--
@@ -162,7 +162,7 @@ index e3a0d9ac4..73f4ad4d8 100644
 From 14040b4528e642045fb29c53515b8eabd8dcf9e7 Mon Sep 17 00:00:00 2001
 From: Luke Williams <luke@iquidus.io>
 Date: Thu, 10 Sep 2020 12:27:25 +0200
-Subject: [PATCH 4/6] ecip-1099: add discussions-to
+Subject: [PATCH 4/8] ecip-1099: add discussions-to
 
 ---
  _specs/ecip-1099.md | 2 +-
@@ -185,7 +185,7 @@ index 73f4ad4d8..ca7032e90 100644
 From b4acd52d656af1169739e93c7df466b6bd1e650e Mon Sep 17 00:00:00 2001
 From: Luke Williams <luke@iquidus.io>
 Date: Thu, 10 Sep 2020 12:36:24 +0200
-Subject: [PATCH 5/6] ecip-1099: cleaner spec
+Subject: [PATCH 5/8] ecip-1099: cleaner spec
 
 ---
  _specs/ecip-1099.md | 3 +--
@@ -210,7 +210,7 @@ index ca7032e90..f241be6d5 100644
 From 6c19ed167fb8ab6c1b1e04b90f43ea3385d1741f Mon Sep 17 00:00:00 2001
 From: Luke Williams <luke@iquidus.io>
 Date: Thu, 10 Sep 2020 12:56:55 +0200
-Subject: [PATCH 6/6] ecip-1099: add research/test data to references
+Subject: [PATCH 6/8] ecip-1099: add research/test data to references
 
 ---
  _specs/ecip-1099.md | 1 +
@@ -228,3 +228,49 @@ index f241be6d5..850543327 100644
  - [ECIP 1043 - Fixed DAG limit restriction](https://ecips.ethereumclassic.org/ECIPs/ecip-1043)
  - [ECIP-? Limit DAG growth #6](https://github.com/ethereumproject/ECIPs/issues/6)
  - [Ethash Sources](https://github.com/ethereum/ethash)
+
+From b19823a7b0406e5731e8e2506354f6f6ab0ff05f Mon Sep 17 00:00:00 2001
+From: Luke Williams <iquidus@users.noreply.github.com>
+Date: Thu, 10 Sep 2020 16:16:24 +0200
+Subject: [PATCH 7/8] Update ecip-1099.md
+
+---
+ _specs/ecip-1099.md | 2 +-
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+
+diff --git a/_specs/ecip-1099.md b/_specs/ecip-1099.md
+index 850543327..4f98e73dd 100644
+--- a/_specs/ecip-1099.md
++++ b/_specs/ecip-1099.md
+@@ -46,7 +46,7 @@ func calcEpoch(block uint64) int {
+ // mining dataset.
+ func seedHash(block uint64) []byte {
+   seed := make([]byte, 32)
+-  if block < epochLength {
++  if block < oldEpochLength {
+     return seed
+   }
+   // keep using oldEpochLength here so seeds don't overlap
+
+From d392a7a684cdb5965cc0acba5b6cca969456eee6 Mon Sep 17 00:00:00 2001
+From: Luke Williams <iquidus@users.noreply.github.com>
+Date: Thu, 10 Sep 2020 22:04:15 +0200
+Subject: [PATCH 8/8] Update ecip-1099.md
+
+---
+ _specs/ecip-1099.md | 2 +-
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+
+diff --git a/_specs/ecip-1099.md b/_specs/ecip-1099.md
+index 4f98e73dd..37e9ea293 100644
+--- a/_specs/ecip-1099.md
++++ b/_specs/ecip-1099.md
+@@ -37,7 +37,7 @@ func calcEpochLength(blockNum uint64) uint64 {
+ 
+ // calcEpoch returns the epoch for a given block number
+ func calcEpoch(block uint64) int {
+-  epochLength := uint64(calcEpochLength(block))
++  epochLength := calcEpochLength(block)
+   epoch := int(block / epochLength)
+   return epoch
+ }
