@@ -1,0 +1,28 @@
+From 77b5b74f16b342323977c8a35ef66c6dc3dcae2f Mon Sep 17 00:00:00 2001
+From: Raw Pong Ghmoa <58883403+q9f@users.noreply.github.com>
+Date: Fri, 11 Sep 2020 19:40:41 +0200
+Subject: [PATCH] ECIP 1043: Move to Replaced by 1099
+
+---
+ _specs/ecip-1043.md | 4 ++--
+ 1 file changed, 2 insertions(+), 2 deletions(-)
+
+diff --git a/_specs/ecip-1043.md b/_specs/ecip-1043.md
+index 31ae9dbde..728fe5889 100644
+--- a/_specs/ecip-1043.md
++++ b/_specs/ecip-1043.md
+@@ -3,12 +3,12 @@ lang: en
+ ecip: 1043
+ title: Fixed DAG limit restriction 
+ author: Cody Burns <cody.w.burns@gmail.com>, Wolf Spraul <wolf@linzhi.io>
+-status: Last Call
+-review-period-end: 2020-09-18
++status: Replaced
+ type: Standards Track
+ category: Core
+ discussions-to: https://github.com/ethereumclassic/ECIPs/issues/11
+ created: 2018-04-16
++superseded-by: 1099
+ ---
+ 
+ # ECIP-1043 – Fixed DAG limit restriction   

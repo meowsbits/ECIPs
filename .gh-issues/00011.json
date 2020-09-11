@@ -31,13 +31,13 @@
     },
     "labels": [
       {
-        "id": 1702098127,
-        "node_id": "MDU6TGFiZWwxNzAyMDk4MTI3",
-        "url": "https://api.github.com/repos/ethereumclassic/ECIPs/labels/status:%205%20last-call",
-        "name": "status: 5 last-call",
-        "color": "969696",
+        "id": 2341517813,
+        "node_id": "MDU6TGFiZWwyMzQxNTE3ODEz",
+        "url": "https://api.github.com/repos/ethereumclassic/ECIPs/labels/status:%202%20replaced",
+        "name": "status: 2 replaced",
+        "color": "c5def5",
         "default": false,
-        "description": "ECIP has been accepted and is waiting for last-call reviews."
+        "description": ""
       },
       {
         "id": 1154785127,
@@ -56,9 +56,9 @@
 
     ],
     "milestone": null,
-    "comments": 19,
+    "comments": 20,
     "created_at": "2019-01-14T21:09:14Z",
-    "updated_at": "2020-09-10T11:12:08Z",
+    "updated_at": "2020-09-11T17:43:37Z",
     "closed_at": null,
     "author_association": "MEMBER",
     "active_lock_reason": null,
