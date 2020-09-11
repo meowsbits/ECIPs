@@ -47,6 +47,15 @@
         "color": "969696",
         "default": false,
         "description": "ECIP has been accepted and is waiting for last-call reviews."
+      },
+      {
+        "id": 1154785127,
+        "node_id": "MDU6TGFiZWwxMTU0Nzg1MTI3",
+        "url": "https://api.github.com/repos/ethereumclassic/ECIPs/labels/type:%20core",
+        "name": "type: core",
+        "color": "fbb4ae",
+        "default": false,
+        "description": "ECIPs of the type \"Core\" - changing the Classic protocol."
       }
     ],
     "state": "open",
@@ -58,7 +67,7 @@
     "milestone": null,
     "comments": 7,
     "created_at": "2020-09-06T18:23:36Z",
-    "updated_at": "2020-09-11T07:28:04Z",
+    "updated_at": "2020-09-11T12:14:20Z",
     "closed_at": null,
     "author_association": "CONTRIBUTOR",
     "active_lock_reason": null,
