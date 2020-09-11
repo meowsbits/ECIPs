@@ -1,0 +1,30 @@
+{
+    "id": 3757380831,
+    "node_id": "MDE1OlN1YnNjcmliZWRFdmVudDM3NTczODA4MzE=",
+    "url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/events/3757380831",
+    "actor": {
+      "login": "xocel",
+      "id": 1397270,
+      "node_id": "MDQ6VXNlcjEzOTcyNzA=",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/1397270?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/xocel",
+      "html_url": "https://github.com/xocel",
+      "followers_url": "https://api.github.com/users/xocel/followers",
+      "following_url": "https://api.github.com/users/xocel/following{/other_user}",
+      "gists_url": "https://api.github.com/users/xocel/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/xocel/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/xocel/subscriptions",
+      "organizations_url": "https://api.github.com/users/xocel/orgs",
+      "repos_url": "https://api.github.com/users/xocel/repos",
+      "events_url": "https://api.github.com/users/xocel/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/xocel/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "event": "subscribed",
+    "commit_id": null,
+    "commit_url": null,
+    "created_at": "2020-09-11T17:54:41Z",
+    "performed_via_github_app": null
+  }
