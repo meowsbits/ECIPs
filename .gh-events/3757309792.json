@@ -1,0 +1,112 @@
+{
+    "id": 3757309792,
+    "node_id": "MDExOk1lcmdlZEV2ZW50Mzc1NzMwOTc5Mg==",
+    "url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/events/3757309792",
+    "actor": {
+      "login": "q9f",
+      "id": 58883403,
+      "node_id": "MDQ6VXNlcjU4ODgzNDAz",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/58883403?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/q9f",
+      "html_url": "https://github.com/q9f",
+      "followers_url": "https://api.github.com/users/q9f/followers",
+      "following_url": "https://api.github.com/users/q9f/following{/other_user}",
+      "gists_url": "https://api.github.com/users/q9f/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/q9f/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/q9f/subscriptions",
+      "organizations_url": "https://api.github.com/users/q9f/orgs",
+      "repos_url": "https://api.github.com/users/q9f/repos",
+      "events_url": "https://api.github.com/users/q9f/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/q9f/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "event": "merged",
+    "commit_id": "0cda2703bfcc966735ddc1b1b259ec7c2cd1e560",
+    "commit_url": "https://api.github.com/repos/ethereumclassic/ECIPs/commits/0cda2703bfcc966735ddc1b1b259ec7c2cd1e560",
+    "created_at": "2020-09-11T17:35:19Z",
+    "issue": {
+      "url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/356",
+      "repository_url": "https://api.github.com/repos/ethereumclassic/ECIPs",
+      "labels_url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/356/labels{/name}",
+      "comments_url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/356/comments",
+      "events_url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/356/events",
+      "html_url": "https://github.com/ethereumclassic/ECIPs/pull/356",
+      "id": 688363062,
+      "node_id": "MDExOlB1bGxSZXF1ZXN0NDc1NjQ3NTg5",
+      "number": 356,
+      "title": "Update ECIP-1043 DAG Size Restriction with Recommended Implementation",
+      "user": {
+        "login": "realcodywburns",
+        "id": 13103499,
+        "node_id": "MDQ6VXNlcjEzMTAzNDk5",
+        "avatar_url": "https://avatars1.githubusercontent.com/u/13103499?v=4",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/realcodywburns",
+        "html_url": "https://github.com/realcodywburns",
+        "followers_url": "https://api.github.com/users/realcodywburns/followers",
+        "following_url": "https://api.github.com/users/realcodywburns/following{/other_user}",
+        "gists_url": "https://api.github.com/users/realcodywburns/gists{/gist_id}",
+        "starred_url": "https://api.github.com/users/realcodywburns/starred{/owner}{/repo}",
+        "subscriptions_url": "https://api.github.com/users/realcodywburns/subscriptions",
+        "organizations_url": "https://api.github.com/users/realcodywburns/orgs",
+        "repos_url": "https://api.github.com/users/realcodywburns/repos",
+        "events_url": "https://api.github.com/users/realcodywburns/events{/privacy}",
+        "received_events_url": "https://api.github.com/users/realcodywburns/received_events",
+        "type": "User",
+        "site_admin": false
+      },
+      "labels": [
+        {
+          "id": 1428838937,
+          "node_id": "MDU6TGFiZWwxNDI4ODM4OTM3",
+          "url": "https://api.github.com/repos/ethereumclassic/ECIPs/labels/editor:%207%20looks-good",
+          "name": "editor: 7 looks-good",
+          "color": "a6d854",
+          "default": false,
+          "description": "This contribution is well reviewed and good to be merged."
+        },
+        {
+          "id": 1702098127,
+          "node_id": "MDU6TGFiZWwxNzAyMDk4MTI3",
+          "url": "https://api.github.com/repos/ethereumclassic/ECIPs/labels/status:%205%20last-call",
+          "name": "status: 5 last-call",
+          "color": "969696",
+          "default": false,
+          "description": "ECIP has been accepted and is waiting for last-call reviews."
+        },
+        {
+          "id": 1154785127,
+          "node_id": "MDU6TGFiZWwxMTU0Nzg1MTI3",
+          "url": "https://api.github.com/repos/ethereumclassic/ECIPs/labels/type:%20core",
+          "name": "type: core",
+          "color": "fbb4ae",
+          "default": false,
+          "description": "ECIPs of the type \"Core\" - changing the Classic protocol."
+        }
+      ],
+      "state": "closed",
+      "locked": false,
+      "assignee": null,
+      "assignees": [
+
+      ],
+      "milestone": null,
+      "comments": 1,
+      "created_at": "2020-08-28T21:25:00Z",
+      "updated_at": "2020-09-11T17:35:23Z",
+      "closed_at": "2020-09-11T17:35:20Z",
+      "author_association": "MEMBER",
+      "active_lock_reason": null,
+      "pull_request": {
+        "url": "https://api.github.com/repos/ethereumclassic/ECIPs/pulls/356",
+        "html_url": "https://github.com/ethereumclassic/ECIPs/pull/356",
+        "diff_url": "https://github.com/ethereumclassic/ECIPs/pull/356.diff",
+        "patch_url": "https://github.com/ethereumclassic/ECIPs/pull/356.patch"
+      },
+      "body": "Added Recommended Implementation to clarify implementation",
+      "performed_via_github_app": null
+    },
+    "performed_via_github_app": null
+  }
