@@ -25,9 +25,9 @@
       "site_admin": false
     },
     "created_at": "2020-09-11T17:34:53Z",
-    "updated_at": "2020-09-11T17:35:04Z",
+    "updated_at": "2020-09-11T18:03:24Z",
     "author_association": "MEMBER",
-    "body": "Call 13 TL;DR of decisions:\r\n\r\n* ECIP 1043 will be **replaced** by ECIP 1099\r\n* ECIP 1099 will be moved to **last call** (3 weeks)\r\n* ECIP 1049 will remain in **last call** (another 4 weeks)\r\n* ECIP 1095 will be **rejected** in favor of keccak256 proposal ECIP 1049",
+    "body": "Call 13 TL;DR of decisions:\r\n\r\n* ECIP 1043 will be **replaced** by ECIP 1099 #370 \r\n* ECIP 1099 will be moved to **last call** (3 weeks) #371 \r\n* ECIP 1049 will remain in **last call** (another 4 weeks)\r\n* ECIP 1095 will be **rejected** in favor of keccak256 proposal ECIP 1049 #372 ",
     "reactions": {
       "url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/comments/691223982/reactions",
       "total_count": 0,
