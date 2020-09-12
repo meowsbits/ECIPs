@@ -1,7 +1,7 @@
 From 7dd6d69e63a620a3b8c9074257c083c74104f35f Mon Sep 17 00:00:00 2001
 From: meows <b5c6@protonmail.com>
 Date: Sat, 12 Sep 2020 10:05:21 -0500
-Subject: [PATCH] ecbp-11355: initial draft of MESS proposal
+Subject: [PATCH 1/2] ecbp-11355: initial draft of MESS proposal
 
 Signed-off-by: meows <b5c6@protonmail.com>
 ---
@@ -220,3 +220,38 @@ index 000000000..a3bfd1c8e
 +## Copyright/Licensing
 +
 +Copyright 2020 Isaac A. \<b5c6@protonmail.com\>
+
+From 365ff94d26e7e9b5e85dd283bb9b1c067a3309e8 Mon Sep 17 00:00:00 2001
+From: meows <b5c6@protonmail.com>
+Date: Sat, 12 Sep 2020 10:30:28 -0500
+Subject: [PATCH 2/2] include core-geth implementation link
+
+Signed-off-by: meows <b5c6@protonmail.com>
+---
+ _specs/ecip-11355.md | 6 ++++--
+ 1 file changed, 4 insertions(+), 2 deletions(-)
+
+diff --git a/_specs/ecip-11355.md b/_specs/ecip-11355.md
+index a3bfd1c8e..7c2a6b4af 100644
+--- a/_specs/ecip-11355.md
++++ b/_specs/ecip-11355.md
+@@ -144,6 +144,8 @@ The graphs below show a 200 block chain accepting, sidechaining, or rejecting re
+ 
+ This feature does not require a hard fork, but the network stands to benefit and avoid risk with majority coordinated acivation.
+ 
++__Core-Geth__
++
+ - Feature is tentatively proposed to activate in Core-Geth on Ethereum Classic network at and above block 11295300.
+ - Feature is proposed to activate in Core-Geth on Ethereum Classic's Mordor test network at and above block 2290740.
+ 
+@@ -152,8 +154,8 @@ This feature does not require a hard fork, but the network stands to benefit and
+   + MESS is only enabled once a peer has completed initial chain synchronisation, not while they are fast syncing or even full syncing during the download and process phase. This reduces the chances of a node coming online being lured into an eclipse scenario.
+   + MESS is only enabled if a peer has greater than or equal to the `2 * MinimumSyncPeers` peers. In Core-Geth this value is by default `5`, yielding a necessary limit of `10` for the MESS feature.
+   + MESS is disabled if, once synced, a node's head block is not changed within a time limit (ie becomes stale).  In Core-Geth this value is by default `10 * 13 seconds`.
+-
+-Once proposed, a link to the associated Core-Geth implementation change set will be included here.
++  
++The associated Core-Geth implementation is available [here](https://github.com/etclabscore/core-geth/pull/181).
+ 
+ ## References
+ 

@@ -8,7 +8,7 @@
     "id": 700270859,
     "node_id": "MDExOlB1bGxSZXF1ZXN0NDg1OTMzMDIz",
     "number": 373,
-    "title": "ECBP-11355: MESS proposal",
+    "title": "ECBP-1100: MESS proposal",
     "user": {
       "login": "meowsbits",
       "id": 45600330,
@@ -41,7 +41,7 @@
     "milestone": null,
     "comments": 0,
     "created_at": "2020-09-12T15:14:24Z",
-    "updated_at": "2020-09-12T15:14:24Z",
+    "updated_at": "2020-09-12T17:09:24Z",
     "closed_at": null,
     "author_association": "MEMBER",
     "active_lock_reason": null,
@@ -51,11 +51,11 @@
       "diff_url": "https://github.com/ethereumclassic/ECIPs/pull/373.diff",
       "patch_url": "https://github.com/ethereumclassic/ECIPs/pull/373.patch"
     },
-    "body": "Drafting a \"Best Practice\" proposal for implementing a \"Modified Exponential Subjective Scoring\" algorithm for use in chain acceptance arbitration.\r\n\r\nPlease excuse the arbitrary proposal number; I just wanted something firm that I could use when drafting the implementation in Core-Geth because it makes it easier to name things.",
+    "body": "Drafting a \"Best Practice\" proposal for implementing a \"Modified Exponential Subjective Scoring\" algorithm for use in chain acceptance arbitration.\r\n\r\nView the document [rendered](https://github.com/ethereumclassic/ECIPs/blob/7dd6d69e63a620a3b8c9074257c083c74104f35f/_specs/ecip-11355.md).\r\n\r\nPlease excuse the arbitrary proposal number; I just wanted something firm that I could use when drafting the implementation in Core-Geth because it makes it easier to name things.",
     "reactions": {
       "url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/373/reactions",
-      "total_count": 0,
-      "+1": 0,
+      "total_count": 2,
+      "+1": 2,
       "-1": 0,
       "laugh": 0,
       "hooray": 0,
