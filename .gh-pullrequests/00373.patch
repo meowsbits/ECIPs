@@ -1,7 +1,7 @@
 From 7dd6d69e63a620a3b8c9074257c083c74104f35f Mon Sep 17 00:00:00 2001
 From: meows <b5c6@protonmail.com>
 Date: Sat, 12 Sep 2020 10:05:21 -0500
-Subject: [PATCH 1/2] ecbp-11355: initial draft of MESS proposal
+Subject: [PATCH 1/4] ecbp-11355: initial draft of MESS proposal
 
 Signed-off-by: meows <b5c6@protonmail.com>
 ---
@@ -224,7 +224,7 @@ index 000000000..a3bfd1c8e
 From 365ff94d26e7e9b5e85dd283bb9b1c067a3309e8 Mon Sep 17 00:00:00 2001
 From: meows <b5c6@protonmail.com>
 Date: Sat, 12 Sep 2020 10:30:28 -0500
-Subject: [PATCH 2/2] include core-geth implementation link
+Subject: [PATCH 2/4] include core-geth implementation link
 
 Signed-off-by: meows <b5c6@protonmail.com>
 ---
@@ -255,3 +255,125 @@ index a3bfd1c8e..7c2a6b4af 100644
  
  ## References
  
+
+From b1984548ea34c1c692784b04ec5edadc26149258 Mon Sep 17 00:00:00 2001
+From: meows <b5c6@protonmail.com>
+Date: Sat, 12 Sep 2020 12:35:54 -0500
+Subject: [PATCH 3/4] rename ecbp11355->1100, include discussions-to link
+
+Signed-off-by: meows <b5c6@protonmail.com>
+---
+ _specs/{ecip-11355.md => ecip-1100.md} | 4 ++--
+ 1 file changed, 2 insertions(+), 2 deletions(-)
+ rename _specs/{ecip-11355.md => ecip-1100.md} (99%)
+
+diff --git a/_specs/ecip-11355.md b/_specs/ecip-1100.md
+similarity index 99%
+rename from _specs/ecip-11355.md
+rename to _specs/ecip-1100.md
+index 7c2a6b4af..18989bb99 100644
+--- a/_specs/ecip-11355.md
++++ b/_specs/ecip-1100.md
+@@ -1,9 +1,9 @@
+ ---
+-ecip: 11355
++ecip: 1100
+ title: MESS (Modified Exponential Subjective Scoring)
+ lang: en
+ author: Isaac <b5c6@protonmail.com>
+-discussions-to: TODO
++discussions-to: https://github.com/ethereumclassic/ECIPs/issues/374
+ status: Draft
+ type: Standards Track
+ category: ECBP
+
+From 88edfb08995ad878f3a155f3a92b47db112b1f38 Mon Sep 17 00:00:00 2001
+From: meows <b5c6@protonmail.com>
+Date: Sat, 12 Sep 2020 12:37:22 -0500
+Subject: [PATCH 4/4] s/11355/1100/g
+
+Signed-off-by: meows <b5c6@protonmail.com>
+---
+ _specs/ecip-1100.md | 20 ++++++++++----------
+ 1 file changed, 10 insertions(+), 10 deletions(-)
+
+diff --git a/_specs/ecip-1100.md b/_specs/ecip-1100.md
+index 18989bb99..3f99cc877 100644
+--- a/_specs/ecip-1100.md
++++ b/_specs/ecip-1100.md
+@@ -31,13 +31,13 @@ __Sinusoidal Function__
+ 
+ ```go
+ /*
+-ecbp11355AGSinusoidalA is a "ceilinged" sinusoidal function which limits the domain
++ecbp1100AGSinusoidalA is a "ceilinged" sinusoidal function which limits the domain
+ to within the first ascent of the curve. X values exceeding this range
+ are capped to the ceiling limit. The curve's peak has a differentiable transition to its constant ceiling.
+ 
+ h(x)=15 sin((x+12000 π)/(8000))+15+1
+ */
+-func ecbp11355AGSinusoidalA(x float64) (antiGravity float64) {
++func ecbp1100AGSinusoidalA(x float64) (antiGravity float64) {
+ 	ampl := float64(15)   // amplitude
+ 	pDiv := float64(8000) // period divisor
+ 	phaseShift := math.Pi * (pDiv * 1.5)
+@@ -53,10 +53,10 @@ func ecbp11355AGSinusoidalA(x float64) (antiGravity float64) {
+ __Condition__
+ 
+ ```go
+-// ecpb11355 implements the "MESS" artificial finality mechanism
++// ecpb1100 implements the "MESS" artificial finality mechanism
+ // "Modified Exponential Subjective Scoring" used to prefer known chain segments
+ // over later-to-come counterparts, especially proposed segments stretching far into the past.
+-func (bc *BlockChain) ecbp11355(commonAncestor, current, proposed *types.Header) error {
++func (bc *BlockChain) ecbp1100(commonAncestor, current, proposed *types.Header) error {
+ 
+ 	// Get the total difficulty ratio of the proposed chain segment over the existing one.
+ 	commonAncestorTD := bc.GetTd(commonAncestor.Hash(), commonAncestor.Number.Uint64())
+@@ -72,12 +72,12 @@ func (bc *BlockChain) ecbp11355(commonAncestor, current, proposed *types.Header)
+ 	).Float64()
+ 
+ 	x := float64(proposed.Time - commonAncestor.Time)
+-	antiGravity := ecbp11355AGSinusoidalA(x)
++	antiGravity := ecbp1100AGSinusoidalA(x)
+ 
+ 	if tdRatio < antiGravity {
+ 		// Using "b/a" here as "'B' chain vs. 'A' chain", where A is original (current), and B is proposed (new).
+ 		underpoweredBy := tdRatio / antiGravity
+-		return fmt.Errorf("%w: ECPB11355-MESS: td.B/A%0.6f < antigravity%0.6f (under=%0.6f)", 
++		return fmt.Errorf("%w: ECPB1100-MESS: td.B/A%0.6f < antigravity%0.6f (under=%0.6f)", 
+ 			errReorgFinality, tdRatio, antiGravity, underpoweredBy)
+ 	}
+ 	return nil
+@@ -166,19 +166,19 @@ Bespoke previously considered exponential functions:
+ 
+ ```go
+ /*
+-ecbp11355AGExpB is an exponential function with x as a base (and rationalized exponent).
++ecbp1100AGExpB is an exponential function with x as a base (and rationalized exponent).
+ 
+ OPTION 2: Slightly slower takeoff, steeper eventual ascent
+ g(x)=x^(x*0.00002)
+ */
+-func ecbp11355AGExpB(x float64) (antiGravity float64) {
++func ecbp1100AGExpB(x float64) (antiGravity float64) {
+ 	return math.Pow(x, x*0.00002)
+ }
+ ```
+ 
+ ```go
+ /*
+-ecbp11355AGExpA is an exponential function with x as exponent.
++ecbp1100AGExpA is an exponential function with x as exponent.
+ 
+ This was (one of?) Buterin's "original" specs:
+ > 1.0001 ** (number of seconds between when S1 was received and when S2 was received)
+@@ -189,7 +189,7 @@ This was (one of?) Buterin's "original" specs:
+ OPTION 1 (Original ESS)
+ f(x)=1.0001^(x)
+ */
+-func ecbp11355AGExpA(x float64) (antiGravity float64) {
++func ecbp1100AGExpA(x float64) (antiGravity float64) {
+ 	return math.Pow(1.0001, x)
+ }
+ ```
