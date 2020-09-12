@@ -1,7 +1,7 @@
 {
-    "id": 3759560083,
-    "node_id": "MDE3OlJlbmFtZWRUaXRsZUV2ZW50Mzc1OTU2MDA4Mw==",
-    "url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/events/3759560083",
+    "id": 3759560705,
+    "node_id": "MDEyOkxhYmVsZWRFdmVudDM3NTk1NjA3MDU=",
+    "url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/events/3759560705",
     "actor": {
       "login": "q9f",
       "id": 58883403,
@@ -22,13 +22,13 @@
       "type": "User",
       "site_admin": false
     },
-    "event": "renamed",
+    "event": "labeled",
     "commit_id": null,
     "commit_url": null,
-    "created_at": "2020-09-12T17:09:24Z",
-    "rename": {
-      "from": "ECBP-11355: MESS proposal",
-      "to": "ECBP-1100: MESS proposal"
+    "created_at": "2020-09-12T17:10:08Z",
+    "label": {
+      "name": "editor: 1 needs review",
+      "color": "ffd92f"
     },
     "issue": {
       "url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/373",
