@@ -1,0 +1,68 @@
+{
+    "url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/373",
+    "repository_url": "https://api.github.com/repos/ethereumclassic/ECIPs",
+    "labels_url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/373/labels{/name}",
+    "comments_url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/373/comments",
+    "events_url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/373/events",
+    "html_url": "https://github.com/ethereumclassic/ECIPs/pull/373",
+    "id": 700270859,
+    "node_id": "MDExOlB1bGxSZXF1ZXN0NDg1OTMzMDIz",
+    "number": 373,
+    "title": "ECBP-11355: MESS proposal",
+    "user": {
+      "login": "meowsbits",
+      "id": 45600330,
+      "node_id": "MDQ6VXNlcjQ1NjAwMzMw",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/45600330?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/meowsbits",
+      "html_url": "https://github.com/meowsbits",
+      "followers_url": "https://api.github.com/users/meowsbits/followers",
+      "following_url": "https://api.github.com/users/meowsbits/following{/other_user}",
+      "gists_url": "https://api.github.com/users/meowsbits/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/meowsbits/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/meowsbits/subscriptions",
+      "organizations_url": "https://api.github.com/users/meowsbits/orgs",
+      "repos_url": "https://api.github.com/users/meowsbits/repos",
+      "events_url": "https://api.github.com/users/meowsbits/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/meowsbits/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "labels": [
+
+    ],
+    "state": "open",
+    "locked": false,
+    "assignee": null,
+    "assignees": [
+
+    ],
+    "milestone": null,
+    "comments": 0,
+    "created_at": "2020-09-12T15:14:24Z",
+    "updated_at": "2020-09-12T15:14:24Z",
+    "closed_at": null,
+    "author_association": "MEMBER",
+    "active_lock_reason": null,
+    "pull_request": {
+      "url": "https://api.github.com/repos/ethereumclassic/ECIPs/pulls/373",
+      "html_url": "https://github.com/ethereumclassic/ECIPs/pull/373",
+      "diff_url": "https://github.com/ethereumclassic/ECIPs/pull/373.diff",
+      "patch_url": "https://github.com/ethereumclassic/ECIPs/pull/373.patch"
+    },
+    "body": "Drafting a \"Best Practice\" proposal for implementing a \"Modified Exponential Subjective Scoring\" algorithm for use in chain acceptance arbitration.\r\n\r\nPlease excuse the arbitrary proposal number; I just wanted something firm that I could use when drafting the implementation in Core-Geth because it makes it easier to name things.",
+    "reactions": {
+      "url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/373/reactions",
+      "total_count": 0,
+      "+1": 0,
+      "-1": 0,
+      "laugh": 0,
+      "hooray": 0,
+      "confused": 0,
+      "heart": 0,
+      "rocket": 0,
+      "eyes": 0
+    },
+    "performed_via_github_app": null
+  }
