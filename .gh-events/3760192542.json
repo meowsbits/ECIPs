@@ -1,7 +1,7 @@
 {
-    "id": 3759560263,
-    "node_id": "MDE3OlJlbmFtZWRUaXRsZUV2ZW50Mzc1OTU2MDI2Mw==",
-    "url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/events/3759560263",
+    "id": 3760192542,
+    "node_id": "MDEyOkxhYmVsZWRFdmVudDM3NjAxOTI1NDI=",
+    "url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/events/3760192542",
     "actor": {
       "login": "q9f",
       "id": 58883403,
@@ -22,25 +22,25 @@
       "type": "User",
       "site_admin": false
     },
-    "event": "renamed",
+    "event": "labeled",
     "commit_id": null,
     "commit_url": null,
-    "created_at": "2020-09-12T17:09:40Z",
-    "rename": {
-      "from": "ECBP-1100: MESS proposal",
-      "to": "ECBP-1100: Modified Exponential Subjective Scoring"
+    "created_at": "2020-09-13T07:43:47Z",
+    "label": {
+      "name": "status: 1 draft",
+      "color": "d9d9d9"
     },
     "issue": {
-      "url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/373",
+      "url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/374",
       "repository_url": "https://api.github.com/repos/ethereumclassic/ECIPs",
-      "labels_url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/373/labels{/name}",
-      "comments_url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/373/comments",
-      "events_url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/373/events",
-      "html_url": "https://github.com/ethereumclassic/ECIPs/pull/373",
-      "id": 700270859,
-      "node_id": "MDExOlB1bGxSZXF1ZXN0NDg1OTMzMDIz",
-      "number": 373,
-      "title": "ECBP-1100: Modified Exponential Subjective Scoring",
+      "labels_url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/374/labels{/name}",
+      "comments_url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/374/comments",
+      "events_url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/374/events",
+      "html_url": "https://github.com/ethereumclassic/ECIPs/issues/374",
+      "id": 700314577,
+      "node_id": "MDU6SXNzdWU3MDAzMTQ1Nzc=",
+      "number": 374,
+      "title": "[Discussion] ECBP-1100: Modified Exponential Subjective Scoring",
       "user": {
         "login": "meowsbits",
         "id": 45600330,
@@ -62,15 +62,6 @@
         "site_admin": false
       },
       "labels": [
-        {
-          "id": 2281247217,
-          "node_id": "MDU6TGFiZWwyMjgxMjQ3MjE3",
-          "url": "https://api.github.com/repos/ethereumclassic/ECIPs/labels/editor:%201%20needs%20review",
-          "name": "editor: 1 needs review",
-          "color": "ffd92f",
-          "default": false,
-          "description": "This contribution needs a careful review."
-        },
         {
           "id": 1154785139,
           "node_id": "MDU6TGFiZWwxMTU0Nzg1MTM5",
@@ -98,18 +89,12 @@
       ],
       "milestone": null,
       "comments": 0,
-      "created_at": "2020-09-12T15:14:24Z",
-      "updated_at": "2020-09-12T18:11:59Z",
+      "created_at": "2020-09-12T17:34:14Z",
+      "updated_at": "2020-09-13T07:43:47Z",
       "closed_at": null,
       "author_association": "MEMBER",
       "active_lock_reason": null,
-      "pull_request": {
-        "url": "https://api.github.com/repos/ethereumclassic/ECIPs/pulls/373",
-        "html_url": "https://github.com/ethereumclassic/ECIPs/pull/373",
-        "diff_url": "https://github.com/ethereumclassic/ECIPs/pull/373.diff",
-        "patch_url": "https://github.com/ethereumclassic/ECIPs/pull/373.patch"
-      },
-      "body": "Drafting a \"Best Practice\" proposal for implementing a \"Modified Exponential Subjective Scoring\" algorithm for use in chain acceptance arbitration.\r\n\r\nView the document [rendered](https://github.com/meowsbits/ECIPs/blob/ecbp/mess/_specs/ecip-1100.md).\r\n\r\nDiscussion to: https://github.com/ethereumclassic/ECIPs/issues/374",
+      "body": "Discussion for https://github.com/ethereumclassic/ECIPs/pull/373.",
       "performed_via_github_app": null
     },
     "performed_via_github_app": null
