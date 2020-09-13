@@ -25,9 +25,9 @@
       "site_admin": false
     },
     "created_at": "2020-09-13T11:59:44Z",
-    "updated_at": "2020-09-13T11:59:44Z",
+    "updated_at": "2020-09-13T12:05:41Z",
     "author_association": "MEMBER",
-    "body": "maybe there is a need for a \"core principle best practice\" : \"given a reorg of unusual length; nodes should evaluate the  chain head they have currently with preference over the incoming chain with longer length or higher difficulty\"  This would cover PG, MESS, and possibly checkpointing.  \r\n\r\nYour node is your castle, defend it from reorgs how you like. But if you have no defence (mess or pg not active) your node is less secure and possibly on the wrong chain.\r\n\r\nAs long as the majority of nodes are suspicious of reorgs, the network is more  resistant to malicious reorgs",
+    "body": "Maybe there is a need for an overarching \"core principle / best practice\" : \"small reorgs are normal and healthy, large reorgs are suspicious. given a reorg of unusual length; nodes should evaluate the current chain head they have with preference over the incoming chain with longer length or higher difficulty\"  This would cover PG, MESS, and possibly checkpointing.\r\n\r\nYour node is your castle, defend it from reorgs how you like. But if you have no defence (mess or pg not active) your node is less secure and possibly on the wrong chain. I think it should be fine if the solutions eventually resolve at different rates, as long as they resolve on the same chain.\r\n\r\nAs long as the majority of nodes are suspicious of reorgs, the network is more  resistant to malicious reorgs",
     "reactions": {
       "url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/comments/691662459/reactions",
       "total_count": 0,
