@@ -1,0 +1,110 @@
+{
+    "id": 3762708897,
+    "node_id": "MDEyOkxhYmVsZWRFdmVudDM3NjI3MDg4OTc=",
+    "url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/events/3762708897",
+    "actor": {
+      "login": "q9f",
+      "id": 58883403,
+      "node_id": "MDQ6VXNlcjU4ODgzNDAz",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/58883403?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/q9f",
+      "html_url": "https://github.com/q9f",
+      "followers_url": "https://api.github.com/users/q9f/followers",
+      "following_url": "https://api.github.com/users/q9f/following{/other_user}",
+      "gists_url": "https://api.github.com/users/q9f/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/q9f/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/q9f/subscriptions",
+      "organizations_url": "https://api.github.com/users/q9f/orgs",
+      "repos_url": "https://api.github.com/users/q9f/repos",
+      "events_url": "https://api.github.com/users/q9f/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/q9f/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "event": "labeled",
+    "commit_id": null,
+    "commit_url": null,
+    "created_at": "2020-09-14T10:53:50Z",
+    "label": {
+      "name": "type: core",
+      "color": "fbb4ae"
+    },
+    "issue": {
+      "url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/366",
+      "repository_url": "https://api.github.com/repos/ethereumclassic/ECIPs",
+      "labels_url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/366/labels{/name}",
+      "comments_url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/366/comments",
+      "events_url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/366/events",
+      "html_url": "https://github.com/ethereumclassic/ECIPs/issues/366",
+      "id": 695346416,
+      "node_id": "MDU6SXNzdWU2OTUzNDY0MTY=",
+      "number": 366,
+      "title": "PRESENTATION - 51% Attack protection System Based on Bitcoin Merged Mining (ECIP-1096)",
+      "user": {
+        "login": "developerkevin",
+        "id": 29807183,
+        "node_id": "MDQ6VXNlcjI5ODA3MTgz",
+        "avatar_url": "https://avatars2.githubusercontent.com/u/29807183?v=4",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/developerkevin",
+        "html_url": "https://github.com/developerkevin",
+        "followers_url": "https://api.github.com/users/developerkevin/followers",
+        "following_url": "https://api.github.com/users/developerkevin/following{/other_user}",
+        "gists_url": "https://api.github.com/users/developerkevin/gists{/gist_id}",
+        "starred_url": "https://api.github.com/users/developerkevin/starred{/owner}{/repo}",
+        "subscriptions_url": "https://api.github.com/users/developerkevin/subscriptions",
+        "organizations_url": "https://api.github.com/users/developerkevin/orgs",
+        "repos_url": "https://api.github.com/users/developerkevin/repos",
+        "events_url": "https://api.github.com/users/developerkevin/events{/privacy}",
+        "received_events_url": "https://api.github.com/users/developerkevin/received_events",
+        "type": "User",
+        "site_admin": false
+      },
+      "labels": [
+        {
+          "id": 2347167831,
+          "node_id": "MDU6TGFiZWwyMzQ3MTY3ODMx",
+          "url": "https://api.github.com/repos/ethereumclassic/ECIPs/labels/meta:%20call",
+          "name": "meta: call",
+          "color": "5959bf",
+          "default": false,
+          "description": ""
+        },
+        {
+          "id": 1154785139,
+          "node_id": "MDU6TGFiZWwxMTU0Nzg1MTM5",
+          "url": "https://api.github.com/repos/ethereumclassic/ECIPs/labels/status:%201%20draft",
+          "name": "status: 1 draft",
+          "color": "d9d9d9",
+          "default": false,
+          "description": "ECIP is in draft stage an can be assigned ECIP number and merged, but requires community consensus."
+        },
+        {
+          "id": 1154785127,
+          "node_id": "MDU6TGFiZWwxMTU0Nzg1MTI3",
+          "url": "https://api.github.com/repos/ethereumclassic/ECIPs/labels/type:%20core",
+          "name": "type: core",
+          "color": "fbb4ae",
+          "default": false,
+          "description": "ECIPs of the type \"Core\" - changing the Classic protocol."
+        }
+      ],
+      "state": "open",
+      "locked": false,
+      "assignee": null,
+      "assignees": [
+
+      ],
+      "milestone": null,
+      "comments": 0,
+      "created_at": "2020-09-07T19:09:27Z",
+      "updated_at": "2020-09-14T10:53:50Z",
+      "closed_at": null,
+      "author_association": "MEMBER",
+      "active_lock_reason": null,
+      "body": "## 51% Attack protection system based on Bitcoin Merged Mining\r\n\r\n### Presentation by Sergio Lerner and Martin Medina\r\n\r\n- When: Monday - Sep. 14, 2020 - 2PM UTC, 7AM PST, 10AM EST\r\n\r\n- Where: Crowdcast (crowdcast.io/e/mqongnrs) \r\n\r\n- Presenter(s)\r\n  - Sergio Lerner @SergioDemianLerner \r\n  - Martin Medina @martinmedina \r\n  - Both of @rsksmart \r\n\r\n### Abstract\r\n  - Sergio and Martin will provide a presentation on ECIP-1096 #344 their ETC specific solution to the ongoing double spend attacks on the network, and close with a short Q&A session.  \r\n\r\n### Motivation\r\n  - Ongoing 51% and double spend attacks on the ETC network lead them to create this proposal. The goal of this presentation is to properly educate ETC stakeholders about their proposal and provide a degree of understanding.\r\n\r\n### Agenda\r\n  - Sergio and Martin will provide a 30 minute, presentation regarding their proposal #344 , explaining how it works, and was tailored specifically for the ETC network. The goal of this presentation is to simply to provide a degree of understanding to ETC stakeholders, not to debate. After the initial presentation, they'll close with a 15 minute Q&A.\r\n\r\nWe encourage all parties, especially other ECIP authors, to participate and ask questions.",
+      "performed_via_github_app": null
+    },
+    "performed_via_github_app": null
+  }

@@ -1,0 +1,101 @@
+{
+    "id": 3762709721,
+    "node_id": "MDEyOkxhYmVsZWRFdmVudDM3NjI3MDk3MjE=",
+    "url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/events/3762709721",
+    "actor": {
+      "login": "q9f",
+      "id": 58883403,
+      "node_id": "MDQ6VXNlcjU4ODgzNDAz",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/58883403?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/q9f",
+      "html_url": "https://github.com/q9f",
+      "followers_url": "https://api.github.com/users/q9f/followers",
+      "following_url": "https://api.github.com/users/q9f/following{/other_user}",
+      "gists_url": "https://api.github.com/users/q9f/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/q9f/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/q9f/subscriptions",
+      "organizations_url": "https://api.github.com/users/q9f/orgs",
+      "repos_url": "https://api.github.com/users/q9f/repos",
+      "events_url": "https://api.github.com/users/q9f/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/q9f/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "event": "labeled",
+    "commit_id": null,
+    "commit_url": null,
+    "created_at": "2020-09-14T10:54:03Z",
+    "label": {
+      "name": "meta: call",
+      "color": "5959bf"
+    },
+    "issue": {
+      "url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/362",
+      "repository_url": "https://api.github.com/repos/ethereumclassic/ECIPs",
+      "labels_url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/362/labels{/name}",
+      "comments_url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/362/comments",
+      "events_url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/362/events",
+      "html_url": "https://github.com/ethereumclassic/ECIPs/issues/362",
+      "id": 691943717,
+      "node_id": "MDU6SXNzdWU2OTE5NDM3MTc=",
+      "number": 362,
+      "title": "ETC Core Devs Call 13 & 14",
+      "user": {
+        "login": "q9f",
+        "id": 58883403,
+        "node_id": "MDQ6VXNlcjU4ODgzNDAz",
+        "avatar_url": "https://avatars1.githubusercontent.com/u/58883403?v=4",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/q9f",
+        "html_url": "https://github.com/q9f",
+        "followers_url": "https://api.github.com/users/q9f/followers",
+        "following_url": "https://api.github.com/users/q9f/following{/other_user}",
+        "gists_url": "https://api.github.com/users/q9f/gists{/gist_id}",
+        "starred_url": "https://api.github.com/users/q9f/starred{/owner}{/repo}",
+        "subscriptions_url": "https://api.github.com/users/q9f/subscriptions",
+        "organizations_url": "https://api.github.com/users/q9f/orgs",
+        "repos_url": "https://api.github.com/users/q9f/repos",
+        "events_url": "https://api.github.com/users/q9f/events{/privacy}",
+        "received_events_url": "https://api.github.com/users/q9f/received_events",
+        "type": "User",
+        "site_admin": false
+      },
+      "labels": [
+        {
+          "id": 2347167831,
+          "node_id": "MDU6TGFiZWwyMzQ3MTY3ODMx",
+          "url": "https://api.github.com/repos/ethereumclassic/ECIPs/labels/meta:%20call",
+          "name": "meta: call",
+          "color": "5959bf",
+          "default": false,
+          "description": ""
+        },
+        {
+          "id": 2347169149,
+          "node_id": "MDU6TGFiZWwyMzQ3MTY5MTQ5",
+          "url": "https://api.github.com/repos/ethereumclassic/ECIPs/labels/meta:%20governance",
+          "name": "meta: governance",
+          "color": "f27f04",
+          "default": false,
+          "description": ""
+        }
+      ],
+      "state": "open",
+      "locked": false,
+      "assignee": null,
+      "assignees": [
+
+      ],
+      "milestone": null,
+      "comments": 31,
+      "created_at": "2020-09-03T12:51:09Z",
+      "updated_at": "2020-09-14T10:54:27Z",
+      "closed_at": null,
+      "author_association": "CONTRIBUTOR",
+      "active_lock_reason": null,
+      "body": "\r\n# ETC Core Devs Call 14\r\n* When: **Friday, September 25, 2020, 4pm UTC,** 90 minutes max\r\n* Where: Jitsi link will be published ahead of the call.\r\n* Focus: Mining Algorithm, Last-Call Proposals, and other 51%-Attack Solutions.\r\n\r\n### Agenda\r\n* 51% Proposals\r\n    * ECIP 1092 PIRLGUARD (Draft)\r\n    * ECIP 1100 Modified Exponential Subjective Scoring (Draft)\r\n* Last-Call Proposals\r\n    * ECIP 1049 KECCAK256 (Last Call)\r\n    * ECIP 1099 Calibrate Epoch Duration (Last Call)\r\n\r\n_Please post all relevant proposals below that should be discussed and evaluated._\r\n\r\n# ETC Core Devs Call 13\r\n* When: **Friday, September 11, 2020, 4pm UTC,** 90 minutes max\r\n* Where: Jitsi \r\n  * Web/App [ETCCoreDevsCall13](https://meet.jit.si/ETCCoreDevsCall13#config.startWithVideoMuted=true&config.startVideoMuted=true)\r\n  * Dial in PIN `1401 7587 98` for [ETCCoreDevsCall13](https://meet.jit.si/static/dialInInfo.html?room=ETCCoreDevsCall13) numbers\r\n* Focus: Mining Algorithm, Last-Call Proposals\r\n\r\n### Agenda\r\n* ECIP 1043 Fixed Dag Size Restriction (Last Call)\r\n* ECIP 1099 Calibrate Epoch Duration (Draft, alternative to 1043)\r\n* ECIP 1049 KECCAK256 (Last Call)\r\n* ECIP 1095 SHA3-256 (Last Call, alternative to 1049)\r\n\r\nAudio recording: https://www.youtube.com/watch?v=9r_q_z81eh4\r\n",
+      "performed_via_github_app": null
+    },
+    "performed_via_github_app": null
+  }
