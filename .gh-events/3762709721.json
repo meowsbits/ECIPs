@@ -63,20 +63,20 @@
       },
       "labels": [
         {
-          "id": 2347167831,
-          "node_id": "MDU6TGFiZWwyMzQ3MTY3ODMx",
-          "url": "https://api.github.com/repos/ethereumclassic/ECIPs/labels/meta:%20call",
-          "name": "meta: call",
-          "color": "5959bf",
+          "id": 2347169149,
+          "node_id": "MDU6TGFiZWwyMzQ3MTY5MTQ5",
+          "url": "https://api.github.com/repos/ethereumclassic/ECIPs/labels/meta:%201%20governance",
+          "name": "meta: 1 governance",
+          "color": "f27f04",
           "default": false,
           "description": ""
         },
         {
-          "id": 2347169149,
-          "node_id": "MDU6TGFiZWwyMzQ3MTY5MTQ5",
-          "url": "https://api.github.com/repos/ethereumclassic/ECIPs/labels/meta:%20governance",
-          "name": "meta: governance",
-          "color": "f27f04",
+          "id": 2347167831,
+          "node_id": "MDU6TGFiZWwyMzQ3MTY3ODMx",
+          "url": "https://api.github.com/repos/ethereumclassic/ECIPs/labels/meta:%203%20call",
+          "name": "meta: 3 call",
+          "color": "5959bf",
           "default": false,
           "description": ""
         }
