@@ -12,7 +12,7 @@ Subject: [PATCH] Update and rename ecip-X.md to ecip-1090
 
 diff --git a/ecip-1090 b/ecip-1090
 new file mode 100644
-index 00000000..8f99b7e7
+index 000000000..8f99b7e7a
 --- /dev/null
 +++ b/ecip-1090
 @@ -0,0 +1,27 @@
@@ -45,7 +45,7 @@ index 00000000..8f99b7e7
 +### Copyright/Licensing
 diff --git a/ecip-X.md b/ecip-X.md
 deleted file mode 100644
-index 6126f0b9..00000000
+index 6126f0b97..000000000
 --- a/ecip-X.md
 +++ /dev/null
 @@ -1,27 +0,0 @@

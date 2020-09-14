@@ -1,0 +1,39 @@
+{
+    "id": 487664990,
+    "node_id": "MDE3OlB1bGxSZXF1ZXN0UmV2aWV3NDg3NjY0OTkw",
+    "user": {
+      "login": "iquidus",
+      "id": 1858594,
+      "node_id": "MDQ6VXNlcjE4NTg1OTQ=",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/1858594?u=adc2f9b1692123f95e74ab692abbed551e2608d9&v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/iquidus",
+      "html_url": "https://github.com/iquidus",
+      "followers_url": "https://api.github.com/users/iquidus/followers",
+      "following_url": "https://api.github.com/users/iquidus/following{/other_user}",
+      "gists_url": "https://api.github.com/users/iquidus/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/iquidus/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/iquidus/subscriptions",
+      "organizations_url": "https://api.github.com/users/iquidus/orgs",
+      "repos_url": "https://api.github.com/users/iquidus/repos",
+      "events_url": "https://api.github.com/users/iquidus/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/iquidus/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "body": "LGTM",
+    "state": "APPROVED",
+    "html_url": "https://github.com/ethereumclassic/ECIPs/pull/371#pullrequestreview-487664990",
+    "pull_request_url": "https://api.github.com/repos/ethereumclassic/ECIPs/pulls/371",
+    "author_association": "CONTRIBUTOR",
+    "_links": {
+      "html": {
+        "href": "https://github.com/ethereumclassic/ECIPs/pull/371#pullrequestreview-487664990"
+      },
+      "pull_request": {
+        "href": "https://api.github.com/repos/ethereumclassic/ECIPs/pulls/371"
+      }
+    },
+    "submitted_at": "2020-09-14T11:34:49Z",
+    "commit_id": "55eca38889c08fa2aebdcf673c2e8922ba226716"
+  }

@@ -30,7 +30,15 @@
       "site_admin": false
     },
     "labels": [
-
+      {
+        "id": 2347222007,
+        "node_id": "MDU6TGFiZWwyMzQ3MjIyMDA3",
+        "url": "https://api.github.com/repos/ethereumclassic/ECIPs/labels/meta:7%20website",
+        "name": "meta:7 website",
+        "color": "e7d4e8",
+        "default": false,
+        "description": "Issues around the ECIPs website."
+      }
     ],
     "state": "closed",
     "locked": false,
@@ -41,9 +49,10 @@
     "milestone": null,
     "comments": 3,
     "created_at": "2020-02-26T20:15:14Z",
-    "updated_at": "2020-02-28T12:42:19Z",
+    "updated_at": "2020-09-14T11:36:10Z",
     "closed_at": "2020-02-28T11:35:33Z",
     "author_association": "MEMBER",
+    "active_lock_reason": null,
     "body": "Let me know, what do you think about this ... :\r\n![ETC Phoenix v1](https://user-images.githubusercontent.com/48069525/75383626-fd10af80-58dc-11ea-9324-1fc8554e0e03.png)\r\n",
     "reactions": {
       "url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/303/reactions",
@@ -56,5 +65,6 @@
       "heart": 0,
       "rocket": 0,
       "eyes": 0
-    }
+    },
+    "performed_via_github_app": null
   }

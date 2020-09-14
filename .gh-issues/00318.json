@@ -30,7 +30,15 @@
       "site_admin": false
     },
     "labels": [
-
+      {
+        "id": 2347165090,
+        "node_id": "MDU6TGFiZWwyMzQ3MTY1MDkw",
+        "url": "https://api.github.com/repos/ethereumclassic/ECIPs/labels/editor:3%20duplicate",
+        "name": "editor:3 duplicate",
+        "color": "fee08b",
+        "default": false,
+        "description": "This contribution is a duplicate."
+      }
     ],
     "state": "closed",
     "locked": false,
@@ -41,9 +49,10 @@
     "milestone": null,
     "comments": 1,
     "created_at": "2020-04-12T19:00:03Z",
-    "updated_at": "2020-04-13T17:42:07Z",
+    "updated_at": "2020-09-14T11:35:23Z",
     "closed_at": "2020-04-13T17:42:07Z",
     "author_association": "MEMBER",
+    "active_lock_reason": null,
     "body": "Can someone please introduce an evidence - e.g. calc table - for the calculation of the hard cap of ~231mln as noted here:\r\n![image](https://user-images.githubusercontent.com/48069525/79077177-c4e3f580-7cff-11ea-8060-de3db708a297.png)\r\nhttps://ecips.ethereumclassic.org/ECIPs/ecip-1017\r\n\r\nI am asking, because this information is circulating without an evidence in the internet.\r\n\r\nThank you.",
     "reactions": {
       "url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/318/reactions",
@@ -56,5 +65,6 @@
       "heart": 0,
       "rocket": 0,
       "eyes": 0
-    }
+    },
+    "performed_via_github_app": null
   }

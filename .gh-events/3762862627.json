@@ -1,7 +1,7 @@
 {
-    "id": 3443749027,
-    "node_id": "MDE0Ok1lbnRpb25lZEV2ZW50MzQ0Mzc0OTAyNw==",
-    "url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/events/3443749027",
+    "id": 3762862627,
+    "node_id": "MDEyOkxhYmVsZWRFdmVudDM3NjI4NjI2Mjc=",
+    "url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/events/3762862627",
     "actor": {
       "login": "q9f",
       "id": 58883403,
@@ -22,20 +22,24 @@
       "type": "User",
       "site_admin": false
     },
-    "event": "mentioned",
+    "event": "labeled",
     "commit_id": null,
     "commit_url": null,
-    "created_at": "2020-06-15T10:34:34Z",
+    "created_at": "2020-09-14T11:35:55Z",
+    "label": {
+      "name": "status:0 wip",
+      "color": "f0f0f0"
+    },
     "issue": {
-      "url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/317",
+      "url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/316",
       "repository_url": "https://api.github.com/repos/ethereumclassic/ECIPs",
-      "labels_url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/317/labels{/name}",
-      "comments_url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/317/comments",
-      "events_url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/317/events",
-      "html_url": "https://github.com/ethereumclassic/ECIPs/issues/317",
-      "id": 594585526,
-      "node_id": "MDU6SXNzdWU1OTQ1ODU1MjY=",
-      "number": 317,
+      "labels_url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/316/labels{/name}",
+      "comments_url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/316/comments",
+      "events_url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/316/events",
+      "html_url": "https://github.com/ethereumclassic/ECIPs/pull/316",
+      "id": 594579459,
+      "node_id": "MDExOlB1bGxSZXF1ZXN0Mzk5MTg4NTc1",
+      "number": 316,
       "title": "CHAINID=0 ; ECIP-1090",
       "user": {
         "login": "MGiuseppi",
@@ -59,13 +63,31 @@
       },
       "labels": [
         {
-          "id": 1705353570,
-          "node_id": "MDU6TGFiZWwxNzA1MzUzNTcw",
-          "url": "https://api.github.com/repos/ethereumclassic/ECIPs/labels/editor:0%20invalid",
-          "name": "editor:0 invalid",
-          "color": "d73027",
+          "id": 1488234618,
+          "node_id": "MDU6TGFiZWwxNDg4MjM0NjE4",
+          "url": "https://api.github.com/repos/ethereumclassic/ECIPs/labels/editor:1%20grumble",
+          "name": "editor:1 grumble",
+          "color": "f46d43",
           "default": false,
-          "description": "This contribution has major issues."
+          "description": "This contribution has minor issues that should be addressed."
+        },
+        {
+          "id": 1658195407,
+          "node_id": "MDU6TGFiZWwxNjU4MTk1NDA3",
+          "url": "https://api.github.com/repos/ethereumclassic/ECIPs/labels/status:0%20wip",
+          "name": "status:0 wip",
+          "color": "f0f0f0",
+          "default": false,
+          "description": "ECIP is still work in progress and shall not be merged."
+        },
+        {
+          "id": 1154785127,
+          "node_id": "MDU6TGFiZWwxMTU0Nzg1MTI3",
+          "url": "https://api.github.com/repos/ethereumclassic/ECIPs/labels/type:%20std-core",
+          "name": "type: std-core",
+          "color": "fdcdac",
+          "default": false,
+          "description": "ECIPs of the type \"Core\" - changing the Classic protocol."
         }
       ],
       "state": "closed",
@@ -75,13 +97,19 @@
 
       ],
       "milestone": null,
-      "comments": 12,
-      "created_at": "2020-04-05T18:22:26Z",
-      "updated_at": "2020-09-14T11:35:37Z",
-      "closed_at": "2020-08-12T12:23:01Z",
+      "comments": 1,
+      "created_at": "2020-04-05T17:58:50Z",
+      "updated_at": "2020-09-14T11:35:55Z",
+      "closed_at": "2020-08-12T12:15:38Z",
       "author_association": "NONE",
       "active_lock_reason": null,
-      "body": "Use CHAINID=0",
+      "pull_request": {
+        "url": "https://api.github.com/repos/ethereumclassic/ECIPs/pulls/316",
+        "html_url": "https://github.com/ethereumclassic/ECIPs/pull/316",
+        "diff_url": "https://github.com/ethereumclassic/ECIPs/pull/316.diff",
+        "patch_url": "https://github.com/ethereumclassic/ECIPs/pull/316.patch"
+      },
+      "body": "",
       "performed_via_github_app": null
     },
     "performed_via_github_app": null
