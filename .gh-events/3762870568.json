@@ -1,0 +1,92 @@
+{
+    "id": 3762870568,
+    "node_id": "MDEyOkxhYmVsZWRFdmVudDM3NjI4NzA1Njg=",
+    "url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/events/3762870568",
+    "actor": {
+      "login": "q9f",
+      "id": 58883403,
+      "node_id": "MDQ6VXNlcjU4ODgzNDAz",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/58883403?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/q9f",
+      "html_url": "https://github.com/q9f",
+      "followers_url": "https://api.github.com/users/q9f/followers",
+      "following_url": "https://api.github.com/users/q9f/following{/other_user}",
+      "gists_url": "https://api.github.com/users/q9f/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/q9f/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/q9f/subscriptions",
+      "organizations_url": "https://api.github.com/users/q9f/orgs",
+      "repos_url": "https://api.github.com/users/q9f/repos",
+      "events_url": "https://api.github.com/users/q9f/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/q9f/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "event": "labeled",
+    "commit_id": null,
+    "commit_url": null,
+    "created_at": "2020-09-14T11:38:21Z",
+    "label": {
+      "name": "meta:3 process",
+      "color": "9970ab"
+    },
+    "issue": {
+      "url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/273",
+      "repository_url": "https://api.github.com/repos/ethereumclassic/ECIPs",
+      "labels_url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/273/labels{/name}",
+      "comments_url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/273/comments",
+      "events_url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/273/events",
+      "html_url": "https://github.com/ethereumclassic/ECIPs/issues/273",
+      "id": 552464455,
+      "node_id": "MDU6SXNzdWU1NTI0NjQ0NTU=",
+      "number": 273,
+      "title": "Proposal for owner, member, editor, & author removal",
+      "user": {
+        "login": "TokenHash",
+        "id": 29529586,
+        "node_id": "MDQ6VXNlcjI5NTI5NTg2",
+        "avatar_url": "https://avatars1.githubusercontent.com/u/29529586?v=4",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/TokenHash",
+        "html_url": "https://github.com/TokenHash",
+        "followers_url": "https://api.github.com/users/TokenHash/followers",
+        "following_url": "https://api.github.com/users/TokenHash/following{/other_user}",
+        "gists_url": "https://api.github.com/users/TokenHash/gists{/gist_id}",
+        "starred_url": "https://api.github.com/users/TokenHash/starred{/owner}{/repo}",
+        "subscriptions_url": "https://api.github.com/users/TokenHash/subscriptions",
+        "organizations_url": "https://api.github.com/users/TokenHash/orgs",
+        "repos_url": "https://api.github.com/users/TokenHash/repos",
+        "events_url": "https://api.github.com/users/TokenHash/events{/privacy}",
+        "received_events_url": "https://api.github.com/users/TokenHash/received_events",
+        "type": "User",
+        "site_admin": false
+      },
+      "labels": [
+        {
+          "id": 2347243041,
+          "node_id": "MDU6TGFiZWwyMzQ3MjQzMDQx",
+          "url": "https://api.github.com/repos/ethereumclassic/ECIPs/labels/meta:3%20process",
+          "name": "meta:3 process",
+          "color": "9970ab",
+          "default": false,
+          "description": ""
+        }
+      ],
+      "state": "closed",
+      "locked": false,
+      "assignee": null,
+      "assignees": [
+
+      ],
+      "milestone": null,
+      "comments": 7,
+      "created_at": "2020-01-20T19:03:41Z",
+      "updated_at": "2020-09-14T11:38:21Z",
+      "closed_at": "2020-02-05T17:12:40Z",
+      "author_association": "CONTRIBUTOR",
+      "active_lock_reason": null,
+      "body": "This is the discussion page for the proposal to remove Wei Tang from internal functions in this ETC repo.",
+      "performed_via_github_app": null
+    },
+    "performed_via_github_app": null
+  }

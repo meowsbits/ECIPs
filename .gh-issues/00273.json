@@ -30,7 +30,15 @@
       "site_admin": false
     },
     "labels": [
-
+      {
+        "id": 2347243041,
+        "node_id": "MDU6TGFiZWwyMzQ3MjQzMDQx",
+        "url": "https://api.github.com/repos/ethereumclassic/ECIPs/labels/meta:3%20process",
+        "name": "meta:3 process",
+        "color": "9970ab",
+        "default": false,
+        "description": ""
+      }
     ],
     "state": "closed",
     "locked": false,
@@ -41,9 +49,10 @@
     "milestone": null,
     "comments": 7,
     "created_at": "2020-01-20T19:03:41Z",
-    "updated_at": "2020-02-05T17:12:40Z",
+    "updated_at": "2020-09-14T11:38:21Z",
     "closed_at": "2020-02-05T17:12:40Z",
     "author_association": "CONTRIBUTOR",
+    "active_lock_reason": null,
     "body": "This is the discussion page for the proposal to remove Wei Tang from internal functions in this ETC repo.",
     "reactions": {
       "url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/273/reactions",
@@ -56,5 +65,6 @@
       "heart": 0,
       "rocket": 0,
       "eyes": 0
-    }
+    },
+    "performed_via_github_app": null
   }

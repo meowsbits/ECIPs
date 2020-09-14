@@ -58,7 +58,15 @@
         "site_admin": false
       },
       "labels": [
-
+        {
+          "id": 2347243041,
+          "node_id": "MDU6TGFiZWwyMzQ3MjQzMDQx",
+          "url": "https://api.github.com/repos/ethereumclassic/ECIPs/labels/meta:3%20process",
+          "name": "meta:3 process",
+          "color": "9970ab",
+          "default": false,
+          "description": ""
+        }
       ],
       "state": "closed",
       "locked": false,
@@ -69,7 +77,7 @@
       "milestone": null,
       "comments": 7,
       "created_at": "2020-01-20T19:03:41Z",
-      "updated_at": "2020-02-05T17:12:40Z",
+      "updated_at": "2020-09-14T11:38:21Z",
       "closed_at": "2020-02-05T17:12:40Z",
       "author_association": "CONTRIBUTOR",
       "active_lock_reason": null,

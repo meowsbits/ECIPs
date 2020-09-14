@@ -29,5 +29,6 @@
     "rename": {
       "from": "Add a https://ethereumclassic/status page",
       "to": "Add an ethereumclassic.org/status page"
-    }
+    },
+    "performed_via_github_app": null
   }
