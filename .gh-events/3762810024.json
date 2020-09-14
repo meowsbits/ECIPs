@@ -1,0 +1,92 @@
+{
+    "id": 3762810024,
+    "node_id": "MDEyOkxhYmVsZWRFdmVudDM3NjI4MTAwMjQ=",
+    "url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/events/3762810024",
+    "actor": {
+      "login": "q9f",
+      "id": 58883403,
+      "node_id": "MDQ6VXNlcjU4ODgzNDAz",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/58883403?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/q9f",
+      "html_url": "https://github.com/q9f",
+      "followers_url": "https://api.github.com/users/q9f/followers",
+      "following_url": "https://api.github.com/users/q9f/following{/other_user}",
+      "gists_url": "https://api.github.com/users/q9f/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/q9f/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/q9f/subscriptions",
+      "organizations_url": "https://api.github.com/users/q9f/orgs",
+      "repos_url": "https://api.github.com/users/q9f/repos",
+      "events_url": "https://api.github.com/users/q9f/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/q9f/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "event": "labeled",
+    "commit_id": null,
+    "commit_url": null,
+    "created_at": "2020-09-14T11:21:14Z",
+    "label": {
+      "name": "meta: 3 call",
+      "color": "e7d4e8"
+    },
+    "issue": {
+      "url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/324",
+      "repository_url": "https://api.github.com/repos/ethereumclassic/ECIPs",
+      "labels_url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/324/labels{/name}",
+      "comments_url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/324/comments",
+      "events_url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/324/events",
+      "html_url": "https://github.com/ethereumclassic/ECIPs/issues/324",
+      "id": 636615521,
+      "node_id": "MDU6SXNzdWU2MzY2MTU1MjE=",
+      "number": 324,
+      "title": "Phoenix Hard-Fork Debrief Meeting",
+      "user": {
+        "login": "stevanlohja",
+        "id": 10556209,
+        "node_id": "MDQ6VXNlcjEwNTU2MjA5",
+        "avatar_url": "https://avatars3.githubusercontent.com/u/10556209?v=4",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/stevanlohja",
+        "html_url": "https://github.com/stevanlohja",
+        "followers_url": "https://api.github.com/users/stevanlohja/followers",
+        "following_url": "https://api.github.com/users/stevanlohja/following{/other_user}",
+        "gists_url": "https://api.github.com/users/stevanlohja/gists{/gist_id}",
+        "starred_url": "https://api.github.com/users/stevanlohja/starred{/owner}{/repo}",
+        "subscriptions_url": "https://api.github.com/users/stevanlohja/subscriptions",
+        "organizations_url": "https://api.github.com/users/stevanlohja/orgs",
+        "repos_url": "https://api.github.com/users/stevanlohja/repos",
+        "events_url": "https://api.github.com/users/stevanlohja/events{/privacy}",
+        "received_events_url": "https://api.github.com/users/stevanlohja/received_events",
+        "type": "User",
+        "site_admin": false
+      },
+      "labels": [
+        {
+          "id": 2347167831,
+          "node_id": "MDU6TGFiZWwyMzQ3MTY3ODMx",
+          "url": "https://api.github.com/repos/ethereumclassic/ECIPs/labels/meta:3%20call",
+          "name": "meta:3 call",
+          "color": "c2a5cf",
+          "default": false,
+          "description": "Issues announcing physical or virtual meetings."
+        }
+      ],
+      "state": "closed",
+      "locked": false,
+      "assignee": null,
+      "assignees": [
+
+      ],
+      "milestone": null,
+      "comments": 3,
+      "created_at": "2020-06-10T23:45:29Z",
+      "updated_at": "2020-09-14T11:21:14Z",
+      "closed_at": "2020-07-23T09:48:00Z",
+      "author_association": "MEMBER",
+      "active_lock_reason": null,
+      "body": "# Phoenix Hard-Fork Debrief Meeting\r\n\r\nThe Phoenix hard-fork was successful so let's talk about it! This meeting is to have a reconciliation of the hard-fork. **If you participated in preparing/ and or coordinating Phoenix, then please join!**\r\n\r\n### Location, Date, and Time\r\n\r\n_The location, date, and time of this meeting is to be determined._\r\n\r\n### Agenda:\r\n\r\n- What were we trying to accomplish?\r\n- Where did we hit (or miss) our objectives?\r\n- What caused our results?\r\n- What should we start, stop, or continue doing?\r\n- Anything else...\r\n\r\n### Disclaimer\r\n\r\nThe meeting will be recorded and published on YouTube.\r\n",
+      "performed_via_github_app": null
+    },
+    "performed_via_github_app": null
+  }

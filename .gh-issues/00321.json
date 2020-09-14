@@ -30,7 +30,15 @@
       "site_admin": false
     },
     "labels": [
-
+      {
+        "id": 2347167831,
+        "node_id": "MDU6TGFiZWwyMzQ3MTY3ODMx",
+        "url": "https://api.github.com/repos/ethereumclassic/ECIPs/labels/meta:%203%20call",
+        "name": "meta: 3 call",
+        "color": "e7d4e8",
+        "default": false,
+        "description": "Issues announcing physical or virtual meetings."
+      }
     ],
     "state": "closed",
     "locked": false,
@@ -41,9 +49,9 @@
     "milestone": null,
     "comments": 3,
     "created_at": "2020-05-25T12:04:36Z",
-    "updated_at": "2020-06-15T13:26:06Z",
+    "updated_at": "2020-09-14T11:21:23Z",
     "closed_at": "2020-06-15T13:26:06Z",
-    "author_association": "CONTRIBUTOR",
+    "author_association": "MEMBER",
     "active_lock_reason": null,
     "body": "ref #299 [ECIP-1088](https://github.com/ethereumclassic/ECIPs/blob/master/_specs/ecip-1088.md)\r\n\r\n### Informal Call \"Phoenix Upgrade and Chill\"\r\n\r\nWhen: **Monday, June 1st, 2020, 12~1am UTC**, around fork time. _Check the count-down below for accurate last-minute timing!_\r\n\r\n* Count-Down: https://etcnodes.org/phoenix\r\n* Fork-Monitor: https://phoenix.fault.dev\r\n* ETC-Status: http://etcstatus.live\r\n \r\nWhere: **Ethereum Classic Discord** https://discord.gg/dwxb6nf\r\n\r\n### Agenda\r\n* _None_ ;-)",
     "reactions": {
@@ -57,5 +65,6 @@
       "heart": 0,
       "rocket": 0,
       "eyes": 0
-    }
+    },
+    "performed_via_github_app": null
   }

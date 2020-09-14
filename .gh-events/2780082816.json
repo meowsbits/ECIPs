@@ -65,8 +65,8 @@
         {
           "id": 1154785127,
           "node_id": "MDU6TGFiZWwxMTU0Nzg1MTI3",
-          "url": "https://api.github.com/repos/ethereumclassic/ECIPs/labels/type:%20standard%20-%20core",
-          "name": "type: standard - core",
+          "url": "https://api.github.com/repos/ethereumclassic/ECIPs/labels/type:%20std-core",
+          "name": "type: std-core",
           "color": "fdcdac",
           "default": false,
           "description": "ECIPs of the type \"Core\" - changing the Classic protocol."

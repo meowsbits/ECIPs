@@ -61,8 +61,8 @@
         {
           "id": 1705353145,
           "node_id": "MDU6TGFiZWwxNzA1MzUzMTQ1",
-          "url": "https://api.github.com/repos/ethereumclassic/ECIPs/labels/status:%207%20withdrawn",
-          "name": "status: 7 withdrawn",
+          "url": "https://api.github.com/repos/ethereumclassic/ECIPs/labels/status:7%20withdrawn",
+          "name": "status:7 withdrawn",
           "color": "737373",
           "default": false,
           "description": "ECIP has been withdrawn by the author."

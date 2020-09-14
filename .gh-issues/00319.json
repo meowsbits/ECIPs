@@ -31,13 +31,13 @@
     },
     "labels": [
       {
-        "id": 1154785129,
-        "node_id": "MDU6TGFiZWwxMTU0Nzg1MTI5",
-        "url": "https://api.github.com/repos/ethereumclassic/ECIPs/labels/type:%20meta",
-        "name": "type: meta",
-        "color": "cfd3d7",
+        "id": 2347222007,
+        "node_id": "MDU6TGFiZWwyMzQ3MjIyMDA3",
+        "url": "https://api.github.com/repos/ethereumclassic/ECIPs/labels/meta:%205%20website",
+        "name": "meta: 5 website",
+        "color": "67ef7d",
         "default": false,
-        "description": "ECIPs of type \"Meta\" - bundling proposals for upgrades."
+        "description": ""
       }
     ],
     "state": "closed",
@@ -49,7 +49,7 @@
     "milestone": null,
     "comments": 1,
     "created_at": "2020-04-15T23:47:25Z",
-    "updated_at": "2020-08-17T08:43:23Z",
+    "updated_at": "2020-09-14T11:21:48Z",
     "closed_at": "2020-08-17T08:43:23Z",
     "author_association": "MEMBER",
     "active_lock_reason": null,

@@ -101,8 +101,8 @@
         {
           "id": 1702098127,
           "node_id": "MDU6TGFiZWwxNzAyMDk4MTI3",
-          "url": "https://api.github.com/repos/ethereumclassic/ECIPs/labels/status:%205%20last-call",
-          "name": "status: 5 last-call",
+          "url": "https://api.github.com/repos/ethereumclassic/ECIPs/labels/status:5%20last-call",
+          "name": "status:5 last-call",
           "color": "969696",
           "default": false,
           "description": "ECIP has been accepted and is waiting for last-call reviews."

@@ -65,11 +65,11 @@
         {
           "id": 1632883313,
           "node_id": "MDU6TGFiZWwxNjMyODgzMzEz",
-          "url": "https://api.github.com/repos/ethereumclassic/ECIPs/labels/meta:%209%20bot",
-          "name": "meta: 9 bot",
+          "url": "https://api.github.com/repos/ethereumclassic/ECIPs/labels/meta:9%20bot",
+          "name": "meta:9 bot",
           "color": "f7f7f7",
           "default": false,
-          "description": "Pull requests that update a dependency file"
+          "description": "Pull requests that update a dependency file."
         }
       ],
       "state": "closed",

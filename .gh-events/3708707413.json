@@ -61,8 +61,8 @@
         {
           "id": 2347165090,
           "node_id": "MDU6TGFiZWwyMzQ3MTY1MDkw",
-          "url": "https://api.github.com/repos/ethereumclassic/ECIPs/labels/editor:%203%20duplicate",
-          "name": "editor: 3 duplicate",
+          "url": "https://api.github.com/repos/ethereumclassic/ECIPs/labels/editor:3%20duplicate",
+          "name": "editor:3 duplicate",
           "color": "fee08b",
           "default": false,
           "description": "This contribution is a duplicate."

@@ -1,0 +1,92 @@
+{
+    "id": 3762810619,
+    "node_id": "MDEyOkxhYmVsZWRFdmVudDM3NjI4MTA2MTk=",
+    "url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/events/3762810619",
+    "actor": {
+      "login": "q9f",
+      "id": 58883403,
+      "node_id": "MDQ6VXNlcjU4ODgzNDAz",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/58883403?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/q9f",
+      "html_url": "https://github.com/q9f",
+      "followers_url": "https://api.github.com/users/q9f/followers",
+      "following_url": "https://api.github.com/users/q9f/following{/other_user}",
+      "gists_url": "https://api.github.com/users/q9f/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/q9f/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/q9f/subscriptions",
+      "organizations_url": "https://api.github.com/users/q9f/orgs",
+      "repos_url": "https://api.github.com/users/q9f/repos",
+      "events_url": "https://api.github.com/users/q9f/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/q9f/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "event": "labeled",
+    "commit_id": null,
+    "commit_url": null,
+    "created_at": "2020-09-14T11:21:23Z",
+    "label": {
+      "name": "meta: 3 call",
+      "color": "e7d4e8"
+    },
+    "issue": {
+      "url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/321",
+      "repository_url": "https://api.github.com/repos/ethereumclassic/ECIPs",
+      "labels_url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/321/labels{/name}",
+      "comments_url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/321/comments",
+      "events_url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/321/events",
+      "html_url": "https://github.com/ethereumclassic/ECIPs/issues/321",
+      "id": 624257585,
+      "node_id": "MDU6SXNzdWU2MjQyNTc1ODU=",
+      "number": 321,
+      "title": "Informal Call \"Phoenix Upgrade and Chill\"",
+      "user": {
+        "login": "q9f",
+        "id": 58883403,
+        "node_id": "MDQ6VXNlcjU4ODgzNDAz",
+        "avatar_url": "https://avatars1.githubusercontent.com/u/58883403?v=4",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/q9f",
+        "html_url": "https://github.com/q9f",
+        "followers_url": "https://api.github.com/users/q9f/followers",
+        "following_url": "https://api.github.com/users/q9f/following{/other_user}",
+        "gists_url": "https://api.github.com/users/q9f/gists{/gist_id}",
+        "starred_url": "https://api.github.com/users/q9f/starred{/owner}{/repo}",
+        "subscriptions_url": "https://api.github.com/users/q9f/subscriptions",
+        "organizations_url": "https://api.github.com/users/q9f/orgs",
+        "repos_url": "https://api.github.com/users/q9f/repos",
+        "events_url": "https://api.github.com/users/q9f/events{/privacy}",
+        "received_events_url": "https://api.github.com/users/q9f/received_events",
+        "type": "User",
+        "site_admin": false
+      },
+      "labels": [
+        {
+          "id": 2347167831,
+          "node_id": "MDU6TGFiZWwyMzQ3MTY3ODMx",
+          "url": "https://api.github.com/repos/ethereumclassic/ECIPs/labels/meta:3%20call",
+          "name": "meta:3 call",
+          "color": "c2a5cf",
+          "default": false,
+          "description": "Issues announcing physical or virtual meetings."
+        }
+      ],
+      "state": "closed",
+      "locked": false,
+      "assignee": null,
+      "assignees": [
+
+      ],
+      "milestone": null,
+      "comments": 3,
+      "created_at": "2020-05-25T12:04:36Z",
+      "updated_at": "2020-09-14T11:21:23Z",
+      "closed_at": "2020-06-15T13:26:06Z",
+      "author_association": "CONTRIBUTOR",
+      "active_lock_reason": null,
+      "body": "ref #299 [ECIP-1088](https://github.com/ethereumclassic/ECIPs/blob/master/_specs/ecip-1088.md)\r\n\r\n### Informal Call \"Phoenix Upgrade and Chill\"\r\n\r\nWhen: **Monday, June 1st, 2020, 12~1am UTC**, around fork time. _Check the count-down below for accurate last-minute timing!_\r\n\r\n* Count-Down: https://etcnodes.org/phoenix\r\n* Fork-Monitor: https://phoenix.fault.dev\r\n* ETC-Status: http://etcstatus.live\r\n \r\nWhere: **Ethereum Classic Discord** https://discord.gg/dwxb6nf\r\n\r\n### Agenda\r\n* _None_ ;-)",
+      "performed_via_github_app": null
+    },
+    "performed_via_github_app": null
+  }
