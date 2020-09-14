@@ -7,7 +7,7 @@
     "path": "_specs/ecip-11355.md",
     "position": null,
     "original_position": 6,
-    "commit_id": "88edfb08995ad878f3a155f3a92b47db112b1f38",
+    "commit_id": "7b06c04b0c5d0ffbbff7bdf4edfa762b750160fa",
     "user": {
       "login": "meowsbits",
       "id": 45600330,
@@ -30,7 +30,7 @@
     },
     "body": "https://github.com/ethereumclassic/ECIPs/pull/373/commits/b1984548ea34c1c692784b04ec5edadc26149258",
     "created_at": "2020-09-12T17:41:05Z",
-    "updated_at": "2020-09-12T17:41:06Z",
+    "updated_at": "2020-09-14T15:06:13Z",
     "html_url": "https://github.com/ethereumclassic/ECIPs/pull/373#discussion_r487431843",
     "pull_request_url": "https://api.github.com/repos/ethereumclassic/ECIPs/pulls/373",
     "author_association": "MEMBER",

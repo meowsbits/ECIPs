@@ -1,7 +1,7 @@
 From 7dd6d69e63a620a3b8c9074257c083c74104f35f Mon Sep 17 00:00:00 2001
 From: meows <b5c6@protonmail.com>
 Date: Sat, 12 Sep 2020 10:05:21 -0500
-Subject: [PATCH 1/4] ecbp-11355: initial draft of MESS proposal
+Subject: [PATCH 1/5] ecbp-11355: initial draft of MESS proposal
 
 Signed-off-by: meows <b5c6@protonmail.com>
 ---
@@ -224,7 +224,7 @@ index 000000000..a3bfd1c8e
 From 365ff94d26e7e9b5e85dd283bb9b1c067a3309e8 Mon Sep 17 00:00:00 2001
 From: meows <b5c6@protonmail.com>
 Date: Sat, 12 Sep 2020 10:30:28 -0500
-Subject: [PATCH 2/4] include core-geth implementation link
+Subject: [PATCH 2/5] include core-geth implementation link
 
 Signed-off-by: meows <b5c6@protonmail.com>
 ---
@@ -259,7 +259,7 @@ index a3bfd1c8e..7c2a6b4af 100644
 From b1984548ea34c1c692784b04ec5edadc26149258 Mon Sep 17 00:00:00 2001
 From: meows <b5c6@protonmail.com>
 Date: Sat, 12 Sep 2020 12:35:54 -0500
-Subject: [PATCH 3/4] rename ecbp11355->1100, include discussions-to link
+Subject: [PATCH 3/5] rename ecbp11355->1100, include discussions-to link
 
 Signed-off-by: meows <b5c6@protonmail.com>
 ---
@@ -290,7 +290,7 @@ index 7c2a6b4af..18989bb99 100644
 From 88edfb08995ad878f3a155f3a92b47db112b1f38 Mon Sep 17 00:00:00 2001
 From: meows <b5c6@protonmail.com>
 Date: Sat, 12 Sep 2020 12:37:22 -0500
-Subject: [PATCH 4/4] s/11355/1100/g
+Subject: [PATCH 4/5] s/11355/1100/g
 
 Signed-off-by: meows <b5c6@protonmail.com>
 ---
@@ -377,3 +377,44 @@ index 18989bb99..3f99cc877 100644
  	return math.Pow(1.0001, x)
  }
  ```
+
+From 7b06c04b0c5d0ffbbff7bdf4edfa762b750160fa Mon Sep 17 00:00:00 2001
+From: meows <b5c6@protonmail.com>
+Date: Mon, 14 Sep 2020 10:06:05 -0500
+Subject: [PATCH 5/5] _specs/ecip-1100.md: remove copyright footer, :nail_care:
+ some words
+
+Signed-off-by: meows <b5c6@protonmail.com>
+---
+ _specs/ecip-1100.md | 7 ++-----
+ 1 file changed, 2 insertions(+), 5 deletions(-)
+
+diff --git a/_specs/ecip-1100.md b/_specs/ecip-1100.md
+index 3f99cc877..70b516ec9 100644
+--- a/_specs/ecip-1100.md
++++ b/_specs/ecip-1100.md
+@@ -86,7 +86,7 @@ func (bc *BlockChain) ecbp1100(commonAncestor, current, proposed *types.Header)
+ 
+ This is a _modified (M)_ version of Buterin's _Exponential Subjective Scoring (ESS)_ by
+ - using a capped sinusoidal function instead of an unbounded exponential function
+-- using the difference of proposed head time(stamp) from common ancestor time(stamp), rather than the previously described block lengths or times of block reception by Buterin.
++- using the difference of proposed head time(stamp) from common ancestor time(stamp), rather than the previously described block lengths or times of block reception used by Buterin.
+ 
+ See [References](#References) for what I've found on the topic.
+ 
+@@ -102,7 +102,7 @@ See [References](#References) for what I've found on the topic.
+ 
+ #### Costs
+ 
+-- Nodes subject to eclipse attacks (mostly considered as nodes coming online after a long time or starting out) are vulnerable to destitution, even once released. This is addressed by the function's ceiling causing the attacker to establish a total difficulty 1/31x of the competing honest chain, and can be addressed further by the operator including a checkpoint value.
++- Nodes subject to eclipse attacks (mostly considered as nodes coming online after a long time or starting out) are vulnerable to destitution, even once released. This is addressed by the function's ceiling causing the attacker to need to establish (and maintain) a total difficulty 1/31x of the competing honest chain, and can be addressed further by the operator including a checkpoint value.
+ - It may be anticipated that the network uncle and waste rates will rise slightly, as blocks that would otherwise be [randomly included](http://www.cs.cornell.edu/~ie53/publications/btcProcFC.pdf) will be rejected. ETC currently has a 3.5% uncle rate compared to ETH's 5.5%.
+ 
+ 
+@@ -202,6 +202,3 @@ antigravity product seem well-intentioned but practically ineffectual.
+ s(x)=8 (-cos((0.5 π x)/(6000))+1)^(2)+1
+ ```
+ 
+-## Copyright/Licensing
+-
+-Copyright 2020 Isaac A. \<b5c6@protonmail.com\>
