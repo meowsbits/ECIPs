@@ -61,9 +61,9 @@
         {
           "id": 1488234618,
           "node_id": "MDU6TGFiZWwxNDg4MjM0NjE4",
-          "url": "https://api.github.com/repos/ethereumclassic/ECIPs/labels/editor:%203%20grumble",
-          "name": "editor: 3 grumble",
-          "color": "fc8d62",
+          "url": "https://api.github.com/repos/ethereumclassic/ECIPs/labels/editor:%201%20grumble",
+          "name": "editor: 1 grumble",
+          "color": "f46d43",
           "default": false,
           "description": "This contribution has minor issues that should be addressed."
         },
@@ -79,9 +79,9 @@
         {
           "id": 1154785127,
           "node_id": "MDU6TGFiZWwxMTU0Nzg1MTI3",
-          "url": "https://api.github.com/repos/ethereumclassic/ECIPs/labels/type:%20core",
-          "name": "type: core",
-          "color": "fbb4ae",
+          "url": "https://api.github.com/repos/ethereumclassic/ECIPs/labels/type:%20standard%20-%20core",
+          "name": "type: standard - core",
+          "color": "fdcdac",
           "default": false,
           "description": "ECIPs of the type \"Core\" - changing the Classic protocol."
         }

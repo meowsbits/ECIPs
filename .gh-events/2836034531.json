@@ -103,7 +103,7 @@
           "node_id": "MDU6TGFiZWwxNDI4ODM4OTM3",
           "url": "https://api.github.com/repos/ethereumclassic/ECIPs/labels/editor:%207%20looks-good",
           "name": "editor: 7 looks-good",
-          "color": "a6d854",
+          "color": "66bd63",
           "default": false,
           "description": "This contribution is well reviewed and good to be merged."
         },
@@ -121,7 +121,7 @@
           "node_id": "MDU6TGFiZWwxMTU0Nzg1MTI5",
           "url": "https://api.github.com/repos/ethereumclassic/ECIPs/labels/type:%20meta",
           "name": "type: meta",
-          "color": "cfd3d7",
+          "color": "fff2ae",
           "default": false,
           "description": "ECIPs of type \"Meta\" - bundling proposals for upgrades."
         }

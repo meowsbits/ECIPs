@@ -63,9 +63,9 @@
           "node_id": "MDU6TGFiZWwyMzQ3MTY3ODMx",
           "url": "https://api.github.com/repos/ethereumclassic/ECIPs/labels/meta:%203%20call",
           "name": "meta: 3 call",
-          "color": "5959bf",
+          "color": "e7d4e8",
           "default": false,
-          "description": ""
+          "description": "Issues announcing physical or virtual meetings."
         }
       ],
       "state": "closed",

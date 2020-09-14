@@ -97,7 +97,7 @@
           "node_id": "MDU6TGFiZWwxNDI4ODM4OTM3",
           "url": "https://api.github.com/repos/ethereumclassic/ECIPs/labels/editor:%207%20looks-good",
           "name": "editor: 7 looks-good",
-          "color": "a6d854",
+          "color": "66bd63",
           "default": false,
           "description": "This contribution is well reviewed and good to be merged."
         }

@@ -74,9 +74,9 @@
         {
           "id": 1154785134,
           "node_id": "MDU6TGFiZWwxMTU0Nzg1MTM0",
-          "url": "https://api.github.com/repos/ethereumclassic/ECIPs/labels/type:%20interface",
-          "name": "type: interface",
-          "color": "decbe4",
+          "url": "https://api.github.com/repos/ethereumclassic/ECIPs/labels/type:%20standard%20-%20interface",
+          "name": "type: standard - interface",
+          "color": "f4cae4",
           "default": false,
           "description": "ECIPs of the type \"Interface - inter-client communications."
         }

@@ -59,22 +59,22 @@
       },
       "labels": [
         {
-          "id": 1632883313,
-          "node_id": "MDU6TGFiZWwxNjMyODgzMzEz",
-          "url": "https://api.github.com/repos/ethereumclassic/ECIPs/labels/bot:%20dependencies",
-          "name": "bot: dependencies",
-          "color": "ffffff",
-          "default": false,
-          "description": "Pull requests that update a dependency file"
-        },
-        {
           "id": 1428838937,
           "node_id": "MDU6TGFiZWwxNDI4ODM4OTM3",
           "url": "https://api.github.com/repos/ethereumclassic/ECIPs/labels/editor:%207%20looks-good",
           "name": "editor: 7 looks-good",
-          "color": "a6d854",
+          "color": "66bd63",
           "default": false,
           "description": "This contribution is well reviewed and good to be merged."
+        },
+        {
+          "id": 1632883313,
+          "node_id": "MDU6TGFiZWwxNjMyODgzMzEz",
+          "url": "https://api.github.com/repos/ethereumclassic/ECIPs/labels/meta:%209%20bot",
+          "name": "meta: 9 bot",
+          "color": "f7f7f7",
+          "default": false,
+          "description": "Pull requests that update a dependency file"
         }
       ],
       "state": "closed",

@@ -63,16 +63,16 @@
           "node_id": "MDU6TGFiZWwyMzQxNTE3ODEz",
           "url": "https://api.github.com/repos/ethereumclassic/ECIPs/labels/status:%202%20replaced",
           "name": "status: 2 replaced",
-          "color": "c5def5",
+          "color": "c5c5c5",
           "default": false,
-          "description": ""
+          "description": "When an ECIP is no longer relevant, its status may be changed to Replaced."
         },
         {
           "id": 1154785127,
           "node_id": "MDU6TGFiZWwxMTU0Nzg1MTI3",
-          "url": "https://api.github.com/repos/ethereumclassic/ECIPs/labels/type:%20core",
-          "name": "type: core",
-          "color": "fbb4ae",
+          "url": "https://api.github.com/repos/ethereumclassic/ECIPs/labels/type:%20standard%20-%20core",
+          "name": "type: standard - core",
+          "color": "fdcdac",
           "default": false,
           "description": "ECIPs of the type \"Core\" - changing the Classic protocol."
         }

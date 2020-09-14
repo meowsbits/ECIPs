@@ -1,0 +1,116 @@
+{
+    "id": 3762805033,
+    "node_id": "MDEyOkxhYmVsZWRFdmVudDM3NjI4MDUwMzM=",
+    "url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/events/3762805033",
+    "actor": {
+      "login": "q9f",
+      "id": 58883403,
+      "node_id": "MDQ6VXNlcjU4ODgzNDAz",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/58883403?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/q9f",
+      "html_url": "https://github.com/q9f",
+      "followers_url": "https://api.github.com/users/q9f/followers",
+      "following_url": "https://api.github.com/users/q9f/following{/other_user}",
+      "gists_url": "https://api.github.com/users/q9f/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/q9f/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/q9f/subscriptions",
+      "organizations_url": "https://api.github.com/users/q9f/orgs",
+      "repos_url": "https://api.github.com/users/q9f/repos",
+      "events_url": "https://api.github.com/users/q9f/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/q9f/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "event": "labeled",
+    "commit_id": null,
+    "commit_url": null,
+    "created_at": "2020-09-14T11:19:54Z",
+    "label": {
+      "name": "editor: 7 looks-good",
+      "color": "66bd63"
+    },
+    "issue": {
+      "url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/330",
+      "repository_url": "https://api.github.com/repos/ethereumclassic/ECIPs",
+      "labels_url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/330/labels{/name}",
+      "comments_url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/330/comments",
+      "events_url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/330/events",
+      "html_url": "https://github.com/ethereumclassic/ECIPs/pull/330",
+      "id": 675429017,
+      "node_id": "MDExOlB1bGxSZXF1ZXN0NDY0OTUzMzkw",
+      "number": 330,
+      "title": "ECIP-1093: Change the ETC Proof of Work Algorithm to RandomX",
+      "user": {
+        "login": "gitr0n1n",
+        "id": 58588775,
+        "node_id": "MDQ6VXNlcjU4NTg4Nzc1",
+        "avatar_url": "https://avatars2.githubusercontent.com/u/58588775?v=4",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/gitr0n1n",
+        "html_url": "https://github.com/gitr0n1n",
+        "followers_url": "https://api.github.com/users/gitr0n1n/followers",
+        "following_url": "https://api.github.com/users/gitr0n1n/following{/other_user}",
+        "gists_url": "https://api.github.com/users/gitr0n1n/gists{/gist_id}",
+        "starred_url": "https://api.github.com/users/gitr0n1n/starred{/owner}{/repo}",
+        "subscriptions_url": "https://api.github.com/users/gitr0n1n/subscriptions",
+        "organizations_url": "https://api.github.com/users/gitr0n1n/orgs",
+        "repos_url": "https://api.github.com/users/gitr0n1n/repos",
+        "events_url": "https://api.github.com/users/gitr0n1n/events{/privacy}",
+        "received_events_url": "https://api.github.com/users/gitr0n1n/received_events",
+        "type": "User",
+        "site_admin": false
+      },
+      "labels": [
+        {
+          "id": 1428838937,
+          "node_id": "MDU6TGFiZWwxNDI4ODM4OTM3",
+          "url": "https://api.github.com/repos/ethereumclassic/ECIPs/labels/editor:%207%20looks-good",
+          "name": "editor: 7 looks-good",
+          "color": "66bd63",
+          "default": false,
+          "description": "This contribution is well reviewed and good to be merged."
+        },
+        {
+          "id": 1658195407,
+          "node_id": "MDU6TGFiZWwxNjU4MTk1NDA3",
+          "url": "https://api.github.com/repos/ethereumclassic/ECIPs/labels/status:%200%20wip",
+          "name": "status: 0 wip",
+          "color": "f0f0f0",
+          "default": false,
+          "description": "ECIP is still work in progress and shall not be merged."
+        },
+        {
+          "id": 1154785127,
+          "node_id": "MDU6TGFiZWwxMTU0Nzg1MTI3",
+          "url": "https://api.github.com/repos/ethereumclassic/ECIPs/labels/type:%20standard%20-%20core",
+          "name": "type: standard - core",
+          "color": "fdcdac",
+          "default": false,
+          "description": "ECIPs of the type \"Core\" - changing the Classic protocol."
+        }
+      ],
+      "state": "closed",
+      "locked": false,
+      "assignee": null,
+      "assignees": [
+
+      ],
+      "milestone": null,
+      "comments": 5,
+      "created_at": "2020-08-08T04:47:47Z",
+      "updated_at": "2020-09-14T11:19:54Z",
+      "closed_at": "2020-08-12T12:13:57Z",
+      "author_association": "MEMBER",
+      "active_lock_reason": null,
+      "pull_request": {
+        "url": "https://api.github.com/repos/ethereumclassic/ECIPs/pulls/330",
+        "html_url": "https://github.com/ethereumclassic/ECIPs/pull/330",
+        "diff_url": "https://github.com/ethereumclassic/ECIPs/pull/330.diff",
+        "patch_url": "https://github.com/ethereumclassic/ECIPs/pull/330.patch"
+      },
+      "body": "- ECIP to utilize RandomX",
+      "performed_via_github_app": null
+    },
+    "performed_via_github_app": null
+  }

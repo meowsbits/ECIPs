@@ -11,7 +11,7 @@ Subject: [PATCH 1/6] Create ecip-randomX.md
 
 diff --git a/_specs/ecip-randomX.md b/_specs/ecip-randomX.md
 new file mode 100644
-index 00000000..6d4152d8
+index 000000000..6d4152d81
 --- /dev/null
 +++ b/_specs/ecip-randomX.md
 @@ -0,0 +1,181 @@
@@ -208,7 +208,7 @@ date
  1 file changed, 1 insertion(+), 1 deletion(-)
 
 diff --git a/_specs/ecip-randomX.md b/_specs/ecip-randomX.md
-index 6d4152d8..b42f9801 100644
+index 6d4152d81..b42f98013 100644
 --- a/_specs/ecip-randomX.md
 +++ b/_specs/ecip-randomX.md
 @@ -7,7 +7,7 @@ type: Standards Track
@@ -232,7 +232,7 @@ typos
  1 file changed, 4 insertions(+), 2 deletions(-)
 
 diff --git a/_specs/ecip-randomX.md b/_specs/ecip-randomX.md
-index b42f9801..1d47bbd3 100644
+index b42f98013..1d47bbd37 100644
 --- a/_specs/ecip-randomX.md
 +++ b/_specs/ecip-randomX.md
 @@ -14,8 +14,10 @@ created: 2020-08-07
@@ -260,7 +260,7 @@ Add reference discussion PRs
  1 file changed, 13 insertions(+), 3 deletions(-)
 
 diff --git a/_specs/ecip-randomX.md b/_specs/ecip-randomX.md
-index 1d47bbd3..726ef3f4 100644
+index 1d47bbd37..726ef3f48 100644
 --- a/_specs/ecip-randomX.md
 +++ b/_specs/ecip-randomX.md
 @@ -1,6 +1,6 @@
@@ -305,7 +305,7 @@ typos
  1 file changed, 1 insertion(+), 1 deletion(-)
 
 diff --git a/_specs/ecip-randomX.md b/_specs/ecip-randomX.md
-index 726ef3f4..25f3f088 100644
+index 726ef3f48..25f3f0887 100644
 --- a/_specs/ecip-randomX.md
 +++ b/_specs/ecip-randomX.md
 @@ -31,7 +31,7 @@ Related:
@@ -328,7 +328,7 @@ Subject: [PATCH 6/6] Update ecip-randomX.md
  1 file changed, 1 insertion(+), 1 deletion(-)
 
 diff --git a/_specs/ecip-randomX.md b/_specs/ecip-randomX.md
-index 25f3f088..7202bf4d 100644
+index 25f3f0887..7202bf4d3 100644
 --- a/_specs/ecip-randomX.md
 +++ b/_specs/ecip-randomX.md
 @@ -1,6 +1,6 @@

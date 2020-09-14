@@ -63,22 +63,22 @@
       },
       "labels": [
         {
-          "id": 1632883313,
-          "node_id": "MDU6TGFiZWwxNjMyODgzMzEz",
-          "url": "https://api.github.com/repos/ethereumclassic/ECIPs/labels/bot:%20dependencies",
-          "name": "bot: dependencies",
-          "color": "ffffff",
-          "default": false,
-          "description": "Pull requests that update a dependency file"
-        },
-        {
           "id": 1154785130,
           "node_id": "MDU6TGFiZWwxMTU0Nzg1MTMw",
-          "url": "https://api.github.com/repos/ethereumclassic/ECIPs/labels/editor:%205%20enhancement",
-          "name": "editor: 5 enhancement",
-          "color": "66c2a5",
+          "url": "https://api.github.com/repos/ethereumclassic/ECIPs/labels/editor:%206%20enhancement",
+          "name": "editor: 6 enhancement",
+          "color": "a6d96a",
           "default": false,
           "description": "This contribution is a new feature or request."
+        },
+        {
+          "id": 1632883313,
+          "node_id": "MDU6TGFiZWwxNjMyODgzMzEz",
+          "url": "https://api.github.com/repos/ethereumclassic/ECIPs/labels/meta:%209%20bot",
+          "name": "meta: 9 bot",
+          "color": "f7f7f7",
+          "default": false,
+          "description": "Pull requests that update a dependency file"
         }
       ],
       "state": "closed",
