@@ -1,7 +1,7 @@
 {
-    "id": 3594794012,
-    "node_id": "MDE0Ok1lbnRpb25lZEV2ZW50MzU5NDc5NDAxMg==",
-    "url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/events/3594794012",
+    "id": 3762834844,
+    "node_id": "MDEyOkxhYmVsZWRFdmVudDM3NjI4MzQ4NDQ=",
+    "url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/events/3762834844",
     "actor": {
       "login": "q9f",
       "id": 58883403,
@@ -22,21 +22,25 @@
       "type": "User",
       "site_admin": false
     },
-    "event": "mentioned",
+    "event": "labeled",
     "commit_id": null,
     "commit_url": null,
-    "created_at": "2020-07-28T14:57:55Z",
+    "created_at": "2020-09-14T11:28:08Z",
+    "label": {
+      "name": "editor:0 invalid",
+      "color": "d73027"
+    },
     "issue": {
-      "url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/325",
+      "url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/375",
       "repository_url": "https://api.github.com/repos/ethereumclassic/ECIPs",
-      "labels_url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/325/labels{/name}",
-      "comments_url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/325/comments",
-      "events_url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/325/events",
-      "html_url": "https://github.com/ethereumclassic/ECIPs/issues/325",
-      "id": 638159764,
-      "node_id": "MDU6SXNzdWU2MzgxNTk3NjQ=",
-      "number": 325,
-      "title": "Housekeeping: Review Systemic Permissioned Roles",
+      "labels_url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/375/labels{/name}",
+      "comments_url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/375/comments",
+      "events_url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/375/events",
+      "html_url": "https://github.com/ethereumclassic/ECIPs/pull/375",
+      "id": 700795617,
+      "node_id": "MDExOlB1bGxSZXF1ZXN0NDg2MzU4MDc4",
+      "number": 375,
+      "title": "OP",
       "user": {
         "login": "gitr0n1n",
         "id": 58588775,
@@ -59,29 +63,35 @@
       },
       "labels": [
         {
-          "id": 2347243041,
-          "node_id": "MDU6TGFiZWwyMzQ3MjQzMDQx",
-          "url": "https://api.github.com/repos/ethereumclassic/ECIPs/labels/meta:3%20process",
-          "name": "meta:3 process",
-          "color": "a3f79b",
+          "id": 1705353570,
+          "node_id": "MDU6TGFiZWwxNzA1MzUzNTcw",
+          "url": "https://api.github.com/repos/ethereumclassic/ECIPs/labels/editor:0%20invalid",
+          "name": "editor:0 invalid",
+          "color": "d73027",
           "default": false,
-          "description": ""
+          "description": "This contribution has major issues."
         }
       ],
-      "state": "open",
+      "state": "closed",
       "locked": false,
       "assignee": null,
       "assignees": [
 
       ],
       "milestone": null,
-      "comments": 23,
-      "created_at": "2020-06-13T13:11:07Z",
-      "updated_at": "2020-09-14T11:32:01Z",
-      "closed_at": null,
+      "comments": 0,
+      "created_at": "2020-09-14T06:13:56Z",
+      "updated_at": "2020-09-14T11:28:08Z",
+      "closed_at": "2020-09-14T06:14:15Z",
       "author_association": "MEMBER",
       "active_lock_reason": null,
-      "body": "Housekeeping Task:\r\n- Review people's systemic roles and clean out inactive/departed project participants by removing their permissions.\r\n- Where oversight is needed or centralization is occurring, address the issues by decentralizing process power by adding participants that segregate process duties e.g. 2 approvals needed from different members of teams/independent parties.\r\n\r\n\r\nWe need to be honest about decentralizing processes to prevent take overs or attacks. Thanks!",
+      "pull_request": {
+        "url": "https://api.github.com/repos/ethereumclassic/ECIPs/pulls/375",
+        "html_url": "https://github.com/ethereumclassic/ECIPs/pull/375",
+        "diff_url": "https://github.com/ethereumclassic/ECIPs/pull/375.diff",
+        "patch_url": "https://github.com/ethereumclassic/ECIPs/pull/375.patch"
+      },
+      "body": "OP",
       "performed_via_github_app": null
     },
     "performed_via_github_app": null
