@@ -25,9 +25,9 @@
       "site_admin": false
     },
     "created_at": "2020-09-13T19:44:55Z",
-    "updated_at": "2020-09-13T19:45:13Z",
+    "updated_at": "2020-09-13T19:45:43Z",
     "author_association": "NONE",
-    "body": "ECIP 1092 , в первую очередь.. а потом уже можно думать об усовершенствовании... но нет же, уже больше месяца тянете кота за яйца",
+    "body": "ECIP 1092 , в первую очередь.. Самое простое и готовое решение,  а потом уже можно думать об усовершенствовании... но нет же, уже больше месяца тянете кота за яйца",
     "reactions": {
       "url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/comments/691716020/reactions",
       "total_count": 0,
