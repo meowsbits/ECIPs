@@ -1,0 +1,116 @@
+{
+    "id": 3762640477,
+    "node_id": "MDEyOkxhYmVsZWRFdmVudDM3NjI2NDA0Nzc=",
+    "url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/events/3762640477",
+    "actor": {
+      "login": "q9f",
+      "id": 58883403,
+      "node_id": "MDQ6VXNlcjU4ODgzNDAz",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/58883403?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/q9f",
+      "html_url": "https://github.com/q9f",
+      "followers_url": "https://api.github.com/users/q9f/followers",
+      "following_url": "https://api.github.com/users/q9f/following{/other_user}",
+      "gists_url": "https://api.github.com/users/q9f/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/q9f/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/q9f/subscriptions",
+      "organizations_url": "https://api.github.com/users/q9f/orgs",
+      "repos_url": "https://api.github.com/users/q9f/repos",
+      "events_url": "https://api.github.com/users/q9f/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/q9f/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "event": "labeled",
+    "commit_id": null,
+    "commit_url": null,
+    "created_at": "2020-09-14T10:36:02Z",
+    "label": {
+      "name": "editor: 1 needs review",
+      "color": "ffd92f"
+    },
+    "issue": {
+      "url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/376",
+      "repository_url": "https://api.github.com/repos/ethereumclassic/ECIPs",
+      "labels_url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/376/labels{/name}",
+      "comments_url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/376/comments",
+      "events_url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/376/events",
+      "html_url": "https://github.com/ethereumclassic/ECIPs/pull/376",
+      "id": 700868222,
+      "node_id": "MDExOlB1bGxSZXF1ZXN0NDg2NDIxMDYx",
+      "number": 376,
+      "title": "Change Status of ecip-1093.md to Withdrawn",
+      "user": {
+        "login": "gitr0n1n",
+        "id": 58588775,
+        "node_id": "MDQ6VXNlcjU4NTg4Nzc1",
+        "avatar_url": "https://avatars2.githubusercontent.com/u/58588775?v=4",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/gitr0n1n",
+        "html_url": "https://github.com/gitr0n1n",
+        "followers_url": "https://api.github.com/users/gitr0n1n/followers",
+        "following_url": "https://api.github.com/users/gitr0n1n/following{/other_user}",
+        "gists_url": "https://api.github.com/users/gitr0n1n/gists{/gist_id}",
+        "starred_url": "https://api.github.com/users/gitr0n1n/starred{/owner}{/repo}",
+        "subscriptions_url": "https://api.github.com/users/gitr0n1n/subscriptions",
+        "organizations_url": "https://api.github.com/users/gitr0n1n/orgs",
+        "repos_url": "https://api.github.com/users/gitr0n1n/repos",
+        "events_url": "https://api.github.com/users/gitr0n1n/events{/privacy}",
+        "received_events_url": "https://api.github.com/users/gitr0n1n/received_events",
+        "type": "User",
+        "site_admin": false
+      },
+      "labels": [
+        {
+          "id": 2281247217,
+          "node_id": "MDU6TGFiZWwyMjgxMjQ3MjE3",
+          "url": "https://api.github.com/repos/ethereumclassic/ECIPs/labels/editor:%201%20needs%20review",
+          "name": "editor: 1 needs review",
+          "color": "ffd92f",
+          "default": false,
+          "description": "This contribution needs a careful review."
+        },
+        {
+          "id": 1705353145,
+          "node_id": "MDU6TGFiZWwxNzA1MzUzMTQ1",
+          "url": "https://api.github.com/repos/ethereumclassic/ECIPs/labels/status:%207%20withdrawn",
+          "name": "status: 7 withdrawn",
+          "color": "737373",
+          "default": false,
+          "description": "ECIP has been withdrawn by the author."
+        },
+        {
+          "id": 1154785127,
+          "node_id": "MDU6TGFiZWwxMTU0Nzg1MTI3",
+          "url": "https://api.github.com/repos/ethereumclassic/ECIPs/labels/type:%20core",
+          "name": "type: core",
+          "color": "fbb4ae",
+          "default": false,
+          "description": "ECIPs of the type \"Core\" - changing the Classic protocol."
+        }
+      ],
+      "state": "open",
+      "locked": false,
+      "assignee": null,
+      "assignees": [
+
+      ],
+      "milestone": null,
+      "comments": 0,
+      "created_at": "2020-09-14T07:54:28Z",
+      "updated_at": "2020-09-14T10:36:02Z",
+      "closed_at": null,
+      "author_association": "MEMBER",
+      "active_lock_reason": null,
+      "pull_request": {
+        "url": "https://api.github.com/repos/ethereumclassic/ECIPs/pulls/376",
+        "html_url": "https://github.com/ethereumclassic/ECIPs/pull/376",
+        "diff_url": "https://github.com/ethereumclassic/ECIPs/pull/376.diff",
+        "patch_url": "https://github.com/ethereumclassic/ECIPs/pull/376.patch"
+      },
+      "body": "It is apparent from the end of the [CDC #13](https://youtu.be/9r_q_z81eh4?t=3420) the `SHA3` ECIP-1049/1095 and accompanied mining algo change discussions are eating up too much bandwidth. The focus needs to remain on 51% attack solutions to stablize this network. So, I request to move ECIP-1093 to `Withdrawn` status to clear it from discussion.\r\n\r\n`Withdrawn` - ECIP authors may decide to change the status between Draft, Deferred, or Withdrawn. The ECIP editor may also change the status to Deferred if no progress is being made on the ECIP. Source: https://github.com/ethereumclassic/ECIPs\r\n\r\nDue to the observation that there is already a vocal opposition to changing the mining algorithm away from GPU-friendly Ethash. I believe any proposal suggesting a mining algo change would be contenious (ECIP-1049, ECIP-1093, ECIP-1095) and is against the ECIP process goals of [avoiding network splits](https://github.com/ethereumclassic/ECIPs#avoiding-network-splits).\r\n\r\nFile Changes:\r\n- Update Status to Withdrawn\r\n- Update Title to the Resubmission Title\r\n- Update Motivation to the Resubmission Motivation\r\n- Add Related ECIPs +1099\r\n- Add Withdraw Explanation\r\n- Add Citations for vocalized Material Opposition\r\n\r\nThanks,\r\n   r0n1n",
+      "performed_via_github_app": null
+    },
+    "performed_via_github_app": null
+  }
