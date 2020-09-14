@@ -5,7 +5,7 @@
       "login": "TokenHash",
       "id": 29529586,
       "node_id": "MDQ6VXNlcjI5NTI5NTg2",
-      "avatar_url": "https://avatars1.githubusercontent.com/u/29529586?v=4",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/29529586?u=98ace46677168e8512d3d1ca4a9c6b903711b07e&v=4",
       "gravatar_id": "",
       "url": "https://api.github.com/users/TokenHash",
       "html_url": "https://github.com/TokenHash",
@@ -25,7 +25,7 @@
     "state": "COMMENTED",
     "html_url": "https://github.com/ethereumclassic/ECIPs/pull/267#pullrequestreview-346011512",
     "pull_request_url": "https://api.github.com/repos/ethereumclassic/ECIPs/pulls/267",
-    "author_association": "MEMBER",
+    "author_association": "CONTRIBUTOR",
     "_links": {
       "html": {
         "href": "https://github.com/ethereumclassic/ECIPs/pull/267#pullrequestreview-346011512"

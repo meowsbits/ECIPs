@@ -30,5 +30,6 @@
       "state": "changes_requested",
       "review_id": 345056545,
       "dismissal_message": "off-topic"
-    }
+    },
+    "performed_via_github_app": null
   }

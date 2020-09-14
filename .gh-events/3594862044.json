@@ -65,7 +65,7 @@
           "name": "meta:3 process",
           "color": "9970ab",
           "default": false,
-          "description": ""
+          "description": "Issues surrounding the ECIP process and meta governance."
         }
       ],
       "state": "open",

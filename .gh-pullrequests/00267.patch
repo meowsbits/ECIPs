@@ -9,7 +9,7 @@ Subject: [PATCH 1/2] Remove doxing of ECIP Editors. Both soc1c and meowbits
  1 file changed, 2 insertions(+), 2 deletions(-)
 
 diff --git a/_specs/ecip-1000.md b/_specs/ecip-1000.md
-index 767563b6..f2a4d889 100644
+index 767563b69..f2a4d8898 100644
 --- a/_specs/ecip-1000.md
 +++ b/_specs/ecip-1000.md
 @@ -73,9 +73,9 @@ A good reason to transfer ownership is because the original author no longer has
@@ -38,7 +38,7 @@ Subject: [PATCH 2/2] Added an ECIP to accompany my proposed change to
 
 diff --git a/_specs/ecip-do_not_dox.md b/_specs/ecip-do_not_dox.md
 new file mode 100644
-index 00000000..78c68e6e
+index 000000000..78c68e6e6
 --- /dev/null
 +++ b/_specs/ecip-do_not_dox.md
 @@ -0,0 +1,43 @@

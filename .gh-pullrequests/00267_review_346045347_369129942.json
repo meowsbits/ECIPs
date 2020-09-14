@@ -12,7 +12,7 @@
       "login": "sorpaas",
       "id": 6277322,
       "node_id": "MDQ6VXNlcjYyNzczMjI=",
-      "avatar_url": "https://avatars3.githubusercontent.com/u/6277322?v=4",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/6277322?u=c54e68ffd2e6cac57579f89fc92216282e464ba7&v=4",
       "gravatar_id": "",
       "url": "https://api.github.com/users/sorpaas",
       "html_url": "https://github.com/sorpaas",
@@ -33,7 +33,7 @@
     "updated_at": "2020-01-21T17:08:33Z",
     "html_url": "https://github.com/ethereumclassic/ECIPs/pull/267#discussion_r369129942",
     "pull_request_url": "https://api.github.com/repos/ethereumclassic/ECIPs/pulls/267",
-    "author_association": "MEMBER",
+    "author_association": "CONTRIBUTOR",
     "_links": {
       "self": {
         "href": "https://api.github.com/repos/ethereumclassic/ECIPs/pulls/comments/369129942"
