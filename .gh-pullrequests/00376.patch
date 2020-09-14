@@ -1,0 +1,162 @@
+From e485065a430332c0a76dca9a0725000a36986985 Mon Sep 17 00:00:00 2001
+From: Ronin <58588775+gitr0n1n@users.noreply.github.com>
+Date: Mon, 14 Sep 2020 01:31:42 -0600
+Subject: [PATCH 1/4] Update ecip-1093.md
+
+Withdraw ECIP-1093 and update motivation area
+---
+ _specs/ecip-1093.md | 52 ++++++++++++++++++++++++++++++++++-----------
+ 1 file changed, 40 insertions(+), 12 deletions(-)
+
+diff --git a/_specs/ecip-1093.md b/_specs/ecip-1093.md
+index aece6d68a..5a50a120e 100644
+--- a/_specs/ecip-1093.md
++++ b/_specs/ecip-1093.md
+@@ -1,8 +1,8 @@
+ ---
+ lang: en
+ ecip: 1093
+-title: Change the ETC Proof of Work Algorithm to RandomX
+-status: Draft
++title: If GPU-friendly Ethash is Removed, Change the ETC Proof of Work Algorithm to CPU-friendly RandomX
++status: Withdrawn
+ type: Standards Track
+ category: Core
+ discussions-to: https://github.com/ethereumclassic/ECIPs/issues/329
+@@ -11,23 +11,51 @@ created: 2020-08-07
+ ---
+ 
+ ### Abstract
+-A proposal to replace the current Ethereum Classic proof of work algorithm with RandomX.
++
++A proposal to replace Ethereum Classic proof of work algorithm with `CPU-friendly RandomX` should `GPU-friendly Ethash` be rejected from the network.
+ 
+ ### Motivation
+-Ethereum Classic suffered a second round of 51% attacks due to dwindling hashrate on the Ethash algorithm.
+ 
+-* [July 31, 2020](https://blog.bitquery.io/attacker-stole-807k-etc-in-ethereum-classic-51-attack)
+-* [August 6, 2020](https://blog.bitquery.io/ethereum-classic-attack-8-august-catch-me-if-you-can).
++I am concerned with the centralized pro-ASIC movement in ECIP-1049 (and ECIP-1095) from a centralized body in ETC (ETC Coop, Commonwealth.gg, and EPIC Blockchain). I believe the self named `SHA3 Coalition` is not fully addressing the many concerns of miners/developers/end users regarding miner centralization, inflation capture, supply chain bottle necks, network security, interoperability with other EVMs, and a deviation from the core principles of Ethereum Classic network. 
++
++To date there are 27 meaningful unanswered comments written from high profile ETC network developers, large mining pools, small independent miners and independent end users. The champions of ECIP-1049 and ECIP-1095 proposals are not engaging these comments in their ECIP discussion threads. Due to the uncertainty of these unaddressed questions, a material opposition to ECIP-1049 has formed in the Ethereum Classic community.
+ 
+-This ECIP is presented to provide an ASIC-resistant option for the discussion of switching to a new algorithm.
++It is my opinion that ECIP-1049, will not achieve the `Rough Consensus` requirement to push SHA3 ASIC on the network and Ethash GPU will likely prevail in that conversation. As an auxiliary path, this ECIP is being proposed to offer an alternative route to `consumer product, decentralized mining` via a CPU route.
+ 
+-This PR is to compliment the algorithm discussions. If we consider an algorithm change this provides an ASIC-resistant option, opposed to the SHA3 all-in ASIC option.
++Related ECIPs to the discussion:
+ 
+-Related:
+ - Do nothing. Stay on Ethash.
+-- Fix the DAG. Stay on Ethash. https://github.com/ethereumclassic/ECIPs/issues/11
+-- Change algorithm to ASIC-friendly SHA3. https://github.com/ethereumclassic/ECIPs/issues/13
+-- Change algorithm to ASIC-resistant RandomX. https://github.com/ethereumclassic/ECIPs/issues/329
++- ECIP-1043 Ethash GPU. https://github.com/ethereumclassic/ECIPs/issues/11
++- ECIP-1049 SHA3 ASIC. https://github.com/ethereumclassic/ECIPs/issues/13 , https://github.com/ethereumclassic/ECIPs/issues/8
++- ECIP-1095 SHA3 ASIC. https://github.com/ethereumclassic/ECIPs/issues/342
++- ECIP-1099 Ethash GPU. https://github.com/ethereumclassic/ECIPs/issues/368
++
++#### Withdrawn Status Update and Explaination
++
++This topic has evolved rapidly since the date I originally submitted this proposal. As the author of ECIP-1093, I believe this ECIP is unnecessary at this point in time and request that it be moved to `Withdrawn` status. This ECIP became obsolete due to the materialization of a vocal opposition to changing the Ethereum Classic mining algorithm to SHA3 (ECIP-1049 & 1095). Dexaran of Ethereum Commonwealth has committed development resources to the GPU-friendly Ethash chain should the ETC mining community chose to continue to mine Ethash ( https://github.com/ethereumclassic/ECIPs/issues/13#issuecomment-687297252 ).
++
++Notable Unaddressed Opposition to the SHA3 Coalition's Proposal:
++
++Sourced from ECIP-1095 Thread
++- https://github.com/ethereumclassic/ECIPs/issues/342#issuecomment-685208360
++- https://github.com/ethereumclassic/ECIPs/issues/342#issuecomment-685500623
++- https://github.com/ethereumclassic/ECIPs/issues/342#issuecomment-685840814
++- https://github.com/ethereumclassic/ECIPs/issues/342#issuecomment-686983866
++- https://github.com/ethereumclassic/ECIPs/issues/342#issuecomment-687640021
++- https://github.com/ethereumclassic/ECIPs/issues/342#issuecomment-687864802
++
++Sourced from ECIP-1049 Threads
++- https://github.com/ethereumclassic/ECIPs/pull/8#issuecomment-453714749
++- https://github.com/ethereumclassic/ECIPs/pull/8#issuecomment-453086727
++- https://github.com/ethereumclassic/ECIPs/pull/8#issuecomment-452459302
++- https://github.com/ethereumclassic/ECIPs/issues/13#issuecomment-479955986
++- https://github.com/ethereumclassic/ECIPs/issues/13#issuecomment-551256069
++- https://github.com/ethereumclassic/ECIPs/issues/13#issuecomment-551309467
++- https://github.com/ethereumclassic/ECIPs/issues/13#issuecomment-552100904
++- https://github.com/ethereumclassic/ECIPs/issues/13#issuecomment-684070006
++- https://github.com/ethereumclassic/ECIPs/issues/13#issuecomment-685309563
++- https://github.com/ethereumclassic/ECIPs/issues/13#issuecomment-686250338
++- https://github.com/ethereumclassic/ECIPs/issues/13#issuecomment-687297252
+ 
+ # Specification
+ 
+
+From 356ce8c8f0155ebc710a5cbaf4e70daaa71dee03 Mon Sep 17 00:00:00 2001
+From: Ronin <58588775+gitr0n1n@users.noreply.github.com>
+Date: Mon, 14 Sep 2020 01:55:40 -0600
+Subject: [PATCH 2/4] Update ecip-1093.md
+
+title
+---
+ _specs/ecip-1093.md | 2 +-
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+
+diff --git a/_specs/ecip-1093.md b/_specs/ecip-1093.md
+index 5a50a120e..ccada38d9 100644
+--- a/_specs/ecip-1093.md
++++ b/_specs/ecip-1093.md
+@@ -1,7 +1,7 @@
+ ---
+ lang: en
+ ecip: 1093
+-title: If GPU-friendly Ethash is Removed, Change the ETC Proof of Work Algorithm to CPU-friendly RandomX
++title: If GPU-friendly Ethash is Removed then Change the ETC Proof of Work Algorithm to CPU-friendly RandomX
+ status: Withdrawn
+ type: Standards Track
+ category: Core
+
+From e57660548ab98699bdf05415f0d197e44c1b6a4d Mon Sep 17 00:00:00 2001
+From: Ronin <58588775+gitr0n1n@users.noreply.github.com>
+Date: Mon, 14 Sep 2020 01:59:59 -0600
+Subject: [PATCH 3/4] Update ecip-1093.md
+
+update copy
+---
+ _specs/ecip-1093.md | 2 +-
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+
+diff --git a/_specs/ecip-1093.md b/_specs/ecip-1093.md
+index ccada38d9..9f702309a 100644
+--- a/_specs/ecip-1093.md
++++ b/_specs/ecip-1093.md
+@@ -34,7 +34,7 @@ Related ECIPs to the discussion:
+ 
+ This topic has evolved rapidly since the date I originally submitted this proposal. As the author of ECIP-1093, I believe this ECIP is unnecessary at this point in time and request that it be moved to `Withdrawn` status. This ECIP became obsolete due to the materialization of a vocal opposition to changing the Ethereum Classic mining algorithm to SHA3 (ECIP-1049 & 1095). Dexaran of Ethereum Commonwealth has committed development resources to the GPU-friendly Ethash chain should the ETC mining community chose to continue to mine Ethash ( https://github.com/ethereumclassic/ECIPs/issues/13#issuecomment-687297252 ).
+ 
+-Notable Unaddressed Opposition to the SHA3 Coalition's Proposal:
++A non-exhaustive list of comments from a notable opposition to changing the Ethereum Classic mining algorithm from Ethash:
+ 
+ Sourced from ECIP-1095 Thread
+ - https://github.com/ethereumclassic/ECIPs/issues/342#issuecomment-685208360
+
+From 446db4e1f609a8da41ebe58dd97fba0185379ccb Mon Sep 17 00:00:00 2001
+From: Ronin <58588775+gitr0n1n@users.noreply.github.com>
+Date: Mon, 14 Sep 2020 02:02:17 -0600
+Subject: [PATCH 4/4] Update ecip-1093.md
+
+typos
+---
+ _specs/ecip-1093.md | 4 ++--
+ 1 file changed, 2 insertions(+), 2 deletions(-)
+
+diff --git a/_specs/ecip-1093.md b/_specs/ecip-1093.md
+index 9f702309a..421c6ab62 100644
+--- a/_specs/ecip-1093.md
++++ b/_specs/ecip-1093.md
+@@ -30,9 +30,9 @@ Related ECIPs to the discussion:
+ - ECIP-1095 SHA3 ASIC. https://github.com/ethereumclassic/ECIPs/issues/342
+ - ECIP-1099 Ethash GPU. https://github.com/ethereumclassic/ECIPs/issues/368
+ 
+-#### Withdrawn Status Update and Explaination
++#### Withdrawn Status Update and Explanation
+ 
+-This topic has evolved rapidly since the date I originally submitted this proposal. As the author of ECIP-1093, I believe this ECIP is unnecessary at this point in time and request that it be moved to `Withdrawn` status. This ECIP became obsolete due to the materialization of a vocal opposition to changing the Ethereum Classic mining algorithm to SHA3 (ECIP-1049 & 1095). Dexaran of Ethereum Commonwealth has committed development resources to the GPU-friendly Ethash chain should the ETC mining community chose to continue to mine Ethash ( https://github.com/ethereumclassic/ECIPs/issues/13#issuecomment-687297252 ).
++This topic has evolved rapidly since the date I originally submitted this proposal. As the author of ECIP-1093, I believe this ECIP is unnecessary at this point in time and request that it be moved to `Withdrawn` status. This ECIP became obsolete due to the materialization of a vocal opposition to changing the Ethereum Classic mining algorithm. Dexaran of Ethereum Commonwealth has committed development resources to the GPU-friendly Ethash chain should the ETC mining community chose to continue to mine Ethash ( https://github.com/ethereumclassic/ECIPs/issues/13#issuecomment-687297252 ). That means that any proposal to change the mining algorithm will likely end up in contention, which is against the goals of the ECIP process.
+ 
+ A non-exhaustive list of comments from a notable opposition to changing the Ethereum Classic mining algorithm from Ethash:
+ 
