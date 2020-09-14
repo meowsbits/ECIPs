@@ -101,8 +101,8 @@
         {
           "id": 2347222007,
           "node_id": "MDU6TGFiZWwyMzQ3MjIyMDA3",
-          "url": "https://api.github.com/repos/ethereumclassic/ECIPs/labels/meta:5%20website",
-          "name": "meta:5 website",
+          "url": "https://api.github.com/repos/ethereumclassic/ECIPs/labels/meta:7%20website",
+          "name": "meta:7 website",
           "color": "e7d4e8",
           "default": false,
           "description": "Issues around the ECIPs website."

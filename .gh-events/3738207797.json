@@ -61,8 +61,8 @@
         {
           "id": 2347167831,
           "node_id": "MDU6TGFiZWwyMzQ3MTY3ODMx",
-          "url": "https://api.github.com/repos/ethereumclassic/ECIPs/labels/meta:3%20call",
-          "name": "meta:3 call",
+          "url": "https://api.github.com/repos/ethereumclassic/ECIPs/labels/meta:5%20call",
+          "name": "meta:5 call",
           "color": "c2a5cf",
           "default": false,
           "description": "Issues announcing physical or virtual meetings."
