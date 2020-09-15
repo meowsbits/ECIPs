@@ -1,0 +1,39 @@
+{
+    "id": 488243380,
+    "node_id": "MDE3OlB1bGxSZXF1ZXN0UmV2aWV3NDg4MjQzMzgw",
+    "user": {
+      "login": "bobsummerwill",
+      "id": 3788156,
+      "node_id": "MDQ6VXNlcjM3ODgxNTY=",
+      "avatar_url": "https://avatars0.githubusercontent.com/u/3788156?u=f379551fa667ddb096e1ea2ef248d16e7461b1c3&v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/bobsummerwill",
+      "html_url": "https://github.com/bobsummerwill",
+      "followers_url": "https://api.github.com/users/bobsummerwill/followers",
+      "following_url": "https://api.github.com/users/bobsummerwill/following{/other_user}",
+      "gists_url": "https://api.github.com/users/bobsummerwill/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/bobsummerwill/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/bobsummerwill/subscriptions",
+      "organizations_url": "https://api.github.com/users/bobsummerwill/orgs",
+      "repos_url": "https://api.github.com/users/bobsummerwill/repos",
+      "events_url": "https://api.github.com/users/bobsummerwill/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/bobsummerwill/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "body": "Just playing catch-up here, it is not realistic that Besu code for ECIP-1099 will be ready on such a short timeline, and that will lead to Mordor being \"broken\" for Besu users.\r\n\r\nI would like to suggest that we have an ephemeral testnet, so that Core-Geth developers can test their changes, and Besu can be added to that as soon as possible.   When things are looking healthy on that ephemeral testnet we can set an activation block on Mordor.",
+    "state": "CHANGES_REQUESTED",
+    "html_url": "https://github.com/ethereumclassic/ECIPs/pull/371#pullrequestreview-488243380",
+    "pull_request_url": "https://api.github.com/repos/ethereumclassic/ECIPs/pulls/371",
+    "author_association": "MEMBER",
+    "_links": {
+      "html": {
+        "href": "https://github.com/ethereumclassic/ECIPs/pull/371#pullrequestreview-488243380"
+      },
+      "pull_request": {
+        "href": "https://api.github.com/repos/ethereumclassic/ECIPs/pulls/371"
+      }
+    },
+    "submitted_at": "2020-09-15T00:32:51Z",
+    "commit_id": "55eca38889c08fa2aebdcf673c2e8922ba226716"
+  }
