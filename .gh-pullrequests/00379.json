@@ -41,7 +41,7 @@
     "milestone": null,
     "comments": 0,
     "created_at": "2020-09-16T23:59:08Z",
-    "updated_at": "2020-09-17T00:02:47Z",
+    "updated_at": "2020-09-17T00:06:51Z",
     "closed_at": null,
     "author_association": "CONTRIBUTOR",
     "active_lock_reason": null,
@@ -51,7 +51,7 @@
       "diff_url": "https://github.com/ethereumclassic/ECIPs/pull/379.diff",
       "patch_url": "https://github.com/ethereumclassic/ECIPs/pull/379.patch"
     },
-    "body": "When this is accepted into the repo, ECIP-1049 is finalized.",
+    "body": "When this is accepted into the repo, ECIP-1049 is finalized. After much deliberation and five, maybe six, 51% attacks later, the phoenix rises. ",
     "reactions": {
       "url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/379/reactions",
       "total_count": 0,
