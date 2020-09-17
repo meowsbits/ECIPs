@@ -1,7 +1,7 @@
 From a718ff30f05e63a88cdf42419a45360575d4bf2f Mon Sep 17 00:00:00 2001
 From: Yaz Khoury <yaz.khoury@gmail.com>
 Date: Tue, 15 Sep 2020 08:57:17 -0400
-Subject: [PATCH] doc: Replace Yaz with Stevan as ECIP Editor
+Subject: [PATCH 1/2] doc: Replace Yaz with Stevan as ECIP Editor
 
 I'm replacing myself with Stevan as ECIP Editor that is representing the ETC Cooperative.
 ---
@@ -26,3 +26,25 @@ index b89149333..e3f3622f7 100644
  
  ## ECIP Editor Responsibilities & Workflow
  
+
+From 8c1f5e50b347fba287b5e573033371a016ae722b Mon Sep 17 00:00:00 2001
+From: Yaz Khoury <yaz.khoury@gmail.com>
+Date: Thu, 17 Sep 2020 10:24:09 -0400
+Subject: [PATCH 2/2] doc: Remove Stev Reference
+
+---
+ _specs/ecip-1000.md | 1 -
+ 1 file changed, 1 deletion(-)
+
+diff --git a/_specs/ecip-1000.md b/_specs/ecip-1000.md
+index e3f3622f7..544533384 100644
+--- a/_specs/ecip-1000.md
++++ b/_specs/ecip-1000.md
+@@ -75,7 +75,6 @@ Current ECIP editors:
+ * Mr. Meows D. Bits (@meowsbits)
+ * Cody Burns (@realcodywburns)
+ * Talha Cross (@soc1c)
+-* Stevan Lohja (@stevanlohja)
+ * Zachary Belford (@BelfordZ)
+ 
+ Former ECIP editors:
