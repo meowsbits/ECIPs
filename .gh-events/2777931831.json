@@ -83,7 +83,7 @@
       "created_at": "2019-11-07T02:24:24Z",
       "updated_at": "2019-11-26T18:22:03Z",
       "closed_at": "2019-11-26T18:22:03Z",
-      "author_association": "MEMBER",
+      "author_association": "CONTRIBUTOR",
       "active_lock_reason": null,
       "body": "Discussions for ProgPoW for ETC Discussions concerning this Pull Request: https://github.com/ethereumclassic/ECIPs/pull/171",
       "performed_via_github_app": null

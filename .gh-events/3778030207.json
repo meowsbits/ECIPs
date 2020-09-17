@@ -1,7 +1,7 @@
 {
-    "id": 3768279807,
-    "node_id": "MDEyOkxhYmVsZWRFdmVudDM3NjgyNzk4MDc=",
-    "url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/events/3768279807",
+    "id": 3778030207,
+    "node_id": "MDIwOlJldmlld0Rpc21pc3NlZEV2ZW50Mzc3ODAzMDIwNw==",
+    "url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/events/3778030207",
     "actor": {
       "login": "q9f",
       "id": 58883403,
@@ -22,13 +22,14 @@
       "type": "User",
       "site_admin": false
     },
-    "event": "labeled",
+    "event": "review_dismissed",
     "commit_id": null,
     "commit_url": null,
-    "created_at": "2020-09-15T13:14:24Z",
-    "label": {
-      "name": "editor:7 looks-good",
-      "color": "66bd63"
+    "created_at": "2020-09-17T13:37:40Z",
+    "dismissed_review": {
+      "state": "approved",
+      "review_id": 488667910,
+      "dismissal_message": "As per BelfordZ' comment"
     },
     "issue": {
       "url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/378",
