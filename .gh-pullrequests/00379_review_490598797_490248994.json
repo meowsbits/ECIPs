@@ -1,0 +1,49 @@
+{
+    "id": 490248994,
+    "node_id": "MDI0OlB1bGxSZXF1ZXN0UmV2aWV3Q29tbWVudDQ5MDI0ODk5NA==",
+    "url": "https://api.github.com/repos/ethereumclassic/ECIPs/pulls/comments/490248994",
+    "pull_request_review_id": 490598797,
+    "diff_hunk": "@@ -1,32 +1,49 @@\n ---\n lang: en\n ecip: 1049\n-title: Change the ETC Proof of Work Algorithm to Keccak256\n-status: Last Call\n+title: Change the ETC Proof of Work Algorithm to the Keccak-256\n+author: Alexander Tsankov (alexander.tsankov@colorado.edu)\n+status: Accepted",
+    "path": "_specs/ecip-1049.md",
+    "position": 8,
+    "original_position": 8,
+    "commit_id": "921e13ebcd1e8cb00e8acd2b75af8203fded9dd5",
+    "user": {
+      "login": "q9f",
+      "id": 58883403,
+      "node_id": "MDQ6VXNlcjU4ODgzNDAz",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/58883403?u=72563674ea84909432bf249ab92fb936dffa313d&v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/q9f",
+      "html_url": "https://github.com/q9f",
+      "followers_url": "https://api.github.com/users/q9f/followers",
+      "following_url": "https://api.github.com/users/q9f/following{/other_user}",
+      "gists_url": "https://api.github.com/users/q9f/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/q9f/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/q9f/subscriptions",
+      "organizations_url": "https://api.github.com/users/q9f/orgs",
+      "repos_url": "https://api.github.com/users/q9f/repos",
+      "events_url": "https://api.github.com/users/q9f/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/q9f/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "body": "Please leave this in Last Call as the review period did not end yet.\r\n\r\n```suggestion\r\nstatus: Last Call\r\n```",
+    "created_at": "2020-09-17T13:33:00Z",
+    "updated_at": "2020-09-17T13:35:23Z",
+    "html_url": "https://github.com/ethereumclassic/ECIPs/pull/379#discussion_r490248994",
+    "pull_request_url": "https://api.github.com/repos/ethereumclassic/ECIPs/pulls/379",
+    "author_association": "MEMBER",
+    "_links": {
+      "self": {
+        "href": "https://api.github.com/repos/ethereumclassic/ECIPs/pulls/comments/490248994"
+      },
+      "html": {
+        "href": "https://github.com/ethereumclassic/ECIPs/pull/379#discussion_r490248994"
+      },
+      "pull_request": {
+        "href": "https://api.github.com/repos/ethereumclassic/ECIPs/pulls/379"
+      }
+    },
+    "original_commit_id": "921e13ebcd1e8cb00e8acd2b75af8203fded9dd5"
+  }
