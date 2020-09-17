@@ -1,0 +1,90 @@
+{
+    "id": 3775508373,
+    "node_id": "MDE3OlJlbmFtZWRUaXRsZUV2ZW50Mzc3NTUwODM3Mw==",
+    "url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/events/3775508373",
+    "actor": {
+      "login": "p3c-bot",
+      "id": 40745785,
+      "node_id": "MDQ6VXNlcjQwNzQ1Nzg1",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/40745785?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/p3c-bot",
+      "html_url": "https://github.com/p3c-bot",
+      "followers_url": "https://api.github.com/users/p3c-bot/followers",
+      "following_url": "https://api.github.com/users/p3c-bot/following{/other_user}",
+      "gists_url": "https://api.github.com/users/p3c-bot/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/p3c-bot/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/p3c-bot/subscriptions",
+      "organizations_url": "https://api.github.com/users/p3c-bot/orgs",
+      "repos_url": "https://api.github.com/users/p3c-bot/repos",
+      "events_url": "https://api.github.com/users/p3c-bot/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/p3c-bot/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "event": "renamed",
+    "commit_id": null,
+    "commit_url": null,
+    "created_at": "2020-09-17T00:02:47Z",
+    "rename": {
+      "from": "Proposal Moved to Accepted",
+      "to": "ECIP-1049 Proposal Moved to Accepted"
+    },
+    "issue": {
+      "url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/379",
+      "repository_url": "https://api.github.com/repos/ethereumclassic/ECIPs",
+      "labels_url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/379/labels{/name}",
+      "comments_url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/379/comments",
+      "events_url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/379/events",
+      "html_url": "https://github.com/ethereumclassic/ECIPs/pull/379",
+      "id": 703165649,
+      "node_id": "MDExOlB1bGxSZXF1ZXN0NDg4MzIxNjc4",
+      "number": 379,
+      "title": "ECIP-1049 Proposal Moved to Accepted",
+      "user": {
+        "login": "p3c-bot",
+        "id": 40745785,
+        "node_id": "MDQ6VXNlcjQwNzQ1Nzg1",
+        "avatar_url": "https://avatars1.githubusercontent.com/u/40745785?v=4",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/p3c-bot",
+        "html_url": "https://github.com/p3c-bot",
+        "followers_url": "https://api.github.com/users/p3c-bot/followers",
+        "following_url": "https://api.github.com/users/p3c-bot/following{/other_user}",
+        "gists_url": "https://api.github.com/users/p3c-bot/gists{/gist_id}",
+        "starred_url": "https://api.github.com/users/p3c-bot/starred{/owner}{/repo}",
+        "subscriptions_url": "https://api.github.com/users/p3c-bot/subscriptions",
+        "organizations_url": "https://api.github.com/users/p3c-bot/orgs",
+        "repos_url": "https://api.github.com/users/p3c-bot/repos",
+        "events_url": "https://api.github.com/users/p3c-bot/events{/privacy}",
+        "received_events_url": "https://api.github.com/users/p3c-bot/received_events",
+        "type": "User",
+        "site_admin": false
+      },
+      "labels": [
+
+      ],
+      "state": "open",
+      "locked": false,
+      "assignee": null,
+      "assignees": [
+
+      ],
+      "milestone": null,
+      "comments": 0,
+      "created_at": "2020-09-16T23:59:08Z",
+      "updated_at": "2020-09-17T00:02:47Z",
+      "closed_at": null,
+      "author_association": "CONTRIBUTOR",
+      "active_lock_reason": null,
+      "pull_request": {
+        "url": "https://api.github.com/repos/ethereumclassic/ECIPs/pulls/379",
+        "html_url": "https://github.com/ethereumclassic/ECIPs/pull/379",
+        "diff_url": "https://github.com/ethereumclassic/ECIPs/pull/379.diff",
+        "patch_url": "https://github.com/ethereumclassic/ECIPs/pull/379.patch"
+      },
+      "body": "When this is accepted into the repo, ECIP-1049 is finalized.",
+      "performed_via_github_app": null
+    },
+    "performed_via_github_app": null
+  }
