@@ -1,7 +1,7 @@
 {
-    "id": 3778016347,
-    "node_id": "MDEyOkxhYmVsZWRFdmVudDM3NzgwMTYzNDc=",
-    "url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/events/3778016347",
+    "id": 3782745666,
+    "node_id": "MDE0OlVubGFiZWxlZEV2ZW50Mzc4Mjc0NTY2Ng==",
+    "url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/events/3782745666",
     "actor": {
       "login": "q9f",
       "id": 58883403,
@@ -22,13 +22,13 @@
       "type": "User",
       "site_admin": false
     },
-    "event": "labeled",
+    "event": "unlabeled",
     "commit_id": null,
     "commit_url": null,
-    "created_at": "2020-09-17T13:35:36Z",
+    "created_at": "2020-09-18T13:57:18Z",
     "label": {
-      "name": "status:5 last-call",
-      "color": "969696"
+      "name": "editor:1 grumble",
+      "color": "f46d43"
     },
     "issue": {
       "url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/379",
