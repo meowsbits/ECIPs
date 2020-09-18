@@ -1,0 +1,30 @@
+From 67f892a63b7be9b29773539a4e46fa418b6e7087 Mon Sep 17 00:00:00 2001
+From: Cody Burns <cody.w.burns@gmail.com>
+Date: Thu, 17 Sep 2020 23:30:17 -0500
+Subject: [PATCH] resolving build errors
+
+_specs/ecip-1043.md is NOT valid:	 {:status=>["is not included in the list"]}
+frontmatterparser rescued from a nil death
+Warning: _specs/ecip-1077.md 	 undefined method `keys' for nil:NilClass
+Warning: _specs/ecip-1090.md 	 unknown attribute 'supersedes' for EcipValidator::Validator.
+
+
+total:77, valid:74, invalid:1, errors:2
+	statuses: [["Withdrawn", 13], ["Active", 2], ["Final", 11], ["Draft", 35], ["Superseded", 3], ["Replaced", 1], ["Last Call", 1], ["Rejected", 9]]
+---
+ _specs/ecip-1043.md | 2 +-
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+
+diff --git a/_specs/ecip-1043.md b/_specs/ecip-1043.md
+index 728fe5889..404d62f15 100644
+--- a/_specs/ecip-1043.md
++++ b/_specs/ecip-1043.md
+@@ -3,7 +3,7 @@ lang: en
+ ecip: 1043
+ title: Fixed DAG limit restriction 
+ author: Cody Burns <cody.w.burns@gmail.com>, Wolf Spraul <wolf@linzhi.io>
+-status: Replaced
++status: Superseded
+ type: Standards Track
+ category: Core
+ discussions-to: https://github.com/ethereumclassic/ECIPs/issues/11
