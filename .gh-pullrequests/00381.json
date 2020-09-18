@@ -31,13 +31,13 @@
     },
     "labels": [
       {
-        "id": 1488234618,
-        "node_id": "MDU6TGFiZWwxNDg4MjM0NjE4",
-        "url": "https://api.github.com/repos/ethereumclassic/ECIPs/labels/editor:1%20grumble",
-        "name": "editor:1 grumble",
-        "color": "f46d43",
+        "id": 2347184780,
+        "node_id": "MDU6TGFiZWwyMzQ3MTg0Nzgw",
+        "url": "https://api.github.com/repos/ethereumclassic/ECIPs/labels/editor:9%20perfect",
+        "name": "editor:9 perfect",
+        "color": "1a9850",
         "default": false,
-        "description": "This contribution has minor issues that should be addressed."
+        "description": "This is an outstanding contribution."
       },
       {
         "id": 2347243041,
@@ -67,7 +67,7 @@
     "milestone": null,
     "comments": 0,
     "created_at": "2020-09-18T04:30:41Z",
-    "updated_at": "2020-09-18T04:31:22Z",
+    "updated_at": "2020-09-18T04:36:36Z",
     "closed_at": null,
     "author_association": "MEMBER",
     "active_lock_reason": null,
