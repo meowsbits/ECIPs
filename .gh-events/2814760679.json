@@ -36,7 +36,7 @@
       "id": 399916230,
       "node_id": "MDU6SXNzdWUzOTk5MTYyMzA=",
       "number": 13,
-      "title": "ECIP-1049: Change the ETC Proof of Work Algorithm to the SHA3 Standard",
+      "title": "ECIP-1049: Change the ETC Proof of Work Algorithm to Keccak-256",
       "user": {
         "login": "p3c-bot",
         "id": 40745785,
@@ -86,7 +86,7 @@
       "milestone": null,
       "comments": 119,
       "created_at": "2019-01-16T17:27:19Z",
-      "updated_at": "2020-09-16T23:48:22Z",
+      "updated_at": "2020-09-20T16:02:47Z",
       "closed_at": null,
       "author_association": "CONTRIBUTOR",
       "active_lock_reason": null,
