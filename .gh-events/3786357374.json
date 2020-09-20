@@ -40,7 +40,7 @@
       "id": 704136989,
       "node_id": "MDU6SXNzdWU3MDQxMzY5ODk=",
       "number": 382,
-      "title": "ETC Core Devs Call 15: SHA3-256 or Keccak256 Opposition Formal Conversation",
+      "title": "ETC Core Devs Call 15 - ECIP-1049 SHA3 Opposition Call",
       "user": {
         "login": "gitr0n1n",
         "id": 58588775,
@@ -73,7 +73,7 @@
       "milestone": null,
       "comments": 2,
       "created_at": "2020-09-18T06:50:48Z",
-      "updated_at": "2020-09-20T19:43:44Z",
+      "updated_at": "2020-09-20T20:14:10Z",
       "closed_at": null,
       "author_association": "MEMBER",
       "active_lock_reason": null,
