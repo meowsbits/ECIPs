@@ -1,7 +1,7 @@
 {
-    "id": 3730959613,
-    "node_id": "MDE1OlN1YnNjcmliZWRFdmVudDM3MzA5NTk2MTM=",
-    "url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/events/3730959613",
+    "id": 3786200401,
+    "node_id": "MDE3OlJlbmFtZWRUaXRsZUV2ZW50Mzc4NjIwMDQwMQ==",
+    "url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/events/3786200401",
     "actor": {
       "login": "p3c-bot",
       "id": 40745785,
@@ -22,10 +22,14 @@
       "type": "User",
       "site_admin": false
     },
-    "event": "subscribed",
+    "event": "renamed",
     "commit_id": null,
     "commit_url": null,
-    "created_at": "2020-09-04T18:06:06Z",
+    "created_at": "2020-09-20T16:02:47Z",
+    "rename": {
+      "from": "ECIP-1049: Change the ETC Proof of Work Algorithm to the SHA3 Standard",
+      "to": "ECIP-1049: Change the ETC Proof of Work Algorithm to Keccak-256"
+    },
     "issue": {
       "url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/13",
       "repository_url": "https://api.github.com/repos/ethereumclassic/ECIPs",
