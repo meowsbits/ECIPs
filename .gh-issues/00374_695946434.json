@@ -25,9 +25,9 @@
       "site_admin": false
     },
     "created_at": "2020-09-21T07:20:36Z",
-    "updated_at": "2020-09-21T07:20:36Z",
+    "updated_at": "2020-09-21T07:25:01Z",
     "author_association": "MEMBER",
-    "body": "> When you have the lead core developer of the main client and the leading development company propose \"weak subjectivity\" in a blockchain, you know there is no hope for that system anymore...and it is a waste of time...\r\n\r\nWhat's your proposal?",
+    "body": "> When you have the lead core developer of the main client and the leading development company propose \"weak subjectivity\" in a blockchain, you know there is no hope for that system anymore...and it is a waste of time...\r\n\r\nWhat's your proposal?\r\n\r\nWe don't have to accept MESS but we should at least show some respect to the few engineers that are still willing to design and implement solutions for Classic.\r\n\r\nOnce exchanges start delisting ETC because 100k confirmations are unpractical, Classic will further go down in a death spiral. Creating proposals such as ECBP-1100 gives miners, pools, exchanges, and other service providers a way to _quantify_ the risks they are taking by looking at the hashrate and estimating how viable attacks are and how high (or low) the min confirmation numbers should be. \r\n\r\nMESS is one of the least invasive proposals we've seen to date and allows to reduce confirmation times for pools and exchanges.",
     "reactions": {
       "url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/comments/695946434/reactions",
       "total_count": 0,
