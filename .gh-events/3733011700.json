@@ -84,13 +84,13 @@
 
       ],
       "milestone": null,
-      "comments": 36,
+      "comments": 37,
       "created_at": "2020-09-03T12:51:09Z",
-      "updated_at": "2020-09-21T13:37:54Z",
+      "updated_at": "2020-09-21T17:17:17Z",
       "closed_at": null,
       "author_association": "CONTRIBUTOR",
       "active_lock_reason": null,
-      "body": "\r\n# ETC Core Devs Call 14\r\n* When: **Friday, September 25, 2020, 4pm UTC,** 90 minutes max\r\n* Where: Jitsi link will be published ahead of the call.\r\n* Focus: Mining Algorithm, Last-Call Proposals, and other 51%-Attack Solutions.\r\n\r\n### Agenda\r\n* 51% Proposals\r\n    * ECIP 1092 PIRLGUARD (Draft)\r\n    * ECIP 1100 Modified Exponential Subjective Scoring (Draft)\r\n* Last-Call Proposals\r\n    * ECIP 1049 KECCAK256 (Last Call)\r\n    * ECIP 1099 Calibrate Epoch Duration (Last Call)\r\n\r\n_Please post all relevant proposals below that should be discussed and evaluated._\r\n\r\n# ETC Core Devs Call 13\r\n* When: **Friday, September 11, 2020, 4pm UTC,** 90 minutes max\r\n* Where: Jitsi \r\n  * Web/App [ETCCoreDevsCall13](https://meet.jit.si/ETCCoreDevsCall13#config.startWithVideoMuted=true&config.startVideoMuted=true)\r\n  * Dial in PIN `1401 7587 98` for [ETCCoreDevsCall13](https://meet.jit.si/static/dialInInfo.html?room=ETCCoreDevsCall13) numbers\r\n* Focus: Mining Algorithm, Last-Call Proposals\r\n\r\n### Agenda\r\n* ECIP 1043 Fixed Dag Size Restriction (Last Call)\r\n* ECIP 1099 Calibrate Epoch Duration (Draft, alternative to 1043)\r\n* ECIP 1049 KECCAK256 (Last Call)\r\n* ECIP 1095 SHA3-256 (Last Call, alternative to 1049)\r\n\r\nAudio recording: https://www.youtube.com/watch?v=9r_q_z81eh4\r\n",
+      "body": "# ETC Core Devs Call 14\r\n* When: **Friday, September 25, 2020, 4pm UTC,** 90 minutes max\r\n* Where: [ETC Discord](https://discord.gg/XTXcH7)\r\n* Focus: Mining Algorithm, Last-Call Proposals, and other 51%-Attack Solutions.\r\n\r\n### Agenda\r\n* 51% Proposals\r\n    * ECIP 1092 PIRLGUARD (Draft)\r\n    * ECIP 1100 Modified Exponential Subjective Scoring (Draft)\r\n* Last-Call Proposals\r\n    * ECIP 1049 KECCAK256 (Last Call)\r\n    * ECIP 1099 Calibrate Epoch Duration (Last Call)\r\n\r\n_Please post all relevant proposals below that should be discussed and evaluated._\r\n\r\n# ETC Core Devs Call 13\r\n* When: **Friday, September 11, 2020, 4pm UTC,** 90 minutes max\r\n* Where: Jitsi \r\n  * Web/App [ETCCoreDevsCall13](https://meet.jit.si/ETCCoreDevsCall13#config.startWithVideoMuted=true&config.startVideoMuted=true)\r\n  * Dial in PIN `1401 7587 98` for [ETCCoreDevsCall13](https://meet.jit.si/static/dialInInfo.html?room=ETCCoreDevsCall13) numbers\r\n* Focus: Mining Algorithm, Last-Call Proposals\r\n\r\n### Agenda\r\n* ECIP 1043 Fixed Dag Size Restriction (Last Call)\r\n* ECIP 1099 Calibrate Epoch Duration (Draft, alternative to 1043)\r\n* ECIP 1049 KECCAK256 (Last Call)\r\n* ECIP 1095 SHA3-256 (Last Call, alternative to 1049)\r\n\r\nAudio recording: https://www.youtube.com/watch?v=9r_q_z81eh4\r\n",
       "performed_via_github_app": null
     },
     "performed_via_github_app": null

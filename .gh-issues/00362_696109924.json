@@ -25,9 +25,9 @@
       "site_admin": false
     },
     "created_at": "2020-09-21T13:19:59Z",
-    "updated_at": "2020-09-21T13:37:54Z",
+    "updated_at": "2020-09-21T16:34:18Z",
     "author_association": "MEMBER",
-    "body": "Given the ECIP-1049 has dominated CDC 11, 12, and 13. It's probably great to allow other proposals to be addressed with the limited 90 minute call on CDC 14: ECIP-1092, 1097, 1099 and ECBP 1100. @q9f \r\n\r\nI've scheduled a 120 minute max CDC 15 specifically to talk about ECIP-1049. The author has agreed to show up to that call. So continued conversation on ECIP-1049 can likely wait a week to let all these other proposals have a chance to be discussed.\r\nhttps://github.com/ethereumclassic/ECIPs/issues/382",
+    "body": "Given that ECIP-1049 has dominated CDC 11, 12, and 13. It's probably great to allow other proposals to be addressed within the limited 90 minute call on CDC 14  @q9f:\r\n\r\n- ECIP-1092\r\n- ECIP-1096\r\n- ECIP-1097\r\n- ECIP-1099\r\n- ECBP 1100\r\n\r\nI've scheduled a 120 minute max CDC 15 specifically to talk about ECIP-1049. The author has agreed to show up to that call. So continued conversation on ECIP-1049 can likely wait a week to let all these other proposals have a chance to be discussed.\r\nhttps://github.com/ethereumclassic/ECIPs/issues/382",
     "reactions": {
       "url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/comments/696109924/reactions",
       "total_count": 0,
