@@ -1,4 +1,4 @@
-From 171542d3963ff669f7d2424170eab5d4e539b719 Mon Sep 17 00:00:00 2001
+From 80492d15e8fbcd091b052e10a0e6de6f03752128 Mon Sep 17 00:00:00 2001
 From: meows <b5c6@protonmail.com>
 Date: Tue, 22 Sep 2020 16:50:32 -0500
 Subject: [PATCH] _specs/ecip-1100.md: vitalik's polynomial cubic,
@@ -12,7 +12,7 @@ Signed-off-by: meows <b5c6@protonmail.com>
  1 file changed, 325 insertions(+), 57 deletions(-)
 
 diff --git a/_specs/ecip-1100.md b/_specs/ecip-1100.md
-index 70b516ec9..baee38b7a 100644
+index 70b516ec9..7ce8d82ad 100644
 --- a/_specs/ecip-1100.md
 +++ b/_specs/ecip-1100.md
 @@ -23,99 +23,356 @@ This proposal offers a way to increase the finality rate without tampering with
@@ -57,8 +57,8 @@ index 70b516ec9..baee38b7a 100644
 +#### Existing Subjective Arbitrations
 +
 +This specification assumes __existing__ extra-protocol behavior as:
-+- a 50% randomized acceptance rate for proposed blocks having equal total difficulty and number, per [Eyal and Sirer](http://www.cs.cornell.edu/~ie53/publications/btcProcFC.pdf)
 +- preference of self-mined blocks for proposed blocks having equal total difficulty and number
++- then, a 50% randomized acceptance rate for proposed blocks having equal total difficulty and number, per [Eyal and Sirer](http://www.cs.cornell.edu/~ie53/publications/btcProcFC.pdf)
 +
 +These evaluations are implemented at the etclabscore/core-geth and ethereum/go-ethereum clients as:
  
@@ -352,7 +352,7 @@ index 70b516ec9..baee38b7a 100644
 -## Rationale
 +#### The Case and Place of Subjectivity
 +
-+This specification _maintains_ the (modified) GHOST protocol as an invariant; _existing consensus rules are not modified nor sidestepped_. Modified only is the _schedule_ (ie "pace", "timeline") at which clients choose to implement these established procedures. The heaviest (most difficult) chain will -- still -- always win. Proposed only is to make clients somewhat stubborn in their opinion and processing of chains; it makes them sluggish and resistant to big changes. It gives them an opinion.
++This specification _maintains_ the (modified) GHOST protocol as an invariant; _existing consensus rules are not modified nor sidestepped_. Modified only is the _schedule_ (ie "pace", "timeline") at which clients choose to implement these established procedures. The heaviest (most difficult) chain will -- still -- always, eventually, win. Proposed only is to make clients somewhat stubborn in their opinion and processing of chains; it makes them sluggish and resistant to big changes. It gives them a (temporary) opinion.
 +
 +Opinions are allowed under GHOST and the rest of Ethereum's Yellow Paper (and Satoshi's email chains). Nowhere is it specified that blocks must be imported or included immediately, nor that a miner must mine on the heaviest chain available to them, nor that submitted transactions must be processed, nor that blocks must be propagated regularly.
 +
