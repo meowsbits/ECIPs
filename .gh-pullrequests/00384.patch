@@ -1,4 +1,4 @@
-From f5cba0d289a199a21e1d967fabcd632715cc564e Mon Sep 17 00:00:00 2001
+From 07ff6eb09789f36178106ffd3c9ef774711fd634 Mon Sep 17 00:00:00 2001
 From: meows <b5c6@protonmail.com>
 Date: Tue, 22 Sep 2020 16:50:32 -0500
 Subject: [PATCH] _specs/ecip-1100.md: vitalik's polynomial cubic,
@@ -12,7 +12,7 @@ Signed-off-by: meows <b5c6@protonmail.com>
  1 file changed, 321 insertions(+), 57 deletions(-)
 
 diff --git a/_specs/ecip-1100.md b/_specs/ecip-1100.md
-index 70b516ec9..cff7a5cc5 100644
+index 70b516ec9..9e9640e85 100644
 --- a/_specs/ecip-1100.md
 +++ b/_specs/ecip-1100.md
 @@ -23,99 +23,352 @@ This proposal offers a way to increase the finality rate without tampering with
@@ -367,7 +367,7 @@ index 70b516ec9..cff7a5cc5 100644
 +
 +> When geth wants to reorganize its existing chain for a too-long or too-old chain segment, have it just send an email to its operator saying: _Geth has found a suspicious chain segment and requires a human's wisdom and advice_... and then turn off. 
 +
-+Except for a few fancy bells and whistles (_ie_ maybe not `panic`ing), and a proposed CONVENTION for determining suspicion, these proposals are more alike than different.
++Except for a few fancy bells and whistles (_ie_ maybe not shutting down... :)), and a proposed CONVENTION for determining suspicion, these proposals are more alike than different.
 +
 +Network participants are allowed to be stubborn curmudgeons with opinions. ECIP1100 wants to help them do that gracefully.
  
