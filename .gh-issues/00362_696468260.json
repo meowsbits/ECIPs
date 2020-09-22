@@ -1,9 +1,9 @@
 {
-    "url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/comments/696467404",
-    "html_url": "https://github.com/ethereumclassic/ECIPs/issues/382#issuecomment-696467404",
-    "issue_url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/382",
-    "id": 696467404,
-    "node_id": "MDEyOklzc3VlQ29tbWVudDY5NjQ2NzQwNA==",
+    "url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/comments/696468260",
+    "html_url": "https://github.com/ethereumclassic/ECIPs/issues/362#issuecomment-696468260",
+    "issue_url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/362",
+    "id": 696468260,
+    "node_id": "MDEyOklzc3VlQ29tbWVudDY5NjQ2ODI2MA==",
     "user": {
       "login": "antsankov",
       "id": 2533512,
@@ -24,12 +24,12 @@
       "type": "User",
       "site_admin": false
     },
-    "created_at": "2020-09-22T01:40:40Z",
-    "updated_at": "2020-09-22T01:41:37Z",
+    "created_at": "2020-09-22T01:45:11Z",
+    "updated_at": "2020-09-22T01:45:11Z",
     "author_association": "NONE",
-    "body": "I will be there on that date, October 2nd at 4PM UTC to address questions brought up. This will be voice only, and on the discord ideally. I respect @gitr0n1n a lot for the work, entirely on his own, meticulously maintaining the ETC wikipedia page. By the end of the call we'll either see eye to eye, or at least agree to disagree. \r\n\r\nIt's important to note that we had 2 previous calls, ETC Core Devs Call 13 (9/11/2020) and ETC Core Devs Call 12 (08/03/2020),  about the exact subject of ECIP-1049 @gitr0n1n wasn't on either of them. I had taken time to prepare extensively, brought experts on, and extensively addressed all concerns brought up during the call. \r\n",
+    "body": "I won't be able to speak at this discussion, but will be able to listen. However on October 2nd @ 4PM UTC, I will be doing a full call with GitR0nin that will be devoted entirely to the subject of ECIP-1049 and Keccak256.  \r\n\r\nIdeally this call can be entirely focused on PirlGuard and Mess, and which one is a better approach. ",
     "reactions": {
-      "url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/comments/696467404/reactions",
+      "url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/comments/696468260/reactions",
       "total_count": 0,
       "+1": 0,
       "-1": 0,
