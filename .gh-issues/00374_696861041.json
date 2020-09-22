@@ -25,9 +25,9 @@
       "site_admin": false
     },
     "created_at": "2020-09-22T17:18:47Z",
-    "updated_at": "2020-09-22T17:18:47Z",
+    "updated_at": "2020-09-22T17:23:55Z",
     "author_association": "CONTRIBUTOR",
-    "body": "@meowsbits, at least the right other people.\r\n\r\nVitalik's case for weak subjectivity:\r\n\r\n\"[Bad Bitcoiners say] if the solution to long-range attacks is some alternative deciding mechanism X, then the security of the blockchain ultimately depends on X, and so the algorithm is in reality no more secure than using X directly...\"\r\n\r\n\"[However, Bad Bitcoiners are wrong because] this logic ignores why consensus algorithms exist in the first place. Consensus is a social process, and human beings are fairly good at engaging in consensus on our own without any help from algorithms...\"\r\n\r\nRepeat:\r\n\r\n\"Consensus is a social process...\"\r\n\r\n\"...human beings are fairly good at engaging in consensus...\"\r\n\r\nYeah! Brilliant! Hey, why don't we just use PayPal?",
+    "body": "@meowsbits, at least the right other people.\r\n\r\nVitalik's case for weak subjectivity:\r\n\r\n\"[Bad Bitcoiners say] if the solution to long-range attacks is some alternative deciding mechanism X, then the security of the blockchain ultimately depends on X, and so the algorithm is in reality no more secure than using X directly...\"\r\n\r\n\"[However, Bad Bitcoiners are wrong because] this logic ignores why consensus algorithms exist in the first place. Consensus is a social process, and human beings are fairly good at engaging in consensus on our own without any help from algorithms...\"\r\n\r\nRepeat:\r\n\r\n\"Consensus is a social process...\"\r\n\r\n\"...human beings are fairly good at engaging in consensus...\"\r\n\r\n\"...without any help from algorithms...\"\r\n\r\nYeah! Brilliant! Hey, why don't we just use PayPal?",
     "reactions": {
       "url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/comments/696861041/reactions",
       "total_count": 0,
