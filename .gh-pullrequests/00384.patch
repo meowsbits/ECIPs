@@ -1,4 +1,4 @@
-From 6a4589b7d7d142839aab1d105a6ba311d0a90719 Mon Sep 17 00:00:00 2001
+From f5cba0d289a199a21e1d967fabcd632715cc564e Mon Sep 17 00:00:00 2001
 From: meows <b5c6@protonmail.com>
 Date: Tue, 22 Sep 2020 16:50:32 -0500
 Subject: [PATCH] _specs/ecip-1100.md: vitalik's polynomial cubic,
@@ -12,7 +12,7 @@ Signed-off-by: meows <b5c6@protonmail.com>
  1 file changed, 321 insertions(+), 57 deletions(-)
 
 diff --git a/_specs/ecip-1100.md b/_specs/ecip-1100.md
-index 70b516ec9..d12d2edb3 100644
+index 70b516ec9..cff7a5cc5 100644
 --- a/_specs/ecip-1100.md
 +++ b/_specs/ecip-1100.md
 @@ -23,99 +23,352 @@ This proposal offers a way to increase the finality rate without tampering with
@@ -433,7 +433,7 @@ index 70b516ec9..d12d2edb3 100644
  __Core-Geth__
  
 -- Feature is tentatively proposed to activate in Core-Geth on Ethereum Classic network at and above block 11295300.
-+- Feature is tentatively proposed to activate in Core-Geth on Ethereum Classic network at and above block 11377500 (ETA Wednesay, 29 September 2020).
++- Feature is tentatively proposed to activate in Core-Geth on Ethereum Classic network at and above block 11377500 (ETA Wednesay, 30 September 2020).
  - Feature is proposed to activate in Core-Geth on Ethereum Classic's Mordor test network at and above block 2290740.
  
  - Core-Geth feature implementation includes a few additional safety mechanisms:
