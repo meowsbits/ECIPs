@@ -1,4 +1,4 @@
-From 07ff6eb09789f36178106ffd3c9ef774711fd634 Mon Sep 17 00:00:00 2001
+From da1e9266c4f87347f73aae8ad801f06b21c37f13 Mon Sep 17 00:00:00 2001
 From: meows <b5c6@protonmail.com>
 Date: Tue, 22 Sep 2020 16:50:32 -0500
 Subject: [PATCH] _specs/ecip-1100.md: vitalik's polynomial cubic,
@@ -12,7 +12,7 @@ Signed-off-by: meows <b5c6@protonmail.com>
  1 file changed, 321 insertions(+), 57 deletions(-)
 
 diff --git a/_specs/ecip-1100.md b/_specs/ecip-1100.md
-index 70b516ec9..9e9640e85 100644
+index 70b516ec9..b78c8376b 100644
 --- a/_specs/ecip-1100.md
 +++ b/_specs/ecip-1100.md
 @@ -23,99 +23,352 @@ This proposal offers a way to increase the finality rate without tampering with
@@ -37,11 +37,13 @@ index 70b516ec9..9e9640e85 100644
 +Conceptions of "small" and "large" are described functionally by the "suspicious" curve; a reorg becomes "big" when it becomes suspicious, and vice versa. This is parameterized by time and total difficulty. Generally, anything less than about 10 minutes won't be suspicious, and thus is considered "small." 
 +
 +- > nodes should value their local (first-available) segment with preference over the later proposed segment
- 
--The _sinusoidal function_ should be used to derive the "anti/gravity" of a proposed chain segment. The _condition function_ works to derive the necessary total difficulty ratio parameter, comparing it against the antigravity output.
++
 +Valuation is conventionalized as the difference between treating a block as a canonical head versus treating it like a side chain. In both cases the block data is stored and may be propagated. Miners normally only mine on top of blocks they consider to be canonical.
- 
--__Sinusoidal Function__
++
++
++<img src="https://user-images.githubusercontent.com/45600330/93938960-aee75180-fcef-11ea-83bb-3f0c57df5abf.png" />
++
++
 +#### Algorithm details
 +
 +This specification for subjective arbitration of chain segments based on availability cardinality, segment duration, and difficulty is provided which may be implemented by nodes to deter and avoid suspicious reorganizations.
@@ -51,9 +53,11 @@ index 70b516ec9..9e9640e85 100644
 +This specification should be applied in the client wherever total difficulty is used to evaluate a block's candidacy for the head of the chain database. In etclabscore/core-geth this occurs in the `BlockChain.writeBlockWithState` and its caller `BlockChain.insertChain` methods. 
 +
 +This specification should be applied only given the condition of a positive outcome for the existing subjective arbitration cases described below.
-+
+ 
+-The _sinusoidal function_ should be used to derive the "anti/gravity" of a proposed chain segment. The _condition function_ works to derive the necessary total difficulty ratio parameter, comparing it against the antigravity output.
 +In the case of a negative result from the arbitration, blocks should be deferred from receiving status as canonical, but still be stored as a sidechain. This, as opposed to outright rejection for failing blocks, permits segments which have not but may eventually achieve sufficient difficulty to maintain practical eligibility for canonical status.
-+
+ 
+-__Sinusoidal Function__
 +#### Existing Subjective Arbitrations
 +
 +This specification assumes __existing__ extra-protocol behavior as:
@@ -218,25 +222,25 @@ index 70b516ec9..9e9640e85 100644
 +	// if proposed_subchain_td * CURVE_FUNCTION_DENOMINATOR < get_curve_function_numerator(proposed.Time - commonAncestor.Time) * local_subchain_td.
 +	proposedSubchainTD := new(big.Int).Sub(proposedTD, commonAncestorTD)
 +	localSubchainTD := new(big.Int).Sub(localTD, commonAncestorTD)
- 
--	x := float64(proposed.Time - commonAncestor.Time)
--	antiGravity := ecbp1100AGSinusoidalA(x)
++
 +	xBig := big.NewInt(int64(proposed.Time - commonAncestor.Time))
 +	eq := ecbp1100PolynomialV(xBig)
 +	want := eq.Mul(eq, localSubchainTD)
  
--	if tdRatio < antiGravity {
--		// Using "b/a" here as "'B' chain vs. 'A' chain", where A is original (current), and B is proposed (new).
--		underpoweredBy := tdRatio / antiGravity
--		return fmt.Errorf("%w: ECPB1100-MESS: td.B/A%0.6f < antigravity%0.6f (under=%0.6f)", 
--			errReorgFinality, tdRatio, antiGravity, underpoweredBy)
+-	x := float64(proposed.Time - commonAncestor.Time)
+-	antiGravity := ecbp1100AGSinusoidalA(x)
 +	got := new(big.Int).Mul(proposedSubchainTD, ecbp1100PolynomialVCurveFunctionDenominator)
 +
 +	prettyRatio, _ := new(big.Float).Quo(
 +		new(big.Float).SetInt(got),
 +		new(big.Float).SetInt(want),
 +	).Float64()
-+
+ 
+-	if tdRatio < antiGravity {
+-		// Using "b/a" here as "'B' chain vs. 'A' chain", where A is original (current), and B is proposed (new).
+-		underpoweredBy := tdRatio / antiGravity
+-		return fmt.Errorf("%w: ECPB1100-MESS: td.B/A%0.6f < antigravity%0.6f (under=%0.6f)", 
+-			errReorgFinality, tdRatio, antiGravity, underpoweredBy)
 +	if got.Cmp(want) < 0 {
 +		return fmt.Errorf(`%w: ECBP1100-MESS 🔒 status=rejected age=%v current.span=%v proposed.span=%v tdr/gravity=%0.6f common.bno=%d common.hash=%s current.bno=%d current.hash=%s proposed.bno=%d proposed.hash=%s`,
 +			errReorgFinality,
@@ -334,10 +338,6 @@ index 70b516ec9..9e9640e85 100644
 +var ecbp1100PolynomialVHeight = new(big.Int).Mul(new(big.Int).Mul(ecbp1100PolynomialVCurveFunctionDenominator, ecbp1100PolynomialVAmpl), big2)
  ```
  
-+
-+### Visualization
-+
-+<img src="https://user-images.githubusercontent.com/45600330/93938960-aee75180-fcef-11ea-83bb-3f0c57df5abf.png" />
 +
 +
 +## Rationale
