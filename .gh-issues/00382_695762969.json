@@ -25,9 +25,9 @@
       "site_admin": false
     },
     "created_at": "2020-09-20T08:59:13Z",
-    "updated_at": "2020-09-20T20:13:26Z",
+    "updated_at": "2020-09-21T22:20:42Z",
     "author_association": "MEMBER",
-    "body": "When are the authors able to attend a CDC prior to Oct 9th? I'll be happy to host if necessary to give the opposition a fair stage and allow the authors plenty of time to respond to the opposition's documented concerns. @stevanlohja @p3c-bot @antsankov\r\n\r\nSuggested:\r\n\r\n### ETC Core Devs Call 15\r\n\r\n* When: Friday, October 2nd, 2020, 4pm UTC, 120 minutes max.\r\n* Where: Discord/Crowdcast (Some teams have cited censorship in the ETC Discord as an issue, so Crowdcast will be looked at)\r\n* Focus: SHA3-256/Keccak256 Mining Algorithm Change Opposition Formal Conversation\r\n\r\n### Agenda\r\n\r\n* Review opposition comments.\r\n* Give the authors a chance to discuss the opposition concerns on video.\r\n* Goal: work at finding consensus as suggested by the ECIP process.",
+    "body": "When are the authors able to attend a CDC prior to Oct 9th? I'll be happy to host if necessary to give the opposition a fair stage and allow the authors plenty of time to respond to the opposition's documented concerns. @stevanlohja @p3c-bot @antsankov\r\n\r\nSuggested:\r\n\r\n### ETC Core Devs Call 15\r\n\r\n* When: Friday, October 2nd, 2020, 4pm UTC, 120 minutes max.\r\n* Where: https://discord.gg/3ZbKvb\r\n* Focus: Keccak/Sha3 Mining Algorithm Change Opposition Formal Conversation\r\n\r\n### Agenda\r\n\r\n* Review opposition comments.\r\n* Give the authors a chance to discuss the opposition concerns on video.\r\n* Goal: work at finding consensus as suggested by the ECIP process.\r\n\r\n If anyone would like to record for redundancy sake, I will record the meeting with https://obsproject.com/ .",
     "reactions": {
       "url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/comments/695762969/reactions",
       "total_count": 0,
