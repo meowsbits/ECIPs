@@ -1,10 +1,8 @@
 {
-    "url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/comments/696468260",
-    "html_url": "https://github.com/ethereumclassic/ECIPs/issues/362#issuecomment-696468260",
-    "issue_url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/362",
-    "id": 696468260,
-    "node_id": "MDEyOklzc3VlQ29tbWVudDY5NjQ2ODI2MA==",
-    "user": {
+    "id": 3791441913,
+    "node_id": "MDE0Ok1lbnRpb25lZEV2ZW50Mzc5MTQ0MTkxMw==",
+    "url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/events/3791441913",
+    "actor": {
       "login": "antsankov",
       "id": 2533512,
       "node_id": "MDQ6VXNlcjI1MzM1MTI=",
@@ -24,21 +22,9 @@
       "type": "User",
       "site_admin": false
     },
-    "created_at": "2020-09-22T01:45:11Z",
-    "updated_at": "2020-09-22T01:47:44Z",
-    "author_association": "NONE",
-    "body": "I won't be able to speak at the 14 Dev Call, but will be able to listen. However on October 2nd @ 4PM UTC, I will be doing a full call that will be devoted entirely to the subject of ECIP-1049 and Keccak256.  \r\n\r\nIdeally this call can be entirely focused on PirlGuard and Mess, and which one is a better approach. ",
-    "reactions": {
-      "url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/comments/696468260/reactions",
-      "total_count": 0,
-      "+1": 0,
-      "-1": 0,
-      "laugh": 0,
-      "hooray": 0,
-      "confused": 0,
-      "heart": 0,
-      "rocket": 0,
-      "eyes": 0
-    },
+    "event": "mentioned",
+    "commit_id": null,
+    "commit_url": null,
+    "created_at": "2020-09-22T04:38:40Z",
     "performed_via_github_app": null
   }
