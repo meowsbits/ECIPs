@@ -1,10 +1,8 @@
 {
-    "url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/comments/697314783",
-    "html_url": "https://github.com/ethereumclassic/ECIPs/issues/362#issuecomment-697314783",
-    "issue_url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/362",
-    "id": 697314783,
-    "node_id": "MDEyOklzc3VlQ29tbWVudDY5NzMxNDc4Mw==",
-    "user": {
+    "id": 3797753803,
+    "node_id": "MDEyOkxhYmVsZWRFdmVudDM3OTc3NTM4MDM=",
+    "url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/events/3797753803",
+    "actor": {
       "login": "q9f",
       "id": 58883403,
       "node_id": "MDQ6VXNlcjU4ODgzNDAz",
@@ -24,21 +22,13 @@
       "type": "User",
       "site_admin": false
     },
-    "created_at": "2020-09-23T11:55:22Z",
-    "updated_at": "2020-09-23T11:59:03Z",
-    "author_association": "MEMBER",
-    "body": "OK, removed ECIP-1049 and added the other proposals :+1:\r\n\r\nI'm assuming that the authors of the proposals are informed, otherwise this will be confusing on the call.",
-    "reactions": {
-      "url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/comments/697314783/reactions",
-      "total_count": 0,
-      "+1": 0,
-      "-1": 0,
-      "laugh": 0,
-      "hooray": 0,
-      "confused": 0,
-      "heart": 0,
-      "rocket": 0,
-      "eyes": 0
+    "event": "labeled",
+    "commit_id": null,
+    "commit_url": null,
+    "created_at": "2020-09-23T12:08:00Z",
+    "label": {
+      "name": "meta:5 call",
+      "color": "c2a5cf"
     },
     "performed_via_github_app": null
   }
