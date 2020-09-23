@@ -25,9 +25,9 @@
       "site_admin": false
     },
     "created_at": "2020-09-23T14:18:07Z",
-    "updated_at": "2020-09-23T14:18:07Z",
+    "updated_at": "2020-09-23T14:21:45Z",
     "author_association": "MEMBER",
-    "body": "> 454 coregeth nodes\r\n\r\nthese are not all on the current version of geth. \r\n\r\nBut even if it is only adopted by a minority of nodes, they will eventually follow to the canonical head using mess. Once the majority subjectively accept blocks, it will protect the chain.  \r\n\r\ngiven the gravity of the vulnerability this is patching it seems like an acceptable risk.  ",
+    "body": "> 454 coregeth nodes\r\n\r\nthese are not all on the current version of geth. \r\n\r\nBut even if it is only adopted by a minority of nodes, they will eventually follow to the canonical head using mess. Once the majority subjectively accept blocks, it will protect the chain.  \r\n\r\ngiven the gravity of the vulnerability this is patching it seems like an acceptable risk.  \r\n\r\n# Please move discussion to the discussion thread, this thread will be closed when this update is merged",
     "reactions": {
       "url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/comments/697428649/reactions",
       "total_count": 0,
