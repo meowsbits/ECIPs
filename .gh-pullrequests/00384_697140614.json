@@ -25,9 +25,9 @@
       "site_admin": false
     },
     "created_at": "2020-09-23T05:22:15Z",
-    "updated_at": "2020-09-23T05:22:15Z",
+    "updated_at": "2020-09-23T05:27:52Z",
     "author_association": "NONE",
-    "body": "Frankly, I don't think this will cause any problems, as a large part of the nodes are run by exchanges. Not to mention that most exchanges are eagerly awaiting a fix to make the network more secure.",
+    "body": "Frankly, I don't think this will cause any problems, as a large part of the nodes are run by exchanges. Not to mention that most exchanges are eagerly awaiting a fix to make the network more secure. \r\n\r\nPlus there are only 34 active besu nodes on the network versus 454 coregeth nodes.",
     "reactions": {
       "url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/comments/697140614/reactions",
       "total_count": 0,
