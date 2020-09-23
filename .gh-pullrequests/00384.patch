@@ -1,7 +1,7 @@
 From da1e9266c4f87347f73aae8ad801f06b21c37f13 Mon Sep 17 00:00:00 2001
 From: meows <b5c6@protonmail.com>
 Date: Tue, 22 Sep 2020 16:50:32 -0500
-Subject: [PATCH] _specs/ecip-1100.md: vitalik's polynomial cubic,
+Subject: [PATCH 1/2] _specs/ecip-1100.md: vitalik's polynomial cubic,
  implementation details,
 
 ... and better conceptual documentation.
@@ -480,3 +480,36 @@ index 70b516ec9..b78c8376b 100644
  ```
  
 +Likewise, the exponents in the currently specified polynomial may be adjusted to modify the shape of the curve (increasing them will flatten it).
+
+From a2d6fc6410b306fc87558e633449d0c55d6cb8f3 Mon Sep 17 00:00:00 2001
+From: meows <b5c6@protonmail.com>
+Date: Tue, 22 Sep 2020 18:14:42 -0500
+Subject: [PATCH 2/2] _specs/ecip-1100.md: update accept/side/reject segment
+ graphs
+
+Now rejection (invalidation) is not a thing
+
+Signed-off-by: meows <b5c6@protonmail.com>
+---
+ _specs/ecip-1100.md | 6 +++---
+ 1 file changed, 3 insertions(+), 3 deletions(-)
+
+diff --git a/_specs/ecip-1100.md b/_specs/ecip-1100.md
+index b78c8376b..e5e11715b 100644
+--- a/_specs/ecip-1100.md
++++ b/_specs/ecip-1100.md
+@@ -347,11 +347,11 @@ Network participants are allowed to be stubborn curmudgeons with opinions. ECIP1
+ - Intentional partitions are extremely difficult to establish and maintain.
+ - The polynomial function yields a "ceiling" that would be extravagantly high for an attacker to achieve relative to the main network, but within reasonable operating bounds for the victim of an eclipse attack to eventually recover and rejoin the network. Unbounded exponential growth for the antigravity function serves no purpose beyond some point.
+ 
+-The graphs below show a 200 block chain accepting, sidechaining, or rejecting reorganizations of varying relative difficulty and length.
++The graphs below show a 200 block chain accepting, sidechaining ~~or rejecting~~ reorganizations of varying relative difficulty and length.
+ 
+-![nomess-acceptreject](https://user-images.githubusercontent.com/45600330/92998210-2a6e2500-f4de-11ea-9c25-3e20bde41ef1.png)
++![nomess-acceptreject](https://user-images.githubusercontent.com/45600330/93946542-2670ad00-fcff-11ea-8014-ba95d0e04765.png)
+ 
+-![mess-acceptreject](https://user-images.githubusercontent.com/45600330/92998215-2fcb6f80-f4de-11ea-8af9-178d905c9086.png)
++![mess-acceptreject](https://user-images.githubusercontent.com/45600330/93946544-27094380-fcff-11ea-9ad0-bd9526fad286.png)
+ 
+ 
+ #### Costs
