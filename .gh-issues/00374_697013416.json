@@ -25,9 +25,9 @@
       "site_admin": false
     },
     "created_at": "2020-09-22T22:21:59Z",
-    "updated_at": "2020-09-22T22:21:59Z",
+    "updated_at": "2020-09-23T15:57:12Z",
     "author_association": "MEMBER",
-    "body": "I just updated the proposal, check it out! https://github.com/ethereumclassic/ECIPs/pull/384",
+    "body": "I just updated the proposal, check it out! https://github.com/ethereumclassic/ECIPs/pull/384\r\n\r\n- Rel https://github.com/ethereumclassic/ECIPs/issues/374#issuecomment-691662459: https://github.com/meowsbits/ECIPs/blob/ecbp/mess-2/_specs/ecip-1100.md#general. Added more of a core principals section, hopefully tackling the call for establishing that as an important thing.\r\n- Rel https://github.com/ethereumclassic/ECIPs/issues/374#issuecomment-694156719, https://github.com/meowsbits/ECIPs/blob/ecbp/mess-2/_specs/ecip-1100.md#proposed-additional-subjective-arbitration. Updates spec (and code) to use the polynomial function with `big.Int`s.  \r\n- Rel https://github.com/ethereumclassic/ECIPs/issues/374#issuecomment-694526936, https://github.com/meowsbits/ECIPs/blob/ecbp/mess-2/_specs/ecip-1100.md#implementation. Updates implementation and referenced spec using a `30*13second` head staleness check to address the exploit detailed in the comment.\r\n- Rel https://github.com/ethereumclassic/ECIPs/issues/374#issuecomment-695895813 and https://github.com/ethereumclassic/ECIPs/issues/374#issuecomment-696861041: https://github.com/meowsbits/ECIPs/blob/ecbp/mess-2/_specs/ecip-1100.md#the-case-and-place-of-subjectivity. Added a section about subjectivity for the hardcore code-is-law folks.",
     "reactions": {
       "url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/comments/697013416/reactions",
       "total_count": 0,
