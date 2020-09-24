@@ -1,7 +1,7 @@
 From da1e9266c4f87347f73aae8ad801f06b21c37f13 Mon Sep 17 00:00:00 2001
 From: meows <b5c6@protonmail.com>
 Date: Tue, 22 Sep 2020 16:50:32 -0500
-Subject: [PATCH 1/2] _specs/ecip-1100.md: vitalik's polynomial cubic,
+Subject: [PATCH 1/4] _specs/ecip-1100.md: vitalik's polynomial cubic,
  implementation details,
 
 ... and better conceptual documentation.
@@ -484,7 +484,7 @@ index 70b516ec9..b78c8376b 100644
 From a2d6fc6410b306fc87558e633449d0c55d6cb8f3 Mon Sep 17 00:00:00 2001
 From: meows <b5c6@protonmail.com>
 Date: Tue, 22 Sep 2020 18:14:42 -0500
-Subject: [PATCH 2/2] _specs/ecip-1100.md: update accept/side/reject segment
+Subject: [PATCH 2/4] _specs/ecip-1100.md: update accept/side/reject segment
  graphs
 
 Now rejection (invalidation) is not a thing
@@ -513,3 +513,73 @@ index b78c8376b..e5e11715b 100644
  
  
  #### Costs
+
+From 47b706d7e26698bdea500fa2aa2533ba847afdec Mon Sep 17 00:00:00 2001
+From: meows <b5c6@protonmail.com>
+Date: Thu, 24 Sep 2020 15:29:20 -0500
+Subject: [PATCH 3/4] _specs/ecip-1100.md: use current.time offset instead of
+ proposed.time
+
+Using the local head timestamp instead of the proposed
+head timestamp better translates the opinion that
+first-to-come chains are 'better' than later-arriving
+ones. Thus is better to use as a domain for antigravity.
+
+Further, use of local timestamps avoids questions
+and variables about the case where an antagonist would
+be willing to work extra hard to create blocks with
+lower or manipulated timestamps in order to change
+the parameter of the curve's imposition.
+
+Signed-off-by: meows <b5c6@protonmail.com>
+---
+ _specs/ecip-1100.md | 4 ++--
+ 1 file changed, 2 insertions(+), 2 deletions(-)
+
+diff --git a/_specs/ecip-1100.md b/_specs/ecip-1100.md
+index e5e11715b..cfa58380f 100644
+--- a/_specs/ecip-1100.md
++++ b/_specs/ecip-1100.md
+@@ -175,7 +175,7 @@ def get_curve_function_numerator(time_delta: int) -> int:
+ __Condition `ecbp1100`__
+ 
+ ```python
+-if proposed_subchain_td * CURVE_FUNCTION_DENOMINATOR < get_curve_function_numerator(proposed.Time - commonAncestor.Time) * local_subchain_td:
++if proposed_subchain_td * CURVE_FUNCTION_DENOMINATOR < get_curve_function_numerator(current.Time - commonAncestor.Time) * local_subchain_td:
+     return true
+ return false
+ ```
+@@ -200,7 +200,7 @@ func (bc *BlockChain) ecbp1100(commonAncestor, current, proposed *types.Header)
+ 	proposedSubchainTD := new(big.Int).Sub(proposedTD, commonAncestorTD)
+ 	localSubchainTD := new(big.Int).Sub(localTD, commonAncestorTD)
+ 
+-	xBig := big.NewInt(int64(proposed.Time - commonAncestor.Time))
++	xBig := big.NewInt(int64(current.Time - commonAncestor.Time))
+ 	eq := ecbp1100PolynomialV(xBig)
+ 	want := eq.Mul(eq, localSubchainTD)
+ 
+
+From 822e12f77dc05411e53a5f62fd73fb2a22e0ff34 Mon Sep 17 00:00:00 2001
+From: meows <b5c6@protonmail.com>
+Date: Thu, 24 Sep 2020 15:29:38 -0500
+Subject: [PATCH 4/4] _specs/ecip-1100.md: fix mainnet activation block number,
+ was miscalculated
+
+Signed-off-by: meows <b5c6@protonmail.com>
+---
+ _specs/ecip-1100.md | 2 +-
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+
+diff --git a/_specs/ecip-1100.md b/_specs/ecip-1100.md
+index cfa58380f..b2d5e8b2e 100644
+--- a/_specs/ecip-1100.md
++++ b/_specs/ecip-1100.md
+@@ -387,7 +387,7 @@ This feature does not require a hard fork, but the network stands to benefit and
+ 
+ __Core-Geth__
+ 
+-- Feature is tentatively proposed to activate in Core-Geth on Ethereum Classic network at and above block 11377500 (ETA Wednesay, 30 September 2020).
++- Feature is tentatively proposed to activate in Core-Geth on Ethereum Classic network at and above block 11317400 (ETA Thursday, 1 October 2020).
+ - Feature is proposed to activate in Core-Geth on Ethereum Classic's Mordor test network at and above block 2290740.
+ 
+ - Core-Geth feature implementation includes a few additional safety mechanisms:

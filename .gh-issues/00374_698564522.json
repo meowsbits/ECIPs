@@ -25,9 +25,9 @@
       "site_admin": false
     },
     "created_at": "2020-09-24T20:12:49Z",
-    "updated_at": "2020-09-24T20:12:49Z",
+    "updated_at": "2020-09-24T20:17:37Z",
     "author_association": "MEMBER",
-    "body": "@etcvietnam68 You're right! Great catch, thank you :pray: I'll fix this up right now.",
+    "body": "@etcvietnam68 You're right! Great catch, thank you :pray: I'll fix this up right now. Will (again, tentatively, as a working number -- we're still finalizing things) aim for `11317400` (a week from today), which I calculated from [current block 11270907](https://expedition.dev/block/0x5cc9bf92bef7385a880fa8ec60d3d65ee124a3581c715285862e67e67aa0c59b?network=mainnet), using 13s block times. I hope this one checks out! :blush: \r\n\r\n```\r\n>>> 11270907 + (7 * 24 * 60 * 60 / 13)\r\n\r\n  11270907 + 7 × 24 × 60 × (60 / 13)\r\n\r\n   = 11317400\r\n\r\n```",
     "reactions": {
       "url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/comments/698564522/reactions",
       "total_count": 0,
