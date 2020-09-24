@@ -1,0 +1,30 @@
+{
+    "id": 3804911656,
+    "node_id": "MDE1OlN1YnNjcmliZWRFdmVudDM4MDQ5MTE2NTY=",
+    "url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/events/3804911656",
+    "actor": {
+      "login": "etcvietnam68",
+      "id": 56151276,
+      "node_id": "MDQ6VXNlcjU2MTUxMjc2",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/56151276?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/etcvietnam68",
+      "html_url": "https://github.com/etcvietnam68",
+      "followers_url": "https://api.github.com/users/etcvietnam68/followers",
+      "following_url": "https://api.github.com/users/etcvietnam68/following{/other_user}",
+      "gists_url": "https://api.github.com/users/etcvietnam68/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/etcvietnam68/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/etcvietnam68/subscriptions",
+      "organizations_url": "https://api.github.com/users/etcvietnam68/orgs",
+      "repos_url": "https://api.github.com/users/etcvietnam68/repos",
+      "events_url": "https://api.github.com/users/etcvietnam68/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/etcvietnam68/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "event": "subscribed",
+    "commit_id": null,
+    "commit_url": null,
+    "created_at": "2020-09-24T20:12:49Z",
+    "performed_via_github_app": null
+  }
