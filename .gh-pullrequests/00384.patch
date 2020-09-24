@@ -514,7 +514,7 @@ index b78c8376b..e5e11715b 100644
  
  #### Costs
 
-From 47b706d7e26698bdea500fa2aa2533ba847afdec Mon Sep 17 00:00:00 2001
+From b08a55dfc87937879cbd2a8dd2aa04886897305e Mon Sep 17 00:00:00 2001
 From: meows <b5c6@protonmail.com>
 Date: Thu, 24 Sep 2020 15:29:20 -0500
 Subject: [PATCH 3/4] _specs/ecip-1100.md: use current.time offset instead of
@@ -533,11 +533,11 @@ the parameter of the curve's imposition.
 
 Signed-off-by: meows <b5c6@protonmail.com>
 ---
- _specs/ecip-1100.md | 4 ++--
- 1 file changed, 2 insertions(+), 2 deletions(-)
+ _specs/ecip-1100.md | 19 +++++++++----------
+ 1 file changed, 9 insertions(+), 10 deletions(-)
 
 diff --git a/_specs/ecip-1100.md b/_specs/ecip-1100.md
-index e5e11715b..cfa58380f 100644
+index e5e11715b..fe387e9a9 100644
 --- a/_specs/ecip-1100.md
 +++ b/_specs/ecip-1100.md
 @@ -175,7 +175,7 @@ def get_curve_function_numerator(time_delta: int) -> int:
@@ -549,7 +549,7 @@ index e5e11715b..cfa58380f 100644
      return true
  return false
  ```
-@@ -200,7 +200,7 @@ func (bc *BlockChain) ecbp1100(commonAncestor, current, proposed *types.Header)
+@@ -200,22 +200,21 @@ func (bc *BlockChain) ecbp1100(commonAncestor, current, proposed *types.Header)
  	proposedSubchainTD := new(big.Int).Sub(proposedTD, commonAncestorTD)
  	localSubchainTD := new(big.Int).Sub(localTD, commonAncestorTD)
  
@@ -558,8 +558,39 @@ index e5e11715b..cfa58380f 100644
  	eq := ecbp1100PolynomialV(xBig)
  	want := eq.Mul(eq, localSubchainTD)
  
+ 	got := new(big.Int).Mul(proposedSubchainTD, ecbp1100PolynomialVCurveFunctionDenominator)
+ 
+-	prettyRatio, _ := new(big.Float).Quo(
+-		new(big.Float).SetInt(got),
+-		new(big.Float).SetInt(want),
+-	).Float64()
+-
+ 	if got.Cmp(want) < 0 {
++		prettyRatio, _ := new(big.Float).Quo(
++			new(big.Float).SetInt(got),
++			new(big.Float).SetInt(want),
++		).Float64()
+ 		return fmt.Errorf(`%w: ECBP1100-MESS 🔒 status=rejected age=%v current.span=%v proposed.span=%v tdr/gravity=%0.6f common.bno=%d common.hash=%s current.bno=%d current.hash=%s proposed.bno=%d proposed.hash=%s`,
+ 			errReorgFinality,
+ 			common.PrettyAge(time.Unix(int64(commonAncestor.Time), 0)),
+-			common.PrettyDuration(time.Duration(current.Time - commonAncestor.Time)*time.Second),
++			common.PrettyDuration(time.Duration(current.Time-commonAncestor.Time)*time.Second),
+ 			common.PrettyDuration(time.Duration(int32(xBig.Uint64()))*time.Second),
+ 			prettyRatio,
+ 			commonAncestor.Number.Uint64(), commonAncestor.Hash().Hex(),
+@@ -313,8 +312,8 @@ var ecbp1100PolynomialVHeight = new(big.Int).Mul(new(big.Int).Mul(ecbp1100Polyno
+ ## Rationale
+ 
+ This is a _modified (M)_ version of Buterin's _Exponential Subjective Scoring (ESS)_ by
+-- using a capped polynomial function instead of an unbounded function
+-- using the difference of proposed head time(stamp) from common ancestor time(stamp), rather than the previously described block lengths or times of block reception used by Buterin.
++- using a capped polynomial function instead of an unbounded exponential function
++- using the difference of local head time(stamp) from common ancestor time(stamp), rather than the previously described block lengths or times of block reception used by Buterin.
+ 
+ See [References](#References) for what I've found on the topic.
+ 
 
-From 822e12f77dc05411e53a5f62fd73fb2a22e0ff34 Mon Sep 17 00:00:00 2001
+From cbf84d0469880f82e5644683a4c254744e6a7bac Mon Sep 17 00:00:00 2001
 From: meows <b5c6@protonmail.com>
 Date: Thu, 24 Sep 2020 15:29:38 -0500
 Subject: [PATCH 4/4] _specs/ecip-1100.md: fix mainnet activation block number,
@@ -571,10 +602,10 @@ Signed-off-by: meows <b5c6@protonmail.com>
  1 file changed, 1 insertion(+), 1 deletion(-)
 
 diff --git a/_specs/ecip-1100.md b/_specs/ecip-1100.md
-index cfa58380f..b2d5e8b2e 100644
+index fe387e9a9..860ab29e7 100644
 --- a/_specs/ecip-1100.md
 +++ b/_specs/ecip-1100.md
-@@ -387,7 +387,7 @@ This feature does not require a hard fork, but the network stands to benefit and
+@@ -386,7 +386,7 @@ This feature does not require a hard fork, but the network stands to benefit and
  
  __Core-Geth__
  
