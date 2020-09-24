@@ -58,17 +58,17 @@
         "description": "ECIPs of the type \"ECBP\" - describing best practices rather than protocols."
       }
     ],
-    "state": "open",
+    "state": "closed",
     "locked": false,
     "assignee": null,
     "assignees": [
 
     ],
     "milestone": null,
-    "comments": 1,
+    "comments": 2,
     "created_at": "2020-09-18T14:34:37Z",
-    "updated_at": "2020-09-23T08:59:25Z",
-    "closed_at": null,
+    "updated_at": "2020-09-24T10:09:33Z",
+    "closed_at": "2020-09-24T10:09:33Z",
     "author_association": "MEMBER",
     "active_lock_reason": null,
     "body": "## MESS - Modified Exponential Subjective Scoring for Ethereum Classic\r\n\r\n### Presentation by the \"Artificial Finality\" Working Group\r\n\r\n- When: **Wednesday - Sept. 23, 2020 - 2PM UTC**\r\n- Where: Crowdcast https://www.crowdcast.io/e/mess-classic-ecbp-1100\r\n- Agenda\r\n  - Overview \"Artificial Finality\" and non-invasive 51-percent-protection\r\n  - Quick explanaition of the \"MESS\" protocol (ECIP-1100)\r\n  - LIVE Demo on the MESS testnet using Geth\r\n  - Community Q&A session\r\n- Presenters\r\n  - @meowsbits (working group)\r\n  - @ausiv (working group)\r\n  - @bobthegrownup (session moderator)\r\n\r\n### Abstract\r\n@etclabscore, in consultancy with @openrelayxyz and @chainsafe, develop and propose a finality algorithm called MESS for Ethereum Classic that, if adopted by the honest majority, would raise chain state finality near-exponentially with negligible risk of network bifurcation.\r\n\r\n### Motivation\r\nA low hashrate has caused Ethereum Classic's consensus algorithms to yield inconvenient and undesirable finality rates. ECIP-1100 \"MESS\" offers a way to increase the finality rate without tampering with existing \"hard\" chain consensus functions or characteristics, and to do so with minimal negative side effects.\r\n\r\n- Proposal: [ECIP 1100: MESS (Modified Exponential Subjective Scoring)](https://ecips.ethereumclassic.org/ECIPs/ecip-1100)\r\n- Read more: [Agreeing To Disagree: Proposing a Weakly-Subjective Finality Solution for Ethereum Classic](https://medium.com/etc-core/agreeing-to-disagree-proposing-a-weakly-subjective-finality-solution-for-ethereum-classic-7daad47efc0e)\r\n- Discussion: #374 \r\n- Bonus: [MESSnet TV](https://mess.canhaz.net) - Visualization of an ad-hoc Classic testnet implementing MESS.\r\n\r\n_We encourage all parties, especially other ECIP authors, to participate and ask questions._",
