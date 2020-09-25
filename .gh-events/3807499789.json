@@ -1,7 +1,7 @@
 {
-    "id": 3778016348,
-    "node_id": "MDEyOkxhYmVsZWRFdmVudDM3NzgwMTYzNDg=",
-    "url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/events/3778016348",
+    "id": 3807499789,
+    "node_id": "MDExOk1lcmdlZEV2ZW50MzgwNzQ5OTc4OQ==",
+    "url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/events/3807499789",
     "actor": {
       "login": "q9f",
       "id": 58883403,
@@ -22,25 +22,21 @@
       "type": "User",
       "site_admin": false
     },
-    "event": "labeled",
-    "commit_id": null,
-    "commit_url": null,
-    "created_at": "2020-09-17T13:35:36Z",
-    "label": {
-      "name": "type: std-core",
-      "color": "fdcdac"
-    },
+    "event": "merged",
+    "commit_id": "c44779834e0e47fb6ce0512d586c3d3df03618c7",
+    "commit_url": "https://api.github.com/repos/ethereumclassic/ECIPs/commits/c44779834e0e47fb6ce0512d586c3d3df03618c7",
+    "created_at": "2020-09-25T12:35:46Z",
     "issue": {
-      "url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/379",
+      "url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/380",
       "repository_url": "https://api.github.com/repos/ethereumclassic/ECIPs",
-      "labels_url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/379/labels{/name}",
-      "comments_url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/379/comments",
-      "events_url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/379/events",
-      "html_url": "https://github.com/ethereumclassic/ECIPs/pull/379",
-      "id": 703165649,
-      "node_id": "MDExOlB1bGxSZXF1ZXN0NDg4MzIxNjc4",
-      "number": 379,
-      "title": "Finalized ECIP-1049 Proposal",
+      "labels_url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/380/labels{/name}",
+      "comments_url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/380/comments",
+      "events_url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/380/events",
+      "html_url": "https://github.com/ethereumclassic/ECIPs/pull/380",
+      "id": 703961216,
+      "node_id": "MDExOlB1bGxSZXF1ZXN0NDg4OTcyNzY4",
+      "number": 380,
+      "title": "Add in ECIP-1049 Picture Assets",
       "user": {
         "login": "p3c-bot",
         "id": 40745785,
@@ -90,7 +86,7 @@
           "description": "ECIPs of the type \"Core\" - changing the Classic protocol."
         }
       ],
-      "state": "open",
+      "state": "closed",
       "locked": false,
       "assignee": null,
       "assignees": [
@@ -98,18 +94,18 @@
       ],
       "milestone": null,
       "comments": 0,
-      "created_at": "2020-09-16T23:59:08Z",
-      "updated_at": "2020-09-25T12:36:02Z",
-      "closed_at": null,
+      "created_at": "2020-09-17T22:57:23Z",
+      "updated_at": "2020-09-25T12:35:46Z",
+      "closed_at": "2020-09-25T12:35:46Z",
       "author_association": "CONTRIBUTOR",
       "active_lock_reason": null,
       "pull_request": {
-        "url": "https://api.github.com/repos/ethereumclassic/ECIPs/pulls/379",
-        "html_url": "https://github.com/ethereumclassic/ECIPs/pull/379",
-        "diff_url": "https://github.com/ethereumclassic/ECIPs/pull/379.diff",
-        "patch_url": "https://github.com/ethereumclassic/ECIPs/pull/379.patch"
+        "url": "https://api.github.com/repos/ethereumclassic/ECIPs/pulls/380",
+        "html_url": "https://github.com/ethereumclassic/ECIPs/pull/380",
+        "diff_url": "https://github.com/ethereumclassic/ECIPs/pull/380.diff",
+        "patch_url": "https://github.com/ethereumclassic/ECIPs/pull/380.patch"
       },
-      "body": "When this is accepted into the repo, ECIP-1049 is finalized. After much deliberation and five, maybe six, 51% attacks later, the phoenix rises. ",
+      "body": "Will change links on ECIP once this has been merged in. ",
       "performed_via_github_app": null
     },
     "performed_via_github_app": null
