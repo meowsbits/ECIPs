@@ -7,7 +7,7 @@
     "path": "_specs/ecip-1049.md",
     "position": null,
     "original_position": 8,
-    "commit_id": "47bb30385c9222b3375acc75e7547444a7594f6b",
+    "commit_id": "119f0d57147854b3dd51256a0a05d88d7a6b4d81",
     "original_commit_id": "921e13ebcd1e8cb00e8acd2b75af8203fded9dd5",
     "user": {
       "login": "q9f",
@@ -31,7 +31,7 @@
     },
     "body": "Please leave this in Last Call as the review period did not end yet.\r\n\r\n```suggestion\r\nstatus: Last Call\r\n```",
     "created_at": "2020-09-17T13:33:00Z",
-    "updated_at": "2020-09-25T12:38:59Z",
+    "updated_at": "2020-09-25T18:08:00Z",
     "html_url": "https://github.com/ethereumclassic/ECIPs/pull/379#discussion_r490248994",
     "pull_request_url": "https://api.github.com/repos/ethereumclassic/ECIPs/pulls/379",
     "author_association": "MEMBER",

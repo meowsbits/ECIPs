@@ -1,0 +1,30 @@
+{
+    "id": 3808832866,
+    "node_id": "MDExOk1lcmdlZEV2ZW50MzgwODgzMjg2Ng==",
+    "url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/events/3808832866",
+    "actor": {
+      "login": "q9f",
+      "id": 58883403,
+      "node_id": "MDQ6VXNlcjU4ODgzNDAz",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/58883403?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/q9f",
+      "html_url": "https://github.com/q9f",
+      "followers_url": "https://api.github.com/users/q9f/followers",
+      "following_url": "https://api.github.com/users/q9f/following{/other_user}",
+      "gists_url": "https://api.github.com/users/q9f/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/q9f/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/q9f/subscriptions",
+      "organizations_url": "https://api.github.com/users/q9f/orgs",
+      "repos_url": "https://api.github.com/users/q9f/repos",
+      "events_url": "https://api.github.com/users/q9f/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/q9f/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "event": "merged",
+    "commit_id": "2148ee93bf1e91b4295cbc7c7fff0848881b1dc5",
+    "commit_url": "https://api.github.com/repos/ethereumclassic/ECIPs/commits/2148ee93bf1e91b4295cbc7c7fff0848881b1dc5",
+    "created_at": "2020-09-25T18:06:04Z",
+    "performed_via_github_app": null
+  }
