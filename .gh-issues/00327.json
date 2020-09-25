@@ -33,8 +33,8 @@
       {
         "id": 1154785139,
         "node_id": "MDU6TGFiZWwxMTU0Nzg1MTM5",
-        "url": "https://api.github.com/repos/ethereumclassic/ECIPs/labels/status:%201%20draft",
-        "name": "status: 1 draft",
+        "url": "https://api.github.com/repos/ethereumclassic/ECIPs/labels/status:1%20draft",
+        "name": "status:1 draft",
         "color": "d9d9d9",
         "default": false,
         "description": "ECIP is in draft stage an can be assigned ECIP number and merged, but requires community consensus."
@@ -42,9 +42,9 @@
       {
         "id": 1154785127,
         "node_id": "MDU6TGFiZWwxMTU0Nzg1MTI3",
-        "url": "https://api.github.com/repos/ethereumclassic/ECIPs/labels/type:%20core",
-        "name": "type: core",
-        "color": "fbb4ae",
+        "url": "https://api.github.com/repos/ethereumclassic/ECIPs/labels/type:%20std-core",
+        "name": "type: std-core",
+        "color": "fdcdac",
         "default": false,
         "description": "ECIPs of the type \"Core\" - changing the Classic protocol."
       }
@@ -56,17 +56,17 @@
 
     ],
     "milestone": null,
-    "comments": 48,
+    "comments": 49,
     "created_at": "2020-08-07T17:01:26Z",
-    "updated_at": "2020-09-10T07:20:59Z",
+    "updated_at": "2020-09-25T02:12:39Z",
     "closed_at": null,
     "author_association": "MEMBER",
     "active_lock_reason": null,
     "body": "---\r\nlang: en\r\necip: 1092\r\ntitle: 51% attack solution: PirlGuard & Callisto\r\nstatus: Draft\r\ntype: Core\r\nauthor: dexaran (@dexaran)\r\ncreated: 8/7/2020\r\nlicense: LGPLv3\r\n---\r\n\r\n# Abstract\r\n\r\nThe following describes a method of preventing a 51% attack on Ethash-based POW chains.\r\n\r\n# Motivation\r\n\r\nEthereum CLassic suffered a number of 51% attacks already. [Here](https://cointelegraph.com/news/is-etc-102-screwed-after-second-51-attack) you can find an article from Cointelegraph describing the 51% attack on 6 Aug 2020. [Here](https://cointelegraph.com/news/ethereum-classic-51-attack-the-reality-of-proof-of-work) you can find another article describing the 51% attack on 10 Jan 2019. As long as ETC protocol remains unchanged it is susceptible for more 51% attacks.\r\n\r\n# Specification\r\n\r\nThe proposed solution refers to the [PirlGuard protocol](https://pirl.io/en/pirlguard-innovative-solution-against-51-attacks/). \r\n\r\nThe description of the protocol states that instead of automatically syncing with any privately-mined chain branch the new protocol should require the peer proposing the privately-chain (and the reversal of the publicly mined and synced blocks) to mine  a number of \"penalty\" blocks. The number of penalty blocks must depend on the number of the original blocks that would be reverted if the chain will reorganize and sync to the proposed (privately-mined) branch. Thus the cost of the 51% attack will dramatically increase as the attacker will not be able to mine his private branch and then broadcast it to the network thus reverting all the transactions from the \"main\" branch.\r\n\r\n# Rationale\r\n\r\nThis protocol is already implemented in Pirl and Callisto Network. The protocol has a working time tested reference implementation. The proposed change requires minimal modifications of the Ethereum CLassic protocol while offers a reliable method of protecting against the recent attacks and the relevant threat of newer similar attacks.\r\n\r\n# Implementations\r\n\r\nHere is a reference implementation of the protocol in GO lang: https://github.com/EthereumCommonwealth/go-callisto/blob/master/core/pirl_guard.go\r\n\r\nhttps://github.com/EthereumCommonwealth/go-callisto/blob/master/core/blockchain.go#L1540\r\n\r\n# Presentation\r\n\r\nMade by @padenmoss\r\n\r\nhttp://padenmoss.com/public/ECIP-1092_proposal.pdf\r\n\r\n# Copyright\r\n\r\nThis ECIP is licensed under [GNU Lesser General Public License v3.0](https://www.gnu.org/licenses/lgpl-3.0.en.html).\r\n",
     "reactions": {
       "url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/327/reactions",
-      "total_count": 5,
-      "+1": 5,
+      "total_count": 6,
+      "+1": 6,
       "-1": 0,
       "laugh": 0,
       "hooray": 0,
