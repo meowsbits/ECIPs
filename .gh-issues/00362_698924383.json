@@ -25,9 +25,9 @@
       "site_admin": false
     },
     "created_at": "2020-09-25T13:20:37Z",
-    "updated_at": "2020-09-25T13:20:37Z",
+    "updated_at": "2020-09-25T13:57:33Z",
     "author_association": "MEMBER",
-    "body": "> What we could do, because it's five different proposals, that I ask 3-4 questions that each proposal champion has to answer and this will allow us to create some matrix of what the proposals do, what they don't do, and what they require. I'll come up with something by tomorrow.\r\n\r\nI like to see the following questions answered during the call (1 min/proposal max):\r\n* does it require a hardfork? (backwards-compatibility)\r\n* is there a specification for ethereum classic available? (some proposals come from other ecosystems)\r\n* is there a transition for activation specified? (does it need one? activation block? smooth transtion?)\r\n* is there any implementation available? (python, go, crystal, c++, rust, ...)\r\n* are test cases available that can be used by the client teams?",
+    "body": "> What we could do, because it's five different proposals, that I ask 3-4 questions that each proposal champion has to answer and this will allow us to create some matrix of what the proposals do, what they don't do, and what they require. I'll come up with something by tomorrow.\r\n\r\nI like to see the following questions answered during the call (1 min/proposal max):\r\n* does it require a hardfork? (backwards-compatibility)\r\n* does it break nakamoto consensus? (one cpu, one vote)\r\n* is there a specification for ethereum classic available? (some proposals come from other ecosystems)\r\n* is there a transition for activation specified? (does it need one? activation block? smooth transtion?)\r\n* is there any implementation or simulation available? (python, go, crystal, c++, rust, ...)\r\n* are test cases available that can be used by the client teams?\r\n\r\nI will add all answers live to the matrix: https://hackmd.io/@q9/etc-dev-14",
     "reactions": {
       "url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/comments/698924383/reactions",
       "total_count": 0,
