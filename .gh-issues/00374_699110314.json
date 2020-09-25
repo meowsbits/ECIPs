@@ -25,9 +25,9 @@
       "site_admin": false
     },
     "created_at": "2020-09-25T19:21:58Z",
-    "updated_at": "2020-09-25T19:21:58Z",
+    "updated_at": "2020-09-25T19:24:27Z",
     "author_association": "MEMBER",
-    "body": "Good thinking!\r\n\r\nWhile indeed the original function used the proposed time offset, we've somewhat recently changed to using `current.Time` instead, and for this very reason. The spec was updated to his recently, [here](https://github.com/ethereumclassic/ECIPs/pull/385/commits/b08a55dfc87937879cbd2a8dd2aa04886897305e). \r\n\r\nDo you see any issues similar or otherwise with this?\r\n\r\n\r\n\r\n",
+    "body": "Good thinking! (And an interesting solution ;))\r\n\r\nWhile indeed the original function used the proposed time offset, we've somewhat recently changed to using `current.Time` instead, and for this very reason. The spec was updated to his recently, [here](https://github.com/ethereumclassic/ECIPs/pull/385/commits/b08a55dfc87937879cbd2a8dd2aa04886897305e). \r\n\r\nDo you see any issues similar or otherwise with this?\r\n\r\n\r\n\r\n",
     "reactions": {
       "url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/comments/699110314/reactions",
       "total_count": 0,
