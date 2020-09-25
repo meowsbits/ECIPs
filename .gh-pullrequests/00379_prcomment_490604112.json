@@ -7,7 +7,7 @@
     "path": "_specs/ecip-1049.md",
     "position": null,
     "original_position": 8,
-    "commit_id": "087278b968f4ed2b6149c375868d2ad53a3a5fcf",
+    "commit_id": "47bb30385c9222b3375acc75e7547444a7594f6b",
     "original_commit_id": "921e13ebcd1e8cb00e8acd2b75af8203fded9dd5",
     "user": {
       "login": "p3c-bot",
@@ -31,7 +31,7 @@
     },
     "body": "Apologies, was unsure how changing the field worked. We just meant to signal this PR is ready for acceptance.",
     "created_at": "2020-09-17T22:48:44Z",
-    "updated_at": "2020-09-17T22:48:44Z",
+    "updated_at": "2020-09-25T12:38:59Z",
     "html_url": "https://github.com/ethereumclassic/ECIPs/pull/379#discussion_r490604112",
     "pull_request_url": "https://api.github.com/repos/ethereumclassic/ECIPs/pulls/379",
     "author_association": "CONTRIBUTOR",
