@@ -1,7 +1,7 @@
 From b9eb3683f9af9f2e20e4de8615264c36260c4dd4 Mon Sep 17 00:00:00 2001
 From: p3c-bot <40745785+p3c-bot@users.noreply.github.com>
 Date: Wed, 16 Sep 2020 17:57:51 -0600
-Subject: [PATCH 1/4] Proposal Moved to Accepted
+Subject: [PATCH 1/5] Proposal Moved to Accepted
 
 ---
  _specs/ecip-1049.md | 66 ++++++++++++++++++++++++++++-----------------
@@ -124,7 +124,7 @@ index 354ded306..5a2b7ba72 100644
 From 67eeafb66a92c0e08f667b06ccc66c8c728fc903 Mon Sep 17 00:00:00 2001
 From: p3c-bot <40745785+p3c-bot@users.noreply.github.com>
 Date: Wed, 16 Sep 2020 18:05:38 -0600
-Subject: [PATCH 2/4] Cleanup links.
+Subject: [PATCH 2/5] Cleanup links.
 
 ---
  _specs/ecip-1049.md | 4 +---
@@ -156,7 +156,7 @@ index 5a2b7ba72..ff8250b0a 100644
 From 921e13ebcd1e8cb00e8acd2b75af8203fded9dd5 Mon Sep 17 00:00:00 2001
 From: p3c-bot <40745785+p3c-bot@users.noreply.github.com>
 Date: Wed, 16 Sep 2020 18:06:50 -0600
-Subject: [PATCH 3/4] Update ecip-1049.md
+Subject: [PATCH 3/5] Update ecip-1049.md
 
 ---
  _specs/ecip-1049.md | 1 +
@@ -178,7 +178,7 @@ index ff8250b0a..7f51b5d10 100644
 From 087278b968f4ed2b6149c375868d2ad53a3a5fcf Mon Sep 17 00:00:00 2001
 From: p3c-bot <40745785+p3c-bot@users.noreply.github.com>
 Date: Thu, 17 Sep 2020 16:47:47 -0600
-Subject: [PATCH 4/4] Update _specs/ecip-1049.md
+Subject: [PATCH 4/5] Update _specs/ecip-1049.md
 
 Co-authored-by: Raw Pong Ghmoa <58883403+q9f@users.noreply.github.com>
 ---
@@ -198,3 +198,30 @@ index 7f51b5d10..d065b6953 100644
  review-period-end: 2020-10-09
  type: Standards Track
  category: Core
+
+From 3e6f7e42f08bf54bc09c3afbe82d6d0497c551f8 Mon Sep 17 00:00:00 2001
+From: p3c-bot <40745785+p3c-bot@users.noreply.github.com>
+Date: Sun, 27 Sep 2020 11:36:34 -0600
+Subject: [PATCH 5/5] Update ecip-1049.md
+
+---
+ _specs/ecip-1049.md | 6 +++---
+ 1 file changed, 3 insertions(+), 3 deletions(-)
+
+diff --git a/_specs/ecip-1049.md b/_specs/ecip-1049.md
+index d065b6953..d00dc5b44 100644
+--- a/_specs/ecip-1049.md
++++ b/_specs/ecip-1049.md
+@@ -22,9 +22,9 @@ The reference hash of string "ETC" in EVM Keccak-256 is:
+  
+ ## Implementation Plan
+ 
+-* Activation Block: 13,500,000
+-* Fallback Activation Block: 14,000,000
+-* If not activated by Block 14,000,000 this ECIP is voided and moved to `Rejected`. 
++* Activation Block: 12,000,000 (approx. 4 months from acceptance - January 2021)
++* Fallback Activation Block: 12,500,000 (approx. 7 months from acceptance - April 2021)
++* If not activated by Block 12,500,000 this ECIP is voided and moved to `Rejected`. 
+ 
+ * We recommend `difficulty` be multiplied 100 times at the first Keccak-256 block compared to the final Ethash block. This is to compensate for the higher performance of Keccak and to prevent a pileup of orphaned blocks at switchover. This is not required for launch.
+ 
