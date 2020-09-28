@@ -1,0 +1,116 @@
+{
+    "id": 3814815533,
+    "node_id": "MDEyOkxhYmVsZWRFdmVudDM4MTQ4MTU1MzM=",
+    "url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/events/3814815533",
+    "actor": {
+      "login": "q9f",
+      "id": 58883403,
+      "node_id": "MDQ6VXNlcjU4ODgzNDAz",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/58883403?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/q9f",
+      "html_url": "https://github.com/q9f",
+      "followers_url": "https://api.github.com/users/q9f/followers",
+      "following_url": "https://api.github.com/users/q9f/following{/other_user}",
+      "gists_url": "https://api.github.com/users/q9f/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/q9f/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/q9f/subscriptions",
+      "organizations_url": "https://api.github.com/users/q9f/orgs",
+      "repos_url": "https://api.github.com/users/q9f/repos",
+      "events_url": "https://api.github.com/users/q9f/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/q9f/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "event": "labeled",
+    "commit_id": null,
+    "commit_url": null,
+    "created_at": "2020-09-28T14:22:42Z",
+    "label": {
+      "name": "editor:5 needs-review",
+      "color": "d9ef8b"
+    },
+    "issue": {
+      "url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/379",
+      "repository_url": "https://api.github.com/repos/ethereumclassic/ECIPs",
+      "labels_url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/379/labels{/name}",
+      "comments_url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/379/comments",
+      "events_url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/379/events",
+      "html_url": "https://github.com/ethereumclassic/ECIPs/pull/379",
+      "id": 703165649,
+      "node_id": "MDExOlB1bGxSZXF1ZXN0NDg4MzIxNjc4",
+      "number": 379,
+      "title": "Finalized ECIP-1049 Proposal",
+      "user": {
+        "login": "p3c-bot",
+        "id": 40745785,
+        "node_id": "MDQ6VXNlcjQwNzQ1Nzg1",
+        "avatar_url": "https://avatars1.githubusercontent.com/u/40745785?v=4",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/p3c-bot",
+        "html_url": "https://github.com/p3c-bot",
+        "followers_url": "https://api.github.com/users/p3c-bot/followers",
+        "following_url": "https://api.github.com/users/p3c-bot/following{/other_user}",
+        "gists_url": "https://api.github.com/users/p3c-bot/gists{/gist_id}",
+        "starred_url": "https://api.github.com/users/p3c-bot/starred{/owner}{/repo}",
+        "subscriptions_url": "https://api.github.com/users/p3c-bot/subscriptions",
+        "organizations_url": "https://api.github.com/users/p3c-bot/orgs",
+        "repos_url": "https://api.github.com/users/p3c-bot/repos",
+        "events_url": "https://api.github.com/users/p3c-bot/events{/privacy}",
+        "received_events_url": "https://api.github.com/users/p3c-bot/received_events",
+        "type": "User",
+        "site_admin": false
+      },
+      "labels": [
+        {
+          "id": 2281247217,
+          "node_id": "MDU6TGFiZWwyMjgxMjQ3MjE3",
+          "url": "https://api.github.com/repos/ethereumclassic/ECIPs/labels/editor:5%20needs-review",
+          "name": "editor:5 needs-review",
+          "color": "d9ef8b",
+          "default": false,
+          "description": "This contribution needs a careful review."
+        },
+        {
+          "id": 1702098127,
+          "node_id": "MDU6TGFiZWwxNzAyMDk4MTI3",
+          "url": "https://api.github.com/repos/ethereumclassic/ECIPs/labels/status:5%20last-call",
+          "name": "status:5 last-call",
+          "color": "969696",
+          "default": false,
+          "description": "ECIP has been accepted and is waiting for last-call reviews."
+        },
+        {
+          "id": 1154785127,
+          "node_id": "MDU6TGFiZWwxMTU0Nzg1MTI3",
+          "url": "https://api.github.com/repos/ethereumclassic/ECIPs/labels/type:%20std-core",
+          "name": "type: std-core",
+          "color": "fdcdac",
+          "default": false,
+          "description": "ECIPs of the type \"Core\" - changing the Classic protocol."
+        }
+      ],
+      "state": "open",
+      "locked": false,
+      "assignee": null,
+      "assignees": [
+
+      ],
+      "milestone": null,
+      "comments": 0,
+      "created_at": "2020-09-16T23:59:08Z",
+      "updated_at": "2020-09-28T14:23:16Z",
+      "closed_at": null,
+      "author_association": "CONTRIBUTOR",
+      "active_lock_reason": null,
+      "pull_request": {
+        "url": "https://api.github.com/repos/ethereumclassic/ECIPs/pulls/379",
+        "html_url": "https://github.com/ethereumclassic/ECIPs/pull/379",
+        "diff_url": "https://github.com/ethereumclassic/ECIPs/pull/379.diff",
+        "patch_url": "https://github.com/ethereumclassic/ECIPs/pull/379.patch"
+      },
+      "body": "When this is accepted into the repo, ECIP-1049 is finalized. After much deliberation and five, maybe six, 51% attacks later, the phoenix rises. ",
+      "performed_via_github_app": null
+    },
+    "performed_via_github_app": null
+  }
