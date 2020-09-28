@@ -1,11 +1,12 @@
 {
-    "id": 491490334,
-    "node_id": "MDE3OlB1bGxSZXF1ZXN0UmV2aWV3NDkxNDkwMzM0",
-    "user": {
+    "id": 3814818320,
+    "node_id": "MDIwOlJldmlld0Rpc21pc3NlZEV2ZW50MzgxNDgxODMyMA==",
+    "url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/events/3814818320",
+    "actor": {
       "login": "q9f",
       "id": 58883403,
       "node_id": "MDQ6VXNlcjU4ODgzNDAz",
-      "avatar_url": "https://avatars2.githubusercontent.com/u/58883403?u=72563674ea84909432bf249ab92fb936dffa313d&v=4",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/58883403?v=4",
       "gravatar_id": "",
       "url": "https://api.github.com/users/q9f",
       "html_url": "https://github.com/q9f",
@@ -21,19 +22,14 @@
       "type": "User",
       "site_admin": false
     },
-    "body": "",
-    "state": "DISMISSED",
-    "html_url": "https://github.com/ethereumclassic/ECIPs/pull/379#pullrequestreview-491490334",
-    "pull_request_url": "https://api.github.com/repos/ethereumclassic/ECIPs/pulls/379",
-    "author_association": "MEMBER",
-    "_links": {
-      "html": {
-        "href": "https://github.com/ethereumclassic/ECIPs/pull/379#pullrequestreview-491490334"
-      },
-      "pull_request": {
-        "href": "https://api.github.com/repos/ethereumclassic/ECIPs/pulls/379"
-      }
+    "event": "review_dismissed",
+    "commit_id": null,
+    "commit_url": null,
+    "created_at": "2020-09-28T14:23:16Z",
+    "dismissed_review": {
+      "state": "approved",
+      "review_id": 491490334,
+      "dismissal_message": "I'm removing my review due to the ever changing block numbers."
     },
-    "submitted_at": "2020-09-18T13:57:29Z",
-    "commit_id": "087278b968f4ed2b6149c375868d2ad53a3a5fcf"
+    "performed_via_github_app": null
   }
