@@ -25,9 +25,9 @@
       "site_admin": false
     },
     "created_at": "2020-09-28T22:42:29Z",
-    "updated_at": "2020-09-28T22:42:29Z",
+    "updated_at": "2020-09-29T02:25:12Z",
     "author_association": "NONE",
-    "body": "Since the proposed gravity is a wave function, does this imply that at some point the total hash power needed for a reorg returns to baseline? If so how long would an attacker with more than 51% of hash power need to secretly mine the competing chain? \r\n\r\n would eventually be the ncreases the cost for an opportunistic reorg, it doesn't increase the cost for a long term reorg attack. ",
+    "body": "Since the proposed gravity is a wave function, does this imply that at some point the total hash power needed for a reorg returns to baseline? If so how long would an attacker with more than 51% of hash power need to secretly mine the competing chain? ",
     "reactions": {
       "url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/comments/700321502/reactions",
       "total_count": 0,
