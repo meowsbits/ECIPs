@@ -25,9 +25,9 @@
       "site_admin": false
     },
     "created_at": "2020-09-30T18:37:38Z",
-    "updated_at": "2020-09-30T18:37:38Z",
+    "updated_at": "2020-09-30T18:43:17Z",
     "author_association": "CONTRIBUTOR",
-    "body": "I'm aware many bitcoin forks, based on bitcoins code, have performed these kinds of changes, but can you show an example of an ethereum based chain doing the same? They function quite differently... \r\n\r\nRegarding refactoring. At least in terms of core-geth (which makes up majority of the nodes on network). All logic assumes a single chain, uses a single engine. e.g https://github.com/etclabscore/core-geth/blob/master/core/block_validator.go#L37\r\nA single chain, with multiple engines, and a change over, would require significant refactoring.\r\n\r\n\r\n\r\n",
+    "body": "I'm aware many bitcoin forks, based on bitcoins code, have performed these kinds of changes, but can you show an example of an ethereum based chain doing the same? They function quite differently... \r\n\r\nRegarding refactoring. At least in terms of core-geth (which makes up majority of the nodes on network). All logic assumes a single chain, uses a single engine. e.g https://github.com/etclabscore/core-geth/blob/master/core/block_validator.go#L37\r\nA single chain, with multiple engines, and a change over, would require significant refactoring.\r\n\r\nIt would be less intrusive as a modification to the existing engine, imo.\r\n\r\n",
     "reactions": {
       "url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/comments/701570314/reactions",
       "total_count": 0,
