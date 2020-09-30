@@ -25,9 +25,9 @@
       "site_admin": false
     },
     "created_at": "2020-09-30T00:40:16Z",
-    "updated_at": "2020-09-30T00:40:16Z",
+    "updated_at": "2020-09-30T00:41:45Z",
     "author_association": "MEMBER",
-    "body": "I think @hitchcott is busy in his life right now, but it sounded like he wanted to push this when he has the bandwidth.",
+    "body": "I think @hitchcott is busy in his life right now, but it sounded like he wanted to push this when he has the bandwidth. Although this could be moved from this repo and opened in the website repo @TheEnthusiasticAs @realcodywburns ? Probably a better place for it. What do you guys think?",
     "reactions": {
       "url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/comments/701083801/reactions",
       "total_count": 0,
