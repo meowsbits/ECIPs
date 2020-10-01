@@ -1,0 +1,23 @@
+From 2e90012eb35b041c582429f509c3a6bc964859c3 Mon Sep 17 00:00:00 2001
+From: Raw Pong Ghmoa <58883403+q9f@users.noreply.github.com>
+Date: Thu, 1 Oct 2020 16:58:54 +0200
+Subject: [PATCH] propose mess mainnet block
+
+for coordination with exchanges and mining pools `11_380_000`
+---
+ _specs/ecip-1100.md | 2 +-
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+
+diff --git a/_specs/ecip-1100.md b/_specs/ecip-1100.md
+index 6c34cb49a..e03902035 100644
+--- a/_specs/ecip-1100.md
++++ b/_specs/ecip-1100.md
+@@ -387,7 +387,7 @@ This feature does not require a hard fork, but the network stands to benefit and
+ 
+ __Core-Geth__
+ 
+-- Feature is tentatively proposed to activate in Core-Geth on Ethereum Classic network at and above block _TODO_.
++- Feature is tentatively proposed to activate in Core-Geth on Ethereum Classic network at and above block 11_380_000 (ETA 09 October 2020).
+ - Feature is proposed to activate in Core-Geth on Ethereum Classic's Mordor test network at and above block 2380000 (ETA 29 September 2020).
+ - Core-Geth feature implementation includes a few additional safety mechanisms:
+   + MESS is disabled for any sync mode besides full sync.
