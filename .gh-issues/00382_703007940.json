@@ -25,9 +25,9 @@
       "site_admin": false
     },
     "created_at": "2020-10-03T00:06:57Z",
-    "updated_at": "2020-10-03T23:36:41Z",
+    "updated_at": "2020-10-03T23:38:42Z",
     "author_association": "MEMBER",
-    "body": "### Recording of Core Devs Call 15\r\n\r\n* https://vimeo.com/464336957\r\n\r\n### Conclusion\r\n\r\n* Keep ECIP 1049 in `Last Call` status for a few more months while [ECIP-1099](https://github.com/ethereumclassic/ECIPs/issues/368) and [MESS](https://github.com/ethereumclassic/ECIPs/issues/374)'s impacts are observed on the network.\r\n* ECIP 1049 authors to clarify the proposal specs/motives to a more solidified draft before being considered for `Accepted` or `Rejected` statues.\r\n* Review in the future if necessary and applicable to the network's needs.",
+    "body": "## ETC Core Devs Call 15 - ECIP-1049 Keccak Breakout Session\r\n\r\n* When: Friday, October 2nd, 2020, 4pm UTC, 120 minutes max.\r\n* Where: [Discord](https://discord.gg/3ZbKvb)\r\n* Focus: SHA3-256/Keccak256 Mining Algorithm Change Opposition Formal Conversation\r\n\r\n## Agenda\r\n\r\n* Review opposition comments.\r\n* Give the authors a chance to discuss the opposition concerns on voice recording.\r\n* Goal: Work at finding consensus as suggested by the [ECIP process](https://github.com/ethereumclassic/ECIPs#avoiding-network-splits).\r\n\r\n### Please review the issue thread to find the most up to date information.\r\n\r\n* [https://github.com/ethereumclassic/ECIPs/issues/382](https://github.com/ethereumclassic/ECIPs/issues/382)\r\n\r\n### Recording of Core Devs Call 15\r\n\r\n* https://vimeo.com/464336957\r\n\r\n### Conclusion\r\n\r\n* Keep ECIP 1049 in `Last Call` status for a few more months while [ECIP-1099](https://github.com/ethereumclassic/ECIPs/issues/368) and [MESS](https://github.com/ethereumclassic/ECIPs/issues/374)'s impacts are observed on the network.\r\n* ECIP 1049 authors to clarify the proposal specs/motives to a more solidified draft before being considered for `Accepted` or `Rejected` statues.\r\n* Review in the future if necessary and applicable to the network's needs.",
     "reactions": {
       "url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/comments/703007940/reactions",
       "total_count": 0,
