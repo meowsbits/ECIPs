@@ -1,9 +1,9 @@
 {
-    "url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/comments/703069933",
-    "html_url": "https://github.com/ethereumclassic/ECIPs/issues/13#issuecomment-703069933",
-    "issue_url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/13",
-    "id": 703069933,
-    "node_id": "MDEyOklzc3VlQ29tbWVudDcwMzA2OTkzMw==",
+    "url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/comments/703077049",
+    "html_url": "https://github.com/ethereumclassic/ECIPs/issues/368#issuecomment-703077049",
+    "issue_url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/368",
+    "id": 703077049,
+    "node_id": "MDEyOklzc3VlQ29tbWVudDcwMzA3NzA0OQ==",
     "user": {
       "login": "TheEnthusiasticAs",
       "id": 48069525,
@@ -24,12 +24,12 @@
       "type": "User",
       "site_admin": false
     },
-    "created_at": "2020-10-03T08:42:33Z",
-    "updated_at": "2020-10-03T08:47:45Z",
+    "created_at": "2020-10-03T09:41:45Z",
+    "updated_at": "2020-10-03T09:41:45Z",
     "author_association": "MEMBER",
-    "body": "I am forwarding from a miner, Victor, as he is not so good in English: \r\nAfter 2 months, video cards with 4GB will stop mining Ethereum (ETH), and this is 30% of the total capacities, which, with a decrease in DAG, can successfully mine the Ethereum Classic for another 3 years, with the transition of Ethereum (ETH) to PoS - the remaining capacities (270TH/s) can join the classic network.\r\n![image](https://user-images.githubusercontent.com/48069525/94987311-d3e88980-0565-11eb-9ae7-443652a56b7c.png)\r\n\r\nEven with 30% of the capacity, this is 70-90TH/s, which in itself will complicate attacks 51%. in my opinion, the maximum power of the classic network was only 16TH/s, at the moment it is 3.5TH/s - very little, but this allows you to mine 2-3 times more coins.",
+    "body": "This ECIP can be moved to \"accepted\" as the review date ended on 10-02 according to https://ecips.ethereumclassic.org/ECIPs/ecip-1099",
     "reactions": {
-      "url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/comments/703069933/reactions",
+      "url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/comments/703077049/reactions",
       "total_count": 0,
       "+1": 0,
       "-1": 0,
