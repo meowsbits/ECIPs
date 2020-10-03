@@ -102,6 +102,7 @@
     "updated_at": "2019-10-23T14:44:26Z",
     "closed_at": "2019-10-23T14:44:26Z",
     "author_association": "MEMBER",
+    "active_lock_reason": null,
     "body": " BIP 001 the following text can be found:\r\n\r\n```\r\nThis document was derived heavily from Python's PEP-0001. In many places text was simply copied and modified. Although the PEP-0001 text was written by Barry Warsaw, Jeremy Hylton, and David Goodger, they are not responsible for its use in the Bitcoin Improvement Process, and should not be bothered with technical questions specific to Bitcoin or the BIP process. Please direct all comments to the BIP editors or the Bitcoin development mailing list.\r\n``` \r\nthe ECIP-1000 points to luke-jr as the copy right holder. If he is, we need to properly link to the license, if not it needs to be addressed with the proper license",
     "reactions": {
       "url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/98/reactions",
@@ -114,5 +115,6 @@
       "heart": 0,
       "rocket": 0,
       "eyes": 0
-    }
+    },
+    "performed_via_github_app": null
   }

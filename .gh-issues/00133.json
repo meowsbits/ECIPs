@@ -35,9 +35,9 @@
         "node_id": "MDU6TGFiZWwxMTU0Nzg1MTI5",
         "url": "https://api.github.com/repos/ethereumclassic/ECIPs/labels/type:%20meta",
         "name": "type: meta",
-        "color": "cfd3d7",
+        "color": "fff2ae",
         "default": false,
-        "description": "Accepted best practices"
+        "description": "ECIPs of type \"Meta\" - bundling proposals for upgrades."
       }
     ],
     "state": "closed",
@@ -52,6 +52,7 @@
     "updated_at": "2019-09-13T08:22:52Z",
     "closed_at": "2019-09-13T08:22:52Z",
     "author_association": "MEMBER",
+    "active_lock_reason": null,
     "body": "ref https://github.com/etclabscore/ECIPs/issues/29\r\n\r\n### ETC Core Devs Call - Atlantis Hardfork Hands-On\r\n\r\nWhen: **Thursday, September 12, 2019, 2:00 pm UTC, during the expected hardfork**, 120 minutes max.\r\n\r\nlatest prediction: `2:50:07 pm UTC  |  Thursday, September 12, 2019`\r\n\r\nWhere: **Ethereum Classic Discord** `#ecips` channel. Will use/create a voice channel _ad hoc._ Ask for an invite here if you are not on that discord.\r\n\r\nThis will be an _informal_ call for core developers and everyone else interested to monitor the hardfork and discuss progress, eventually, act if necessary. ",
     "reactions": {
       "url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/133/reactions",
@@ -64,5 +65,6 @@
       "heart": 0,
       "rocket": 0,
       "eyes": 0
-    }
+    },
+    "performed_via_github_app": null
   }

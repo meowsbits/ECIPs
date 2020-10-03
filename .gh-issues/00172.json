@@ -33,11 +33,11 @@
       {
         "id": 1154785127,
         "node_id": "MDU6TGFiZWwxMTU0Nzg1MTI3",
-        "url": "https://api.github.com/repos/ethereumclassic/ECIPs/labels/type:%20core",
-        "name": "type: core",
-        "color": "d73a4a",
+        "url": "https://api.github.com/repos/ethereumclassic/ECIPs/labels/type:%20std-core",
+        "name": "type: std-core",
+        "color": "fdcdac",
         "default": false,
-        "description": "Requires consensus consideration"
+        "description": "ECIPs of the type \"Core\" - changing the Classic protocol."
       }
     ],
     "state": "closed",
@@ -52,6 +52,7 @@
     "updated_at": "2019-11-26T18:22:03Z",
     "closed_at": "2019-11-26T18:22:03Z",
     "author_association": "MEMBER",
+    "active_lock_reason": null,
     "body": "Discussions for ProgPoW for ETC Discussions concerning this Pull Request: https://github.com/ethereumclassic/ECIPs/pull/171",
     "reactions": {
       "url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/172/reactions",
@@ -64,5 +65,6 @@
       "heart": 0,
       "rocket": 0,
       "eyes": 0
-    }
+    },
+    "performed_via_github_app": null
   }

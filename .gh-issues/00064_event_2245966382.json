@@ -29,5 +29,6 @@
     "rename": {
       "from": "ECIP-1056: On-chain registry of official media resources",
       "to": "ECIP-1058: On-chain registry of official media resources"
-    }
+    },
+    "performed_via_github_app": null
   }

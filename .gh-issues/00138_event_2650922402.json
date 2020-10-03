@@ -29,5 +29,6 @@
     "rename": {
       "from": "ECIP 1043: Fixed DAG limit restriction",
       "to": "ECIP 1043: Fixe DAG limit restriction"
-    }
+    },
+    "performed_via_github_app": null
   }

@@ -67,11 +67,11 @@
         "type": "User",
         "site_admin": false
       },
-      "open_issues": 3,
-      "closed_issues": 3,
+      "open_issues": 0,
+      "closed_issues": 8,
       "state": "open",
       "created_at": "2019-10-23T14:38:36Z",
-      "updated_at": "2019-11-28T06:23:01Z",
+      "updated_at": "2020-02-09T17:45:52Z",
       "due_on": null,
       "closed_at": null
     },
@@ -80,6 +80,7 @@
     "updated_at": "2019-10-28T22:16:51Z",
     "closed_at": "2019-10-28T22:16:51Z",
     "author_association": "MEMBER",
+    "active_lock_reason": null,
     "body": "Ref #131 [ECIP-1056](https://github.com/ethereumclassic/ECIPs/blob/master/_specs/ecip-1056.md)\r\n\r\n### ETC Core Devs Call - Agharta Finalization\r\n\r\nWhen: **Thursday, October 24, 2019, 1pm UTC**, 60 minutes max.\r\n\r\nWhere: **Ethereum Classic Discord** https://discord.gg/dwxb6nf `#ecips` channel. Will use/create a voice channel _ad hoc._\r\n\r\n### Agenda\r\n\r\n- Quick client teams check-in\r\n  - Geth Classic / ChainSafe, ETC Labs Core\r\n  - Multi-Geth / Multi-Geth, ETCLabs Core \r\n  - Parity Ethereum / Parity Tech\r\n  - Mantis / IOHK\r\n  - Hyperledger Besu / ChainSafe, PegaSys\r\n- Agharta (ECIP-1056) is in _\"draft\"_ state\r\n  - ECIP-1056 needs to be either **accepted** or _updated_ (or _rejected_)\r\n    - discuss [EIP 145](https://eips.ethereum.org/EIPS/eip-145) (Bitwise shifting instructions)\r\n    - discuss [EIP 1014](https://eips.ethereum.org/EIPS/eip-1014) (Skinny `CREATE2` opcode)\r\n    - discuss [EIP 1052](https://eips.ethereum.org/EIPS/eip-1052) (`EXTCODEHASH` opcode)\r\n    - discuss account versioning ref #86 (EIP-1702)\r\n  - discuss a timeline for the protocol upgrade\r\n    - Morden Classic and Kotti Classic testnet (January?)\r\n    - Ethereum Classic mainnet (March?)\r\n- anything else related to Agharta\r\n\r\n### Bonus\r\n- Sha3 / ECIP-1049\r\n- DAG Size / ECIP-1043\r\n\r\nPlease comment to add items to the agenda",
     "reactions": {
       "url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/135/reactions",
@@ -92,5 +93,6 @@
       "heart": 0,
       "rocket": 0,
       "eyes": 0
-    }
+    },
+    "performed_via_github_app": null
   }

@@ -82,6 +82,7 @@
     "updated_at": "2020-01-13T16:39:14Z",
     "closed_at": "2020-01-13T16:39:14Z",
     "author_association": "MEMBER",
+    "active_lock_reason": null,
     "body": "Is that something which can just be disabled in a JSON file, @hitchcott?\r\n\r\nCC @TheEnthusiasticAs ",
     "reactions": {
       "url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/257/reactions",
@@ -94,5 +95,6 @@
       "heart": 0,
       "rocket": 0,
       "eyes": 0
-    }
+    },
+    "performed_via_github_app": null
   }

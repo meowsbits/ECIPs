@@ -86,17 +86,17 @@
           "description": "ECIP has been accepted and is waiting for last-call reviews."
         }
       ],
-      "state": "open",
+      "state": "closed",
       "locked": false,
       "assignee": null,
       "assignees": [
 
       ],
       "milestone": null,
-      "comments": 17,
+      "comments": 19,
       "created_at": "2020-09-18T06:50:48Z",
-      "updated_at": "2020-10-02T06:17:58Z",
-      "closed_at": null,
+      "updated_at": "2020-10-03T00:17:17Z",
+      "closed_at": "2020-10-03T00:09:16Z",
       "author_association": "MEMBER",
       "active_lock_reason": null,
       "body": "Can the ECIP editors and ECIP process participants note where the opposition to ECIP-1049 are to vocalize their opinions/opposition and have this conversation with the pro-SHA3 people to attempt to build consensus?\r\n\r\nReasoning for this Open Issue:\r\nThe opposition was not addressed in any of the three SHA3 conversation threads on github and the comments have not been addressed on the recent SHA3 CDC calls. Can we hold a CDC focused on addressing these consensus issues and try to resolve them prior to ECIP-1049's Oct 9th `Accepted` call? Hopefully this will prevent a chain split.\r\n\r\nIssue threads ref:\r\nhttps://github.com/ethereumclassic/ECIPs/issues/342\r\nhttps://github.com/ethereumclassic/ECIPs/issues/13\r\nhttps://github.com/ethereumclassic/ECIPs/issues/8\r\ncdc ref:\r\nhttps://github.com/ethereumclassic/ECIPs/issues/333\r\nhttps://github.com/ethereumclassic/ECIPs/issues/362\r\n\r\nLuke (xocel) from ETC Labs asked where to oppose the algo change in Discord after the CDC 13 call ended. It was noted that this 9/11 call was not about pro/opposing SHA3 but to decide between SHA3-256 or Keccak256 in the pro-SHA3 camp.\r\n\r\n[xx:04 AM] xocel: how do we express opposition to both keccak256 and sha3?\r\n[xx:05 AM] McDappas:\r\nhow do we express opposition to both keccak256 and sha3?\r\n@xocel  I think thats a different call\r\n[xx:05 AM] xocel: ok. cool.\r\n\r\nI think we all want to prevent chain splits, so this feels like an important step as there are only a few weeks left until ECIP-1049 moves to `Accepted` status on Oct-9. Lastly, I see an `Accepted` ECIP can still be moved to `Rejected` status. Can someone familiar with the process explain that in-depth should ECIP-1049 move forward and there is material contention?\r\nhttps://github.com/ethereumclassic/ECIPs#process-overview\r\n\r\nThanks,\r\n  r0n1n\r\n\r\nHere are some noted vocal opposition from familar names that are more technical than myself (opposition was noted in github or on discord):\r\n- Dexaran @Dexaran https://github.com/ethereumclassic/ECIPs/issues/342#issuecomment-685208360\r\n- Belford @BelfordZ https://github.com/ethereumclassic/ECIPs/issues/13#issuecomment-551256069\r\n- Cody @realcodywburns (Discord discussions in `#general`)\r\n- Luke @iquidus  (Discord discussions in `#general`)",

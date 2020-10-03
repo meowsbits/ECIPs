@@ -25,5 +25,6 @@
     "event": "subscribed",
     "commit_id": null,
     "commit_url": null,
-    "created_at": "2019-10-21T09:38:24Z"
+    "created_at": "2019-10-21T09:38:24Z",
+    "performed_via_github_app": null
   }

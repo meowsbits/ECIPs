@@ -29,5 +29,6 @@
     "rename": {
       "from": "Gas-Limit Configuration Call: December 26, 2019, 13:00 UTC",
       "to": "Gas-Limit Configuration Call "
-    }
+    },
+    "performed_via_github_app": null
   }

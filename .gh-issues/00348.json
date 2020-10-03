@@ -33,8 +33,8 @@
       {
         "id": 1658195407,
         "node_id": "MDU6TGFiZWwxNjU4MTk1NDA3",
-        "url": "https://api.github.com/repos/ethereumclassic/ECIPs/labels/status:%200%20wip",
-        "name": "status: 0 wip",
+        "url": "https://api.github.com/repos/ethereumclassic/ECIPs/labels/status:0%20wip",
+        "name": "status:0 wip",
         "color": "f0f0f0",
         "default": false,
         "description": "ECIP is still work in progress and shall not be merged."
@@ -42,9 +42,9 @@
       {
         "id": 1154785127,
         "node_id": "MDU6TGFiZWwxMTU0Nzg1MTI3",
-        "url": "https://api.github.com/repos/ethereumclassic/ECIPs/labels/type:%20core",
-        "name": "type: core",
-        "color": "fbb4ae",
+        "url": "https://api.github.com/repos/ethereumclassic/ECIPs/labels/type:%20std-core",
+        "name": "type: std-core",
+        "color": "fdcdac",
         "default": false,
         "description": "ECIPs of the type \"Core\" - changing the Classic protocol."
       }
@@ -60,13 +60,13 @@
     "created_at": "2020-08-26T22:14:22Z",
     "updated_at": "2020-08-28T09:52:48Z",
     "closed_at": null,
-    "author_association": "NONE",
+    "author_association": "CONTRIBUTOR",
     "active_lock_reason": null,
     "body": "The issue is the discussion for https://github.com/ethereumclassic/ECIPs/pull/347 which proposes a 51% attack resistance mechanism\r\n",
     "reactions": {
       "url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/348/reactions",
-      "total_count": 1,
-      "+1": 1,
+      "total_count": 2,
+      "+1": 2,
       "-1": 0,
       "laugh": 0,
       "hooray": 0,

@@ -44,6 +44,7 @@
     "updated_at": "2019-12-05T18:53:13Z",
     "closed_at": "2019-12-05T18:53:12Z",
     "author_association": "CONTRIBUTOR",
+    "active_lock_reason": null,
     "body": "Discussion section for `invoke-signer` proposal\r\n\r\nMarkdown view of spec 👉: https://github.com/ethereumclassic/ECIPs/blob/9791c0b59582a2ed80d915afbf410bc104de20ea/_specs/invoke-signer.md",
     "reactions": {
       "url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/147/reactions",
@@ -56,5 +57,6 @@
       "heart": 0,
       "rocket": 0,
       "eyes": 0
-    }
+    },
+    "performed_via_github_app": null
   }

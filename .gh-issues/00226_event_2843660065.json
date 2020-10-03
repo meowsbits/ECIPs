@@ -25,5 +25,6 @@
     "event": "mentioned",
     "commit_id": null,
     "commit_url": null,
-    "created_at": "2019-12-01T18:49:07Z"
+    "created_at": "2019-12-01T18:49:07Z",
+    "performed_via_github_app": null
   }

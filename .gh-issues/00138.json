@@ -43,7 +43,8 @@
     "created_at": "2019-09-20T14:28:41Z",
     "updated_at": "2019-11-07T16:49:48Z",
     "closed_at": "2019-11-07T16:49:48Z",
-    "author_association": "MEMBER",
+    "author_association": "CONTRIBUTOR",
+    "active_lock_reason": null,
     "body": "Discussion page for ECIP 1043: Fixed DAG limit restriction.",
     "reactions": {
       "url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/138/reactions",
@@ -56,5 +57,6 @@
       "heart": 0,
       "rocket": 0,
       "eyes": 0
-    }
+    },
+    "performed_via_github_app": null
   }

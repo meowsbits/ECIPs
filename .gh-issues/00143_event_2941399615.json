@@ -29,5 +29,6 @@
     "rename": {
       "from": "Initial email contact to stakeholders/ notification list",
       "to": "Initial email contact to stakeholders/ notification list for Agharta Hardfork"
-    }
+    },
+    "performed_via_github_app": null
   }

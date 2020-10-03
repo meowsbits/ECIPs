@@ -29,5 +29,6 @@
     "rename": {
       "from": "ECIP-1055: Address-to-Address message system",
       "to": "ECIP-1059: Address-to-Address message system"
-    }
+    },
+    "performed_via_github_app": null
   }
