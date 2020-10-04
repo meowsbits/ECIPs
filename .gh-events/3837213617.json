@@ -1,7 +1,7 @@
 {
-    "id": 3789950870,
-    "node_id": "MDE1OlN1YnNjcmliZWRFdmVudDM3ODk5NTA4NzA=",
-    "url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/events/3789950870",
+    "id": 3837213617,
+    "node_id": "MDE3OlJlbmFtZWRUaXRsZUV2ZW50MzgzNzIxMzYxNw==",
+    "url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/events/3837213617",
     "actor": {
       "login": "gitr0n1n",
       "id": 58588775,
@@ -22,10 +22,14 @@
       "type": "User",
       "site_admin": false
     },
-    "event": "subscribed",
+    "event": "renamed",
     "commit_id": null,
     "commit_url": null,
-    "created_at": "2020-09-21T18:10:46Z",
+    "created_at": "2020-10-04T05:01:15Z",
+    "rename": {
+      "from": "ETC Core Devs Call 15 - ECIP-1049 Keccak Breakout Call",
+      "to": "ETC Core Devs Call 15 - ECIP-1049 Breakout Session Keccak-256"
+    },
     "issue": {
       "url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/382",
       "repository_url": "https://api.github.com/repos/ethereumclassic/ECIPs",
