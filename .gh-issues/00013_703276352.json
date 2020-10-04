@@ -25,9 +25,9 @@
       "site_admin": false
     },
     "created_at": "2020-10-04T16:00:45Z",
-    "updated_at": "2020-10-04T16:00:45Z",
+    "updated_at": "2020-10-04T16:03:04Z",
     "author_association": "NONE",
-    "body": "> All \"ASIC-resistant\" coins end either with ASICs (ethereum, litecoin, decred, dash, grin, etc.etc.etc.)\r\n\r\nThat's entirely misleading regarding Grin. Grin has dual PoW; one ASIC-friendly and one ASIC-resistant for the first two years only. The latter is tweaked every 6 months, and has never had ASICs developed for it. All Grin ASIC development has been for the ASIC friendly variant.",
+    "body": "> All \"ASIC-resistant\" coins end either with ASICs (ethereum, litecoin, decred, dash, grin, etc.etc.etc.)\r\n\r\nThat's entirely misleading regarding Grin. Grin has dual PoW; one ASIC-friendly (Cuckatoo), and one ASIC-resistant (Cuckaroo) for the first two years only. The latter is tweaked every 6 months, and has never had ASICs developed for it. All Grin ASIC development has been for the ASIC friendly variant.\r\n\r\nI agree that without frequent tweaking, no PoW can remain ASIC resistant...",
     "reactions": {
       "url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/comments/703276352/reactions",
       "total_count": 0,
