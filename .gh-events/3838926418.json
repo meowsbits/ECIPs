@@ -1,0 +1,116 @@
+{
+    "id": 3838926418,
+    "node_id": "MDEyOkxhYmVsZWRFdmVudDM4Mzg5MjY0MTg=",
+    "url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/events/3838926418",
+    "actor": {
+      "login": "q9f",
+      "id": 58883403,
+      "node_id": "MDQ6VXNlcjU4ODgzNDAz",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/58883403?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/q9f",
+      "html_url": "https://github.com/q9f",
+      "followers_url": "https://api.github.com/users/q9f/followers",
+      "following_url": "https://api.github.com/users/q9f/following{/other_user}",
+      "gists_url": "https://api.github.com/users/q9f/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/q9f/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/q9f/subscriptions",
+      "organizations_url": "https://api.github.com/users/q9f/orgs",
+      "repos_url": "https://api.github.com/users/q9f/repos",
+      "events_url": "https://api.github.com/users/q9f/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/q9f/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "event": "labeled",
+    "commit_id": null,
+    "commit_url": null,
+    "created_at": "2020-10-05T07:24:21Z",
+    "label": {
+      "name": "status:3 accepted",
+      "color": "bdbdbd"
+    },
+    "issue": {
+      "url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/390",
+      "repository_url": "https://api.github.com/repos/ethereumclassic/ECIPs",
+      "labels_url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/390/labels{/name}",
+      "comments_url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/390/comments",
+      "events_url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/390/events",
+      "html_url": "https://github.com/ethereumclassic/ECIPs/pull/390",
+      "id": 714590618,
+      "node_id": "MDExOlB1bGxSZXF1ZXN0NDk3NjUwMTc1",
+      "number": 390,
+      "title": "ECIP-1099: move epoch duration to accepted",
+      "user": {
+        "login": "q9f",
+        "id": 58883403,
+        "node_id": "MDQ6VXNlcjU4ODgzNDAz",
+        "avatar_url": "https://avatars1.githubusercontent.com/u/58883403?v=4",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/q9f",
+        "html_url": "https://github.com/q9f",
+        "followers_url": "https://api.github.com/users/q9f/followers",
+        "following_url": "https://api.github.com/users/q9f/following{/other_user}",
+        "gists_url": "https://api.github.com/users/q9f/gists{/gist_id}",
+        "starred_url": "https://api.github.com/users/q9f/starred{/owner}{/repo}",
+        "subscriptions_url": "https://api.github.com/users/q9f/subscriptions",
+        "organizations_url": "https://api.github.com/users/q9f/orgs",
+        "repos_url": "https://api.github.com/users/q9f/repos",
+        "events_url": "https://api.github.com/users/q9f/events{/privacy}",
+        "received_events_url": "https://api.github.com/users/q9f/received_events",
+        "type": "User",
+        "site_admin": false
+      },
+      "labels": [
+        {
+          "id": 2281247217,
+          "node_id": "MDU6TGFiZWwyMjgxMjQ3MjE3",
+          "url": "https://api.github.com/repos/ethereumclassic/ECIPs/labels/editor:5%20needs-review",
+          "name": "editor:5 needs-review",
+          "color": "d9ef8b",
+          "default": false,
+          "description": "This contribution needs a careful review."
+        },
+        {
+          "id": 1154785137,
+          "node_id": "MDU6TGFiZWwxMTU0Nzg1MTM3",
+          "url": "https://api.github.com/repos/ethereumclassic/ECIPs/labels/status:3%20accepted",
+          "name": "status:3 accepted",
+          "color": "bdbdbd",
+          "default": false,
+          "description": "ECIP has been accepted and is awaiting Final status and activation."
+        },
+        {
+          "id": 1154785127,
+          "node_id": "MDU6TGFiZWwxMTU0Nzg1MTI3",
+          "url": "https://api.github.com/repos/ethereumclassic/ECIPs/labels/type:%20std-core",
+          "name": "type: std-core",
+          "color": "fdcdac",
+          "default": false,
+          "description": "ECIPs of the type \"Core\" - changing the Classic protocol."
+        }
+      ],
+      "state": "open",
+      "locked": false,
+      "assignee": null,
+      "assignees": [
+
+      ],
+      "milestone": null,
+      "comments": 0,
+      "created_at": "2020-10-05T07:24:21Z",
+      "updated_at": "2020-10-05T07:24:30Z",
+      "closed_at": null,
+      "author_association": "CONTRIBUTOR",
+      "active_lock_reason": null,
+      "pull_request": {
+        "url": "https://api.github.com/repos/ethereumclassic/ECIPs/pulls/390",
+        "html_url": "https://github.com/ethereumclassic/ECIPs/pull/390",
+        "diff_url": "https://github.com/ethereumclassic/ECIPs/pull/390.diff",
+        "patch_url": "https://github.com/ethereumclassic/ECIPs/pull/390.patch"
+      },
+      "body": "moving ecip 1099 to accepted according to the ecip 1000 process.\r\n\r\nthe review period ended on friday, oct/02 2020 without any further concerns raised.\r\n\r\nclients may now publish releases with the activation blocks:\r\n\r\n* For the Ethereum Classic main network: `ETCHASH_FORK_BLOCK := 11_700_000` (Epoch 390)\r\n* For the Mordor Classic test network: `ETCHASH_FORK_BLOCK := 2_520_000` (Epoch 82)\r\n* For the Kotti Classic test network, no upgrade is required.\r\n\r\npools and miners should be updated accordingly.",
+      "performed_via_github_app": null
+    },
+    "performed_via_github_app": null
+  }

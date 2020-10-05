@@ -1,0 +1,23 @@
+From cc1a1adccc001350fd8dcd7739fc409b1cfa9e70 Mon Sep 17 00:00:00 2001
+From: Raw Pong Ghmoa <58883403+q9f@users.noreply.github.com>
+Date: Mon, 5 Oct 2020 09:22:27 +0200
+Subject: [PATCH] move epoch duration to accepted
+
+---
+ _specs/ecip-1099.md | 3 +--
+ 1 file changed, 1 insertion(+), 2 deletions(-)
+
+diff --git a/_specs/ecip-1099.md b/_specs/ecip-1099.md
+index 72f667bc1..cf75fc383 100644
+--- a/_specs/ecip-1099.md
++++ b/_specs/ecip-1099.md
+@@ -2,8 +2,7 @@
+ lang: en
+ ecip: 1099
+ title: Calibrate Epoch Duration
+-status: Last Call
+-review-period-end: 2020-10-02
++status: Accepted
+ type: Standards Track
+ category: Core
+ discussions-to: https://github.com/ethereumclassic/ECIPs/issues/368
