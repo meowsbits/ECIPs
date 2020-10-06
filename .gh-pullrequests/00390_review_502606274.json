@@ -1,0 +1,39 @@
+{
+    "id": 502606274,
+    "node_id": "MDE3OlB1bGxSZXF1ZXN0UmV2aWV3NTAyNjA2Mjc0",
+    "user": {
+      "login": "GrshkvMkhl",
+      "id": 62250852,
+      "node_id": "MDQ6VXNlcjYyMjUwODUy",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/62250852?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/GrshkvMkhl",
+      "html_url": "https://github.com/GrshkvMkhl",
+      "followers_url": "https://api.github.com/users/GrshkvMkhl/followers",
+      "following_url": "https://api.github.com/users/GrshkvMkhl/following{/other_user}",
+      "gists_url": "https://api.github.com/users/GrshkvMkhl/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/GrshkvMkhl/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/GrshkvMkhl/subscriptions",
+      "organizations_url": "https://api.github.com/users/GrshkvMkhl/orgs",
+      "repos_url": "https://api.github.com/users/GrshkvMkhl/repos",
+      "events_url": "https://api.github.com/users/GrshkvMkhl/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/GrshkvMkhl/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "body": "",
+    "state": "APPROVED",
+    "html_url": "https://github.com/ethereumclassic/ECIPs/pull/390#pullrequestreview-502606274",
+    "pull_request_url": "https://api.github.com/repos/ethereumclassic/ECIPs/pulls/390",
+    "author_association": "NONE",
+    "_links": {
+      "html": {
+        "href": "https://github.com/ethereumclassic/ECIPs/pull/390#pullrequestreview-502606274"
+      },
+      "pull_request": {
+        "href": "https://api.github.com/repos/ethereumclassic/ECIPs/pulls/390"
+      }
+    },
+    "submitted_at": "2020-10-06T06:03:49Z",
+    "commit_id": "cc1a1adccc001350fd8dcd7739fc409b1cfa9e70"
+  }
