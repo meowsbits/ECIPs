@@ -1,7 +1,7 @@
 {
-    "id": 3808855055,
-    "node_id": "MDE0OlVubGFiZWxlZEV2ZW50MzgwODg1NTA1NQ==",
-    "url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/events/3808855055",
+    "id": 3866068524,
+    "node_id": "MDEyOkxhYmVsZWRFdmVudDM4NjYwNjg1MjQ=",
+    "url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/events/3866068524",
     "actor": {
       "login": "q9f",
       "id": 58883403,
@@ -22,25 +22,25 @@
       "type": "User",
       "site_admin": false
     },
-    "event": "unlabeled",
+    "event": "labeled",
     "commit_id": null,
     "commit_url": null,
-    "created_at": "2020-09-25T18:12:48Z",
+    "created_at": "2020-10-12T10:58:29Z",
     "label": {
-      "name": "status:1 draft",
-      "color": "d9d9d9"
+      "name": "editor:7 looks-good",
+      "color": "66bd63"
     },
     "issue": {
-      "url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/374",
+      "url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/391",
       "repository_url": "https://api.github.com/repos/ethereumclassic/ECIPs",
-      "labels_url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/374/labels{/name}",
-      "comments_url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/374/comments",
-      "events_url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/374/events",
-      "html_url": "https://github.com/ethereumclassic/ECIPs/issues/374",
-      "id": 700314577,
-      "node_id": "MDU6SXNzdWU3MDAzMTQ1Nzc=",
-      "number": 374,
-      "title": "[Discussion] ECBP-1100: Modified Exponential Subjective Scoring",
+      "labels_url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/391/labels{/name}",
+      "comments_url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/391/comments",
+      "events_url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/391/events",
+      "html_url": "https://github.com/ethereumclassic/ECIPs/pull/391",
+      "id": 718621893,
+      "node_id": "MDExOlB1bGxSZXF1ZXN0NTAwOTc4MTA4",
+      "number": 391,
+      "title": "ECBP-1100: Add cross-client test data",
       "user": {
         "login": "meowsbits",
         "id": 45600330,
@@ -62,6 +62,15 @@
         "site_admin": false
       },
       "labels": [
+        {
+          "id": 1428838937,
+          "node_id": "MDU6TGFiZWwxNDI4ODM4OTM3",
+          "url": "https://api.github.com/repos/ethereumclassic/ECIPs/labels/editor:7%20looks-good",
+          "name": "editor:7 looks-good",
+          "color": "66bd63",
+          "default": false,
+          "description": "This contribution is well reviewed and good to be merged."
+        },
         {
           "id": 2347259237,
           "node_id": "MDU6TGFiZWwyMzQ3MjU5MjM3",
@@ -88,13 +97,19 @@
 
       ],
       "milestone": null,
-      "comments": 40,
-      "created_at": "2020-09-12T17:34:14Z",
-      "updated_at": "2020-10-10T14:00:50Z",
+      "comments": 0,
+      "created_at": "2020-10-10T13:37:11Z",
+      "updated_at": "2020-10-12T10:58:29Z",
       "closed_at": null,
       "author_association": "MEMBER",
       "active_lock_reason": null,
-      "body": "Discussion for https://github.com/ethereumclassic/ECIPs/pull/373, and an update to that original at https://github.com/ethereumclassic/ECIPs/pull/384.",
+      "pull_request": {
+        "url": "https://api.github.com/repos/ethereumclassic/ECIPs/pulls/391",
+        "html_url": "https://github.com/ethereumclassic/ECIPs/pull/391",
+        "diff_url": "https://github.com/ethereumclassic/ECIPs/pull/391.diff",
+        "patch_url": "https://github.com/ethereumclassic/ECIPs/pull/391.patch"
+      },
+      "body": "",
       "performed_via_github_app": null
     },
     "performed_via_github_app": null
