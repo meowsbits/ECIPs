@@ -1,0 +1,68 @@
+{
+    "url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/392",
+    "repository_url": "https://api.github.com/repos/ethereumclassic/ECIPs",
+    "labels_url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/392/labels{/name}",
+    "comments_url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/392/comments",
+    "events_url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/392/events",
+    "html_url": "https://github.com/ethereumclassic/ECIPs/pull/392",
+    "id": 720312379,
+    "node_id": "MDExOlB1bGxSZXF1ZXN0NTAyMzY3MDQy",
+    "number": 392,
+    "title": "ECBP-1100: Fix curve calculation pseudocode",
+    "user": {
+      "login": "gtklocker",
+      "id": 732062,
+      "node_id": "MDQ6VXNlcjczMjA2Mg==",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/732062?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/gtklocker",
+      "html_url": "https://github.com/gtklocker",
+      "followers_url": "https://api.github.com/users/gtklocker/followers",
+      "following_url": "https://api.github.com/users/gtklocker/following{/other_user}",
+      "gists_url": "https://api.github.com/users/gtklocker/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/gtklocker/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/gtklocker/subscriptions",
+      "organizations_url": "https://api.github.com/users/gtklocker/orgs",
+      "repos_url": "https://api.github.com/users/gtklocker/repos",
+      "events_url": "https://api.github.com/users/gtklocker/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/gtklocker/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "labels": [
+
+    ],
+    "state": "open",
+    "locked": false,
+    "assignee": null,
+    "assignees": [
+
+    ],
+    "milestone": null,
+    "comments": 0,
+    "created_at": "2020-10-13T14:11:19Z",
+    "updated_at": "2020-10-13T22:21:56Z",
+    "closed_at": null,
+    "author_association": "FIRST_TIME_CONTRIBUTOR",
+    "active_lock_reason": null,
+    "pull_request": {
+      "url": "https://api.github.com/repos/ethereumclassic/ECIPs/pulls/392",
+      "html_url": "https://github.com/ethereumclassic/ECIPs/pull/392",
+      "diff_url": "https://github.com/ethereumclassic/ECIPs/pull/392.diff",
+      "patch_url": "https://github.com/ethereumclassic/ECIPs/pull/392.patch"
+    },
+    "body": "Previously `x` was used but not set. To avoid harming readability and keep the parameter with the descriptive name `x` is assigned inside the code.",
+    "reactions": {
+      "url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/392/reactions",
+      "total_count": 0,
+      "+1": 0,
+      "-1": 0,
+      "laugh": 0,
+      "hooray": 0,
+      "confused": 0,
+      "heart": 0,
+      "rocket": 0,
+      "eyes": 0
+    },
+    "performed_via_github_app": null
+  }

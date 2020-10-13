@@ -1,0 +1,24 @@
+From 6107a8c8b71f34b769e7e53e19edc1533ef71639 Mon Sep 17 00:00:00 2001
+From: Kostis Karantias <kkarantias@gmail.com>
+Date: Tue, 13 Oct 2020 17:11:05 +0300
+Subject: [PATCH] ECBP-1100: Fix curve calculation pseudocode
+
+Previously `x` was used but not set. To avoid harming readability and keep the parameter with the descriptive name `x` is assigned inside the code.
+---
+ _specs/ecip-1100.md | 3 +--
+ 1 file changed, 1 insertion(+), 2 deletions(-)
+
+diff --git a/_specs/ecip-1100.md b/_specs/ecip-1100.md
+index e03902035..1cb34e0c9 100644
+--- a/_specs/ecip-1100.md
++++ b/_specs/ecip-1100.md
+@@ -162,8 +162,7 @@ def get_curve_function_numerator(time_delta: int) -> int:
+     xcap = 25132 # = floor(8000*pi)
+     ampl = 15
+     height = CURVE_FUNCTION_DENOMINATOR * (ampl * 2)
+-    if x > xcap:
+-        x = xcap
++    x = min(time_delta, xcap)
+     # The sine approximator `y = 3*x**2 - 2*x**3` rescaled to the desired height and width
+     return CURVE_FUNCTION_DENOMINATOR + (3 * x**2 - 2 * x**3 // xcap) * height // xcap ** 2
+ 
