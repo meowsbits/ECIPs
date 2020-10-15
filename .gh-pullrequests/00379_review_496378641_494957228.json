@@ -7,7 +7,7 @@
     "path": "_specs/ecip-1049.md",
     "position": 84,
     "original_position": 85,
-    "commit_id": "3e6f7e42f08bf54bc09c3afbe82d6d0497c551f8",
+    "commit_id": "fc72f81d50811ab3d976e9580e4fb7fc8ee1609b",
     "user": {
       "login": "q9f",
       "id": 58883403,
@@ -30,7 +30,7 @@
     },
     "body": "From #380?",
     "created_at": "2020-09-25T12:36:02Z",
-    "updated_at": "2020-09-27T17:36:35Z",
+    "updated_at": "2020-10-15T13:06:47Z",
     "html_url": "https://github.com/ethereumclassic/ECIPs/pull/379#discussion_r494957228",
     "pull_request_url": "https://api.github.com/repos/ethereumclassic/ECIPs/pulls/379",
     "author_association": "MEMBER",
