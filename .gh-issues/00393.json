@@ -1,0 +1,62 @@
+{
+    "url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/393",
+    "repository_url": "https://api.github.com/repos/ethereumclassic/ECIPs",
+    "labels_url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/393/labels{/name}",
+    "comments_url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/393/comments",
+    "events_url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/393/events",
+    "html_url": "https://github.com/ethereumclassic/ECIPs/issues/393",
+    "id": 724362573,
+    "node_id": "MDU6SXNzdWU3MjQzNjI1NzM=",
+    "number": 393,
+    "title": "Broken link in ECIP-1043",
+    "user": {
+      "login": "mvandemar",
+      "id": 1258456,
+      "node_id": "MDQ6VXNlcjEyNTg0NTY=",
+      "avatar_url": "https://avatars0.githubusercontent.com/u/1258456?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/mvandemar",
+      "html_url": "https://github.com/mvandemar",
+      "followers_url": "https://api.github.com/users/mvandemar/followers",
+      "following_url": "https://api.github.com/users/mvandemar/following{/other_user}",
+      "gists_url": "https://api.github.com/users/mvandemar/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/mvandemar/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/mvandemar/subscriptions",
+      "organizations_url": "https://api.github.com/users/mvandemar/orgs",
+      "repos_url": "https://api.github.com/users/mvandemar/repos",
+      "events_url": "https://api.github.com/users/mvandemar/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/mvandemar/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "labels": [
+
+    ],
+    "state": "open",
+    "locked": false,
+    "assignee": null,
+    "assignees": [
+
+    ],
+    "milestone": null,
+    "comments": 0,
+    "created_at": "2020-10-19T07:41:38Z",
+    "updated_at": "2020-10-19T07:41:38Z",
+    "closed_at": null,
+    "author_association": "NONE",
+    "active_lock_reason": null,
+    "body": "In ECIP 1043: Fixed DAG limit restriction there is a link with the anchor text of \"Superseded by | 1099\" (technically only the \"1099\" is hyperlinked). It points to a 404 due to a typo. The url of the landing page is missing the \"c\" in \"ecip\":\r\n\r\n`https://ecips.ethereumclassic.org/ECIPs/eip-1099`\r\n\r\nIt should be:\r\n\r\n`https://ecips.ethereumclassic.org/ECIPs/ecip-1099`\r\n\r\n",
+    "reactions": {
+      "url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/393/reactions",
+      "total_count": 0,
+      "+1": 0,
+      "-1": 0,
+      "laugh": 0,
+      "hooray": 0,
+      "confused": 0,
+      "heart": 0,
+      "rocket": 0,
+      "eyes": 0
+    },
+    "performed_via_github_app": null
+  }
