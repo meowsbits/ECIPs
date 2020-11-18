@@ -1,0 +1,30 @@
+{
+    "id": 4013030202,
+    "node_id": "MDE1OlN1YnNjcmliZWRFdmVudDQwMTMwMzAyMDI=",
+    "url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/events/4013030202",
+    "actor": {
+      "login": "recurvolution",
+      "id": 74664158,
+      "node_id": "MDQ6VXNlcjc0NjY0MTU4",
+      "avatar_url": "https://avatars0.githubusercontent.com/u/74664158?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/recurvolution",
+      "html_url": "https://github.com/recurvolution",
+      "followers_url": "https://api.github.com/users/recurvolution/followers",
+      "following_url": "https://api.github.com/users/recurvolution/following{/other_user}",
+      "gists_url": "https://api.github.com/users/recurvolution/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/recurvolution/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/recurvolution/subscriptions",
+      "organizations_url": "https://api.github.com/users/recurvolution/orgs",
+      "repos_url": "https://api.github.com/users/recurvolution/repos",
+      "events_url": "https://api.github.com/users/recurvolution/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/recurvolution/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "event": "subscribed",
+    "commit_id": null,
+    "commit_url": null,
+    "created_at": "2020-11-18T22:19:29Z",
+    "performed_via_github_app": null
+  }
