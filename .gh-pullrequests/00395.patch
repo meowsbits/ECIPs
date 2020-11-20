@@ -1,0 +1,28 @@
+From 891a203652327aa233372c7406189400858f3773 Mon Sep 17 00:00:00 2001
+From: Cody Burns <cody.w.burns@gmail.com>
+Date: Thu, 19 Nov 2020 21:54:19 -0600
+Subject: [PATCH] rm: cody from Editors
+
+---
+ _specs/ecip-1000.md | 2 +-
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+
+diff --git a/_specs/ecip-1000.md b/_specs/ecip-1000.md
+index 544533384..3d6155ba1 100644
+--- a/_specs/ecip-1000.md
++++ b/_specs/ecip-1000.md
+@@ -73,13 +73,13 @@ A good reason to transfer ownership is because the original author no longer has
+ Current ECIP editors:
+ 
+ * Mr. Meows D. Bits (@meowsbits)
+-* Cody Burns (@realcodywburns)
+ * Talha Cross (@soc1c)
+ * Zachary Belford (@BelfordZ)
+ 
+ Former ECIP editors:
+ * Wei Tang (@sorpaas)
+ * Yaz Khoury (@YazzyYaz)
++* Cody Burns (@realcodywburns)
+ 
+ ## ECIP Editor Responsibilities & Workflow
+ 
