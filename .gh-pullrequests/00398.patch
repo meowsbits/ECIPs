@@ -1,0 +1,22 @@
+From ba54798f8e20fc60f5bf0bd52f99c6d2533b9093 Mon Sep 17 00:00:00 2001
+From: Raw Pong Ghmoa <58883403+q9f@users.noreply.github.com>
+Date: Mon, 30 Nov 2020 10:41:43 +0100
+Subject: [PATCH] 1099: move to final
+
+---
+ _specs/ecip-1099.md | 2 +-
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+
+diff --git a/_specs/ecip-1099.md b/_specs/ecip-1099.md
+index cf75fc383..45721db3c 100644
+--- a/_specs/ecip-1099.md
++++ b/_specs/ecip-1099.md
+@@ -2,7 +2,7 @@
+ lang: en
+ ecip: 1099
+ title: Calibrate Epoch Duration
+-status: Accepted
++status: Final
+ type: Standards Track
+ category: Core
+ discussions-to: https://github.com/ethereumclassic/ECIPs/issues/368
