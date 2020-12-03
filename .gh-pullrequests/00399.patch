@@ -1,0 +1,25 @@
+From cc6e566a5bf3c7a78d707be5eb48fa31df2dce98 Mon Sep 17 00:00:00 2001
+From: iquidus <luke@iquidus.io>
+Date: Thu, 3 Dec 2020 14:53:17 +0100
+Subject: [PATCH] 1099: add additional comments to seedHash
+
+---
+ _specs/ecip-1099.md | 5 ++++-
+ 1 file changed, 4 insertions(+), 1 deletion(-)
+
+diff --git a/_specs/ecip-1099.md b/_specs/ecip-1099.md
+index cf75fc383..7dccd04e9 100644
+--- a/_specs/ecip-1099.md
++++ b/_specs/ecip-1099.md
+@@ -55,7 +55,10 @@ func calcEpoch(block uint64) int {
+ }
+ 
+ // seedHash is the seed to use for generating a verification cache and the
+-// mining dataset.
++// mining dataset. The block number passed should represent an epoch boundary + 1
++// calculated as `block = epoch * [old/new]EpochLength + 1`
++// pre-1099: block = epoch * oldEpochLength + 1 OR block = currentBlock.number
++// 1099: block = epoch * newEpochLength + 1
+ func seedHash(block uint64) []byte {
+   seed := make([]byte, 32)
+   if block < oldEpochLength {
