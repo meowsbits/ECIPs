@@ -1,7 +1,7 @@
 From e1a8de26ea1ba0b1677d6e48c2417b9ad4ccb3ec Mon Sep 17 00:00:00 2001
 From: Ronin <58588775+gitr0n1n@users.noreply.github.com>
 Date: Thu, 3 Dec 2020 16:54:40 -0700
-Subject: [PATCH] Update ecip-1049.md
+Subject: [PATCH 1/2] Update ecip-1049.md
 
 + move to Draft Status (Expired Last Call Review on Oct 9, 2020) due to material redraft of proposal.
 + Update Discussion Thread to new Redraft thread
@@ -62,3 +62,28 @@ index 354ded306..7a519ed39 100644
 +6. https://github.com/ethereumclassic/ECIPs/issues/382
 +7. https://github.com/ethereum/EIPs/issues/2951
 +8. https://github.com/ethereumclassic/ECIPs/issues/394
+
+From 5ae7308b7b3d4c80674b3c9d6d9c92d9cf43ffe2 Mon Sep 17 00:00:00 2001
+From: Ronin <58588775+gitr0n1n@users.noreply.github.com>
+Date: Thu, 3 Dec 2020 19:38:56 -0700
+Subject: [PATCH 2/2] Update ecip-1049.md
+
+ECIP Process Formality:
++ Move to Rejected after failing in Last Call by Ot 9, 2020.
+---
+ _specs/ecip-1049.md | 2 +-
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+
+diff --git a/_specs/ecip-1049.md b/_specs/ecip-1049.md
+index 7a519ed39..4ef0a1bca 100644
+--- a/_specs/ecip-1049.md
++++ b/_specs/ecip-1049.md
+@@ -2,7 +2,7 @@
+ lang: en
+ ecip: 1049
+ title: Change the ETC Proof of Work Algorithm to Keccak256
+-status: Draft
++status: Rejected
+ type: Standards Track
+ category: Core
+ discussions-to: https://github.com/ethereumclassic/ECIPs/issues/394
