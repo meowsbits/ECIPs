@@ -30,7 +30,33 @@
       "site_admin": false
     },
     "labels": [
-
+      {
+        "id": 2281247217,
+        "node_id": "MDU6TGFiZWwyMjgxMjQ3MjE3",
+        "url": "https://api.github.com/repos/ethereumclassic/ECIPs/labels/editor:5%20needs-review",
+        "name": "editor:5 needs-review",
+        "color": "d9ef8b",
+        "default": false,
+        "description": "This contribution needs a careful review."
+      },
+      {
+        "id": 1702098127,
+        "node_id": "MDU6TGFiZWwxNzAyMDk4MTI3",
+        "url": "https://api.github.com/repos/ethereumclassic/ECIPs/labels/status:5%20last-call",
+        "name": "status:5 last-call",
+        "color": "969696",
+        "default": false,
+        "description": "ECIP has been accepted and is waiting for last-call reviews."
+      },
+      {
+        "id": 1154785127,
+        "node_id": "MDU6TGFiZWwxMTU0Nzg1MTI3",
+        "url": "https://api.github.com/repos/ethereumclassic/ECIPs/labels/type:%20std-core",
+        "name": "type: std-core",
+        "color": "fdcdac",
+        "default": false,
+        "description": "ECIPs of the type \"Core\" - changing the Classic protocol."
+      }
     ],
     "state": "open",
     "locked": false,
@@ -39,9 +65,9 @@
 
     ],
     "milestone": null,
-    "comments": 0,
+    "comments": 1,
     "created_at": "2020-12-03T23:55:53Z",
-    "updated_at": "2020-12-04T02:39:08Z",
+    "updated_at": "2020-12-04T09:25:23Z",
     "closed_at": null,
     "author_association": "MEMBER",
     "active_lock_reason": null,
