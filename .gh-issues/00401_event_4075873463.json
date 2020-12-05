@@ -1,0 +1,30 @@
+{
+    "id": 4075873463,
+    "node_id": "MDE1OlN1YnNjcmliZWRFdmVudDQwNzU4NzM0NjM=",
+    "url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/events/4075873463",
+    "actor": {
+      "login": "stev",
+      "id": 424474,
+      "node_id": "MDQ6VXNlcjQyNDQ3NA==",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/424474?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/stev",
+      "html_url": "https://github.com/stev",
+      "followers_url": "https://api.github.com/users/stev/followers",
+      "following_url": "https://api.github.com/users/stev/following{/other_user}",
+      "gists_url": "https://api.github.com/users/stev/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/stev/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/stev/subscriptions",
+      "organizations_url": "https://api.github.com/users/stev/orgs",
+      "repos_url": "https://api.github.com/users/stev/repos",
+      "events_url": "https://api.github.com/users/stev/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/stev/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "event": "subscribed",
+    "commit_id": null,
+    "commit_url": null,
+    "created_at": "2020-12-05T18:16:51Z",
+    "performed_via_github_app": null
+  }
