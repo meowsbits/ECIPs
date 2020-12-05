@@ -25,9 +25,9 @@
       "site_admin": false
     },
     "created_at": "2020-12-05T07:49:52Z",
-    "updated_at": "2020-12-05T07:49:52Z",
+    "updated_at": "2020-12-05T07:50:51Z",
     "author_association": "MEMBER",
-    "body": "Since Yaz is no longer an editor, I nominate myself to represent Coop. At least 1 volunteer from Coop, IOHK, Labs, and independents would be sweet!\r\n\r\n@faraggi ECIP editor is simply a volunteer role to make sure proposals are formatted correctly, assign a proposal and ecip numbers before merging, and follow up with the proposal author. It's a no-judgment role simply paper-pushing.",
+    "body": "Since Yaz is no longer an editor, I nominate myself to represent Coop. At least 1 volunteer from Coop, IOHK, Labs, and independents would be sweet!\r\n\r\n@faraggi ECIP editor is simply a volunteer role to make sure proposals are formatted correctly, assign a proposal and ecip numbers before merging, and follow up with the proposal author. It's a no-judgment role simply paper-pushing. https://ecips.ethereumclassic.org/ECIPs/ecip-1000",
     "reactions": {
       "url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/comments/739140924/reactions",
       "total_count": 0,
