@@ -25,13 +25,13 @@
       "site_admin": false
     },
     "created_at": "2020-12-05T18:16:50Z",
-    "updated_at": "2020-12-05T18:16:50Z",
+    "updated_at": "2020-12-07T11:45:46Z",
     "author_association": "MEMBER",
-    "body": "I am for @stev & @gitr0n1n. Their contributions you know already. Also, with the time @faraggi from IOHK could join too after he is learned more by the ETC participants.\r\n\r\nI would gladly help, but I am already taking care of PRs/issues for the Ethereum Classic website, admin/mod/communication works on several social media channels alongside to my day job.",
+    "body": "I am for @stev & @gitr0n1n. Their contributions you know already. Also, with the time @faraggi from IOHK could join too after he has been learned better by the ETC participants.\r\n\r\nI would gladly help, but I am already taking care of PRs/issues for the Ethereum Classic website, admin/mod/communication works on several social media channels alongside to my day job.",
     "reactions": {
       "url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/comments/739330133/reactions",
-      "total_count": 0,
-      "+1": 0,
+      "total_count": 1,
+      "+1": 1,
       "-1": 0,
       "laugh": 0,
       "hooray": 0,
