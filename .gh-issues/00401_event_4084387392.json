@@ -1,0 +1,30 @@
+{
+    "id": 4084387392,
+    "node_id": "MDE0Ok1lbnRpb25lZEV2ZW50NDA4NDM4NzM5Mg==",
+    "url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/events/4084387392",
+    "actor": {
+      "login": "kizoojun01",
+      "id": 75110474,
+      "node_id": "MDQ6VXNlcjc1MTEwNDc0",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/75110474?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/kizoojun01",
+      "html_url": "https://github.com/kizoojun01",
+      "followers_url": "https://api.github.com/users/kizoojun01/followers",
+      "following_url": "https://api.github.com/users/kizoojun01/following{/other_user}",
+      "gists_url": "https://api.github.com/users/kizoojun01/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/kizoojun01/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/kizoojun01/subscriptions",
+      "organizations_url": "https://api.github.com/users/kizoojun01/orgs",
+      "repos_url": "https://api.github.com/users/kizoojun01/repos",
+      "events_url": "https://api.github.com/users/kizoojun01/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/kizoojun01/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "event": "mentioned",
+    "commit_id": null,
+    "commit_url": null,
+    "created_at": "2020-12-08T11:48:44Z",
+    "performed_via_github_app": null
+  }
