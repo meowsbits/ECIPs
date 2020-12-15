@@ -1,0 +1,21 @@
+From 87138d345e1657046ffb36064f0f6dcf0d98b333 Mon Sep 17 00:00:00 2001
+From: Raw Pong Ghmoa <58883403+q9f@users.noreply.github.com>
+Date: Tue, 15 Dec 2020 13:49:02 +0100
+Subject: [PATCH] 1000: add ivan as ecip editor
+
+---
+ _specs/ecip-1000.md | 1 +
+ 1 file changed, 1 insertion(+)
+
+diff --git a/_specs/ecip-1000.md b/_specs/ecip-1000.md
+index 3d6155ba1..b12087376 100644
+--- a/_specs/ecip-1000.md
++++ b/_specs/ecip-1000.md
+@@ -75,6 +75,7 @@ Current ECIP editors:
+ * Mr. Meows D. Bits (@meowsbits)
+ * Talha Cross (@soc1c)
+ * Zachary Belford (@BelfordZ)
++* Ivan (@DirtyRusski)
+ 
+ Former ECIP editors:
+ * Wei Tang (@sorpaas)
