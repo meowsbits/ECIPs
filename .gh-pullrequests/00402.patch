@@ -1,0 +1,21 @@
+From 2ada8177ee87651005c6b54e0ac95e4e7a6d4916 Mon Sep 17 00:00:00 2001
+From: Raw Pong Ghmoa <58883403+q9f@users.noreply.github.com>
+Date: Tue, 15 Dec 2020 13:47:27 +0100
+Subject: [PATCH] 1000: add faraggi as editor
+
+---
+ _specs/ecip-1000.md | 1 +
+ 1 file changed, 1 insertion(+)
+
+diff --git a/_specs/ecip-1000.md b/_specs/ecip-1000.md
+index 3d6155ba1..176f1ba37 100644
+--- a/_specs/ecip-1000.md
++++ b/_specs/ecip-1000.md
+@@ -75,6 +75,7 @@ Current ECIP editors:
+ * Mr. Meows D. Bits (@meowsbits)
+ * Talha Cross (@soc1c)
+ * Zachary Belford (@BelfordZ)
++* Felipe Faraggi (@faraggi)
+ 
+ Former ECIP editors:
+ * Wei Tang (@sorpaas)
