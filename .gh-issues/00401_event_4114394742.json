@@ -1,0 +1,30 @@
+{
+    "id": 4114394742,
+    "node_id": "MDE1OlN1YnNjcmliZWRFdmVudDQxMTQzOTQ3NDI=",
+    "url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/events/4114394742",
+    "actor": {
+      "login": "DirtyRusski",
+      "id": 53068272,
+      "node_id": "MDQ6VXNlcjUzMDY4Mjcy",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/53068272?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/DirtyRusski",
+      "html_url": "https://github.com/DirtyRusski",
+      "followers_url": "https://api.github.com/users/DirtyRusski/followers",
+      "following_url": "https://api.github.com/users/DirtyRusski/following{/other_user}",
+      "gists_url": "https://api.github.com/users/DirtyRusski/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/DirtyRusski/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/DirtyRusski/subscriptions",
+      "organizations_url": "https://api.github.com/users/DirtyRusski/orgs",
+      "repos_url": "https://api.github.com/users/DirtyRusski/repos",
+      "events_url": "https://api.github.com/users/DirtyRusski/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/DirtyRusski/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "event": "subscribed",
+    "commit_id": null,
+    "commit_url": null,
+    "created_at": "2020-12-15T12:45:02Z",
+    "performed_via_github_app": null
+  }
