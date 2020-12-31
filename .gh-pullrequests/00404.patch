@@ -1,0 +1,23 @@
+From 250a26705a19ffd0939577960568eef16757cdf0 Mon Sep 17 00:00:00 2001
+From: Ronin <58588775+gitr0n1n@users.noreply.github.com>
+Date: Wed, 30 Dec 2020 18:10:37 -0700
+Subject: [PATCH] Update ecip-1000.md
+
+Issue 401: https://github.com/ethereumclassic/ECIPs/issues/401
+---
+ _specs/ecip-1000.md | 2 ++
+ 1 file changed, 2 insertions(+)
+
+diff --git a/_specs/ecip-1000.md b/_specs/ecip-1000.md
+index 3d6155ba1..ce0e16df2 100644
+--- a/_specs/ecip-1000.md
++++ b/_specs/ecip-1000.md
+@@ -75,6 +75,8 @@ Current ECIP editors:
+ * Mr. Meows D. Bits (@meowsbits)
+ * Talha Cross (@soc1c)
+ * Zachary Belford (@BelfordZ)
++* r0n1n (@gitr0n1n)
++* Stevan Lohja (@stevanlohja)
+ 
+ Former ECIP editors:
+ * Wei Tang (@sorpaas)
