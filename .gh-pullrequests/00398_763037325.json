@@ -1,9 +1,9 @@
 {
-    "url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/comments/763035049",
-    "html_url": "https://github.com/ethereumclassic/ECIPs/pull/400#issuecomment-763035049",
-    "issue_url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/400",
-    "id": 763035049,
-    "node_id": "MDEyOklzc3VlQ29tbWVudDc2MzAzNTA0OQ==",
+    "url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/comments/763037325",
+    "html_url": "https://github.com/ethereumclassic/ECIPs/pull/398#issuecomment-763037325",
+    "issue_url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/398",
+    "id": 763037325,
+    "node_id": "MDEyOklzc3VlQ29tbWVudDc2MzAzNzMyNQ==",
     "user": {
       "login": "gitr0n1n",
       "id": 58588775,
@@ -24,12 +24,12 @@
       "type": "User",
       "site_admin": false
     },
-    "created_at": "2021-01-19T18:27:30Z",
-    "updated_at": "2021-01-19T18:29:40Z",
+    "created_at": "2021-01-19T18:30:52Z",
+    "updated_at": "2021-01-19T18:31:06Z",
     "author_association": "MEMBER",
-    "body": "> I think we can continue working on that document, so I would rather send it back to draft status rather than rejecting it.\r\n\r\n@q9f can we get this ECIP moved back to the status it is currently in: `Draft`.\r\n\r\nI believe we might needed to have it `Withdrawn` then resubmitted as `Draft`. The issue is that this proposal has past its current review period and now the authors are re-drafting the proposal. It's almost been in this limbo state for 60 days. I think its time to clean this up. I'd do it myself if I was an editor, but those PRs are also sitting on the shelf.\r\n\r\nThanks in advance for the ECIP housekeeping.",
+    "body": "Can we move this ECIP to `Final` status? It's been live on the mainnet network for two months. Thanks in advance for the ECIP housekeeping.",
     "reactions": {
-      "url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/comments/763035049/reactions",
+      "url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/comments/763037325/reactions",
       "total_count": 0,
       "+1": 0,
       "-1": 0,
