@@ -49,17 +49,17 @@
         "description": "Issues surrounding the ECIP process and meta governance."
       }
     ],
-    "state": "open",
+    "state": "closed",
     "locked": false,
     "assignee": null,
     "assignees": [
 
     ],
     "milestone": null,
-    "comments": 22,
+    "comments": 23,
     "created_at": "2020-12-04T09:15:56Z",
-    "updated_at": "2021-02-01T12:08:24Z",
-    "closed_at": null,
+    "updated_at": "2021-02-01T12:12:09Z",
+    "closed_at": "2021-02-01T12:12:09Z",
     "author_association": "MEMBER",
     "active_lock_reason": null,
     "body": "To prevent the Ethereum Classic governance from halting, please use this ticket to nominate candidates for the ECIP Editor position.\r\n\r\nIdeally, we need at least two more ECIP editors. An ideal candidate should be well-recognized in the Ethereum Classic community and widely acting independently.\r\n\r\nEveryone can nominate themselves or other community members. Nominations have to be accepted by the nominees and approved by the existing (and/or past) ECIP editors.",

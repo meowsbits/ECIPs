@@ -1,0 +1,30 @@
+{
+    "id": 4273334611,
+    "node_id": "MDE1OlN1YnNjcmliZWRFdmVudDQyNzMzMzQ2MTE=",
+    "url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/events/4273334611",
+    "actor": {
+      "login": "faraggi",
+      "id": 264382,
+      "node_id": "MDQ6VXNlcjI2NDM4Mg==",
+      "avatar_url": "https://avatars.githubusercontent.com/u/264382?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/faraggi",
+      "html_url": "https://github.com/faraggi",
+      "followers_url": "https://api.github.com/users/faraggi/followers",
+      "following_url": "https://api.github.com/users/faraggi/following{/other_user}",
+      "gists_url": "https://api.github.com/users/faraggi/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/faraggi/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/faraggi/subscriptions",
+      "organizations_url": "https://api.github.com/users/faraggi/orgs",
+      "repos_url": "https://api.github.com/users/faraggi/repos",
+      "events_url": "https://api.github.com/users/faraggi/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/faraggi/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "event": "subscribed",
+    "commit_id": null,
+    "commit_url": null,
+    "created_at": "2021-02-01T12:12:09Z",
+    "performed_via_github_app": null
+  }
