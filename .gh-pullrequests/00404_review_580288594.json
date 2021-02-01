@@ -1,0 +1,39 @@
+{
+    "id": 580288594,
+    "node_id": "MDE3OlB1bGxSZXF1ZXN0UmV2aWV3NTgwMjg4NTk0",
+    "user": {
+      "login": "q9f",
+      "id": 58883403,
+      "node_id": "MDQ6VXNlcjU4ODgzNDAz",
+      "avatar_url": "https://avatars.githubusercontent.com/u/58883403?u=41f54aa86ba0c65850b6c6bd754693f5f3a517c6&v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/q9f",
+      "html_url": "https://github.com/q9f",
+      "followers_url": "https://api.github.com/users/q9f/followers",
+      "following_url": "https://api.github.com/users/q9f/following{/other_user}",
+      "gists_url": "https://api.github.com/users/q9f/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/q9f/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/q9f/subscriptions",
+      "organizations_url": "https://api.github.com/users/q9f/orgs",
+      "repos_url": "https://api.github.com/users/q9f/repos",
+      "events_url": "https://api.github.com/users/q9f/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/q9f/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "body": "",
+    "state": "APPROVED",
+    "html_url": "https://github.com/ethereumclassic/ECIPs/pull/404#pullrequestreview-580288594",
+    "pull_request_url": "https://api.github.com/repos/ethereumclassic/ECIPs/pulls/404",
+    "author_association": "MEMBER",
+    "_links": {
+      "html": {
+        "href": "https://github.com/ethereumclassic/ECIPs/pull/404#pullrequestreview-580288594"
+      },
+      "pull_request": {
+        "href": "https://api.github.com/repos/ethereumclassic/ECIPs/pulls/404"
+      }
+    },
+    "submitted_at": "2021-02-01T12:08:48Z",
+    "commit_id": "250a26705a19ffd0939577960568eef16757cdf0"
+  }
