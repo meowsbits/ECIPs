@@ -1,0 +1,39 @@
+{
+    "id": 580310486,
+    "node_id": "MDE3OlB1bGxSZXF1ZXN0UmV2aWV3NTgwMzEwNDg2",
+    "user": {
+      "login": "meowsbits",
+      "id": 45600330,
+      "node_id": "MDQ6VXNlcjQ1NjAwMzMw",
+      "avatar_url": "https://avatars.githubusercontent.com/u/45600330?u=2caabd8cd42b4f41f5bd6edd43f64e87a8fe04d7&v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/meowsbits",
+      "html_url": "https://github.com/meowsbits",
+      "followers_url": "https://api.github.com/users/meowsbits/followers",
+      "following_url": "https://api.github.com/users/meowsbits/following{/other_user}",
+      "gists_url": "https://api.github.com/users/meowsbits/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/meowsbits/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/meowsbits/subscriptions",
+      "organizations_url": "https://api.github.com/users/meowsbits/orgs",
+      "repos_url": "https://api.github.com/users/meowsbits/repos",
+      "events_url": "https://api.github.com/users/meowsbits/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/meowsbits/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "body": "",
+    "state": "APPROVED",
+    "html_url": "https://github.com/ethereumclassic/ECIPs/pull/396#pullrequestreview-580310486",
+    "pull_request_url": "https://api.github.com/repos/ethereumclassic/ECIPs/pulls/396",
+    "author_association": "MEMBER",
+    "_links": {
+      "html": {
+        "href": "https://github.com/ethereumclassic/ECIPs/pull/396#pullrequestreview-580310486"
+      },
+      "pull_request": {
+        "href": "https://api.github.com/repos/ethereumclassic/ECIPs/pulls/396"
+      }
+    },
+    "submitted_at": "2021-02-01T12:38:01Z",
+    "commit_id": "d7a1ff1d5a69f0a388b2004d458af47910bd33dd"
+  }
