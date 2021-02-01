@@ -1,8 +1,10 @@
 {
-    "id": 4036900927,
-    "node_id": "MDEyOkxhYmVsZWRFdmVudDQwMzY5MDA5Mjc=",
-    "url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/events/4036900927",
-    "actor": {
+    "url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/comments/770806713",
+    "html_url": "https://github.com/ethereumclassic/ECIPs/pull/396#issuecomment-770806713",
+    "issue_url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/396",
+    "id": 770806713,
+    "node_id": "MDEyOklzc3VlQ29tbWVudDc3MDgwNjcxMw==",
+    "user": {
       "login": "q9f",
       "id": 58883403,
       "node_id": "MDQ6VXNlcjU4ODgzNDAz",
@@ -22,13 +24,21 @@
       "type": "User",
       "site_admin": false
     },
-    "event": "labeled",
-    "commit_id": null,
-    "commit_url": null,
-    "created_at": "2020-11-25T08:47:17Z",
-    "label": {
-      "name": "editor:5 needs-review",
-      "color": "d9ef8b"
+    "created_at": "2021-02-01T12:03:24Z",
+    "updated_at": "2021-02-01T12:03:24Z",
+    "author_association": "MEMBER",
+    "body": "yes, we would need another approval",
+    "reactions": {
+      "url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/comments/770806713/reactions",
+      "total_count": 0,
+      "+1": 0,
+      "-1": 0,
+      "laugh": 0,
+      "hooray": 0,
+      "confused": 0,
+      "heart": 0,
+      "rocket": 0,
+      "eyes": 0
     },
     "performed_via_github_app": null
   }
