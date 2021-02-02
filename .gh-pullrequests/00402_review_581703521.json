@@ -1,0 +1,39 @@
+{
+    "id": 581703521,
+    "node_id": "MDE3OlB1bGxSZXF1ZXN0UmV2aWV3NTgxNzAzNTIx",
+    "user": {
+      "login": "developerkevin",
+      "id": 29807183,
+      "node_id": "MDQ6VXNlcjI5ODA3MTgz",
+      "avatar_url": "https://avatars.githubusercontent.com/u/29807183?u=33a8f54087a2cabc2d50df788a9933ff02866d03&v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/developerkevin",
+      "html_url": "https://github.com/developerkevin",
+      "followers_url": "https://api.github.com/users/developerkevin/followers",
+      "following_url": "https://api.github.com/users/developerkevin/following{/other_user}",
+      "gists_url": "https://api.github.com/users/developerkevin/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/developerkevin/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/developerkevin/subscriptions",
+      "organizations_url": "https://api.github.com/users/developerkevin/orgs",
+      "repos_url": "https://api.github.com/users/developerkevin/repos",
+      "events_url": "https://api.github.com/users/developerkevin/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/developerkevin/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "body": "",
+    "state": "APPROVED",
+    "html_url": "https://github.com/ethereumclassic/ECIPs/pull/402#pullrequestreview-581703521",
+    "pull_request_url": "https://api.github.com/repos/ethereumclassic/ECIPs/pulls/402",
+    "author_association": "MEMBER",
+    "_links": {
+      "html": {
+        "href": "https://github.com/ethereumclassic/ECIPs/pull/402#pullrequestreview-581703521"
+      },
+      "pull_request": {
+        "href": "https://api.github.com/repos/ethereumclassic/ECIPs/pulls/402"
+      }
+    },
+    "submitted_at": "2021-02-02T19:35:41Z",
+    "commit_id": "33ad967059e8c5fd22de1552ca6b6d7ce01605ff"
+  }
