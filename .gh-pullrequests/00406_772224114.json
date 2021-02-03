@@ -1,14 +1,9 @@
 {
-    "url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/406",
-    "repository_url": "https://api.github.com/repos/ethereumclassic/ECIPs",
-    "labels_url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/406/labels{/name}",
-    "comments_url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/406/comments",
-    "events_url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/406/events",
-    "html_url": "https://github.com/ethereumclassic/ECIPs/pull/406",
-    "id": 799961628,
-    "node_id": "MDExOlB1bGxSZXF1ZXN0NTY2NTI3MjI3",
-    "number": 406,
-    "title": "Adding corrected process diagram",
+    "url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/comments/772224114",
+    "html_url": "https://github.com/ethereumclassic/ECIPs/pull/406#issuecomment-772224114",
+    "issue_url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/406",
+    "id": 772224114,
+    "node_id": "MDEyOklzc3VlQ29tbWVudDc3MjIyNDExNA==",
     "user": {
       "login": "TokenHash",
       "id": 29529586,
@@ -29,31 +24,12 @@
       "type": "User",
       "site_admin": false
     },
-    "labels": [
-
-    ],
-    "state": "open",
-    "locked": false,
-    "assignee": null,
-    "assignees": [
-
-    ],
-    "milestone": null,
-    "comments": 1,
-    "created_at": "2021-02-03T04:41:00Z",
+    "created_at": "2021-02-03T04:46:19Z",
     "updated_at": "2021-02-03T04:46:19Z",
-    "closed_at": null,
     "author_association": "CONTRIBUTOR",
-    "active_lock_reason": null,
-    "pull_request": {
-      "url": "https://api.github.com/repos/ethereumclassic/ECIPs/pulls/406",
-      "html_url": "https://github.com/ethereumclassic/ECIPs/pull/406",
-      "diff_url": "https://github.com/ethereumclassic/ECIPs/pull/406.diff",
-      "patch_url": "https://github.com/ethereumclassic/ECIPs/pull/406.patch"
-    },
-    "body": "Adding process-png diagram.",
+    "body": "I think this is including dome old PR, but the only part that matters is the change of the process-png on the assets folder of ecip-1000. Sorry.",
     "reactions": {
-      "url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/406/reactions",
+      "url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/comments/772224114/reactions",
       "total_count": 0,
       "+1": 0,
       "-1": 0,
