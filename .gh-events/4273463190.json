@@ -59,13 +59,13 @@
       },
       "labels": [
         {
-          "id": 2281247217,
-          "node_id": "MDU6TGFiZWwyMjgxMjQ3MjE3",
-          "url": "https://api.github.com/repos/ethereumclassic/ECIPs/labels/editor:5%20needs-review",
-          "name": "editor:5 needs-review",
-          "color": "d9ef8b",
+          "id": 1428777475,
+          "node_id": "MDU6TGFiZWwxNDI4Nzc3NDc1",
+          "url": "https://api.github.com/repos/ethereumclassic/ECIPs/labels/editor:2%20on-hold",
+          "name": "editor:2 on-hold",
+          "color": "fdae61",
           "default": false,
-          "description": "This contribution needs a careful review."
+          "description": "This contribution is waiting for another PR."
         },
         {
           "id": 2347169149,
@@ -104,17 +104,17 @@
           "description": "ECIPs of type \"Meta\" - bundling proposals for upgrades."
         }
       ],
-      "state": "open",
+      "state": "closed",
       "locked": false,
       "assignee": null,
       "assignees": [
 
       ],
       "milestone": null,
-      "comments": 5,
+      "comments": 6,
       "created_at": "2020-12-15T12:49:12Z",
-      "updated_at": "2021-02-02T20:53:25Z",
-      "closed_at": null,
+      "updated_at": "2021-02-02T22:10:30Z",
+      "closed_at": "2021-02-02T22:01:30Z",
       "author_association": "CONTRIBUTOR",
       "active_lock_reason": null,
       "pull_request": {

@@ -1,0 +1,134 @@
+{
+    "id": 4282002738,
+    "node_id": "MDEyOkxhYmVsZWRFdmVudDQyODIwMDI3Mzg=",
+    "url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/events/4282002738",
+    "actor": {
+      "login": "q9f",
+      "id": 58883403,
+      "node_id": "MDQ6VXNlcjU4ODgzNDAz",
+      "avatar_url": "https://avatars.githubusercontent.com/u/58883403?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/q9f",
+      "html_url": "https://github.com/q9f",
+      "followers_url": "https://api.github.com/users/q9f/followers",
+      "following_url": "https://api.github.com/users/q9f/following{/other_user}",
+      "gists_url": "https://api.github.com/users/q9f/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/q9f/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/q9f/subscriptions",
+      "organizations_url": "https://api.github.com/users/q9f/orgs",
+      "repos_url": "https://api.github.com/users/q9f/repos",
+      "events_url": "https://api.github.com/users/q9f/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/q9f/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "event": "labeled",
+    "commit_id": null,
+    "commit_url": null,
+    "created_at": "2021-02-02T22:11:04Z",
+    "label": {
+      "name": "editor:7 looks-good",
+      "color": "66bd63"
+    },
+    "issue": {
+      "url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/402",
+      "repository_url": "https://api.github.com/repos/ethereumclassic/ECIPs",
+      "labels_url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/402/labels{/name}",
+      "comments_url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/402/comments",
+      "events_url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/402/events",
+      "html_url": "https://github.com/ethereumclassic/ECIPs/pull/402",
+      "id": 767557467,
+      "node_id": "MDExOlB1bGxSZXF1ZXN0NTQwMjI0NzUw",
+      "number": 402,
+      "title": "1000: add faraggi as editor",
+      "user": {
+        "login": "q9f",
+        "id": 58883403,
+        "node_id": "MDQ6VXNlcjU4ODgzNDAz",
+        "avatar_url": "https://avatars.githubusercontent.com/u/58883403?v=4",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/q9f",
+        "html_url": "https://github.com/q9f",
+        "followers_url": "https://api.github.com/users/q9f/followers",
+        "following_url": "https://api.github.com/users/q9f/following{/other_user}",
+        "gists_url": "https://api.github.com/users/q9f/gists{/gist_id}",
+        "starred_url": "https://api.github.com/users/q9f/starred{/owner}{/repo}",
+        "subscriptions_url": "https://api.github.com/users/q9f/subscriptions",
+        "organizations_url": "https://api.github.com/users/q9f/orgs",
+        "repos_url": "https://api.github.com/users/q9f/repos",
+        "events_url": "https://api.github.com/users/q9f/events{/privacy}",
+        "received_events_url": "https://api.github.com/users/q9f/received_events",
+        "type": "User",
+        "site_admin": false
+      },
+      "labels": [
+        {
+          "id": 1428838937,
+          "node_id": "MDU6TGFiZWwxNDI4ODM4OTM3",
+          "url": "https://api.github.com/repos/ethereumclassic/ECIPs/labels/editor:7%20looks-good",
+          "name": "editor:7 looks-good",
+          "color": "66bd63",
+          "default": false,
+          "description": "This contribution is well reviewed and good to be merged."
+        },
+        {
+          "id": 2347169149,
+          "node_id": "MDU6TGFiZWwyMzQ3MTY5MTQ5",
+          "url": "https://api.github.com/repos/ethereumclassic/ECIPs/labels/meta:1%20governance",
+          "name": "meta:1 governance",
+          "color": "762a83",
+          "default": false,
+          "description": "Issues comprising of all the processes involved making decisions."
+        },
+        {
+          "id": 2347243041,
+          "node_id": "MDU6TGFiZWwyMzQ3MjQzMDQx",
+          "url": "https://api.github.com/repos/ethereumclassic/ECIPs/labels/meta:3%20process",
+          "name": "meta:3 process",
+          "color": "9970ab",
+          "default": false,
+          "description": "Issues surrounding the ECIP process and meta governance."
+        },
+        {
+          "id": 2347259237,
+          "node_id": "MDU6TGFiZWwyMzQ3MjU5MjM3",
+          "url": "https://api.github.com/repos/ethereumclassic/ECIPs/labels/status:4%20active",
+          "name": "status:4 active",
+          "color": "adadad",
+          "default": false,
+          "description": "Meta-ECIP or ECBP is active."
+        },
+        {
+          "id": 1154785129,
+          "node_id": "MDU6TGFiZWwxMTU0Nzg1MTI5",
+          "url": "https://api.github.com/repos/ethereumclassic/ECIPs/labels/type:%20meta",
+          "name": "type: meta",
+          "color": "fff2ae",
+          "default": false,
+          "description": "ECIPs of type \"Meta\" - bundling proposals for upgrades."
+        }
+      ],
+      "state": "closed",
+      "locked": false,
+      "assignee": null,
+      "assignees": [
+
+      ],
+      "milestone": null,
+      "comments": 3,
+      "created_at": "2020-12-15T12:47:36Z",
+      "updated_at": "2021-02-02T22:11:04Z",
+      "closed_at": "2021-02-02T20:51:15Z",
+      "author_association": "CONTRIBUTOR",
+      "active_lock_reason": null,
+      "pull_request": {
+        "url": "https://api.github.com/repos/ethereumclassic/ECIPs/pulls/402",
+        "html_url": "https://github.com/ethereumclassic/ECIPs/pull/402",
+        "diff_url": "https://github.com/ethereumclassic/ECIPs/pull/402.diff",
+        "patch_url": "https://github.com/ethereumclassic/ECIPs/pull/402.patch"
+      },
+      "body": "ref #401 ",
+      "performed_via_github_app": null
+    },
+    "performed_via_github_app": null
+  }
