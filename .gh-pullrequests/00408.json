@@ -1,14 +1,14 @@
 {
-    "url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/406",
+    "url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/408",
     "repository_url": "https://api.github.com/repos/ethereumclassic/ECIPs",
-    "labels_url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/406/labels{/name}",
-    "comments_url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/406/comments",
-    "events_url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/406/events",
-    "html_url": "https://github.com/ethereumclassic/ECIPs/pull/406",
-    "id": 799961628,
-    "node_id": "MDExOlB1bGxSZXF1ZXN0NTY2NTI3MjI3",
-    "number": 406,
-    "title": "Adding corrected process diagram",
+    "labels_url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/408/labels{/name}",
+    "comments_url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/408/comments",
+    "events_url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/408/events",
+    "html_url": "https://github.com/ethereumclassic/ECIPs/pull/408",
+    "id": 800598208,
+    "node_id": "MDExOlB1bGxSZXF1ZXN0NTY3MDU3NDA0",
+    "number": 408,
+    "title": "ECIP-1102: Use The Etherplan Consensus Engine for Approving Proto Treasury Funding Proposals",
     "user": {
       "login": "TokenHash",
       "id": 29529586,
@@ -32,28 +32,28 @@
     "labels": [
 
     ],
-    "state": "closed",
+    "state": "open",
     "locked": false,
     "assignee": null,
     "assignees": [
 
     ],
     "milestone": null,
-    "comments": 2,
-    "created_at": "2021-02-03T04:41:00Z",
-    "updated_at": "2021-02-03T15:20:45Z",
-    "closed_at": "2021-02-03T15:20:44Z",
+    "comments": 0,
+    "created_at": "2021-02-03T18:45:41Z",
+    "updated_at": "2021-02-03T18:46:31Z",
+    "closed_at": null,
     "author_association": "CONTRIBUTOR",
     "active_lock_reason": null,
     "pull_request": {
-      "url": "https://api.github.com/repos/ethereumclassic/ECIPs/pulls/406",
-      "html_url": "https://github.com/ethereumclassic/ECIPs/pull/406",
-      "diff_url": "https://github.com/ethereumclassic/ECIPs/pull/406.diff",
-      "patch_url": "https://github.com/ethereumclassic/ECIPs/pull/406.patch"
+      "url": "https://api.github.com/repos/ethereumclassic/ECIPs/pulls/408",
+      "html_url": "https://github.com/ethereumclassic/ECIPs/pull/408",
+      "diff_url": "https://github.com/ethereumclassic/ECIPs/pull/408.diff",
+      "patch_url": "https://github.com/ethereumclassic/ECIPs/pull/408.patch"
     },
-    "body": "Adding process-png diagram.",
+    "body": "Proposing The Etherplan Consensus Engine so the ETC community may use it to distribute proto treasury funds to projects that benefit ETC.",
     "reactions": {
-      "url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/406/reactions",
+      "url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/408/reactions",
       "total_count": 0,
       "+1": 0,
       "-1": 0,
