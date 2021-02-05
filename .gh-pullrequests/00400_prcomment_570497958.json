@@ -7,7 +7,7 @@
     "path": "_specs/ecip-1049.md",
     "position": null,
     "original_position": 6,
-    "commit_id": "6feb038b487f17b3fb1b9ab4e8b1370f514f2184",
+    "commit_id": "481fd7e63ae0c637e696f72bc0a0b91db1d22eea",
     "original_commit_id": "a78be4e3b8ce04a149150f0cde52332c5101ba3b",
     "user": {
       "login": "TokenHash",
@@ -31,7 +31,7 @@
     },
     "body": "Please change this to `Draft`.",
     "created_at": "2021-02-04T19:45:28Z",
-    "updated_at": "2021-02-05T03:03:25Z",
+    "updated_at": "2021-02-05T03:05:24Z",
     "html_url": "https://github.com/ethereumclassic/ECIPs/pull/400#discussion_r570497958",
     "pull_request_url": "https://api.github.com/repos/ethereumclassic/ECIPs/pulls/400",
     "author_association": "CONTRIBUTOR",
