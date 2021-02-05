@@ -1,0 +1,56 @@
+{
+    "url": "https://api.github.com/repos/ethereumclassic/ECIPs/pulls/comments/570689795",
+    "pull_request_review_id": 583988540,
+    "id": 570689795,
+    "node_id": "MDI0OlB1bGxSZXF1ZXN0UmV2aWV3Q29tbWVudDU3MDY4OTc5NQ==",
+    "diff_hunk": "@@ -2,11 +2,10 @@\n lang: en\n ecip: 1049\n title: Change the ETC Proof of Work Algorithm to Keccak256\n-status: Last Call\n-review-period-end: 2020-10-09\n+status: Rejected",
+    "path": "_specs/ecip-1049.md",
+    "position": null,
+    "original_position": 6,
+    "commit_id": "6feb038b487f17b3fb1b9ab4e8b1370f514f2184",
+    "original_commit_id": "a78be4e3b8ce04a149150f0cde52332c5101ba3b",
+    "user": {
+      "login": "gitr0n1n",
+      "id": 58588775,
+      "node_id": "MDQ6VXNlcjU4NTg4Nzc1",
+      "avatar_url": "https://avatars.githubusercontent.com/u/58588775?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/gitr0n1n",
+      "html_url": "https://github.com/gitr0n1n",
+      "followers_url": "https://api.github.com/users/gitr0n1n/followers",
+      "following_url": "https://api.github.com/users/gitr0n1n/following{/other_user}",
+      "gists_url": "https://api.github.com/users/gitr0n1n/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/gitr0n1n/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/gitr0n1n/subscriptions",
+      "organizations_url": "https://api.github.com/users/gitr0n1n/orgs",
+      "repos_url": "https://api.github.com/users/gitr0n1n/repos",
+      "events_url": "https://api.github.com/users/gitr0n1n/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/gitr0n1n/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "body": "Resolved.",
+    "created_at": "2021-02-05T03:05:14Z",
+    "updated_at": "2021-02-05T03:05:14Z",
+    "html_url": "https://github.com/ethereumclassic/ECIPs/pull/400#discussion_r570689795",
+    "pull_request_url": "https://api.github.com/repos/ethereumclassic/ECIPs/pulls/400",
+    "author_association": "MEMBER",
+    "_links": {
+      "self": {
+        "href": "https://api.github.com/repos/ethereumclassic/ECIPs/pulls/comments/570689795"
+      },
+      "html": {
+        "href": "https://github.com/ethereumclassic/ECIPs/pull/400#discussion_r570689795"
+      },
+      "pull_request": {
+        "href": "https://api.github.com/repos/ethereumclassic/ECIPs/pulls/400"
+      }
+    },
+    "start_line": null,
+    "original_start_line": null,
+    "start_side": null,
+    "line": null,
+    "original_line": 5,
+    "side": "RIGHT",
+    "in_reply_to_id": 570497958
+  }
