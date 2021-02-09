@@ -1,8 +1,8 @@
 From 68bdbc41e514fcaa40828dec10b09fbfd0b1494e Mon Sep 17 00:00:00 2001
 From: Donald McIntyre <donald@etherplan.com>
 Date: Sun, 7 Feb 2021 16:44:55 -0700
-Subject: [PATCH] ECIP-1102: Use The Etherplan Consensus Engine for Approving
- Proto Treasury Funding Proposals
+Subject: [PATCH 1/5] ECIP-1102: Use The Etherplan Consensus Engine for
+ Approving Proto Treasury Funding Proposals
 
 This replaces a previous PR with the same ECIP number.
 ---
@@ -143,3 +143,150 @@ index 000000000..03ef0bebd
 +![Creative Commons License](https://lh6.googleusercontent.com/_3dmztpIPk1jXnWGO1l8Wl3Li3D9ctONrBnghPm9lOUshiwyfabzwQJDLDdYlyYjcdMUOr2A6_YsVEUNzY9ggYuXQDlRxr4RIdtqrdugTOd5P6PfuaaHrHH318S5M2pgrFTKXdpg)
 +
 +This work is licensed under a [Creative Commons Attribution-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-sa/4.0/).
+
+From 38a1b119d31f42a3ee1a2a4637c0939d1d8598da Mon Sep 17 00:00:00 2001
+From: Donald McIntyre <donald@etherplan.com>
+Date: Sun, 7 Feb 2021 16:55:01 -0700
+Subject: [PATCH 2/5] Update ecip-1102.md
+
+Spelling.
+---
+ _specs/ecip-1102.md | 2 +-
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+
+diff --git a/_specs/ecip-1102.md b/_specs/ecip-1102.md
+index 03ef0bebd..1b9b6a62f 100644
+--- a/_specs/ecip-1102.md
++++ b/_specs/ecip-1102.md
+@@ -41,7 +41,7 @@ The ECE pool of the ETC ecosystem would have a GitHub repo to edit, control, and
+ 
+ -   When ECFPs are merged, they must also be entered into the ECE dapp where all the corresponding smart contracts will be deployed on the layer 2 PoS blockchain (possibly Cardano) and ETC as the base layer, or layer 1.
+ 
+--   When ECFPs are entered in the ECE, a proof of authority list of ETC voting participants will analyize and vote on them. 
++-   When ECFPs are entered in the ECE, a proof of authority list of ETC voting participants will analyze and vote on them. 
+ 
+ -   When ECFPs are processed and voted on in the ECE dapp, they will either be approved for funding or rejected as per the ECE protocol.
+ 
+
+From be94ea6b3b6ae86605f0013586931fd0aa98cd0b Mon Sep 17 00:00:00 2001
+From: Donald McIntyre <donald@etherplan.com>
+Date: Mon, 8 Feb 2021 09:53:51 -0700
+Subject: [PATCH 3/5] Update ecip-1102.md
+
+---
+ _specs/ecip-1102.md | 2 +-
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+
+diff --git a/_specs/ecip-1102.md b/_specs/ecip-1102.md
+index 1b9b6a62f..8330faccf 100644
+--- a/_specs/ecip-1102.md
++++ b/_specs/ecip-1102.md
+@@ -114,7 +114,7 @@ See a short explanation of the ECE dapp here: https://etherplan.com/2021/02/04/t
+ 
+ ## Disclaimer
+ 
+-The Etherplan Consensus Engine is an invention by Donald McIntyre, founder of Etherplan. The ETC ECE pool, dapp, and process may serve as a model and test case of the Etherplan Consensus Engine in general. Etherplan may use this model and test case to further develop a dapp for commercial use, similar to how Gitcoin is a commercial dapp, plausibly building an Etherplan Consensus Engine platform for general use by decentralized groups of any kind.
++The Etherplan Consensus Engine is an invention by Donald McIntyre, founder of Etherplan. The ETC ECE pool, dapp, and process may serve as a model and leading case of the Etherplan Consensus Engine in general. Etherplan may use this model and leading case to further develop a dapp for commercial use, similar to how Gitcoin is a commercial dapp, plausibly building an Etherplan Consensus Engine platform for general use by decentralized groups of any kind.
+ 
+ The above means that, indeed, the ECE is a bona fide proposal as the best decision making process for the ETC community to distribute treasury funds, but it will also benefit Etherplan for private business purposes in case it launches the ECE model as a general use commercial dapp. Consequently, any potential support or investment of ETC community resources in building the first ECE pool may directly or indirectly benefit Etherplan.
+ 
+
+From ebc7965a35924352fcd3e3a7331df85ca26da59d Mon Sep 17 00:00:00 2001
+From: Donald McIntyre <donald@etherplan.com>
+Date: Mon, 8 Feb 2021 12:54:35 -0700
+Subject: [PATCH 4/5] Update ecip-1102.md
+
+---
+ _specs/ecip-1102.md | 20 ++++++++++++++++----
+ 1 file changed, 16 insertions(+), 4 deletions(-)
+
+diff --git a/_specs/ecip-1102.md b/_specs/ecip-1102.md
+index 8330faccf..7980fc56d 100644
+--- a/_specs/ecip-1102.md
++++ b/_specs/ecip-1102.md
+@@ -64,13 +64,15 @@ The Etherplan Consensus Engine would need intense testing, peer review through t
+ 
+ Participants, admins, and users will pay the regular layer 1 or layer 2 network gas fees when making proposals, deploying them, or voting on them.
+ 
++To the knowledge of this author, bridges or other interoperability technologies are not currently in place between Ethereum Classic and Cardano, or other possible candidate layer 2 proof of stake networks. These would have to be developed, implemented, and deployed on both layer 1 and layer 2 networks for the ECE to work as designed.
++
+ Building the ECE for this proposal as a community effort and investment could potentially benefit Etherplan privately as explained in the disclaimer section below.
+ 
+-## Risks
++## Risks and Weaknesses
+ 
+-In its current state, the Etherplan Consensus Engine presents two centralization risks explained with their possible solutions in the following points.
++In its current state, the Etherplan Consensus Engine presents two centralization risks and a weakeness explained with their possible solutions in the following points.
+ 
+-### •   Who Gets a Vote and Based on What Criteria?
++### Who gets a vote and based on what criteria?
+ 
+ **Problem:**
+ 
+@@ -94,7 +96,7 @@ Once there is a large amount of participants, then a threshold may be set. It is
+ 
+ For all the other anonymous node operators in ETC, it is likely they are largely exchanges, wallets, and dapps, so all should be invited. The proof of authority list may be edited with PRs or votes on the ECE to continuously add or delete keys (sometimes people also lose their private keys, so this mechanism may be used to change public keys of existing participants as well).
+ 
+-### •   How Can Proposals Be Grouped as Competing or Complementary in a Safe Way?
++### How can roposals be grouped as competing or complementary in a safe way?
+ 
+ **Problem:**
+ 
+@@ -106,6 +108,16 @@ In this early stage of the ECE, it would be better to do the entry and associati
+ 
+ In a future ECE version, more autonomous, trust minimized, or rough consensus based automated association solutions may be proposed and integrated.
+ 
++### Are there bridges or interoperability technologies in place to implement the layered design of the Etherplan Consensus Engine?
++
++**Problem:**
++
++The Etherplan Consensus Engine is designed to have a proof of stake network as its execution layer, or layer 2, which would need to interoperate with Ethereum Classic as the base layer, or layer 1. To the knowledge of this author, there are no known such solutions in place at the time of this writing.
++
++**Possible solution:**
++
++There are several proposals in the ECIP pipeline that would enable interoperability between ETC and other blockchains. Such solutions are [ECIP-1049](https://ecips.ethereumclassic.org/ECIPs/ecip-1049), the integration of Keccak 256, [ECIP-1055](https://ecips.ethereumclassic.org/ECIPs/ecip-1055), Flyclient, and [ECIP-1046](https://ecips.ethereumclassic.org/ECIPs/ecip-1046), Merkle inclusion proofs to enable [NiPoPoWs](https://nipopows.com/). As several engineers and developer teams are interested in these upgrades, and they are gaining rough consensus in the ETC ecosystem, it is entirely possible for these to be integrated, making possible the implementation of this ECIP. As IOHK is the main technical supporter of the Cardano blockchain, and all blockchains will eventually need to interoperate with other networks, they could work on the upgrades needed on that network's side to be able to interoperate with ETC.
++
+ ## About The Etherplan Consensus Engine
+ 
+ The Etherplan Consensus Engine helps decentralized groups of any kind manage pools of money on blockchains using rough consensus in a secure, objective, transparent, and mechanical way. The system mimics neural computations where the internal computations of smart contracts, coupled with the interactions between contracts, have the overall effect of reducing noise and increasing relevance for sound decision making. Participants, administrators, and proposers are connected with the pools of capital they manage or solicit funds from in a three layered modular system that optimizes the distribution of risk and computational load in a highly cost effective way. It achieves this by leveraging a web interface for a better user experience; a proof of stake blockchain as an execution layer (Cardano), or layer 2, for performance; and a proof of work blockchain as a base layer (Ethereum Classic), or layer 1, for security, custody, settlements, and auditable record keeping.
+
+From 5f4fa2bc4455e64e8c1d730be46e097dd0ee0400 Mon Sep 17 00:00:00 2001
+From: Donald McIntyre <donald@etherplan.com>
+Date: Mon, 8 Feb 2021 13:13:49 -0700
+Subject: [PATCH 5/5] Update ecip-1102.md
+
+---
+ _specs/ecip-1102.md | 6 +++---
+ 1 file changed, 3 insertions(+), 3 deletions(-)
+
+diff --git a/_specs/ecip-1102.md b/_specs/ecip-1102.md
+index 7980fc56d..71ad58f80 100644
+--- a/_specs/ecip-1102.md
++++ b/_specs/ecip-1102.md
+@@ -31,7 +31,7 @@ The ECE pool of the ETC ecosystem would have a GitHub repo to edit, control, and
+ 
+ -   Create a repo within the Ethereum Classic GitHub organization for individuals, developers, and teams to enter proposals as pull requests.
+ 
+--   This repo may be called the Ethereum Classic Funding Proposal (ECFP) process and it's URL may be `/github.com/ethereumclassic/ECFPs`.
++-   This repo may be called the Ethereum Classic Funding Proposal (ECFP) process and its URL may be `/github.com/ethereumclassic/ECFPs`.
+ 
+ -   Each funding proposal may be called an ECFP.
+ 
+@@ -70,7 +70,7 @@ Building the ECE for this proposal as a community effort and investment could po
+ 
+ ## Risks and Weaknesses
+ 
+-In its current state, the Etherplan Consensus Engine presents two centralization risks and a weakeness explained with their possible solutions in the following points.
++In its current state, the Etherplan Consensus Engine presents two centralization risks and a weakness explained with their possible solutions in the following points.
+ 
+ ### Who gets a vote and based on what criteria?
+ 
+@@ -96,7 +96,7 @@ Once there is a large amount of participants, then a threshold may be set. It is
+ 
+ For all the other anonymous node operators in ETC, it is likely they are largely exchanges, wallets, and dapps, so all should be invited. The proof of authority list may be edited with PRs or votes on the ECE to continuously add or delete keys (sometimes people also lose their private keys, so this mechanism may be used to change public keys of existing participants as well).
+ 
+-### How can roposals be grouped as competing or complementary in a safe way?
++### How can proposals be grouped as competing or complementary in a safe way?
+ 
+ **Problem:**
+ 
