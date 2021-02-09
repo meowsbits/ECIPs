@@ -1,0 +1,56 @@
+{
+    "url": "https://api.github.com/repos/ethereumclassic/ECIPs/pulls/comments/573036917",
+    "pull_request_review_id": 586744305,
+    "id": 573036917,
+    "node_id": "MDI0OlB1bGxSZXF1ZXN0UmV2aWV3Q29tbWVudDU3MzAzNjkxNw==",
+    "diff_hunk": "@@ -0,0 +1,139 @@\n+---\n+ecip: 1102\n+title: Use The Etherplan Consensus Engine for Approving Proto Treasury Funding Proposals\n+lang: EN\n+author: Donald McIntyre (@TokenHash)\n+discussions-to: https://github.com/ethereumclassic/ECIPs/issues/407\n+status: WIP\n+type: Meta\n+created: 2021-02-03\n+complementary to: ECIP-1098 Proto Treasury System \n+license: CC-BY-SA\n+---\n+\n+## Abstract\n+\n+The Ethereum Classic (ETC) [Proto Treasury System](https://github.com/ethereumclassic/ECIPs/blob/master/_specs/ecip-1098.md) (p-ECTS) proposal suggests directing 10% of the miner tax funds to a [Gitcoin grants](https://gitcoin.co/grants/) program. This ECIP proposes to direct those funds to an ETC community managed pool on the [Etherplan Consensus Engine](https://etherplan.com/2021/02/02/the-etherplan-consensus-engine/14989/) (ECE) dapp. The ECE is a system designed for decentralized groups of any kind to distribute funds using rough consensus.",
+    "path": "_specs/ecip-1102.md",
+    "position": 16,
+    "original_position": 16,
+    "commit_id": "f9dfffab3924c0fb86c85bdc5b4baf567f70a6da",
+    "original_commit_id": "f9dfffab3924c0fb86c85bdc5b4baf567f70a6da",
+    "user": {
+      "login": "TokenHash",
+      "id": 29529586,
+      "node_id": "MDQ6VXNlcjI5NTI5NTg2",
+      "avatar_url": "https://avatars.githubusercontent.com/u/29529586?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/TokenHash",
+      "html_url": "https://github.com/TokenHash",
+      "followers_url": "https://api.github.com/users/TokenHash/followers",
+      "following_url": "https://api.github.com/users/TokenHash/following{/other_user}",
+      "gists_url": "https://api.github.com/users/TokenHash/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/TokenHash/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/TokenHash/subscriptions",
+      "organizations_url": "https://api.github.com/users/TokenHash/orgs",
+      "repos_url": "https://api.github.com/users/TokenHash/repos",
+      "events_url": "https://api.github.com/users/TokenHash/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/TokenHash/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "body": "If what you mean by \"adapting\" is to make this ECIP-1102 part of ECIP-1098, or to just add the text here to 1098 as an option, so they are not two separate ones, that would work. However, I think two separate ones is better because this ECIP proposes a somewhat complicated addition (it requires pos and pow blockchains that need to interoperate, a web interface, several smart contracts, a full evaluation and test of the mathematical model, etc.)\r\n\r\nNote that an ECFP repository is proposed. This repository process rules would indeed require fields of \"complementary to\" or \"competing with\" because the funding proposals need to be associated in this way to be processed by the Etherplan Consensus Engine. ",
+    "created_at": "2021-02-09T16:31:42Z",
+    "updated_at": "2021-02-09T17:05:02Z",
+    "html_url": "https://github.com/ethereumclassic/ECIPs/pull/410#discussion_r573036917",
+    "pull_request_url": "https://api.github.com/repos/ethereumclassic/ECIPs/pulls/410",
+    "author_association": "CONTRIBUTOR",
+    "_links": {
+      "self": {
+        "href": "https://api.github.com/repos/ethereumclassic/ECIPs/pulls/comments/573036917"
+      },
+      "html": {
+        "href": "https://github.com/ethereumclassic/ECIPs/pull/410#discussion_r573036917"
+      },
+      "pull_request": {
+        "href": "https://api.github.com/repos/ethereumclassic/ECIPs/pulls/410"
+      }
+    },
+    "start_line": null,
+    "original_start_line": null,
+    "start_side": null,
+    "line": 16,
+    "original_line": 16,
+    "side": "RIGHT",
+    "in_reply_to_id": 572787524
+  }
