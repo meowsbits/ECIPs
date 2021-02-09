@@ -1,0 +1,55 @@
+{
+    "url": "https://api.github.com/repos/ethereumclassic/ECIPs/pulls/comments/572787524",
+    "pull_request_review_id": 586419244,
+    "id": 572787524,
+    "node_id": "MDI0OlB1bGxSZXF1ZXN0UmV2aWV3Q29tbWVudDU3Mjc4NzUyNA==",
+    "diff_hunk": "@@ -0,0 +1,139 @@\n+---\n+ecip: 1102\n+title: Use The Etherplan Consensus Engine for Approving Proto Treasury Funding Proposals\n+lang: EN\n+author: Donald McIntyre (@TokenHash)\n+discussions-to: https://github.com/ethereumclassic/ECIPs/issues/407\n+status: WIP\n+type: Meta\n+created: 2021-02-03\n+complementary to: ECIP-1098 Proto Treasury System \n+license: CC-BY-SA\n+---\n+\n+## Abstract\n+\n+The Ethereum Classic (ETC) [Proto Treasury System](https://github.com/ethereumclassic/ECIPs/blob/master/_specs/ecip-1098.md) (p-ECTS) proposal suggests directing 10% of the miner tax funds to a [Gitcoin grants](https://gitcoin.co/grants/) program. This ECIP proposes to direct those funds to an ETC community managed pool on the [Etherplan Consensus Engine](https://etherplan.com/2021/02/02/the-etherplan-consensus-engine/14989/) (ECE) dapp. The ECE is a system designed for decentralized groups of any kind to distribute funds using rough consensus.",
+    "path": "_specs/ecip-1102.md",
+    "position": 16,
+    "original_position": 16,
+    "commit_id": "f9dfffab3924c0fb86c85bdc5b4baf567f70a6da",
+    "original_commit_id": "f9dfffab3924c0fb86c85bdc5b4baf567f70a6da",
+    "user": {
+      "login": "q9f",
+      "id": 58883403,
+      "node_id": "MDQ6VXNlcjU4ODgzNDAz",
+      "avatar_url": "https://avatars.githubusercontent.com/u/58883403?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/q9f",
+      "html_url": "https://github.com/q9f",
+      "followers_url": "https://api.github.com/users/q9f/followers",
+      "following_url": "https://api.github.com/users/q9f/following{/other_user}",
+      "gists_url": "https://api.github.com/users/q9f/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/q9f/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/q9f/subscriptions",
+      "organizations_url": "https://api.github.com/users/q9f/orgs",
+      "repos_url": "https://api.github.com/users/q9f/repos",
+      "events_url": "https://api.github.com/users/q9f/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/q9f/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "body": "What prevents us from adapting this directly to ECIP 1098?",
+    "created_at": "2021-02-09T10:56:11Z",
+    "updated_at": "2021-02-09T11:16:19Z",
+    "html_url": "https://github.com/ethereumclassic/ECIPs/pull/410#discussion_r572787524",
+    "pull_request_url": "https://api.github.com/repos/ethereumclassic/ECIPs/pulls/410",
+    "author_association": "MEMBER",
+    "_links": {
+      "self": {
+        "href": "https://api.github.com/repos/ethereumclassic/ECIPs/pulls/comments/572787524"
+      },
+      "html": {
+        "href": "https://github.com/ethereumclassic/ECIPs/pull/410#discussion_r572787524"
+      },
+      "pull_request": {
+        "href": "https://api.github.com/repos/ethereumclassic/ECIPs/pulls/410"
+      }
+    },
+    "start_line": null,
+    "original_start_line": null,
+    "start_side": null,
+    "line": 16,
+    "original_line": 16,
+    "side": "RIGHT"
+  }
