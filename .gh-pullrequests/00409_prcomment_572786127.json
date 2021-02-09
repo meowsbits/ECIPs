@@ -1,0 +1,55 @@
+{
+    "url": "https://api.github.com/repos/ethereumclassic/ECIPs/pulls/comments/572786127",
+    "pull_request_review_id": 586417489,
+    "id": 572786127,
+    "node_id": "MDI0OlB1bGxSZXF1ZXN0UmV2aWV3Q29tbWVudDU3Mjc4NjEyNw==",
+    "diff_hunk": "@@ -0,0 +1,127 @@\n+---\n+ecip: 1102",
+    "path": "_specs/ecip-1102.md",
+    "position": 2,
+    "original_position": 2,
+    "commit_id": "d77179adac1e319a54c2793683ba080ca29f3f0c",
+    "original_commit_id": "d77179adac1e319a54c2793683ba080ca29f3f0c",
+    "user": {
+      "login": "q9f",
+      "id": 58883403,
+      "node_id": "MDQ6VXNlcjU4ODgzNDAz",
+      "avatar_url": "https://avatars.githubusercontent.com/u/58883403?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/q9f",
+      "html_url": "https://github.com/q9f",
+      "followers_url": "https://api.github.com/users/q9f/followers",
+      "following_url": "https://api.github.com/users/q9f/following{/other_user}",
+      "gists_url": "https://api.github.com/users/q9f/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/q9f/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/q9f/subscriptions",
+      "organizations_url": "https://api.github.com/users/q9f/orgs",
+      "repos_url": "https://api.github.com/users/q9f/repos",
+      "events_url": "https://api.github.com/users/q9f/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/q9f/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "body": "something went wrong here, donald",
+    "created_at": "2021-02-09T10:54:13Z",
+    "updated_at": "2021-02-09T10:54:13Z",
+    "html_url": "https://github.com/ethereumclassic/ECIPs/pull/409#discussion_r572786127",
+    "pull_request_url": "https://api.github.com/repos/ethereumclassic/ECIPs/pulls/409",
+    "author_association": "MEMBER",
+    "_links": {
+      "self": {
+        "href": "https://api.github.com/repos/ethereumclassic/ECIPs/pulls/comments/572786127"
+      },
+      "html": {
+        "href": "https://github.com/ethereumclassic/ECIPs/pull/409#discussion_r572786127"
+      },
+      "pull_request": {
+        "href": "https://api.github.com/repos/ethereumclassic/ECIPs/pulls/409"
+      }
+    },
+    "start_line": null,
+    "original_start_line": null,
+    "start_side": null,
+    "line": 2,
+    "original_line": 2,
+    "side": "RIGHT"
+  }

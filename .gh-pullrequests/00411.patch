@@ -1,7 +1,7 @@
 From d45ea196beaea5a8269f0cb64c6954f5e53878c0 Mon Sep 17 00:00:00 2001
 From: Afr Schoe <58883403+q9f@users.noreply.github.com>
 Date: Tue, 9 Feb 2021 11:50:30 +0100
-Subject: [PATCH] ECIP 1103: Magneto EVM and Protocol Upgrades
+Subject: [PATCH 1/2] ECIP 1103: Magneto EVM and Protocol Upgrades
 
 ---
  _specs/ecip-1103.md | 92 +++++++++++++++++++++++++++++++++++++++++++++
@@ -106,3 +106,26 @@ index 000000000..f6376c0c5
 +
 +Copyright and related rights waived via
 +[CC0](https://creativecommons.org/publicdomain/zero/1.0/).
+
+From f99b048a4652122f6ed43db0ebbacbe30493f0ed Mon Sep 17 00:00:00 2001
+From: Afr Schoe <58883403+q9f@users.noreply.github.com>
+Date: Tue, 9 Feb 2021 11:53:09 +0100
+Subject: [PATCH 2/2] fix disc to header
+
+---
+ _specs/ecip-1103.md | 2 +-
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+
+diff --git a/_specs/ecip-1103.md b/_specs/ecip-1103.md
+index f6376c0c5..8fe282211 100644
+--- a/_specs/ecip-1103.md
++++ b/_specs/ecip-1103.md
+@@ -6,7 +6,7 @@ status: Draft
+ type: Meta
+ author: Afr Schoe (@q9f)
+ created: 2021-02-09
+-discussions-to: https://github.com/ethereumclassic/ECIPs/issues/0
++discussions-to: https://github.com/ethereumclassic/ECIPs/issues/412
+ ---
+ 
+ ### Simple Summary
