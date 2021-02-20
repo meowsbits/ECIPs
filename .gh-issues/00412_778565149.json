@@ -25,9 +25,9 @@
       "site_admin": false
     },
     "created_at": "2021-02-13T05:12:45Z",
-    "updated_at": "2021-02-20T21:00:51Z",
+    "updated_at": "2021-02-20T21:03:27Z",
     "author_association": "MEMBER",
-    "body": "> The proposal needs to be substantiated with a roadmap and strategy pertaining to ETC other than merging ETH changes.\r\n\r\nI haven't seen that as a requirement for submitting an ECIP. Please cite in the ECIP-1000 where it mentions this requirement. Thanks!\r\n\r\nAlso, I don't see this ECIp as out of left field. I believe protocol parity remains a roadmap goals of ETC, unless @stevanlohja has some new information to share with the network participants. The Berlin updates continue the goals of the previous path.",
+    "body": "> The proposal needs to be substantiated with a roadmap and strategy pertaining to ETC other than merging ETH changes.\r\n\r\nI haven't seen that as a requirement for submitting an ECIP. Please cite in the ECIP-1000 where it mentions this requirement. Thanks!\r\n\r\nAlso, I don't see this ECIP as out of left field. I believe protocol parity remains a roadmap goal of ETC, unless @stevanlohja has some new information to share with the network participants. The Berlin updates continue the goals of the established path to keep ETC and ETH interoperable. The specific EIPs should definitely be anaylzed and debated, but this proposal itself does not appear out of line.",
     "reactions": {
       "url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/comments/778565149/reactions",
       "total_count": 0,
