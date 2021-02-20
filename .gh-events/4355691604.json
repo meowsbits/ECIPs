@@ -1,7 +1,7 @@
 {
-    "id": 4308492007,
-    "node_id": "MDEyOkxhYmVsZWRFdmVudDQzMDg0OTIwMDc=",
-    "url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/events/4308492007",
+    "id": 4355691604,
+    "node_id": "MDE0Ok1lbnRpb25lZEV2ZW50NDM1NTY5MTYwNA==",
+    "url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/events/4355691604",
     "actor": {
       "login": "q9f",
       "id": 58883403,
@@ -22,24 +22,20 @@
       "type": "User",
       "site_admin": false
     },
-    "event": "labeled",
+    "event": "mentioned",
     "commit_id": null,
     "commit_url": null,
-    "created_at": "2021-02-09T10:52:43Z",
-    "label": {
-      "name": "type: std-core",
-      "color": "fdcdac"
-    },
+    "created_at": "2021-02-20T20:57:50Z",
     "issue": {
-      "url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/412",
+      "url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/411",
       "repository_url": "https://api.github.com/repos/ethereumclassic/ECIPs",
-      "labels_url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/412/labels{/name}",
-      "comments_url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/412/comments",
-      "events_url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/412/events",
-      "html_url": "https://github.com/ethereumclassic/ECIPs/issues/412",
-      "id": 804437856,
-      "node_id": "MDU6SXNzdWU4MDQ0Mzc4NTY=",
-      "number": 412,
+      "labels_url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/411/labels{/name}",
+      "comments_url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/411/comments",
+      "events_url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/411/events",
+      "html_url": "https://github.com/ethereumclassic/ECIPs/pull/411",
+      "id": 804436382,
+      "node_id": "MDExOlB1bGxSZXF1ZXN0NTcwMjAzMTY4",
+      "number": 411,
       "title": "ECIP 1103: Magneto EVM and Protocol Upgrades",
       "user": {
         "login": "q9f",
@@ -62,6 +58,15 @@
         "site_admin": false
       },
       "labels": [
+        {
+          "id": 2281247217,
+          "node_id": "MDU6TGFiZWwyMjgxMjQ3MjE3",
+          "url": "https://api.github.com/repos/ethereumclassic/ECIPs/labels/editor:5%20needs-review",
+          "name": "editor:5 needs-review",
+          "color": "d9ef8b",
+          "default": false,
+          "description": "This contribution needs a careful review."
+        },
         {
           "id": 1154785139,
           "node_id": "MDU6TGFiZWwxMTU0Nzg1MTM5",
@@ -88,13 +93,19 @@
 
       ],
       "milestone": null,
-      "comments": 4,
-      "created_at": "2021-02-09T10:52:43Z",
-      "updated_at": "2021-02-20T21:00:51Z",
+      "comments": 1,
+      "created_at": "2021-02-09T10:50:48Z",
+      "updated_at": "2021-02-20T20:57:50Z",
       "closed_at": null,
       "author_association": "CONTRIBUTOR",
       "active_lock_reason": null,
-      "body": "ref #411 \r\n\r\n> _Enable the outstanding Ethereum Foundation _Berlin_ network protocol upgrades on\r\nthe Ethereum Classic network in a hard-fork code-named _Magneto_ to enable\r\nmaximum compatibility across these networks._",
+      "pull_request": {
+        "url": "https://api.github.com/repos/ethereumclassic/ECIPs/pulls/411",
+        "html_url": "https://github.com/ethereumclassic/ECIPs/pull/411",
+        "diff_url": "https://github.com/ethereumclassic/ECIPs/pull/411.diff",
+        "patch_url": "https://github.com/ethereumclassic/ECIPs/pull/411.patch"
+      },
+      "body": "",
       "performed_via_github_app": null
     },
     "performed_via_github_app": null

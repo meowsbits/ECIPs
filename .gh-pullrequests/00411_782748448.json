@@ -1,9 +1,9 @@
 {
-    "url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/comments/778565149",
-    "html_url": "https://github.com/ethereumclassic/ECIPs/issues/412#issuecomment-778565149",
-    "issue_url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/412",
-    "id": 778565149,
-    "node_id": "MDEyOklzc3VlQ29tbWVudDc3ODU2NTE0OQ==",
+    "url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/comments/782748448",
+    "html_url": "https://github.com/ethereumclassic/ECIPs/pull/411#issuecomment-782748448",
+    "issue_url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/411",
+    "id": 782748448,
+    "node_id": "MDEyOklzc3VlQ29tbWVudDc4Mjc0ODQ0OA==",
     "user": {
       "login": "gitr0n1n",
       "id": 58588775,
@@ -24,12 +24,12 @@
       "type": "User",
       "site_admin": false
     },
-    "created_at": "2021-02-13T05:12:45Z",
-    "updated_at": "2021-02-20T21:00:51Z",
+    "created_at": "2021-02-20T20:57:50Z",
+    "updated_at": "2021-02-20T20:57:50Z",
     "author_association": "MEMBER",
-    "body": "> The proposal needs to be substantiated with a roadmap and strategy pertaining to ETC other than merging ETH changes.\r\n\r\nI haven't seen that as a requirement for submitting an ECIP. Please cite in the ECIP-1000 where it mentions this requirement. Thanks!\r\n\r\nAlso, I don't see this ECIp as out of left field. I believe protocol parity remains a roadmap goals of ETC, unless @stevanlohja has some new information to share with the network participants. The Berlin updates continue the goals of the previous path.",
+    "body": "@q9f Does Mantis support Berlin upgrades as well? Not sure if they've been pinged. @bpmckenna ",
     "reactions": {
-      "url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/comments/778565149/reactions",
+      "url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/comments/782748448/reactions",
       "total_count": 0,
       "+1": 0,
       "-1": 0,
