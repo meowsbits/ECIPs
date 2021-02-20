@@ -1,31 +1,12 @@
 {
     "id": 587008347,
     "node_id": "MDE3OlB1bGxSZXF1ZXN0UmV2aWV3NTg3MDA4MzQ3",
-    "user": {
-      "login": "TokenHash",
-      "id": 29529586,
-      "node_id": "MDQ6VXNlcjI5NTI5NTg2",
-      "avatar_url": "https://avatars.githubusercontent.com/u/29529586?v=4",
-      "gravatar_id": "",
-      "url": "https://api.github.com/users/TokenHash",
-      "html_url": "https://github.com/TokenHash",
-      "followers_url": "https://api.github.com/users/TokenHash/followers",
-      "following_url": "https://api.github.com/users/TokenHash/following{/other_user}",
-      "gists_url": "https://api.github.com/users/TokenHash/gists{/gist_id}",
-      "starred_url": "https://api.github.com/users/TokenHash/starred{/owner}{/repo}",
-      "subscriptions_url": "https://api.github.com/users/TokenHash/subscriptions",
-      "organizations_url": "https://api.github.com/users/TokenHash/orgs",
-      "repos_url": "https://api.github.com/users/TokenHash/repos",
-      "events_url": "https://api.github.com/users/TokenHash/events{/privacy}",
-      "received_events_url": "https://api.github.com/users/TokenHash/received_events",
-      "type": "User",
-      "site_admin": false
-    },
+    "user": null,
     "body": "",
     "state": "APPROVED",
     "html_url": "https://github.com/ethereumclassic/ECIPs/pull/411#pullrequestreview-587008347",
     "pull_request_url": "https://api.github.com/repos/ethereumclassic/ECIPs/pulls/411",
-    "author_association": "CONTRIBUTOR",
+    "author_association": "NONE",
     "_links": {
       "html": {
         "href": "https://github.com/ethereumclassic/ECIPs/pull/411#pullrequestreview-587008347"
