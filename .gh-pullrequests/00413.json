@@ -1,0 +1,68 @@
+{
+    "url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/413",
+    "repository_url": "https://api.github.com/repos/ethereumclassic/ECIPs",
+    "labels_url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/413/labels{/name}",
+    "comments_url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/413/comments",
+    "events_url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/413/events",
+    "html_url": "https://github.com/ethereumclassic/ECIPs/pull/413",
+    "id": 816641862,
+    "node_id": "MDExOlB1bGxSZXF1ZXN0NTgwMjY5NDI1",
+    "number": 413,
+    "title": "issue #393 solved",
+    "user": {
+      "login": "nargotik",
+      "id": 964518,
+      "node_id": "MDQ6VXNlcjk2NDUxOA==",
+      "avatar_url": "https://avatars.githubusercontent.com/u/964518?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/nargotik",
+      "html_url": "https://github.com/nargotik",
+      "followers_url": "https://api.github.com/users/nargotik/followers",
+      "following_url": "https://api.github.com/users/nargotik/following{/other_user}",
+      "gists_url": "https://api.github.com/users/nargotik/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/nargotik/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/nargotik/subscriptions",
+      "organizations_url": "https://api.github.com/users/nargotik/orgs",
+      "repos_url": "https://api.github.com/users/nargotik/repos",
+      "events_url": "https://api.github.com/users/nargotik/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/nargotik/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "labels": [
+
+    ],
+    "state": "open",
+    "locked": false,
+    "assignee": null,
+    "assignees": [
+
+    ],
+    "milestone": null,
+    "comments": 0,
+    "created_at": "2021-02-25T17:26:28Z",
+    "updated_at": "2021-02-25T17:51:06Z",
+    "closed_at": null,
+    "author_association": "FIRST_TIME_CONTRIBUTOR",
+    "active_lock_reason": null,
+    "pull_request": {
+      "url": "https://api.github.com/repos/ethereumclassic/ECIPs/pulls/413",
+      "html_url": "https://github.com/ethereumclassic/ECIPs/pull/413",
+      "diff_url": "https://github.com/ethereumclassic/ECIPs/pull/413.diff",
+      "patch_url": "https://github.com/ethereumclassic/ECIPs/pull/413.patch"
+    },
+    "body": "Broken links was not only in the ECIP on issue but in all that had Superseded \r\n\r\nhttps://ecips.ethereumclassic.org/ECIPs/ecip-1099\r\nhttps://ecips.ethereumclassic.org/ECIPs/ecip-1082",
+    "reactions": {
+      "url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/413/reactions",
+      "total_count": 0,
+      "+1": 0,
+      "-1": 0,
+      "laugh": 0,
+      "hooray": 0,
+      "confused": 0,
+      "heart": 0,
+      "rocket": 0,
+      "eyes": 0
+    },
+    "performed_via_github_app": null
+  }

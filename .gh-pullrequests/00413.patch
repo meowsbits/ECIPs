@@ -1,0 +1,40 @@
+From 2adcc6b5c8caa283f1418ba90381323ec28d96af Mon Sep 17 00:00:00 2001
+From: Daniel Torres <a17442@alunos.ipca.pt>
+Date: Thu, 25 Feb 2021 17:17:14 +0000
+Subject: [PATCH 1/2] issue #393 solved
+
+---
+ _includes/eipnums.html | 2 +-
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+
+diff --git a/_includes/eipnums.html b/_includes/eipnums.html
+index cd823d545..d16f83e45 100644
+--- a/_includes/eipnums.html
++++ b/_includes/eipnums.html
+@@ -1,4 +1,4 @@
+ {% assign eips=include.eips|split:"," %}
+ {% for eipnum in eips %}
+-  <a href="{{eipnum|strip|prepend:"eip-" }}">{{eipnum|strip}}</a>{% if forloop.last == false %}, {% endif %}
++  <a href="{{eipnum|strip|prepend:"ecip-" }}">{{eipnum|strip}}</a>{% if forloop.last == false %}, {% endif %}
+ {% endfor %}
+
+From a2f3c004b8db996edc961cb3fd579b03eded9e5f Mon Sep 17 00:00:00 2001
+From: Daniel Torres <a17442@alunos.ipca.pt>
+Date: Thu, 25 Feb 2021 17:50:33 +0000
+Subject: [PATCH 2/2] issue #358 solved
+
+---
+ networking.html | 2 +-
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+
+diff --git a/networking.html b/networking.html
+index 0aad2d42b..e481bfbee 100644
+--- a/networking.html
++++ b/networking.html
+@@ -3,5 +3,5 @@
+ title: Networking
+ ---
+ 
+-{% assign eips=site.specs|where:"lang","en"|where:"type","Networking" %}
++{% assign eips=site.specs|where:"lang","en"|where:"category","Networking" %}
+ {% include eiptable.html eips=eips %}
