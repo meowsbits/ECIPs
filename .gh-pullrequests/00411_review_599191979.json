@@ -1,0 +1,39 @@
+{
+    "id": 599191979,
+    "node_id": "MDE3OlB1bGxSZXF1ZXN0UmV2aWV3NTk5MTkxOTc5",
+    "user": {
+      "login": "developerkevin",
+      "id": 29807183,
+      "node_id": "MDQ6VXNlcjI5ODA3MTgz",
+      "avatar_url": "https://avatars.githubusercontent.com/u/29807183?u=33a8f54087a2cabc2d50df788a9933ff02866d03&v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/developerkevin",
+      "html_url": "https://github.com/developerkevin",
+      "followers_url": "https://api.github.com/users/developerkevin/followers",
+      "following_url": "https://api.github.com/users/developerkevin/following{/other_user}",
+      "gists_url": "https://api.github.com/users/developerkevin/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/developerkevin/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/developerkevin/subscriptions",
+      "organizations_url": "https://api.github.com/users/developerkevin/orgs",
+      "repos_url": "https://api.github.com/users/developerkevin/repos",
+      "events_url": "https://api.github.com/users/developerkevin/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/developerkevin/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "body": "LGTM. ",
+    "state": "APPROVED",
+    "html_url": "https://github.com/ethereumclassic/ECIPs/pull/411#pullrequestreview-599191979",
+    "pull_request_url": "https://api.github.com/repos/ethereumclassic/ECIPs/pulls/411",
+    "author_association": "MEMBER",
+    "_links": {
+      "html": {
+        "href": "https://github.com/ethereumclassic/ECIPs/pull/411#pullrequestreview-599191979"
+      },
+      "pull_request": {
+        "href": "https://api.github.com/repos/ethereumclassic/ECIPs/pulls/411"
+      }
+    },
+    "submitted_at": "2021-02-26T01:51:02Z",
+    "commit_id": "983167d53d309a47772cc7c9e73e9dbdd8b2a9d0"
+  }
