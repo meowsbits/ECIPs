@@ -1,10 +1,8 @@
 {
-    "url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/comments/786790270",
-    "html_url": "https://github.com/ethereumclassic/ECIPs/pull/413#issuecomment-786790270",
-    "issue_url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/413",
-    "id": 786790270,
-    "node_id": "MDEyOklzc3VlQ29tbWVudDc4Njc5MDI3MA==",
-    "user": {
+    "id": 4383098068,
+    "node_id": "MDE3OlJlbmFtZWRUaXRsZUV2ZW50NDM4MzA5ODA2OA==",
+    "url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/events/4383098068",
+    "actor": {
       "login": "gitr0n1n",
       "id": 58588775,
       "node_id": "MDQ6VXNlcjU4NTg4Nzc1",
@@ -24,21 +22,13 @@
       "type": "User",
       "site_admin": false
     },
-    "created_at": "2021-02-26T17:37:00Z",
-    "updated_at": "2021-02-26T18:01:18Z",
-    "author_association": "MEMBER",
-    "body": "Are my perms not enabled to approve PRs and Merge? ^ @ethereumclassic/ecip-editors ",
-    "reactions": {
-      "url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/comments/786790270/reactions",
-      "total_count": 0,
-      "+1": 0,
-      "-1": 0,
-      "laugh": 0,
-      "hooray": 0,
-      "confused": 0,
-      "heart": 0,
-      "rocket": 0,
-      "eyes": 0
+    "event": "renamed",
+    "commit_id": null,
+    "commit_url": null,
+    "created_at": "2021-02-26T18:02:28Z",
+    "rename": {
+      "from": "Fix my Editor permissions",
+      "to": "Please update my permissions to ECIP Editor"
     },
     "performed_via_github_app": null
   }
