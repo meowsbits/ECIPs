@@ -1,0 +1,34 @@
+{
+    "id": 4379514601,
+    "node_id": "MDE3OlJlbmFtZWRUaXRsZUV2ZW50NDM3OTUxNDYwMQ==",
+    "url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/events/4379514601",
+    "actor": {
+      "login": "antsankov",
+      "id": 2533512,
+      "node_id": "MDQ6VXNlcjI1MzM1MTI=",
+      "avatar_url": "https://avatars.githubusercontent.com/u/2533512?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/antsankov",
+      "html_url": "https://github.com/antsankov",
+      "followers_url": "https://api.github.com/users/antsankov/followers",
+      "following_url": "https://api.github.com/users/antsankov/following{/other_user}",
+      "gists_url": "https://api.github.com/users/antsankov/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/antsankov/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/antsankov/subscriptions",
+      "organizations_url": "https://api.github.com/users/antsankov/orgs",
+      "repos_url": "https://api.github.com/users/antsankov/repos",
+      "events_url": "https://api.github.com/users/antsankov/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/antsankov/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "event": "renamed",
+    "commit_id": null,
+    "commit_url": null,
+    "created_at": "2021-02-26T01:14:38Z",
+    "rename": {
+      "from": "Change the ETC Proof of Work Algorithm to the Keccak-256",
+      "to": "Change the ETC Proof of Work Algorithm to Keccak-256"
+    },
+    "performed_via_github_app": null
+  }
