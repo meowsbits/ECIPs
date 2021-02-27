@@ -59,13 +59,13 @@
       },
       "labels": [
         {
-          "id": 2281247217,
-          "node_id": "MDU6TGFiZWwyMjgxMjQ3MjE3",
-          "url": "https://api.github.com/repos/ethereumclassic/ECIPs/labels/editor:5%20needs-review",
-          "name": "editor:5 needs-review",
-          "color": "d9ef8b",
+          "id": 1428838937,
+          "node_id": "MDU6TGFiZWwxNDI4ODM4OTM3",
+          "url": "https://api.github.com/repos/ethereumclassic/ECIPs/labels/editor:7%20looks-good",
+          "name": "editor:7 looks-good",
+          "color": "66bd63",
           "default": false,
-          "description": "This contribution needs a careful review."
+          "description": "This contribution is well reviewed and good to be merged."
         },
         {
           "id": 1154785139,
@@ -95,7 +95,7 @@
       "milestone": null,
       "comments": 3,
       "created_at": "2021-02-09T10:50:48Z",
-      "updated_at": "2021-02-27T10:37:39Z",
+      "updated_at": "2021-02-27T10:38:02Z",
       "closed_at": null,
       "author_association": "CONTRIBUTOR",
       "active_lock_reason": null,
