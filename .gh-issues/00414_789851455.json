@@ -1,9 +1,9 @@
 {
-    "url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/comments/789849279",
-    "html_url": "https://github.com/ethereumclassic/ECIPs/issues/415#issuecomment-789849279",
-    "issue_url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/415",
-    "id": 789849279,
-    "node_id": "MDEyOklzc3VlQ29tbWVudDc4OTg0OTI3OQ==",
+    "url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/comments/789851455",
+    "html_url": "https://github.com/ethereumclassic/ECIPs/issues/414#issuecomment-789851455",
+    "issue_url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/414",
+    "id": 789851455,
+    "node_id": "MDEyOklzc3VlQ29tbWVudDc4OTg1MTQ1NQ==",
     "user": {
       "login": "gitr0n1n",
       "id": 58588775,
@@ -24,12 +24,12 @@
       "type": "User",
       "site_admin": false
     },
-    "created_at": "2021-03-03T16:30:37Z",
-    "updated_at": "2021-03-03T16:32:00Z",
+    "created_at": "2021-03-03T16:32:43Z",
+    "updated_at": "2021-03-03T16:32:43Z",
     "author_association": "MEMBER",
-    "body": "> he is not ecip editor, he inherited the permissions from another role in the ethereumclassic github organization.\r\n> \r\n> only @elaineo @mikeyb @realcodywburns have permissions to modify teams and roles as far as I can see.\r\n\r\nIf Kevin is not an ECIP editor, why is @developerkevin approving and merging PRs in this repo? Isn't that a violation of the Ethereum Classic governance process (ECIP process)?\r\n\r\nCan we tighten up the permissions in the repo's? This is a fairly unprofessional look.",
+    "body": "> the only users with permission to update the teams are @elaineo @mikeyb @realcodywburns\r\n\r\nThanks for the reponse. Are these users still active with the project?",
     "reactions": {
-      "url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/comments/789849279/reactions",
+      "url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/comments/789851455/reactions",
       "total_count": 0,
       "+1": 0,
       "-1": 0,
