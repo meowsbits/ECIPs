@@ -68,7 +68,7 @@
           "description": "Issues surrounding the ECIP process and meta governance."
         }
       ],
-      "state": "open",
+      "state": "closed",
       "locked": false,
       "assignee": {
         "login": "realcodywburns",
@@ -113,10 +113,10 @@
         }
       ],
       "milestone": null,
-      "comments": 6,
+      "comments": 7,
       "created_at": "2021-02-26T17:54:49Z",
-      "updated_at": "2021-03-05T00:26:06Z",
-      "closed_at": null,
+      "updated_at": "2021-03-16T08:26:23Z",
+      "closed_at": "2021-03-16T08:26:23Z",
       "author_association": "MEMBER",
       "active_lock_reason": null,
       "body": "For some reason my permission aren't configured correctly. Will you resolve this issue other ecip editors? Thanks in advance.\r\n\r\nCurrent ECIP editors:\r\n\r\nMr. Meows D. Bits ( @meowsbits )\r\nTalha Cross ( @soc1c )\r\nZachary Belford ( @BelfordZ )\r\nFelipe Faraggi ( @faraggi )\r\nr0n1n ( @gitr0n1n )\r\nStevan Lohja ( @stevanlohja )\r\nhttps://ecips.ethereumclassic.org/ECIPs/ecip-1000\r\n\r\nI think this needs updating too:\r\nhttps://github.com/orgs/ethereumclassic/teams/ecip-editors\r\n@ethereumclassic/ecip-editors ",
