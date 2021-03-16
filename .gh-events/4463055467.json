@@ -1,7 +1,7 @@
 {
-    "id": 4379436680,
-    "node_id": "MDE3OlJlbmFtZWRUaXRsZUV2ZW50NDM3OTQzNjY4MA==",
-    "url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/events/4379436680",
+    "id": 4463055467,
+    "node_id": "MDE1OlN1YnNjcmliZWRFdmVudDQ0NjMwNTU0Njc=",
+    "url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/events/4463055467",
     "actor": {
       "login": "antsankov",
       "id": 2533512,
@@ -22,14 +22,10 @@
       "type": "User",
       "site_admin": false
     },
-    "event": "renamed",
+    "event": "subscribed",
     "commit_id": null,
     "commit_url": null,
-    "created_at": "2021-02-26T00:42:03Z",
-    "rename": {
-      "from": "[Redraft] Change the ETC Proof of Work Algorithm to the Keccak-256",
-      "to": "Change the ETC Proof of Work Algorithm to the Keccak-256"
-    },
+    "created_at": "2021-03-16T08:31:14Z",
     "issue": {
       "url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/394",
       "repository_url": "https://api.github.com/repos/ethereumclassic/ECIPs",
