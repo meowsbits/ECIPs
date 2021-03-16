@@ -117,7 +117,7 @@
           "description": "Issues surrounding the ECIP process and meta governance."
         }
       ],
-      "state": "open",
+      "state": "closed",
       "locked": false,
       "assignee": {
         "login": "realcodywburns",
@@ -182,13 +182,13 @@
         }
       ],
       "milestone": null,
-      "comments": 4,
+      "comments": 5,
       "created_at": "2021-02-26T18:04:11Z",
-      "updated_at": "2021-03-05T01:46:38Z",
-      "closed_at": null,
+      "updated_at": "2021-03-16T08:25:11Z",
+      "closed_at": "2021-03-16T08:25:11Z",
       "author_association": "MEMBER",
       "active_lock_reason": null,
-      "body": "I looks like @developerkevin  has ECIP Editor permissions, but is not listed in the ECIP-1000. Can we get that updated?",
+      "body": "It looks like @developerkevin has ECIP Editor permissions, but is not listed in the ECIP-1000. Can we get that updated?",
       "performed_via_github_app": null
     },
     "performed_via_github_app": null
