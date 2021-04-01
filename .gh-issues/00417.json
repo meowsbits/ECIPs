@@ -8,7 +8,7 @@
     "id": 848773315,
     "node_id": "MDU6SXNzdWU4NDg3NzMzMTU=",
     "number": 417,
-    "title": "[Discussion] EIP 1104: Dark Mode",
+    "title": "[Discussion] ECIP 1104: Dark Mode",
     "user": {
       "login": "meowsbits",
       "id": 45600330,
@@ -39,9 +39,9 @@
 
     ],
     "milestone": null,
-    "comments": 0,
+    "comments": 1,
     "created_at": "2021-04-01T20:38:57Z",
-    "updated_at": "2021-04-01T20:38:57Z",
+    "updated_at": "2021-04-01T21:48:42Z",
     "closed_at": null,
     "author_association": "MEMBER",
     "active_lock_reason": null,
