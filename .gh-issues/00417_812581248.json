@@ -1,14 +1,9 @@
 {
-    "url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/417",
-    "repository_url": "https://api.github.com/repos/ethereumclassic/ECIPs",
-    "labels_url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/417/labels{/name}",
-    "comments_url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/417/comments",
-    "events_url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/417/events",
-    "html_url": "https://github.com/ethereumclassic/ECIPs/issues/417",
-    "id": 848773315,
-    "node_id": "MDU6SXNzdWU4NDg3NzMzMTU=",
-    "number": 417,
-    "title": "[Discussion] ECIP 1104: Dark Mode",
+    "url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/comments/812581248",
+    "html_url": "https://github.com/ethereumclassic/ECIPs/issues/417#issuecomment-812581248",
+    "issue_url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/417",
+    "id": 812581248,
+    "node_id": "MDEyOklzc3VlQ29tbWVudDgxMjU4MTI0OA==",
     "user": {
       "login": "meowsbits",
       "id": 45600330,
@@ -29,25 +24,12 @@
       "type": "User",
       "site_admin": false
     },
-    "labels": [
-
-    ],
-    "state": "open",
-    "locked": false,
-    "assignee": null,
-    "assignees": [
-
-    ],
-    "milestone": null,
-    "comments": 5,
-    "created_at": "2021-04-01T20:38:57Z",
+    "created_at": "2021-04-02T15:34:37Z",
     "updated_at": "2021-04-02T15:34:37Z",
-    "closed_at": null,
     "author_association": "MEMBER",
-    "active_lock_reason": null,
-    "body": "`Discussions-to` target for https://github.com/ethereumclassic/ECIPs/pull/416. ",
+    "body": "Well since you've agreed, you unfortunately leave me no recourse but to disagree.\r\n\r\nHere's my new counter-counter-offer. \r\n\r\nThe specification should propose one dark color as the single specification. The determination of which specific color should be the natural consequence of the generally-considered democratic capacity to bribe the necessary ECIP Editors for the allowance to author changes to the document with exclusivity. I think this is likely the most robust and natural form of decision making we have available to us. \r\n\r\nInexorably Yours,\r\nMr. Official Meows, Editor (accepting ~~bribes~~ donations at `0xa220e990cfC3Abe8b2E20582C3FE7b30a8b05c39`)",
     "reactions": {
-      "url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/417/reactions",
+      "url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/comments/812581248/reactions",
       "total_count": 0,
       "+1": 0,
       "-1": 0,

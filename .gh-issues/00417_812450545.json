@@ -25,9 +25,9 @@
       "site_admin": false
     },
     "created_at": "2021-04-02T09:25:44Z",
-    "updated_at": "2021-04-02T09:25:44Z",
+    "updated_at": "2021-04-02T12:15:27Z",
     "author_association": "CONTRIBUTOR",
-    "body": "After more thought, I'm inclined to agree, however for different reasons. An average would likely result in a mediocre mid-range color with no ability to contrast well for text. It may also result in a worse outcome than present, (e.g pink on white).\r\n\r\nAlthough yes, this does affect me more due to my wimpy eyes, It is improbable that I am the only wimpy-eyed user on the network. Sunglasses are fine for some time, however their arms are often too thick, making them uncomfortable with headphones during those long ETC sessions.\r\n\r\nThe _magic_ thematic changes will support anything that supports RGB, allowing users to sync their keyboard/pc and router lighting with the ETC dark mode theme. This will be detailed more in roadmap 12.",
+    "body": "After more thought, I'm inclined to agree, however for different reasons. An average would likely result in a mediocre mid-range color with no ability to contrast well for text. It may also result in a worse outcome than present, (e.g pink on white).\r\n\r\nAlthough yes, this does affect me more due to my wimpy eyes, It is improbable that I am the only wimpy-eyed user on the network. Sunglasses are fine for some time, however their arms are often too thick, making them uncomfortable with headphones during those long ETC sessions.\r\n\r\nThe _magic_ thematic changes will support anything that supports RGB, allowing users to sync their keyboard/pc and router lighting with the ETC dark mode theme. This will be detailed more in roadmap 12.\r\n\r\n[OpenRGB](https://gitlab.com/CalcProgrammer1/OpenRGB/-/wikis/home) will likely be a great resource for handling lighting profiles.",
     "reactions": {
       "url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/comments/812450545/reactions",
       "total_count": 0,
