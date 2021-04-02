@@ -25,9 +25,9 @@
       "site_admin": false
     },
     "created_at": "2021-04-01T22:54:26Z",
-    "updated_at": "2021-04-01T22:54:26Z",
+    "updated_at": "2021-04-01T22:59:12Z",
     "author_association": "MEMBER",
-    "body": "We have some cross-client tests generated including the Magneto configuration.\r\nI have them as a WIP PR here: https://github.com/etclabscore/tests/pull/4. Still under development and review, so don't treat them as a concrete reference just yet, but should be good for starters.\r\n\r\nGenerated/filled tests are extrapolated from the standard https://github.com/ethereum/tests suite, with CoreGeth filling additional tests for Ethereum Classic fork configurations using Ethereum-canonical fork configurations as reference for Pre-State and Transaction parameters (in the case of the GeneralStateTests). \r\n\r\nTest generation has been done on top of the latest version pegged by ethereum/go-ethereum v1.10.1 at https://github.com/ethereum/tests/tree/c600d7795aa2ea57a9c856fc79f72fc05b542124. ",
+    "body": "We have some cross-client tests generated including subtests for the Magneto configuration.\r\nI have them as a WIP PR here: https://github.com/etclabscore/tests/pull/4. Still under development and review, so don't treat them as a concrete reference just yet, but should be good for starters. Development versions of CoreGeth pass all incumbent and generated tests (for Berlin, Magneto, and all preceding and test fork configurations).\r\n\r\nGenerated/filled tests are extrapolated from the standard https://github.com/ethereum/tests suite, with CoreGeth filling additional tests for Ethereum Classic fork configurations using Ethereum-canonical fork configurations as reference for Pre-State and Transaction parameters (in the case of the GeneralStateTests). \r\n\r\nTest generation has been done on top of the latest version pegged by ethereum/go-ethereum v1.10.1 at https://github.com/ethereum/tests/tree/c600d7795aa2ea57a9c856fc79f72fc05b542124. ",
     "reactions": {
       "url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/comments/812219541/reactions",
       "total_count": 0,
