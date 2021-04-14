@@ -99,15 +99,6 @@
       },
       "labels": [
         {
-          "id": 2900790025,
-          "node_id": "MDU6TGFiZWwyOTAwNzkwMDI1",
-          "url": "https://api.github.com/repos/ethereumclassic/ECIPs/labels/dependencies",
-          "name": "dependencies",
-          "color": "0366d6",
-          "default": false,
-          "description": "Pull requests that update a dependency file"
-        },
-        {
           "id": 1488234618,
           "node_id": "MDU6TGFiZWwxNDg4MjM0NjE4",
           "url": "https://api.github.com/repos/ethereumclassic/ECIPs/labels/editor:1%20grumble",
@@ -117,13 +108,13 @@
           "description": "This contribution has minor issues that should be addressed."
         },
         {
-          "id": 1428838937,
-          "node_id": "MDU6TGFiZWwxNDI4ODM4OTM3",
-          "url": "https://api.github.com/repos/ethereumclassic/ECIPs/labels/editor:7%20looks-good",
-          "name": "editor:7 looks-good",
-          "color": "66bd63",
+          "id": 1632883313,
+          "node_id": "MDU6TGFiZWwxNjMyODgzMzEz",
+          "url": "https://api.github.com/repos/ethereumclassic/ECIPs/labels/meta:9%20bot",
+          "name": "meta:9 bot",
+          "color": "f7f7f7",
           "default": false,
-          "description": "This contribution is well reviewed and good to be merged."
+          "description": "Pull requests that update a dependency file."
         }
       ],
       "state": "open",
@@ -135,7 +126,7 @@
       "milestone": null,
       "comments": 1,
       "created_at": "2021-04-10T03:40:13Z",
-      "updated_at": "2021-04-13T15:39:05Z",
+      "updated_at": "2021-04-14T08:51:51Z",
       "closed_at": null,
       "author_association": "CONTRIBUTOR",
       "active_lock_reason": null,
