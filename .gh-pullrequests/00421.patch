@@ -1,7 +1,7 @@
 From cee1378b4c0524c0739964cbd540dd2950d24104 Mon Sep 17 00:00:00 2001
 From: meows <b5c6@protonmail.com>
 Date: Mon, 26 Apr 2021 15:40:56 -0500
-Subject: [PATCH] init Restricted Chain Context Type Txs draft
+Subject: [PATCH 1/2] init Restricted Chain Context Type Txs draft
 
 Signed-off-by: meows <b5c6@protonmail.com>
 ---
@@ -195,3 +195,26 @@ index 000000000..e1057390c
 +## Copyright
 +
 +Copyright and related rights waved via [CC0](https://creativecommons.org/publicdomain/zero/1.0/).
+
+From 6fb6188dacfcbc8682775a1ec48dc58bcd6d1197 Mon Sep 17 00:00:00 2001
+From: meowsbits <b5c6@protonmail.com>
+Date: Wed, 28 Apr 2021 05:18:01 -0500
+Subject: [PATCH 2/2] add discussions-to link
+
+---
+ _specs/eip-restricted_chain_context_txs.md | 2 +-
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+
+diff --git a/_specs/eip-restricted_chain_context_txs.md b/_specs/eip-restricted_chain_context_txs.md
+index e1057390c..7b591227a 100644
+--- a/_specs/eip-restricted_chain_context_txs.md
++++ b/_specs/eip-restricted_chain_context_txs.md
+@@ -2,7 +2,7 @@
+ ecip: TBD
+ title: Restricted Chain Context Type Transactions
+ author: Isaac Ardis <isaac.ardis@gmail.com>
+-discussions-to: TBD
++discussions-to: https://github.com/ethereumclassic/ECIPs/issues/422
+ status: Draft
+ type: Standards Track
+ category: Core
