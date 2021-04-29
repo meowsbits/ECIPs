@@ -1,0 +1,112 @@
+{
+    "id": 4661542285,
+    "node_id": "MDE1OlJlZmVyZW5jZWRFdmVudDQ2NjE1NDIyODU=",
+    "url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/events/4661542285",
+    "actor": {
+      "login": "ziogaschr",
+      "id": 802700,
+      "node_id": "MDQ6VXNlcjgwMjcwMA==",
+      "avatar_url": "https://avatars.githubusercontent.com/u/802700?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/ziogaschr",
+      "html_url": "https://github.com/ziogaschr",
+      "followers_url": "https://api.github.com/users/ziogaschr/followers",
+      "following_url": "https://api.github.com/users/ziogaschr/following{/other_user}",
+      "gists_url": "https://api.github.com/users/ziogaschr/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/ziogaschr/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/ziogaschr/subscriptions",
+      "organizations_url": "https://api.github.com/users/ziogaschr/orgs",
+      "repos_url": "https://api.github.com/users/ziogaschr/repos",
+      "events_url": "https://api.github.com/users/ziogaschr/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/ziogaschr/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "event": "referenced",
+    "commit_id": "fee515c9a91d26b10cb5d22c0ff4e52f1b6b4d1f",
+    "commit_url": "https://api.github.com/repos/etclabscore/core-geth/commits/fee515c9a91d26b10cb5d22c0ff4e52f1b6b4d1f",
+    "created_at": "2021-04-29T09:35:02Z",
+    "issue": {
+      "url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/411",
+      "repository_url": "https://api.github.com/repos/ethereumclassic/ECIPs",
+      "labels_url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/411/labels{/name}",
+      "comments_url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/411/comments",
+      "events_url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/411/events",
+      "html_url": "https://github.com/ethereumclassic/ECIPs/pull/411",
+      "id": 804436382,
+      "node_id": "MDExOlB1bGxSZXF1ZXN0NTcwMjAzMTY4",
+      "number": 411,
+      "title": "ECIP 1103: Magneto EVM and Protocol Upgrades",
+      "user": {
+        "login": "q9f",
+        "id": 58883403,
+        "node_id": "MDQ6VXNlcjU4ODgzNDAz",
+        "avatar_url": "https://avatars.githubusercontent.com/u/58883403?v=4",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/q9f",
+        "html_url": "https://github.com/q9f",
+        "followers_url": "https://api.github.com/users/q9f/followers",
+        "following_url": "https://api.github.com/users/q9f/following{/other_user}",
+        "gists_url": "https://api.github.com/users/q9f/gists{/gist_id}",
+        "starred_url": "https://api.github.com/users/q9f/starred{/owner}{/repo}",
+        "subscriptions_url": "https://api.github.com/users/q9f/subscriptions",
+        "organizations_url": "https://api.github.com/users/q9f/orgs",
+        "repos_url": "https://api.github.com/users/q9f/repos",
+        "events_url": "https://api.github.com/users/q9f/events{/privacy}",
+        "received_events_url": "https://api.github.com/users/q9f/received_events",
+        "type": "User",
+        "site_admin": false
+      },
+      "labels": [
+        {
+          "id": 1428838937,
+          "node_id": "MDU6TGFiZWwxNDI4ODM4OTM3",
+          "url": "https://api.github.com/repos/ethereumclassic/ECIPs/labels/editor:7%20looks-good",
+          "name": "editor:7 looks-good",
+          "color": "66bd63",
+          "default": false,
+          "description": "This contribution is well reviewed and good to be merged."
+        },
+        {
+          "id": 1154785139,
+          "node_id": "MDU6TGFiZWwxMTU0Nzg1MTM5",
+          "url": "https://api.github.com/repos/ethereumclassic/ECIPs/labels/status:1%20draft",
+          "name": "status:1 draft",
+          "color": "d9d9d9",
+          "default": false,
+          "description": "ECIP is in draft stage an can be assigned ECIP number and merged, but requires community consensus."
+        },
+        {
+          "id": 1154785127,
+          "node_id": "MDU6TGFiZWwxMTU0Nzg1MTI3",
+          "url": "https://api.github.com/repos/ethereumclassic/ECIPs/labels/type:%20std-core",
+          "name": "type: std-core",
+          "color": "fdcdac",
+          "default": false,
+          "description": "ECIPs of the type \"Core\" - changing the Classic protocol."
+        }
+      ],
+      "state": "closed",
+      "locked": false,
+      "assignee": null,
+      "assignees": [
+
+      ],
+      "milestone": null,
+      "comments": 3,
+      "created_at": "2021-02-09T10:50:48Z",
+      "updated_at": "2021-02-27T10:47:12Z",
+      "closed_at": "2021-02-27T10:47:12Z",
+      "author_association": "CONTRIBUTOR",
+      "active_lock_reason": null,
+      "pull_request": {
+        "url": "https://api.github.com/repos/ethereumclassic/ECIPs/pulls/411",
+        "html_url": "https://github.com/ethereumclassic/ECIPs/pull/411",
+        "diff_url": "https://github.com/ethereumclassic/ECIPs/pull/411.diff",
+        "patch_url": "https://github.com/ethereumclassic/ECIPs/pull/411.patch"
+      },
+      "body": "",
+      "performed_via_github_app": null
+    },
+    "performed_via_github_app": null
+  }
