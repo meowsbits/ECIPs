@@ -8,7 +8,7 @@
     "id": 868169214,
     "node_id": "MDExOlB1bGxSZXF1ZXN0NjIzNzM0NzQy",
     "number": 420,
-    "title": "ECIP/ECBP-[TBD]: Endorser Transactions scheme (Draft)",
+    "title": "ECIP-[TBD]: Endorser Transactions (Draft)",
     "user": {
       "login": "meowsbits",
       "id": 45600330,
@@ -49,7 +49,7 @@
     "milestone": null,
     "comments": 0,
     "created_at": "2021-04-26T20:34:00Z",
-    "updated_at": "2021-05-01T13:35:15Z",
+    "updated_at": "2021-05-01T13:59:40Z",
     "closed_at": null,
     "author_association": "MEMBER",
     "active_lock_reason": null,
@@ -59,7 +59,7 @@
       "diff_url": "https://github.com/ethereumclassic/ECIPs/pull/420.diff",
       "patch_url": "https://github.com/ethereumclassic/ECIPs/pull/420.patch"
     },
-    "body": "Add a `Draft` status `Standards > ECBP` document describing an _Endorser Transactions_ scheme to articulate and act on social trust in chain arbitration.",
+    "body": "Add a `Draft` status `Informational` document describing an _Endorser Transactions_ scheme to articulate and act on social trust in chain arbitration.",
     "reactions": {
       "url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/420/reactions",
       "total_count": 0,

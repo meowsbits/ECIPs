@@ -41,11 +41,11 @@
     "milestone": null,
     "comments": 0,
     "created_at": "2021-05-01T13:34:45Z",
-    "updated_at": "2021-05-01T13:34:45Z",
+    "updated_at": "2021-05-01T13:36:23Z",
     "closed_at": null,
     "author_association": "MEMBER",
     "active_lock_reason": null,
-    "body": "",
+    "body": "`Discussions-To` target for `ECIP-TBD: Endorser Transactions`, initially proposed at https://github.com/ethereumclassic/ECIPs/pull/420 . ",
     "reactions": {
       "url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/423/reactions",
       "total_count": 0,
