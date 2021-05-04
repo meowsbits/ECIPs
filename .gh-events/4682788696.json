@@ -1,7 +1,7 @@
 {
-    "id": 4647247937,
-    "node_id": "MDEyOkxhYmVsZWRFdmVudDQ2NDcyNDc5Mzc=",
-    "url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/events/4647247937",
+    "id": 4682788696,
+    "node_id": "MDIwOlJldmlld1JlcXVlc3RlZEV2ZW50NDY4Mjc4ODY5Ng==",
+    "url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/events/4682788696",
     "actor": {
       "login": "meowsbits",
       "id": 45600330,
@@ -22,13 +22,43 @@
       "type": "User",
       "site_admin": false
     },
-    "event": "labeled",
+    "event": "review_requested",
     "commit_id": null,
     "commit_url": null,
-    "created_at": "2021-04-26T20:34:01Z",
-    "label": {
-      "name": "status:1 draft",
-      "color": "d9d9d9"
+    "created_at": "2021-05-04T11:26:22Z",
+    "review_requester": {
+      "login": "meowsbits",
+      "id": 45600330,
+      "node_id": "MDQ6VXNlcjQ1NjAwMzMw",
+      "avatar_url": "https://avatars.githubusercontent.com/u/45600330?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/meowsbits",
+      "html_url": "https://github.com/meowsbits",
+      "followers_url": "https://api.github.com/users/meowsbits/followers",
+      "following_url": "https://api.github.com/users/meowsbits/following{/other_user}",
+      "gists_url": "https://api.github.com/users/meowsbits/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/meowsbits/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/meowsbits/subscriptions",
+      "organizations_url": "https://api.github.com/users/meowsbits/orgs",
+      "repos_url": "https://api.github.com/users/meowsbits/repos",
+      "events_url": "https://api.github.com/users/meowsbits/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/meowsbits/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "requested_team": {
+      "name": "ecip editors",
+      "id": 3612959,
+      "node_id": "MDQ6VGVhbTM2MTI5NTk=",
+      "slug": "ecip-editors",
+      "description": "",
+      "privacy": "closed",
+      "url": "https://api.github.com/organizations/20468622/team/3612959",
+      "html_url": "https://github.com/orgs/ethereumclassic/teams/ecip-editors",
+      "members_url": "https://api.github.com/organizations/20468622/team/3612959/members{/member}",
+      "repositories_url": "https://api.github.com/organizations/20468622/team/3612959/repos",
+      "permission": "pull",
+      "parent": null
     },
     "issue": {
       "url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/420",

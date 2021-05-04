@@ -7,7 +7,7 @@
     "path": "_specs/ecip-restricted_chain_context_txs.md",
     "position": 2,
     "original_position": 2,
-    "commit_id": "7954bad75fc0c9e0e5ece9df35ac4745ac82ea14",
+    "commit_id": "1afe90e22f63dbb138fcdb5dd0dad2e96ef4ef08",
     "user": {
       "login": "meowsbits",
       "id": 45600330,
@@ -30,7 +30,7 @@
     },
     "body": "```suggestion\r\necip: 1105\r\n```",
     "created_at": "2021-04-30T12:13:37Z",
-    "updated_at": "2021-04-30T12:13:38Z",
+    "updated_at": "2021-05-04T11:26:11Z",
     "html_url": "https://github.com/ethereumclassic/ECIPs/pull/421#discussion_r623829846",
     "pull_request_url": "https://api.github.com/repos/ethereumclassic/ECIPs/pulls/421",
     "author_association": "MEMBER",

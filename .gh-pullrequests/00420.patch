@@ -1,7 +1,7 @@
 From 2322e16d5a7f06b79af72602196077d0c22410a0 Mon Sep 17 00:00:00 2001
 From: meows <b5c6@protonmail.com>
 Date: Mon, 26 Apr 2021 15:28:15 -0500
-Subject: [PATCH 1/9] _specs: init ECIP Endorser Transactions ECBP Scheme
+Subject: [PATCH 01/11] _specs: init ECIP Endorser Transactions ECBP Scheme
  documentation
 
 Date: 2021-04-26 15:28:15-05:00
@@ -133,7 +133,7 @@ index 000000000..b61e7d888
 From 74f08571bea8c7d7ebe251ed7a4c38e0e7471d34 Mon Sep 17 00:00:00 2001
 From: meows <b5c6@protonmail.com>
 Date: Mon, 26 Apr 2021 15:31:07 -0500
-Subject: [PATCH 2/9] _specs: CC0
+Subject: [PATCH 02/11] _specs: CC0
 
 Date: 2021-04-26 15:31:07-05:00
 Signed-off-by: meows <b5c6@protonmail.com>
@@ -156,7 +156,7 @@ index b61e7d888..899b2e711 100644
 From 80b5ef9b58b545717bed46fb72799fb34cb6b417 Mon Sep 17 00:00:00 2001
 From: meows <b5c6@protonmail.com>
 Date: Mon, 26 Apr 2021 15:33:12 -0500
-Subject: [PATCH 3/9] _specs: remove license field from frontmatter
+Subject: [PATCH 03/11] _specs: remove license field from frontmatter
 
 Date: 2021-04-26 15:33:12-05:00
 Signed-off-by: meows <b5c6@protonmail.com>
@@ -180,7 +180,7 @@ index 899b2e711..bb6a50034 100644
 From 79dee9f0473364905fa58db6d97fcff3a54e8050 Mon Sep 17 00:00:00 2001
 From: meows <b5c6@protonmail.com>
 Date: Sat, 1 May 2021 07:44:43 -0500
-Subject: [PATCH 4/9] _specs: rename eip->ecip
+Subject: [PATCH 04/11] _specs: rename eip->ecip
 
 Date: 2021-05-01 07:44:43-05:00
 Signed-off-by: meows <b5c6@protonmail.com>
@@ -197,7 +197,7 @@ rename to _specs/ecip-endorser_transactions.md
 From b1c6748ec88ad348416083e0c9ed771baa3b9c7d Mon Sep 17 00:00:00 2001
 From: meows <b5c6@protonmail.com>
 Date: Sat, 1 May 2021 07:47:20 -0500
-Subject: [PATCH 5/9] _specs: move from Core -> Information type
+Subject: [PATCH 05/11] _specs: move from Core -> Information type
 
 Date: 2021-05-01 07:47:20-05:00
 Signed-off-by: meows <b5c6@protonmail.com>
@@ -232,7 +232,7 @@ index bb6a50034..8a11deb38 100644
 From c01daa8e209be41fae066ec9a78b21be5c70d2df Mon Sep 17 00:00:00 2001
 From: meows <b5c6@protonmail.com>
 Date: Sat, 1 May 2021 08:32:07 -0500
-Subject: [PATCH 6/9] _specs: simpler
+Subject: [PATCH 06/11] _specs: simpler
 
 Date: 2021-05-01 08:32:07-05:00
 Signed-off-by: meows <b5c6@protonmail.com>
@@ -380,7 +380,7 @@ index 8a11deb38..96348b8ef 100644
 From b6e769dcd2971ec123e863810fa2fd2fe56cbf8c Mon Sep 17 00:00:00 2001
 From: meows <b5c6@protonmail.com>
 Date: Sat, 1 May 2021 08:33:45 -0500
-Subject: [PATCH 7/9] fix author identity
+Subject: [PATCH 07/11] fix author identity
 
 Signed-off-by: meows <b5c6@protonmail.com>
 ---
@@ -404,7 +404,7 @@ index 96348b8ef..c326eaf28 100644
 From baf0a2f2ab75143a224f7cd5487ff9c5c140a101 Mon Sep 17 00:00:00 2001
 From: meows <b5c6@protonmail.com>
 Date: Sat, 1 May 2021 08:35:07 -0500
-Subject: [PATCH 8/9] _specs: add discussions-to target
+Subject: [PATCH 08/11] _specs: add discussions-to target
 
 Date: 2021-05-01 08:35:07-05:00
 Signed-off-by: meows <b5c6@protonmail.com>
@@ -429,7 +429,7 @@ index c326eaf28..b804b35c0 100644
 From c123d61e8981ec91c9cc52cc310570d266e55084 Mon Sep 17 00:00:00 2001
 From: meows <b5c6@protonmail.com>
 Date: Sat, 1 May 2021 08:39:18 -0500
-Subject: [PATCH 9/9] simplify motivation pp
+Subject: [PATCH 09/11] simplify motivation pp
 
 Signed-off-by: meows <b5c6@protonmail.com>
 ---
@@ -449,3 +449,57 @@ index b804b35c0..e1fe07736 100644
  
  ## Specification
  
+
+From ae44ec8b99946b86a2da83b3ddf6b9d2c1a98cad Mon Sep 17 00:00:00 2001
+From: meowsbits <b5c6@protonmail.com>
+Date: Mon, 3 May 2021 13:53:41 -0500
+Subject: [PATCH 10/11] fix subheading depth
+
+---
+ _specs/ecip-endorser_transactions.md | 2 +-
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+
+diff --git a/_specs/ecip-endorser_transactions.md b/_specs/ecip-endorser_transactions.md
+index e1fe07736..f40d90a6f 100644
+--- a/_specs/ecip-endorser_transactions.md
++++ b/_specs/ecip-endorser_transactions.md
+@@ -83,7 +83,7 @@ No. Proof of Authority networks use identity authorization as a condition of blo
+ 
+ The cases in which these decisions would occur have been such that a pure proof-of-work consensus is at odds with social benefit. This approach intends to provide a tool whereby node operators can express and observe an aspect of the social and economic context, at the behest of the node operator.
+ 
+-## How is this different than other "Checkpoint" solutions?
++### How is this different than other "Checkpoint" solutions?
+ 
+ This solution does not offer any canonical checkpoint, nor any means of establishing one. Most checkpointing solutions do this.
+ 
+
+From f9691a9766a84a2f183da63c9212d7f2c655460a Mon Sep 17 00:00:00 2001
+From: meowsbits <b5c6@protonmail.com>
+Date: Mon, 3 May 2021 13:55:06 -0500
+Subject: [PATCH 11/11] Update ecip-endorser_transactions.md
+
+---
+ _specs/ecip-endorser_transactions.md | 4 ++--
+ 1 file changed, 2 insertions(+), 2 deletions(-)
+
+diff --git a/_specs/ecip-endorser_transactions.md b/_specs/ecip-endorser_transactions.md
+index f40d90a6f..0960f0fdd 100644
+--- a/_specs/ecip-endorser_transactions.md
++++ b/_specs/ecip-endorser_transactions.md
+@@ -31,14 +31,14 @@ Such transactions can be observed and acted upon in case of chain identification
+ 
+ ### Endorser Transactions
+ 
+-Transactions are made by an endorsing entity including information in the `data` field referencing the block hash (or some other unique characteristic) of some endorsed ancestor.
++Transactions are made by an endorsing entity including information in the `data` field referencing the block hash (or some other unique characteristic) of some endorsed ancestor block.
+ 
+ The construction of this value could be of the form `0xff<block hash>`.
+ 
+ ### Endorsement Observation
+ 
+ A node registers some list of trustee entities from whom they wish to acknowledge endorsements.
+-These entities are registered via transaction author identities (sender address, `from`).
++These entities are encoded as transaction author identities (sender address, `from`).
+ 
+ Transactions with a `data` field value matching the general pattern described above are filtered from the set of on-chain transactions.
+ This set of filtered transactions are filtered again for positive matches against the local list of trustee authors.
