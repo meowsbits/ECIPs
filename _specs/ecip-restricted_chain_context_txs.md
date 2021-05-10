@@ -1,5 +1,5 @@
 ---
-ecip: 1105
+ecip: 1106
 title: Restricted Chain Context Type Transactions
 author: Isaac (@meowsbits)
 discussions-to: https://github.com/ethereumclassic/ECIPs/issues/422
