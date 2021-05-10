@@ -30,7 +30,24 @@
       "site_admin": false
     },
     "labels": [
-
+      {
+        "id": 2347169149,
+        "node_id": "MDU6TGFiZWwyMzQ3MTY5MTQ5",
+        "url": "https://api.github.com/repos/ethereumclassic/ECIPs/labels/meta:1%20governance",
+        "name": "meta:1 governance",
+        "color": "762a83",
+        "default": false,
+        "description": "Issues comprising of all the processes involved making decisions."
+      },
+      {
+        "id": 2347167831,
+        "node_id": "MDU6TGFiZWwyMzQ3MTY3ODMx",
+        "url": "https://api.github.com/repos/ethereumclassic/ECIPs/labels/meta:5%20call",
+        "name": "meta:5 call",
+        "color": "c2a5cf",
+        "default": false,
+        "description": "Issues announcing physical or virtual meetings."
+      }
     ],
     "state": "open",
     "locked": false,
@@ -41,7 +58,7 @@
     "milestone": null,
     "comments": 0,
     "created_at": "2021-05-10T15:41:22Z",
-    "updated_at": "2021-05-10T15:41:22Z",
+    "updated_at": "2021-05-10T20:09:02Z",
     "closed_at": null,
     "author_association": "MEMBER",
     "active_lock_reason": null,
