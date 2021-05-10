@@ -1,0 +1,49 @@
+{
+    "id": 629231853,
+    "node_id": "MDI0OlB1bGxSZXF1ZXN0UmV2aWV3Q29tbWVudDYyOTIzMTg1Mw==",
+    "url": "https://api.github.com/repos/ethereumclassic/ECIPs/pulls/comments/629231853",
+    "pull_request_review_id": 655469384,
+    "diff_hunk": "@@ -0,0 +1,95 @@\n+---\n+ecip: TBD",
+    "path": "_specs/ecip-endorser_transactions.md",
+    "position": 2,
+    "original_position": 2,
+    "commit_id": "f9691a9766a84a2f183da63c9212d7f2c655460a",
+    "user": {
+      "login": "q9f",
+      "id": 58883403,
+      "node_id": "MDQ6VXNlcjU4ODgzNDAz",
+      "avatar_url": "https://avatars.githubusercontent.com/u/58883403?u=0b6342d80fb6033479cbfd7f08b044bd09602470&v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/q9f",
+      "html_url": "https://github.com/q9f",
+      "followers_url": "https://api.github.com/users/q9f/followers",
+      "following_url": "https://api.github.com/users/q9f/following{/other_user}",
+      "gists_url": "https://api.github.com/users/q9f/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/q9f/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/q9f/subscriptions",
+      "organizations_url": "https://api.github.com/users/q9f/orgs",
+      "repos_url": "https://api.github.com/users/q9f/repos",
+      "events_url": "https://api.github.com/users/q9f/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/q9f/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "body": "```suggestion\r\necip: 1105\r\n```",
+    "created_at": "2021-05-10T10:03:42Z",
+    "updated_at": "2021-05-10T10:03:43Z",
+    "html_url": "https://github.com/ethereumclassic/ECIPs/pull/420#discussion_r629231853",
+    "pull_request_url": "https://api.github.com/repos/ethereumclassic/ECIPs/pulls/420",
+    "author_association": "MEMBER",
+    "_links": {
+      "self": {
+        "href": "https://api.github.com/repos/ethereumclassic/ECIPs/pulls/comments/629231853"
+      },
+      "html": {
+        "href": "https://github.com/ethereumclassic/ECIPs/pull/420#discussion_r629231853"
+      },
+      "pull_request": {
+        "href": "https://api.github.com/repos/ethereumclassic/ECIPs/pulls/420"
+      }
+    },
+    "original_commit_id": "f9691a9766a84a2f183da63c9212d7f2c655460a"
+  }
