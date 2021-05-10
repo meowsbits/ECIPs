@@ -1,0 +1,27 @@
+From abf253a9b893d9f076d95b8f77b51dd63b959eb4 Mon Sep 17 00:00:00 2001
+From: Afr Schoe <58883403+q9f@users.noreply.github.com>
+Date: Mon, 10 May 2021 17:13:52 +0200
+Subject: [PATCH] 1103: propose timeline
+
+ref #412 #424
+---
+ _specs/ecip-1103.md | 6 +++---
+ 1 file changed, 3 insertions(+), 3 deletions(-)
+
+diff --git a/_specs/ecip-1103.md b/_specs/ecip-1103.md
+index 207b121f1..ee8d5de37 100644
+--- a/_specs/ecip-1103.md
++++ b/_specs/ecip-1103.md
+@@ -32,9 +32,9 @@ changes for Ethereum Classic's _Berlin_ upgrade include:
+ This document proposes the following blocks at which to implement these changes
+ in the Classic networks:
+ 
+-- `TBD` on Mordor Classic PoW-testnet (TBD)
+-- `TBD` on Kotti Classic PoA-testnet (TBD)
+-- `TBD` on Ethereum Classic PoW-mainnet (TBD)
++- `4_008_693` on Mordor Classic PoW-testnet (June 9th, 2021)
++- `4_459_047` on Kotti Classic PoA-testnet (June 23rd, 2021)
++- `13_192_679` on Ethereum Classic PoW-mainnet (July 21st, 2021)
+ 
+ For more information on the opcodes and their respective EIPs and
+ implementations, please see the _Specification_ section of this document.
