@@ -5,9 +5,9 @@
     "node_id": "MDI0OlB1bGxSZXF1ZXN0UmV2aWV3Q29tbWVudDYyOTIzMTg1Mw==",
     "diff_hunk": "@@ -0,0 +1,95 @@\n+---\n+ecip: TBD",
     "path": "_specs/ecip-endorser_transactions.md",
-    "position": 2,
+    "position": null,
     "original_position": 2,
-    "commit_id": "f9691a9766a84a2f183da63c9212d7f2c655460a",
+    "commit_id": "95f221602d9cb5b3df96b4fee54a183475ee20d2",
     "original_commit_id": "f9691a9766a84a2f183da63c9212d7f2c655460a",
     "user": {
       "login": "q9f",
@@ -31,7 +31,7 @@
     },
     "body": "```suggestion\r\necip: 1105\r\n```",
     "created_at": "2021-05-10T10:03:42Z",
-    "updated_at": "2021-05-10T10:03:43Z",
+    "updated_at": "2021-05-10T12:15:13Z",
     "html_url": "https://github.com/ethereumclassic/ECIPs/pull/420#discussion_r629231853",
     "pull_request_url": "https://api.github.com/repos/ethereumclassic/ECIPs/pulls/420",
     "author_association": "MEMBER",
@@ -49,7 +49,7 @@
     "start_line": null,
     "original_start_line": null,
     "start_side": null,
-    "line": 2,
+    "line": null,
     "original_line": 2,
     "side": "RIGHT"
   }
