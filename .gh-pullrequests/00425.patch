@@ -1,7 +1,7 @@
 From abf253a9b893d9f076d95b8f77b51dd63b959eb4 Mon Sep 17 00:00:00 2001
 From: Afr Schoe <58883403+q9f@users.noreply.github.com>
 Date: Mon, 10 May 2021 17:13:52 +0200
-Subject: [PATCH 1/2] 1103: propose timeline
+Subject: [PATCH 1/3] 1103: propose timeline
 
 ref #412 #424
 ---
@@ -29,7 +29,7 @@ index 207b121f1..ee8d5de37 100644
 From b18e0c6c679a73687d3c50d8e810198c27d59e03 Mon Sep 17 00:00:00 2001
 From: Afr Schoe <58883403+q9f@users.noreply.github.com>
 Date: Fri, 21 May 2021 17:32:15 +0200
-Subject: [PATCH 2/2] update block numbers
+Subject: [PATCH 2/3] update block numbers
 
 ---
  _specs/ecip-1103.md | 6 +++---
@@ -52,3 +52,27 @@ index ee8d5de37..bc0e53be0 100644
  
  For more information on the opcodes and their respective EIPs and
  implementations, please see the _Specification_ section of this document.
+
+From e2e6f37367a0bdd60a15d120ea984684d6afcdde Mon Sep 17 00:00:00 2001
+From: Afr Schoe <58883403+q9f@users.noreply.github.com>
+Date: Fri, 21 May 2021 17:37:15 +0200
+Subject: [PATCH 3/3] move to last call
+
+---
+ _specs/ecip-1103.md | 3 ++-
+ 1 file changed, 2 insertions(+), 1 deletion(-)
+
+diff --git a/_specs/ecip-1103.md b/_specs/ecip-1103.md
+index bc0e53be0..db0a40338 100644
+--- a/_specs/ecip-1103.md
++++ b/_specs/ecip-1103.md
+@@ -2,7 +2,8 @@
+ lang: en
+ ecip: 1103
+ title: Magneto EVM and Protocol Upgrades
+-status: Draft
++status: Last Call
++review-period-end: 2021-06-04
+ type: Meta
+ author: Afr Schoe (@q9f)
+ created: 2021-02-09
