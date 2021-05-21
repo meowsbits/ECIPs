@@ -1,9 +1,9 @@
 {
-    "url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/comments/846017986",
-    "html_url": "https://github.com/ethereumclassic/ECIPs/issues/424#issuecomment-846017986",
+    "url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/comments/846039587",
+    "html_url": "https://github.com/ethereumclassic/ECIPs/issues/424#issuecomment-846039587",
     "issue_url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/424",
-    "id": 846017986,
-    "node_id": "MDEyOklzc3VlQ29tbWVudDg0NjAxNzk4Ng==",
+    "id": 846039587,
+    "node_id": "MDEyOklzc3VlQ29tbWVudDg0NjAzOTU4Nw==",
     "user": {
       "login": "q9f",
       "id": 58883403,
@@ -24,12 +24,12 @@
       "type": "User",
       "site_admin": false
     },
-    "created_at": "2021-05-21T15:05:35Z",
-    "updated_at": "2021-05-21T15:35:22Z",
+    "created_at": "2021-05-21T15:35:06Z",
+    "updated_at": "2021-05-21T15:35:06Z",
     "author_association": "MEMBER",
-    "body": "Proposing two schedules for the meeting:\r\n\r\n### Schedule A\r\n\r\nblock_now | time_to_fork | block_time | fork_block | fork_date\r\n--- | --- | --- | --- | ---\r\n3_835_521 | 2597580 | 15 | 4_008_693 | 2021-06-09\r\n4_205_235 | 3807180 | 15 | 4_459_047 | 2021-06-23\r\n12_713_732 | 6226320 | 13 | 13_192_679 | 2021-07-21\r\n\r\n\r\n### Schedule B (accelerated)\r\n\r\nblock_now | time_to_fork | block_time | fork_block | fork_date\r\n--- | --- | --- | --- | ---\r\n3_916_709 | 1026180 | 15 | 3_985_893 | 2021-06-02\r\n4_258_403 | 1648920 | 15 | 4_368_634 | 2021-06-09\r\n12_784_531 | 5259720 | 13 | 13_189_133 | 2021-07-21\r\n\r\n\r\n",
+    "body": "Meeting concluded with rough consensus on activating schedule B:\r\n\r\nblock_now | time_to_fork | block_time | fork_block | fork_date\r\n--- | --- | --- | --- | ---\r\n3_916_709 | 1026180 | 15 | 3_985_893 | 2021-06-02\r\n4_258_403 | 1648920 | 15 | 4_368_634 | 2021-06-09\r\n12_784_531 | 5259720 | 13 | 13_189_133 | 2021-07-21\r\n\r\nAnd moving to ECIP 1103 to \"last call\" with review period end on June 4th, 2021.\r\n\r\nAttendants:\r\n* Afri Schoedon\r\n* Antoine Toulme\r\n* Bob Summerwill\r\n* Chris Ziogas\r\n* David R\r\n* Diminik Zajkowski\r\n* iquidus",
     "reactions": {
-      "url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/comments/846017986/reactions",
+      "url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/comments/846039587/reactions",
       "total_count": 0,
       "+1": 0,
       "-1": 0,

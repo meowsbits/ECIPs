@@ -1,7 +1,7 @@
 From abf253a9b893d9f076d95b8f77b51dd63b959eb4 Mon Sep 17 00:00:00 2001
 From: Afr Schoe <58883403+q9f@users.noreply.github.com>
 Date: Mon, 10 May 2021 17:13:52 +0200
-Subject: [PATCH] 1103: propose timeline
+Subject: [PATCH 1/2] 1103: propose timeline
 
 ref #412 #424
 ---
@@ -22,6 +22,33 @@ index 207b121f1..ee8d5de37 100644
 +- `4_008_693` on Mordor Classic PoW-testnet (June 9th, 2021)
 +- `4_459_047` on Kotti Classic PoA-testnet (June 23rd, 2021)
 +- `13_192_679` on Ethereum Classic PoW-mainnet (July 21st, 2021)
+ 
+ For more information on the opcodes and their respective EIPs and
+ implementations, please see the _Specification_ section of this document.
+
+From b18e0c6c679a73687d3c50d8e810198c27d59e03 Mon Sep 17 00:00:00 2001
+From: Afr Schoe <58883403+q9f@users.noreply.github.com>
+Date: Fri, 21 May 2021 17:32:15 +0200
+Subject: [PATCH 2/2] update block numbers
+
+---
+ _specs/ecip-1103.md | 6 +++---
+ 1 file changed, 3 insertions(+), 3 deletions(-)
+
+diff --git a/_specs/ecip-1103.md b/_specs/ecip-1103.md
+index ee8d5de37..bc0e53be0 100644
+--- a/_specs/ecip-1103.md
++++ b/_specs/ecip-1103.md
+@@ -32,9 +32,9 @@ changes for Ethereum Classic's _Berlin_ upgrade include:
+ This document proposes the following blocks at which to implement these changes
+ in the Classic networks:
+ 
+-- `4_008_693` on Mordor Classic PoW-testnet (June 9th, 2021)
+-- `4_459_047` on Kotti Classic PoA-testnet (June 23rd, 2021)
+-- `13_192_679` on Ethereum Classic PoW-mainnet (July 21st, 2021)
++- `3_985_893` on Mordor Classic PoW-testnet (June 2nd, 2021)
++- `4_368_634` on Kotti Classic PoA-testnet (June 9th, 2021)
++- `13_189_133` on Ethereum Classic PoW-mainnet (July 21st, 2021)
  
  For more information on the opcodes and their respective EIPs and
  implementations, please see the _Specification_ section of this document.
