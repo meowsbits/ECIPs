@@ -1,0 +1,23 @@
+From daa06c02fd31ad0ca5d716bc21a271a744d62fb2 Mon Sep 17 00:00:00 2001
+From: meowsbits <b5c6@protonmail.com>
+Date: Tue, 1 Jun 2021 05:22:00 -0500
+Subject: [PATCH] add client status
+
+Rel https://github.com/ethereumclassic/ECIPs/issues/412#issuecomment-851958585
+---
+ _specs/ecip-1103.md | 2 ++
+ 1 file changed, 2 insertions(+)
+
+diff --git a/_specs/ecip-1103.md b/_specs/ecip-1103.md
+index db0a40338..ae25d1eef 100644
+--- a/_specs/ecip-1103.md
++++ b/_specs/ecip-1103.md
+@@ -83,6 +83,8 @@ features currently and will be able to support the _Magneto_ upgrade:
+ - Core-Geth (maintained by ETC Core)
+ - Hyperledger Besu (maintained by ConsenSys)
+ 
++The Mantis client (maintained by IOHK) plans to eventually support the upgrade, but will not so do by the time of the hardfork.
++
+ ## Copyright
+ 
+ Copyright and related rights waived via
