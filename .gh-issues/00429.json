@@ -1,0 +1,62 @@
+{
+    "url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/429",
+    "repository_url": "https://api.github.com/repos/ethereumclassic/ECIPs",
+    "labels_url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/429/labels{/name}",
+    "comments_url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/429/comments",
+    "events_url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/429/events",
+    "html_url": "https://github.com/ethereumclassic/ECIPs/issues/429",
+    "id": 911677872,
+    "node_id": "MDU6SXNzdWU5MTE2Nzc4NzI=",
+    "number": 429,
+    "title": "Gas prices official list for our official Ethereum Classic space (or antenna structure classes)",
+    "user": {
+      "login": "Elias481",
+      "id": 38512369,
+      "node_id": "MDQ6VXNlcjM4NTEyMzY5",
+      "avatar_url": "https://avatars.githubusercontent.com/u/38512369?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/Elias481",
+      "html_url": "https://github.com/Elias481",
+      "followers_url": "https://api.github.com/users/Elias481/followers",
+      "following_url": "https://api.github.com/users/Elias481/following{/other_user}",
+      "gists_url": "https://api.github.com/users/Elias481/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/Elias481/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/Elias481/subscriptions",
+      "organizations_url": "https://api.github.com/users/Elias481/orgs",
+      "repos_url": "https://api.github.com/users/Elias481/repos",
+      "events_url": "https://api.github.com/users/Elias481/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/Elias481/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "labels": [
+
+    ],
+    "state": "open",
+    "locked": false,
+    "assignee": null,
+    "assignees": [
+
+    ],
+    "milestone": null,
+    "comments": 0,
+    "created_at": "2021-06-04T16:41:07Z",
+    "updated_at": "2021-06-04T16:41:07Z",
+    "closed_at": null,
+    "author_association": "NONE",
+    "active_lock_reason": null,
+    "body": "Please check whether doc update might me desired to include all the Dolphin Design Antenna Structures CHAMAELEON, SPIDER, SPEED and the wireless headsets BAT with ADCs to my MAESTRO ETC platform spaces..\nhttps://sundaymorning.ekwc.nl/kosten/",
+    "reactions": {
+      "url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/429/reactions",
+      "total_count": 0,
+      "+1": 0,
+      "-1": 0,
+      "laugh": 0,
+      "hooray": 0,
+      "confused": 0,
+      "heart": 0,
+      "rocket": 0,
+      "eyes": 0
+    },
+    "performed_via_github_app": null
+  }

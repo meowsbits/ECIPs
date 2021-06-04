@@ -5,9 +5,9 @@
     "pull_request_review_id": 676315612,
     "diff_hunk": "@@ -2,7 +2,7 @@\n lang: en\n ecip: 1103\n title: Magneto EVM and Protocol Upgrades\n-status: Last Call\n+status: Accepted\n review-period-end: 2021-06-04",
     "path": "_specs/ecip-1103.md",
-    "position": 6,
+    "position": null,
     "original_position": 6,
-    "commit_id": "dfdd1af208d9dfa529bcbb635e6618e2d6530e69",
+    "commit_id": "be6a028dd7463ade95333a6062f147c8317a480a",
     "user": {
       "login": "q9f",
       "id": 58883403,

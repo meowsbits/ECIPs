@@ -1,7 +1,7 @@
 From dfdd1af208d9dfa529bcbb635e6618e2d6530e69 Mon Sep 17 00:00:00 2001
 From: meows <b5c6@protonmail.com>
 Date: Fri, 4 Jun 2021 07:07:02 -0500
-Subject: [PATCH] ecip-1103: bump status to accepted
+Subject: [PATCH 1/2] ecip-1103: bump status to accepted
 
 Signed-off-by: meows <b5c6@protonmail.com>
 ---
@@ -21,3 +21,26 @@ index db0a40338..5ad725c96 100644
  review-period-end: 2021-06-04
  type: Meta
  author: Afr Schoe (@q9f)
+
+From 493c755aa943e4187fa4c68ae2870eac862b41cb Mon Sep 17 00:00:00 2001
+From: meowsbits <b5c6@protonmail.com>
+Date: Fri, 4 Jun 2021 10:04:33 -0500
+Subject: [PATCH 2/2] remove `review-period-end` field
+
+Co-authored-by: Afr Schoe <58883403+q9f@users.noreply.github.com>
+---
+ _specs/ecip-1103.md | 1 -
+ 1 file changed, 1 deletion(-)
+
+diff --git a/_specs/ecip-1103.md b/_specs/ecip-1103.md
+index 5ad725c96..6887a8f2d 100644
+--- a/_specs/ecip-1103.md
++++ b/_specs/ecip-1103.md
+@@ -3,7 +3,6 @@ lang: en
+ ecip: 1103
+ title: Magneto EVM and Protocol Upgrades
+ status: Accepted
+-review-period-end: 2021-06-04
+ type: Meta
+ author: Afr Schoe (@q9f)
+ created: 2021-02-09
