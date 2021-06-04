@@ -30,9 +30,35 @@
       "site_admin": false
     },
     "labels": [
-
+      {
+        "id": 1428838937,
+        "node_id": "MDU6TGFiZWwxNDI4ODM4OTM3",
+        "url": "https://api.github.com/repos/ethereumclassic/ECIPs/labels/editor:7%20looks-good",
+        "name": "editor:7 looks-good",
+        "color": "66bd63",
+        "default": false,
+        "description": "This contribution is well reviewed and good to be merged."
+      },
+      {
+        "id": 1702098127,
+        "node_id": "MDU6TGFiZWwxNzAyMDk4MTI3",
+        "url": "https://api.github.com/repos/ethereumclassic/ECIPs/labels/status:5%20last-call",
+        "name": "status:5 last-call",
+        "color": "969696",
+        "default": false,
+        "description": "ECIP has been accepted and is waiting for last-call reviews."
+      },
+      {
+        "id": 1154785129,
+        "node_id": "MDU6TGFiZWwxMTU0Nzg1MTI5",
+        "url": "https://api.github.com/repos/ethereumclassic/ECIPs/labels/type:%20meta",
+        "name": "type: meta",
+        "color": "fff2ae",
+        "default": false,
+        "description": "ECIPs of type \"Meta\" - bundling proposals for upgrades."
+      }
     ],
-    "state": "open",
+    "state": "closed",
     "locked": false,
     "assignee": null,
     "assignees": [
@@ -41,8 +67,8 @@
     "milestone": null,
     "comments": 0,
     "created_at": "2021-06-01T10:22:42Z",
-    "updated_at": "2021-06-01T10:24:01Z",
-    "closed_at": null,
+    "updated_at": "2021-06-04T14:00:17Z",
+    "closed_at": "2021-06-04T14:00:17Z",
     "author_association": "MEMBER",
     "active_lock_reason": null,
     "pull_request": {
@@ -54,8 +80,8 @@
     "body": "Rel https://github.com/ethereumclassic/ECIPs/issues/412#issuecomment-851958585",
     "reactions": {
       "url": "https://api.github.com/repos/ethereumclassic/ECIPs/issues/427/reactions",
-      "total_count": 0,
-      "+1": 0,
+      "total_count": 1,
+      "+1": 1,
       "-1": 0,
       "laugh": 0,
       "hooray": 0,

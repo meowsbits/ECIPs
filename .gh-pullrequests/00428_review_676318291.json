@@ -1,0 +1,39 @@
+{
+    "id": 676318291,
+    "node_id": "MDE3OlB1bGxSZXF1ZXN0UmV2aWV3Njc2MzE4Mjkx",
+    "user": {
+      "login": "q9f",
+      "id": 58883403,
+      "node_id": "MDQ6VXNlcjU4ODgzNDAz",
+      "avatar_url": "https://avatars.githubusercontent.com/u/58883403?u=0b6342d80fb6033479cbfd7f08b044bd09602470&v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/q9f",
+      "html_url": "https://github.com/q9f",
+      "followers_url": "https://api.github.com/users/q9f/followers",
+      "following_url": "https://api.github.com/users/q9f/following{/other_user}",
+      "gists_url": "https://api.github.com/users/q9f/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/q9f/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/q9f/subscriptions",
+      "organizations_url": "https://api.github.com/users/q9f/orgs",
+      "repos_url": "https://api.github.com/users/q9f/repos",
+      "events_url": "https://api.github.com/users/q9f/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/q9f/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "body": "lgtm, please also remove the review period before merging",
+    "state": "APPROVED",
+    "html_url": "https://github.com/ethereumclassic/ECIPs/pull/428#pullrequestreview-676318291",
+    "pull_request_url": "https://api.github.com/repos/ethereumclassic/ECIPs/pulls/428",
+    "author_association": "MEMBER",
+    "_links": {
+      "html": {
+        "href": "https://github.com/ethereumclassic/ECIPs/pull/428#pullrequestreview-676318291"
+      },
+      "pull_request": {
+        "href": "https://api.github.com/repos/ethereumclassic/ECIPs/pulls/428"
+      }
+    },
+    "submitted_at": "2021-06-04T14:00:54Z",
+    "commit_id": "dfdd1af208d9dfa529bcbb635e6618e2d6530e69"
+  }
